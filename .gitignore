@@ -8,10 +8,15 @@ __pycache__/
 .venv/
 
 # Plugin run outputs (contain attendee data — never commit)
+out/
 webinar-out-*/
+leads.csv
 *.leads.json
+*.leads.csv
 leads.json
 
 # Local exports / data drops
 *.csv
 *.chat.txt
+*chat*.txt
+Zoom*.txt

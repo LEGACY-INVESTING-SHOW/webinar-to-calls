@@ -1,8 +1,12 @@
 {
   "name": "webinar-to-calls",
+  "displayName": "Webinar to Calls",
   "description": "Turn webinar chat engagement into booked sales calls. Cross-references Zoom chat logs, the Zoom attendee/registrant report(s), and the OnceHub booking report to find engaged leads who didn't book, prioritizes them by question type and timing (questions asked after the pitch rank highest), then drafts personalized follow-up emails (as Gmail drafts for review) and a manual follow-up list.",
-  "version": "0.3.0",
+  "version": "0.3.1",
   "author": {
     "name": "Legacy Investing Show"
-  }
+  },
+  "repository": "https://github.com/Deveshwy/webinar-to-calls",
+  "license": "UNLICENSED",
+  "keywords": ["webinar", "sales", "follow-up", "gmail", "zoom", "oncehub"]
 }

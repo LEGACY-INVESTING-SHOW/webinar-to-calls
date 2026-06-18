@@ -1,7 +1,7 @@
 ---
 name: run
 description: Turn one webinar's chat into booked-call follow-ups. Parses the Zoom chat export, the Zoom attendee/registrant report(s), and the OnceHub booking report; finds engaged leads who did not book; prioritizes them by question type AND when they asked (questions after the pitch/link-drop rank highest); drafts a personalized follow-up email per lead as a Gmail DRAFT for review; and produces a manual follow-up list. Trigger manually after each webinar.
-argument-hint: [chat.txt] [oncehub.csv] [attendees.csv] [registrants.csv] [webinar-date]
+argument-hint: "[chat.txt] [oncehub.csv] [attendees.csv] [registrants.csv] [webinar-date]"
 disable-model-invocation: true
 allowed-tools: Bash, Read
 ---
@@ -17,16 +17,16 @@ their way, then drive them to the call — but the email's purpose is the bookin
 answer. Don't turn a follow-up into a long explainer. When in doubt, shorter and more
 booking-focused wins.
 
-Output is **Gmail drafts a human reviews before sending** — never auto-send.
+Output is **Gmail drafts that a human reviews before sending** — never auto-send.
 
 ## Inputs (ask the operator for any that are missing)
 1. **Zoom chat export** (`.txt`) for the webinar.
 2. **OnceHub booking report** (`.csv`) covering this webinar's window.
 3. **Zoom attendee and/or registrant report(s)** (`.csv`) — the source of names + **emails**.
    Pass both if you have them (the parser merges and dedupes; it prefers people who actually
-   attended). If you have NEITHER, STOP and tell the operator: without an email source we can
-   only produce a manual call list. (Zoom → Webinars → the session → Attendee/Registration
-   report → Export.)
+   attended). If you have NEITHER, run the parser without those flags and tell the operator:
+   without an email source we can only produce a manual call list and cannot create Gmail
+   drafts. (Zoom → Webinars → the session → Attendee/Registration report → Export.)
 4. **Webinar date** (e.g. 2026-06-14).
 
 Arguments, if passed: `$0`=chat, `$1`=oncehub, `$2`=attendees, `$3`=registrants, `$4`=date.
@@ -44,6 +44,10 @@ python3 "${CLAUDE_PLUGIN_ROOT}/scripts/parse_and_match.py" \
   --exclude-file "${CLAUDE_PLUGIN_ROOT}/reference/exclude-list.txt" \
   --out "./webinar-out-<YYYY-MM-DD>"
 ```
+
+If there is no attendee export, omit `--attendees`. If there is no registrant export, omit
+`--registrants`. If both are missing, still run the parser so the manual follow-up list is
+available, but skip Gmail draft creation because the chat file usually has no email addresses.
 
 Then `Read` `./webinar-out-<date>/leads.json`. Key fields:
 - `summary` — counts, plus `link_drop_at` / `pitch_assumed_at` (the timing anchors the parser

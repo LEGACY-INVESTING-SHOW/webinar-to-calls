@@ -28,7 +28,8 @@ manual follow-up list for the team.
    them and adjust if the offer changes.
 3. Install / load the plugin:
    - Dev/test:  `claude --plugin-dir /Users/deveshdhardubey/webinar-to-calls`
-   - Or publish via a marketplace and `/plugin install` for the teammate.
+   - Or share the GitHub repo with a teammate and have them load the cloned folder with
+     `claude --plugin-dir /path/to/webinar-to-calls`.
 
 ## The one job
 Find attendees who didn't book but look **likely to book**, reach out, and get them to book.

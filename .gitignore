@@ -1,0 +1,17 @@
+# OS / editor cruft
+.DS_Store
+*.swp
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# Plugin run outputs (contain attendee data — never commit)
+webinar-out-*/
+*.leads.json
+leads.json
+
+# Local exports / data drops
+*.csv
+*.chat.txt

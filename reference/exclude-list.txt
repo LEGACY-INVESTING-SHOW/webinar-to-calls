@@ -1,0 +1,22 @@
+# Names / handles to EXCLUDE from leads (one per line; # starts a comment).
+# Matched case-insensitively against chat display names. Add closers, staff,
+# moderators, and bots here. Built-in excludes already cover Fireflies + "Preston's Team".
+
+Abby from Preston's Team
+Abby from Presont's Team
+Preston
+Preston Seo
+Andres
+Fireflies.ai Notetaker
+
+# --- Closers (they appear in chat / OnceHub as hosts, not leads) ---
+Jeff Jesse
+Rick Tuita
+Kevin Guerro
+Christy Snape
+Pablo Vazquez
+Michael Murphy
+Peter Estrada
+Christopher Corry
+
+# --- Add any other team members / known internal handles below ---

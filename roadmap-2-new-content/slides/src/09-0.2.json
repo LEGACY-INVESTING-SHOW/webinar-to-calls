@@ -76,7 +76,7 @@
     },
     {
      "op": "-",
-     "label": "Operating costs, including both 5% reserves",
+     "label": "Operating costs, with reserves",
      "v": "$45,066"
     },
     {
@@ -107,7 +107,7 @@
    "ref": "0.2.3",
    "eyebrow": "Stream two · Principal paydown",
    "assumption": true,
-   "title": "Principal paydown ($2,795 in year one) is equity you can't spend until you sell or refinance",
+   "title": "Year-one paydown of $2,795 is equity you can't spend until you sell or refinance",
    "items": [
     "The $2,795 of year-one paydown sits inside the $23,637 of debt service. It came out of your cash flow already.",
     "You get it back only by selling or refinancing.",
@@ -125,7 +125,7 @@
    "lines": [
     {
      "op": "",
-     "label": "Sale at the purchase price, end of year five",
+     "label": "Sale at purchase price, year five",
      "v": "$385,000"
     },
     {
@@ -160,7 +160,7 @@
    "lines": [
     {
      "op": "",
-     "label": "Cost segregation: 22% of the building",
+     "label": "Cost segregation, 22% of building",
      "v": "$68,816"
     },
     {
@@ -170,7 +170,7 @@
     },
     {
      "op": "=",
-     "label": "Year-one bonus amount, if eligible at 100%",
+     "label": "Bonus amount, if eligible",
      "v": "$100,816"
     },
     {
@@ -180,7 +180,7 @@
     }
    ],
    "result": {
-    "label": "Year-one deductions, illustrative",
+    "label": "Year-one deductions",
     "v": "$107,072"
    },
    "side": "Building = $391,000 basis less 20% land ($78,200) = **$312,800**.\n\nAt an assumed 32% marginal rate, tax **could** fall by about **$34,263**.\n\nThe full year keeps the math simple. A real first year is shorter: it depends on the month the house is ready to rent.",
@@ -197,11 +197,10 @@
    "eyebrow": "Stream four · The inputs",
    "title": "Depreciation starts when the house is ready for guests, and your CPA sets the schedule",
    "items": [
-    "You depreciate the building, never the land ([IRS Pub 527](https://www.irs.gov/publications/p527)). The land split is your first input.",
-    "Depreciation starts when the house is ready and available for rent. Ready in July, first rented in September: it starts in July.",
-    "A late-year launch gives a small first-year deduction. The example uses a full year only to keep the math simple.",
-    "Per full year: $11,375 (27.5-year, residential) or $8,021 (39-year). Short average stays can change which applies.",
-    "100% bonus depreciation is permanent for eligible property acquired after January 19, 2025 ([IRS, Notice 2026-11](https://www.irs.gov/newsroom/treasury-irs-issue-guidance-on-the-additional-first-year-depreciation-deduction-amended-as-part-of-the-one-big-beautiful-bill)). It covers eligible property, not land and not the whole building."
+    "You depreciate the building, never the land ([IRS Pub 527](https://www.irs.gov/publications/p527)). The land split comes first.",
+    "It starts when the house is ready for rent. Ready in July, first rented in September: it starts in July.",
+    "Per full year: $11,375 (27.5-year) or $8,021 (39-year). Short average stays can change which applies.",
+    "100% bonus depreciation is permanent for eligible property acquired after January 19, 2025 ([IRS, Notice 2026-11](https://www.irs.gov/newsroom/treasury-irs-issue-guidance-on-the-additional-first-year-depreciation-deduction-amended-as-part-of-the-one-big-beautiful-bill)). Not land, not the whole building."
    ],
    "notes": "Each input here is a question for your CPA, not a number to assume.\n\nBasis and land come first. IRS Publication 527 says you can never depreciate land. So how much of the price belongs to the land matters a lot.\n\nThen the placed-in-service date. Depreciation starts when the property is ready and available for rent, not when the first guest arrives. Publication 527's example: a house ready in July and first rented in September starts depreciating in July. So a late-year launch means a small first-year deduction. The example uses a full year only to keep the math simple.\n\nThen the recovery period. The example file shows two schedules: $11,375 a year at 27.5 years, labeled residential rental, or $8,021 at 39 years, labeled nonresidential or transient use. Short average stays can push a property onto the 39-year schedule. Your CPA decides which applies.\n\nFinally, bonus depreciation. IRS guidance describes a permanent 100% first-year deduction for eligible property acquired after January 19, 2025. It doesn't cover land or the whole building."
   },
@@ -228,7 +227,7 @@
     }
    ],
    "end": "Clear all three and the loss may be usable. Your CPA confirms each one for your household.",
-   "notes": "Here's what has to be true before that deduction lowers your tax this year.\n\nIRS Publication 925 covers passive activity rules. Losses from passive activities generally offset only other passive activity income.\n\nTest one. If the average stay is 7 days or less, Publication 925 doesn't count it as a \"rental activity\" under these rules. You divide total rental days by the number of rentals. Cedar Ridge is 212 nights over 61 stays, 3.5 nights. Yes is the answer you want. But it only opens the door.\n\nTest two. The loss can offset other income, like W-2 wages, only if you also materially participate. Three tests matter most: more than 500 hours, or substantially all the participation, or more than 100 hours and at least as much as any other individual. If you fail, the loss stays passive and may be suspended. The example file notes it carries forward to later years.\n\nTest three is personal use, from Publication 527. The house counts as a home if personal use exceeds the greater of 14 days or 10% of fair-rental days. At 212 rented nights, that's 21.2 days. Maya and Chris plan 10."
+   "notes": "Here's what has to be true before that deduction lowers your tax this year.\n\nIRS Publication 925 covers passive activity rules. Losses from passive activities generally offset only other passive activity income.\n\nTest one. If the average stay is 7 days or less, Publication 925 doesn't count it as a \"rental activity\" under these rules. You divide total rental days by the number of rentals. Cedar Ridge is 212 nights over 61 stays, 3.5 nights. Yes is the answer you want. But it only opens the door.\n\nTest two. The loss can offset other income, like W-2 wages, only if you also materially participate. Three tests matter most. More than 500 hours. Or substantially all the participation. Or more than 100 hours and at least as much as any other individual. If you fail, the loss stays passive and may be suspended. The example file notes it carries forward to later years.\n\nTest three is personal use, from Publication 527. The house counts as a home if personal use exceeds the greater of 14 days or 10% of fair-rental days. At 212 rented nights, that's 21.2 days. Maya and Chris plan 10."
   },
   {
    "type": "two",
@@ -461,7 +460,7 @@
     "text": "A full-service co-host at 18% costs $13,370 a year. Maya and Chris would pay about $650 a month to own the house."
    },
    "caption": "Ahead / behind = cash flow + proceeds - $142,688 cash in. Cash flow held flat; original DSCR loan; 7% selling costs; before tax on the sale and depreciation recapture. Principal paydown is inside net sale proceeds (a lower loan balance).",
-   "notes": "Now a five-year view, using the example's sale model. Cash flow stays flat for five years, the original DSCR loan stays in place, and the house sells at the end of year five with 7% selling costs. Everything is before income tax.\n\nCase A works. Self-managed, base case, 3% growth. Five years of cash flow is $27,860. Net sale proceeds are $142,560. Together that's $170,420, which is $27,732 ahead of the $142,688 they put in. Modest for five years, but positive, and they keep control. Principal paydown is already in there: the loan balance fell from $288,750 to $272,519.\n\nCase B doesn't. They hire a full-service co-host at 18%. That's $13,370 a year, and cash flow becomes minus $7,798. They're paying about $650 a month to own the house. Five years later they're $39,118 behind. If revenue is also weak, the co-host case loses $15,794 a year.\n\nCase C, a weak case with growth, ends $27,503 behind. Case D, a base case with flat value, ends $29,297 behind.\n\nSo Cedar Ridge wins only if revenue hits the base case, the owners self-manage with a local cleaner and handyman, and the value holds. Change any one, and it falls behind. Whether that's a deal-breaker is test 2 of the decision rule.",
+   "notes": "Now a five-year view, using the example's sale model. Cash flow stays flat, the original loan stays, and the house sells after year five with 7% costs. All before income tax.\n\nCase A works. Self-managed, base case, 3% growth. Five years of cash flow is $27,860. Net sale proceeds are $142,560. Together that's $170,420, which is $27,732 ahead of the $142,688 they put in. Modest for five years, but positive, and they keep control. Principal paydown is already inside those proceeds.\n\nCase B doesn't. They hire a full-service co-host at 18%. That's $13,370 a year, and cash flow becomes minus $7,798. Five years later they're $39,118 behind. If revenue is also weak, the co-host case loses $15,794 a year.\n\nCase C, a weak case with growth, ends $27,503 behind. Case D, a base case with flat value, ends $29,297 behind.\n\nSo Cedar Ridge wins only if revenue hits the base case, the owners self-manage with a local cleaner and handyman, and the value holds. Change any one, and it falls behind. Whether that's a deal-breaker is test 2 of the decision rule.",
    "text": "Principal paydown is already inside net sale proceeds: the loan balance falls from $288,750 to $272,519."
   },
   {
@@ -519,7 +518,7 @@
      ""
     ]
    ],
-   "text": "No property yet? Fill it in for Cedar Ridge from slides 3 to 5. Part A (year-one streams) and Part C (own vs. lease) are in the lesson text. Leave tax blank until your CPA answers.",
+   "text": "No property yet? Fill it in for Cedar Ridge from slides 3 to 5. Leave tax blank until your CPA answers.",
    "notes": "Here's your version of the test. Fill it in for any property you're seriously considering, with your own lender quote. No property yet? Do it for Cedar Ridge from slides 3 to 5.\n\nThe worksheet has three parts. Part A is the four-stream table for year one, with base and weak columns, and whether each is spendable. Take principal paydown from the lender's amortization schedule, not from a guess.\n\nPart B is on this slide. Ahead or behind is cash flow plus net proceeds, minus total cash in. It's run three ways: base case with your growth assumption, weak case with the same growth, and base case with flat value. Write down your growth percentage. It's your assumption, nobody else's.\n\nPart C compares owning with leasing the same house, if a lease is realistic in that market. Cash in, base and weak cash flow, cash-on-cash, and the worst realistic exit cost.\n\nDon't fill in anything tax-related until your CPA answers the questions from the tax slides. Blank is better than hopeful.\n\nWhen you watch Sam's PA.4, bring back the NOI, the weak case, and the loan payment. Those three numbers drive this whole sheet."
   },
   {
@@ -579,13 +578,13 @@
    "ref": "0.2.9",
    "title": "Four short tasks turn the ownership pitch into numbers you can check",
    "items": [
-    "Rebuild the four-stream table for Cedar Ridge from these slides, labeling each row spendable or not.",
-    "Write your own downside limit: the most you'd accept being behind after five years, before tax.",
+    "Rebuild the Cedar Ridge four-stream table, marking each row spendable or not.",
+    "Write your downside limit: the most you'd accept being behind after five years.",
     "List the CPA questions from the tax slides and book a first meeting.",
     "Ask one lender for a sample amortization schedule at a quote you might use."
    ],
-   "next": "Next: **0.3, Is Ownership Right for You? A Capital & Readiness Checklist.** Can Maya and Chris fund the full cash stack, including reserves and their own emergency savings?",
-   "notes": "Four tasks for this week, each under an hour.\n\nFirst, rebuild the four-stream table for Cedar Ridge from these slides. Do it by hand. Label each row spendable or not. Doing it once makes the difference between the streams stick.\n\nSecond, write your own downside limit. How far behind after five years, before tax, could you accept? Write the number down. If you have a partner, both of you write it separately and compare.\n\nThird, list the CPA questions. Land split, placed-in-service date, recovery period, bonus eligibility, passive rules, hours, personal use, tax on sale. Book a first meeting.\n\nFourth, ask a lender for a sample amortization schedule at a quote you might use. Then your paydown line is real.\n\nNext is lesson 0.3. Ownership can win or lose on the same house depending on revenue, management, and value. Now we ask whether Maya and Chris can fund the full cash stack, including reserves and their own emergency savings, and whether they can get through a weak first season."
+   "next": "Next: **0.3, Is Ownership Right for You?** Can Maya and Chris fund the full stack?",
+   "notes": "Four tasks for this week, each under an hour.\n\nFirst, rebuild the four-stream table for Cedar Ridge from these slides. Do it by hand. Label each row spendable or not. Doing it once makes the difference between the streams stick.\n\nSecond, write your own downside limit. How far behind after five years, before tax, could you accept? Write the number down. If you have a partner, both of you write it separately and compare.\n\nThird, list the CPA questions. Land split, placed-in-service date, recovery period, bonus eligibility, passive rules, hours, personal use, tax on sale. Book a first meeting.\n\nFourth, ask a lender for a sample amortization schedule at a quote you might use. Then your paydown line is real.\n\nNext is lesson 0.3. Ownership can win or lose on the same house depending on revenue, management, and value. Now we ask whether Maya and Chris can fund the full cash stack, including reserves and their own emergency savings. And can they get through a weak first season?"
   },
   {
    "type": "sources",
@@ -610,7 +609,7 @@
     }
    ],
    "text": "Cedar Ridge figures come from the course example file and are all assumptions. New assumptions for this lesson: the $11,550 year-one value change, the flat-value sale and its $57,157 gap, the five-year totals, and the lease comparison ($2,900 rent, $1,200 repairs, $1,800 policy, $44,500 cash in).",
-   "notes": "Here are the sources.\n\nIRS Publication 527 backs the land rule, the placed-in-service rule with its July and September example, the personal-use day test, and the rule for splitting expenses between rental and personal days.\n\nIRS Publication 925 backs the 7-day average stay exception, the material participation tests, and the $25,000 allowance with its phase-out between $100,000 and $150,000 of modified AGI.\n\nThe IRS newsroom page on Notice 2026-11 backs the permanent 100% first-year depreciation for eligible property acquired after January 19, 2025.\n\nEvery Cedar Ridge number comes from the course example file, and every one is an assumption. The new ones in this lesson are also assumptions: the $11,550 year-one value change, the flat-value sale, the five-year totals, and the entire lease comparison.\n\nTax rules change and depend on your household. Read the publication yourself, then take your questions to a CPA. Don't take a tax number from a slide, including mine."
+   "notes": "Here are the sources.\n\nIRS Publication 527 backs the land rule and the placed-in-service rule with its July and September example. It also backs the personal-use day test and splitting expenses by days.\n\nIRS Publication 925 backs the 7-day average stay exception and the material participation tests. It also backs the $25,000 allowance and its phase-out.\n\nThe IRS newsroom page on Notice 2026-11 backs the permanent 100% first-year depreciation for eligible property acquired after January 19, 2025.\n\nEvery Cedar Ridge number comes from the course example file, and every one is an assumption. The new ones in this lesson are also assumptions: the $11,550 year-one value change, the flat-value sale, the five-year totals, and the entire lease comparison.\n\nTax rules change and depend on your household. Read the publication yourself, then take your questions to a CPA. Don't take a tax number from a slide, including mine."
   }
  ]
 }

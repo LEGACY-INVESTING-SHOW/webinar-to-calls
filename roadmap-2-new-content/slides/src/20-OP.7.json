@@ -18,14 +18,14 @@
         ],
         [
           "Example",
-          "Cedar Ridge house (hypothetical)"
+          "Cedar Ridge, the course's example house (hypothetical)"
         ],
         [
           "Use",
           "Education only. Not legal, licensing, tax, or insurance advice."
         ]
       ],
-      "notes": "After this lesson you can list every job a stay requires. You'll name who does each one, and you'll name a backup.\n\nYou'll also decide what access each person gets. That covers the platform, money, guest data, and keys. Then you'll compare a set of hired vendors against a co-host or a manager, using your own numbers. And you'll find the places where you'd pay two people for the same task.\n\nCedar Ridge makes this concrete. Maya and Chris live about two hours from the house, and both work full time. So the question of who does the work is real for them. We'll run their numbers four or five ways and watch what a percentage fee does to cash flow on the DSCR loan.\n\nThe retained lessons 6.1 Cleaners and 6.2 Handyman cover how to find and train those vendors. This lesson is about fitting the whole team together for a house you own."
+      "notes": "After this lesson you can list every job a stay requires. You'll name who does each one, and you'll name a backup.\n\nYou'll also decide what access each person gets. That covers the platform, money, guest data, and keys. Then you'll compare a set of hired vendors against a co-host or a manager, using your own numbers. And you'll find the places where you'd pay two people for the same task.\n\nCedar Ridge, the course's example house, makes this concrete. Its owners, Maya and Chris, live about two hours from the house, and both work full time. So the question of who does the work is real for them. We'll run their numbers four or five ways and watch what a percentage fee does to cash flow on the DSCR loan.\n\nThe retained lessons 6.1 Cleaners and 6.2 Handyman cover how to find and train those vendors. This lesson is about fitting the whole team together for a house you own."
     },
     {
       "type": "bullets",
@@ -36,21 +36,21 @@
         "On demand: repairs, lockouts, supply runs, access for vendors",
         "Around the clock: emergencies and anything that can't wait until morning",
         "On a schedule: inspections, bookkeeping, tax filings, permit renewals",
-        "Owner-only: pricing approval, compliance, bank and platform ownership, the performance review"
+        "Owner-only: pricing approval, compliance, bank and platform ownership, team review"
       ],
       "box": {
         "kind": "gold",
         "label": "The owner keeps responsibility",
         "text": "You can delegate work. The owner still holds the house, the loan, and the platform account, and answers to the city, the lender, and the insurer."
       },
-      "notes": "\"Should I hire a co-host or a property manager?\" is the wrong first question. Those titles cover very different scopes, and the scopes overlap. One co-host does messaging only. Another does everything but cleaning. You can't compare them until you know the jobs.\n\nSo start with the list of jobs every stay needs. I group them by when they happen. Some happen every stay. Some happen on demand. Some happen at any hour. Some run on a schedule, like the filters, the alarms, the grill, the deck, and the water heater.\n\nThen look at the last group. Pricing approval, compliance decisions, the bank and platform accounts, and the performance review stay with the owner.\n\nYou can hand off a lot of work. You can't hand off responsibility for it. The owner keeps title to the house, the loan, and the platform account. When the city, the lender, or the insurer has a question, they ask the owner."
+      "notes": "\"Should I hire a co-host or a property manager?\" is the wrong first question. Those titles cover very different scopes, and the scopes overlap. One co-host does messaging only. Another does everything but cleaning. You can't compare them until you know the jobs.\n\nSo start with the list of jobs every stay needs. A turnover is the clean and reset between one guest and the next. I group them by when they happen. Some happen every stay. Some happen on demand. Some happen at any hour. Some run on a schedule, like the filters, the alarms, the grill, the deck, and the water heater.\n\nThen look at the last group. Pricing approval, compliance decisions, the bank and platform accounts, and reviewing how the team performs stay with the owner.\n\nYou can hand off a lot of work. You can't hand off responsibility for it. The owner keeps title to the house, the loan, and the platform account. When the city, the lender, or the insurer has a question, they ask the owner."
     },
     {
       "type": "table",
       "ref": "OP.7.2",
       "compact": true,
-      "title": "Every role that touches a guest stay needs a trained backup with access ready",
-      "keyline": "Access for a backup is set up before the emergency, not handed over during it.",
+      "title": "Map each job to a role, then give every guest-facing role a trained backup",
+      "keyline": "Backups get access before the emergency. Cedar Ridge's backups are on slide 14.",
       "columns": [
         "Role",
         "Covers",
@@ -94,11 +94,11 @@
         ],
         [
           "Supply replenishment",
-          "Par levels of consumables and linens",
+          "Par levels (minimum stock) of consumables and linens",
           "Cleaner, co-host, or owner"
         ]
       ],
-      "notes": "Once you have the job list, write one name beside each job. Then write a second name.\n\nThat's the backup rule. Every role that touches a guest stay needs a backup who has already been trained and given access. The access part matters. If your cleaner gets sick at 7 a.m., you don't want to be adding the backup to the calendar and texting them a door code while a guest is on the road.\n\nThis table shows the usual roles for a small owned short-term rental. Look at the payment column. Some roles are per turnover, some are a retainer, some are a percentage or owner time. That mix is where costs hide later, so write it down now.\n\nNotice that one person can hold several roles. At Cedar Ridge, the handyman is also the emergency contact and does the inspections. That's fine. What matters is that every role has a name and a backup."
+      "notes": "Once you have the job list, write one name beside each job. Then write a second name.\n\nThat's the backup rule. Every role that touches a guest stay needs a backup who has already been trained and given access. The access part matters. Say your cleaner gets sick at 7 a.m. You don't want to be adding the backup to the calendar and texting a door code while a guest drives in.\n\nThis table shows the usual roles for a small owned short-term rental. Look at the payment column. Some roles are per turnover, some are a retainer, some are a percentage or owner time. That mix is where costs hide later, so write it down now.\n\nNotice that one person can hold several roles. At Cedar Ridge, the handyman is also the emergency contact and does the inspections. That's fine. What matters is that every role has a name and a backup. You'll see Cedar Ridge's backups on slide 14."
     },
     {
       "type": "bullets",
@@ -109,7 +109,7 @@
         "Platform access: see the calendar, message guests, or change prices and the listing",
         "Spending authority: how much, on what, without asking",
         "Guest data: names, phone numbers, messages, and whether they store any of it",
-        "Keys and codes: physical keys, lock codes, the owner closet code, the Wi-Fi admin login",
+        "Keys and codes: keys, lock codes, the owner's closet code, the Wi-Fi admin login",
         "After-hours responsibility: who answers at 2 a.m., and how fast they must get there"
       ],
       "box": {
@@ -117,7 +117,7 @@
         "label": "The common mistake",
         "text": "Full platform access for someone who only needed a calendar. Access given for convenience is hard to take back later."
       },
-      "notes": "Every person on the team needs some access. The rule is to give each one the least access that still lets them do the job.\n\nThere are five kinds of access, and they aren't the same thing. Someone can have a lock code and no platform access. Someone can message guests and have no spending authority. Decide each one separately.\n\nThe mistake most owners make is full platform access for someone who only needed the calendar. It feels easier at the start. Then it's hard to take back without friction, because it looks like you've stopped trusting them.\n\nGuest data deserves a moment. Names, phone numbers, and messages should stay in the platform or the PMS. Sam's OP.4 lesson on tech stack architecture shows where messages and tasks live. Bring back from it where each team member logs in, so you can set access there instead of sharing passwords.\n\nAnd after-hours responsibility is a real assignment. Somebody's phone is on at 2 a.m., and you need to know whose."
+      "notes": "Every person on the team needs some access. The rule is to give each one the least access that still lets them do the job.\n\nThere are five kinds of access, and they aren't the same thing. Someone can have a lock code and no platform access. Someone can message guests and have no spending authority. Decide each one separately.\n\nThe mistake most owners make is full platform access for someone who only needed the calendar. It feels easier at the start. Then it's hard to take back without friction, because it looks like you've stopped trusting them.\n\nGuest data deserves a moment. Names, phone numbers, and messages should stay in the platform or the PMS, your property management software. Sam's OP.4 lesson on tech stack architecture shows where messages and tasks live. From that lesson, note where each team member logs in. Then you can set access there instead of sharing passwords.\n\nAnd after-hours responsibility is a real assignment. Somebody's phone is on at 2 a.m., and you need to know whose."
     },
     {
       "type": "table",
@@ -148,14 +148,14 @@
       "box": {
         "kind": "warn",
         "label": "Check before you rely on it",
-        "text": "These descriptions come from search summaries checked 2026-09-25. Confirm the exact labels in your own account."
+        "text": "Summarized from Airbnb's help pages, 2026-09-25. Confirm labels in your own account."
       },
-      "notes": "Airbnb lets a listing owner add co-hosts at different permission levels. Its co-host page describes three.\n\nFull access lets someone manage the listing and the calendar, message guests, and view payouts and transaction history. They can also manage other co-hosts and their permissions, and submit reimbursement requests for you. That's a lot. It fits a full-service co-host or manager you've vetted and signed an agreement with.\n\nCalendar and messaging access lets someone view the calendar, without editing it, and message guests. That fits a messaging co-host.\n\nCalendar access lets someone see the calendar and the check-in and checkout details. These co-hosts don't show on the listing. That fits a cleaner or a handyman who only needs the turnover schedule.\n\nOne caution. I pulled these descriptions from search summaries of Airbnb's help pages. Check the exact labels in your own account before you rely on them.\n\nFor Cedar Ridge, the cleaner gets calendar access. Nobody gets full access without a written agreement."
+      "notes": "Airbnb lets a listing owner add co-hosts at different permission levels. Its co-host page describes three.\n\nFull access lets someone manage the listing and the calendar, message guests, and view payouts and transaction history. They can also manage other co-hosts and their permissions, and submit reimbursement requests for you. That's a lot. It fits a full-service co-host or manager you've vetted and signed an agreement with.\n\nCalendar and messaging access lets someone view the calendar, without editing it, and message guests. That fits a messaging co-host.\n\nCalendar access lets someone see the calendar and the check-in and checkout details. These co-hosts don't show on the listing. That fits a cleaner or a handyman who only needs the turnover schedule.\n\nOne caution. These descriptions summarize Airbnb's help pages as of September 25, 2026. Airbnb changes these screens, so check the labels in your own account before you rely on them.\n\nFor Cedar Ridge, the cleaner gets calendar access. If Maya and Chris ever add a messaging co-host, that person gets calendar and messaging access. Nobody gets full access without a written agreement."
     },
     {
       "type": "bullets",
       "ref": "OP.7.4",
-      "title": "The owner stays responsible for every co-host, and co-hosts get paid first",
+      "title": "The owner answers for every co-host, and Airbnb can pay co-hosts before you",
       "items": [
         "The listing owner is responsible for co-hosts, including ones a full-access co-host adds",
         "Only the listing owner can set up co-host payouts, at any permission level",
@@ -206,7 +206,7 @@
         ],
         [
           "Data handling",
-          "Guest data stays in the platform or PMS; deleted on termination"
+          "Guest data stays in the platform or property software; deleted on termination"
         ],
         [
           "Keys and codes",
@@ -221,7 +221,7 @@
           "Notice, keys returned, platform removal, bookings and records handed over"
         ]
       ],
-      "notes": "A handshake works until the first damaged sofa. So every role that touches the house or guests gets a short written agreement. It doesn't need to be long. It needs to answer the questions you'd otherwise argue about.\n\nScope comes first. List the jobs by name from the job list. Anything not listed is extra or not included.\n\nThe fee base catches people. A percentage of what? Nightly revenue only? Nightly revenue plus cleaning fees? Payout after platform fees? Those give different numbers, and I'll show you how different in the Cedar Ridge math.\n\nThe quality standard is the OP.8 checklist, with photos. Insurance means general liability for anyone working in the house. Workers' compensation and auto coverage may apply, depending on the state and how the vendor is set up.\n\nKeys and codes are individual. No shared master code. When someone leaves, their code goes with them.\n\nAnd termination covers the handover: keys, platform removal, future bookings, and records."
+      "notes": "A handshake works until the first damaged sofa. So every role that touches the house or guests gets a short written agreement. It doesn't need to be long. It needs to answer the questions you'd otherwise argue about.\n\nScope comes first. List the jobs by name from the job list. Anything not listed is extra or not included.\n\nThe fee base catches people. A percentage of what? Nightly revenue only? Nightly revenue plus cleaning fees? Payout after platform fees? Those give different numbers, and I'll show you how different in the Cedar Ridge math.\n\nThe quality standard is the OP.8 checklist, with photos. Insurance means general liability for anyone working in the house. Workers' compensation and auto coverage may apply, depending on the state and how the vendor is set up.\n\nData handling means guest details stay in the platform or your property management software. Keys and codes are individual. No shared master code. When someone leaves, their code goes with them.\n\nAnd termination covers the handover: keys, platform removal, future bookings, and records."
     },
     {
       "type": "two",
@@ -245,12 +245,12 @@
           "Ask the insurer what vendor coverage your policy requires"
         ]
       },
-      "notes": "Vetting runs before the agreement, not after.\n\nAsk for two references from other short-term rental owners. Friends don't count. Ask for proof of insurance and look at it. Ask the cleaner to do one paid trial turnover to the OP.8 standard before the first guest ever arrives. You'll learn more from that trial than from any interview.\n\nFor a co-host, ask how many properties they handle. Then ask who covers when two emergencies happen at the same time. The answer tells you whether there's a real backup or just one busy person.\n\nThen the licensing question. Some states and cities require a real estate or property management license for anyone who manages a rental for someone else for pay. That can apply to a co-host or a manager. I can't tell you the rule for your state. An attorney or the state licensing board can, so ask before you sign.\n\n[Recording note: Preston can add a real example here if he has one.]"
+      "notes": "Vetting runs before the agreement, not after.\n\nAsk for two references from other short-term rental owners. Friends don't count. Ask for proof of insurance and look at it. Ask the cleaner to do one paid trial turnover to the OP.8 standard before the first guest ever arrives. You'll learn more from that trial than from any interview.\n\nFor a co-host, ask how many properties they handle. Then ask who covers when two emergencies happen at the same time. The answer tells you whether there's a real backup or just one busy person.\n\nThen the licensing question. Some states and cities require a real estate or property management license for anyone who manages a rental for someone else for pay. That can apply to a co-host or a manager. I can't tell you the rule for your state. An attorney or the state licensing board can, so ask before you sign."
     },
     {
       "type": "table",
       "ref": "OP.7.6",
-      "title": "A task ledger with one payer per job stops you paying twice for the same work",
+      "title": "Vendor set, co-host, or manager: know what each covers so you don't pay twice",
       "columns": [
         "Setup",
         "Who does what",
@@ -276,19 +276,19 @@
       "box": {
         "kind": "warn",
         "label": "How paying twice happens",
-        "text": "A handyman inspection retainer kept after the co-host's scope includes inspections. A messaging service while the co-host also answers guests. A manager's supply markup while the cleaner bills for supplies."
+        "text": "A handyman retainer kept after the co-host's scope includes inspections. A messaging service while the co-host also answers guests. A manager's supply markup while the cleaner bills for supplies. Fix: a task ledger with exactly one payer per job."
       },
-      "notes": "There are three broad setups for an owned house.\n\nA vendor set means you hire each role yourself and coordinate them. You do the guest messaging and the approvals. It costs the least in fees and the most in your time.\n\nA co-host usually takes on some or all of messaging, coordination, restocking, and local response. Cleaning and repairs are often still billed separately. Scope varies a lot, which is why the agreement matters.\n\nA full manager usually takes the listing, pricing, messaging, coordination, and owner statements. Many use their own cleaners and vendors, and some add markups.\n\nPaying twice happens quietly. You add a co-host whose scope includes monthly inspections, and you keep paying the handyman's inspection retainer. That's the example we'll price at Cedar Ridge.\n\nThe fix is a task ledger. Write every job in one column. Beside each job, name exactly one payer. If two names show up, cut one or rewrite a scope."
+      "notes": "There are three broad setups for an owned house.\n\nA vendor set means you hire each role yourself and coordinate them. You do the guest messaging and the approvals. It costs the least in fees and the most in your time.\n\nA co-host usually takes on some or all of messaging, coordination, restocking, and local response. Cleaning and repairs are often still billed separately. Scope varies a lot, which is why the agreement matters.\n\nA full manager usually takes the listing, pricing, messaging, coordination, and owner statements. Many use their own cleaners and vendors, and some add markups.\n\nPaying twice happens quietly. You add a co-host whose scope includes monthly inspections, and you keep paying the handyman's inspection retainer. That's the example we'll price at Cedar Ridge. Or a manager charges a supply markup while the cleaner also bills for supplies.\n\nThe fix is a task ledger. Write every job in one column. Beside each job, name exactly one payer. If two names show up, cut one or rewrite a scope."
     },
     {
       "type": "calc",
       "ref": "OP.7.7",
-      "assumption": true,
+      "assumption": false,
       "title": "An 18% co-host swings Cedar Ridge from $5,572 to -$7,798 a year",
       "lines": [
         {
           "op": "",
-          "label": "NOI, vendor set (B1)",
+          "label": "NOI, vendor set",
           "v": "$29,209"
         },
         {
@@ -298,12 +298,12 @@
         },
         {
           "op": "=",
-          "label": "NOI with co-host (B3)",
+          "label": "NOI with 18% co-host",
           "v": "$15,839"
         },
         {
           "op": "-",
-          "label": "Annual debt service, DSCR quote",
+          "label": "Annual loan payments, DSCR quote",
           "v": "$23,637"
         }
       ],
@@ -311,14 +311,14 @@
         "label": "Cash flow, Option B",
         "v": "-$7,798"
       },
-      "side": "Option A, vendor set: $29,209 - $23,637 = **$5,572**. Cleaner at $150 per turnover ($9,150), handyman retainer at $150 a month ($1,800). Maya messages; Chris approves and keeps the books.\n\nThe house doesn't carry an 18% co-host at the base case.",
-      "notes": "Here are the Cedar Ridge numbers. The base case is 61 stays a year, 212 booked nights, 3.5-night average stay. Gross booking revenue is $74,275. Annual debt service on the DSCR quote is $23,637.\n\nOne note first. These comparisons use the original underwriting, B1. PA.9's diligence added $400 a year on top, the permit renewal. Take $400 off every cash flow in this section. Option A becomes $5,172, the flat fee $372, and the break-even fee about 7.0%. The ranking doesn't change.\n\nOption A is the vendor set. A local cleaner at $150 per turnover, which is $9,150 a year. An on-call handyman and inspection retainer at $150 a month, $1,800 a year. Maya handles messaging. Chris handles approvals and bookkeeping. NOI is $29,209, and cash flow is $5,572.\n\nOption B keeps the same cleaner and retainer and adds a full-service local co-host at 18% of gross booking revenue. That's $13,370. NOI drops to $15,839. After debt service, cash flow is negative $7,798.\n\nThat's a $13,370 swing, from positive to negative. The house doesn't carry an 18% co-host at the base case. Co-hosts can still work elsewhere. This fee, on this house and this loan, doesn't fit."
+      "side": "Option A, vendor set: $29,209 - $23,637 = **$5,572**. Cleaner at $150 per turnover ($9,150), handyman retainer at $150 a month ($1,800). Maya messages; Chris approves and keeps the books.\n\nThe house doesn't carry an 18% co-host at the base case. Figures are before the $400/yr permit renewal.",
+      "notes": "Here are the Cedar Ridge numbers. Cedar Ridge is the course's example house. The base case is the expected year: 61 stays, 212 booked nights at $300, a 3.5-night average stay. Gross booking revenue, nightly plus cleaning fees, is $74,275.\n\nNOI is net operating income. It's revenue minus every operating cost, including the cleaner and the retainer, before the loan. Maya and Chris have two loan quotes. We test on the DSCR quote because it costs more: $23,637 a year in principal and interest.\n\nOption A is the vendor set. A local cleaner at $150 per turnover, $9,150 a year. An on-call handyman retainer at $150 a month, $1,800 a year. Maya handles messaging. Chris handles approvals and bookkeeping. NOI is $29,209, and cash flow is $5,572.\n\nOption B adds a full-service co-host at 18% of gross. That's $13,370. NOI drops to $15,839. After the loan, cash flow is negative $7,798. This fee, on this house and this loan, doesn't fit."
     },
     {
       "type": "calc",
       "ref": "OP.7.7",
       "assumption": true,
-      "title": "Any percentage fee above 7.5% of gross turns the base case negative",
+      "title": "At Cedar Ridge, any percentage fee above 7.5% of gross turns the base case negative",
       "lines": [
         {
           "op": "",
@@ -327,7 +327,7 @@
         },
         {
           "op": "-",
-          "label": "Annual debt service, DSCR quote",
+          "label": "Annual loan payments, DSCR quote",
           "v": "$23,637"
         },
         {
@@ -345,15 +345,15 @@
         "label": "Break-even fee, DSCR quote",
         "v": "7.5%"
       },
-      "side": "On the conventional quote ($22,763 debt service), the break-even fee is **8.7%**.\n\nCompare any proposal against this number before you compare anything else.",
-      "notes": "This is the number I'd work out before talking to any co-host. How big a percentage fee can the base case carry before cash flow hits zero?\n\nStart with the room you have. NOI with a vendor set is $29,209. Take out debt service of $23,637, and there's $5,572 left. Divide that by gross booking revenue of $74,275. You get 7.5%.\n\nSo any percentage co-host above 7.5% of gross turns the base case negative on the DSCR loan. On the conventional quote, with $22,763 of debt service, the break-even is 8.7%.\n\nThat's your ceiling. When someone quotes you 15%, 18%, or 20%, you already know the answer for the base case. You'd be paying for it out of other income.\n\nThat might still be a choice you make. Some owners decide their time is worth it. But make that choice on purpose, write it down, and know the weak case gets worse. I'll show you that next."
+      "side": "On the conventional quote ($22,763 a year), the break-even fee is **8.7%**.\n\nIf a quote is a percentage of nightly revenue only: $5,572 ÷ $63,600 = **8.8%**.",
+      "notes": "This is the number I'd work out before talking to any co-host. How big a percentage fee can the base case carry before cash flow hits zero?\n\nStart with the room you have. NOI with a vendor set is $29,209. Take out loan payments of $23,637, and there's $5,572 left. Divide that by gross booking revenue of $74,275. You get 7.5%.\n\nSo for Cedar Ridge, any percentage co-host above 7.5% of gross turns the base case negative on the DSCR loan. On the conventional quote the break-even is 8.7%. Your number will be different.\n\nWatch the fee base. If a quote is a percentage of nightly revenue only, divide by nightly revenue instead. At Cedar Ridge that's 8.8%.\n\nThat's your ceiling. When someone quotes you 15% or 20%, you already know the base-case answer. You'd be paying for it out of other income. That might still be your choice. Make it on purpose, and write it down."
     },
     {
       "type": "table",
       "ref": "OP.7.7",
       "assumption": true,
       "compact": true,
-      "title": "Cutting duplicates and fixing the fee base helps, but only the flat fee stays positive",
+      "title": "Of the paid options, only the flat fee keeps Cedar Ridge's cash flow positive",
       "columns": [
         "Setup",
         "Added cost",
@@ -362,13 +362,13 @@
       ],
       "rows": [
         [
-          "A: vendor set (B1)",
+          "A: vendor set (original underwriting)",
           "$0",
           "$29,209",
           "$5,572"
         ],
         [
-          "B: 18% co-host plus retainer (B3)",
+          "B: 18% co-host plus retainer",
           "$13,370",
           "$15,839",
           "-$7,798"
@@ -398,30 +398,15 @@
           "$772"
         ]
       ],
-      "caption": "All on the DSCR quote. Rows after B3 are assumptions computed from the canonical Cedar Ridge figures. Nightly revenue: 212 nights × $300 = $63,600. Option C in the weak case (gross $57,330): cash flow -$11,208.",
-      "notes": "This table puts every option on the DSCR quote side by side.\n\nRow three removes a duplicate. If the co-host's scope includes monthly inspections and after-hours response, the $150 retainer pays for part of the same work. Drop it, and cash flow improves by $1,800, to negative $5,998.\n\nRow four changes the fee base. The same 18%, charged on nightly revenue only, not cleaning fees. Nightly revenue is 212 nights at $300, $63,600. The fee is $11,448, which is $1,922 less. Cash flow is negative $5,876.\n\nRow five is a messaging-only co-host at 10%. Maya and Chris keep the cleaner and handyman. The fee is $7,428, and cash flow is negative $1,856. On the conventional quote, it's negative $982. In the weak case, negative $11,208.\n\nThe last row is a flat messaging service at $400 a month. That's $4,800, about 6.5% of gross. Cash flow stays positive at $772. Flat fees don't grow with revenue. They don't shrink in a weak season either."
+      "caption": "All on the DSCR quote. Rows after Option B are assumptions. Before the $400/yr permit renewal found later; subtract $400 from each cash flow. Ranking unchanged.",
+      "notes": "This table puts every option on the DSCR quote side by side.\n\nRow three removes a duplicate. If the co-host covers inspections and after-hours response, the $150 retainer pays for the same work. Drop it, and cash flow improves by $1,800, to negative $5,998.\n\nRow four changes the fee base. The same 18%, charged on nightly revenue only, is $11,448. Cash flow is negative $5,876. Each of those rows changes one thing from Option B. They don't stack.\n\nRow five is a messaging-only co-host at 10%. Cash flow is negative $1,856. In the weak case it's negative $11,208.\n\nThe last row is a flat service at $400 a month. Cash flow stays positive at $772.\n\nOne adjustment. A later diligence step, PA.9, found a $400 permit renewal. Take $400 off every cash flow here. The ranking doesn't change. We don't price a full manager, but any manager quote runs through this same test."
     },
     {
       "type": "calc",
       "ref": "OP.7.7",
       "assumption": true,
-      "title": "Price owner time: a 10% co-host costs about $81 for each hour it replaces",
+      "title": "Price owner time: a 10% co-host costs at least $81 for each hour it replaces",
       "lines": [
-        {
-          "op": "",
-          "label": "Owner time per stay (0.3 estimate)",
-          "v": "1.5 hours"
-        },
-        {
-          "op": "×",
-          "label": "Stays per year",
-          "v": "61"
-        },
-        {
-          "op": "=",
-          "label": "Owner hours replaced",
-          "v": "91.5"
-        },
         {
           "op": "",
           "label": "Option C fee, 10% of gross",
@@ -429,16 +414,16 @@
         },
         {
           "op": "÷",
-          "label": "Owner hours replaced",
+          "label": "Owner hours replaced (1.5 × 61 stays)",
           "v": "91.5"
         }
       ],
       "result": {
-        "label": "Cost per owner hour, Option C",
-        "v": "about $81"
+        "label": "Per owner hour, Option C",
+        "v": "at least $81"
       },
-      "side": "Option B: $13,370 ÷ 91.5 = **about $146 per hour**.\n\nThe real decision: is an hour of Maya and Chris's time worth $81 or $146, when cash flow goes negative?",
-      "notes": "The cash flow math tells you what the house can carry. It doesn't tell you what your time is worth. So price that too.\n\nUse the estimate from 0.3: about 1.5 hours per stay on messages, scheduling, and turnover checks. That's an assumption. Across 61 stays, it's 91.5 hours a year. Their monthly bookkeeping and pricing hours stay with them either way.\n\nOption C, the 10% messaging co-host, costs $7,428. Divided by 91.5 hours, that's about $81 for each hour of their time it replaces.\n\nOption B, the 18% co-host, costs $13,370. That's about $146 per hour.\n\nSo the real decision is a simple question. Is an hour of their time worth $81, or $146, given that either choice makes cash flow negative?\n\nThere's no right answer on the slide. Two people with full-time jobs two hours away might say yes to $81. Someone who enjoys guest messaging might say no to both. Put your own hours in and see what you're buying."
+      "side": "Hours from lesson 0.3: 1.5 per stay on messages, scheduling, and turnover checks. That's an upper bound. A messaging-only co-host replaces less.\n\nOption B: $13,370 ÷ 91.5 = **about $146**. Flat $400/month service: $4,800 ÷ 91.5 = **about $52**.",
+      "notes": "The cash flow math tells you what the house can carry. It doesn't tell you what your time is worth. So price that too.\n\nUse the time estimate for Maya and Chris from lesson 0.3: about 1.5 hours per stay on messages, scheduling, and turnover checks. That's an assumption. Across 61 stays, it's 91.5 hours a year. Their bookkeeping, pricing, and vendor calls are left out to keep it simple.\n\nTreat 91.5 as the most a co-host could replace. A messaging-only co-host takes the messages, not the scheduling or turnover checks. So Option C's $7,428 works out to at least $81 per hour, and really more.\n\nOption B, the 18% co-host, costs about $146 per hour. The flat $400 service costs about $52 per hour, with the same caveat.\n\nSo the question is whether an hour of their time is worth at least $81, when cash flow goes negative. There's no right answer on the slide. Put your own hours in and see what you're buying."
     },
     {
       "type": "table",
@@ -460,7 +445,7 @@
           "Local cleaner",
           "Second cleaner",
           "Calendar",
-          "$75 supplies per turn",
+          "$75 top-ups only",
           "No"
         ],
         [
@@ -482,7 +467,7 @@
         [
           "Emergency contact",
           "Handyman",
-          "Chris; 911 first",
+          "Chris; 911 for fire, CO, injury",
           "None",
           "Emergency exception",
           "Yes"
@@ -513,14 +498,16 @@
         ],
         [
           "Pricing and listing",
-          "Maya (OP.5 setup)",
+          "Maya (OP.5 pricing setup)",
           "Chris",
           "Listing owner",
           "n/a",
           "No"
         ]
       ],
-      "notes": "Given those numbers, Maya and Chris choose a vendor set with a narrow messaging backup. Here's their team, with the dollar limits as assumptions.\n\nThe cleaner gets calendar access only. They can spend up to $75 per turnover on supplies, with receipts. They see the guest's first name and party size from the calendar, and nothing more. They have their own lock code and the owner closet code.\n\nThe handyman has no platform access. Maya sends tasks. He can spend up to $200 per job without asking. He's on call after hours, within 60 minutes.\n\nMaya owns guest messaging, with Chris as backup. Her phone is on until 10 p.m. After that, the handyman takes the call. She can give a goodwill gesture up to $100.\n\nPricing stays with Maya, using the setup from Sam's OP.5 lesson.\n\nIf they add a messaging co-host later, that person gets calendar and messaging access, not full access. The co-host takes Maya's messaging row, and her time moves to approvals."
+      "notes": "Given these numbers, Maya and Chris choose the vendor set and do the messaging themselves, with Chris as Maya's backup. The flat $400 service also stays positive, but only by $772, against $5,572 for the vendor set. They keep it as the first thing to try if messaging becomes too much.\n\nHere's the team. The dollar limits are assumptions. The cleaner gets calendar access only. They make emergency supply top-ups up to $75 per turnover, with receipts. Maya orders routine supplies. The cleaner sees the guest's first name and party size, nothing more.\n\nThe handyman has no platform access. Maya sends tasks. He can spend up to $200 per job. His lock code works for job windows and emergency calls.\n\nMaya's phone is on until 10 p.m. After that, calls forward to the handyman for urgent issues. For fire, carbon monoxide, or injury, the guest calls 911.\n\nIf they add a messaging co-host later, that person gets calendar and messaging access, not full access.",
+      "keyline": "The flat service stays positive but leaves only $772; they keep $5,572 by messaging themselves.",
+      "caption": "Guest data and key access for each role: see the lesson table. Dollar limits and response times are assumptions."
     },
     {
       "type": "worksheet",
@@ -541,19 +528,19 @@
           ""
         ],
         [
-          "Annual debt service",
+          "Annual debt service (loan principal and interest)",
           ""
         ],
         [
-          "Cash flow with vendor set",
+          "Cash flow with vendor set = NOI - debt service",
           ""
         ],
         [
-          "Break-even fee % = cash flow / gross",
+          "Break-even fee % = vendor-set cash flow ÷ gross",
           ""
         ],
         [
-          "Proposed fee % and base, and the fee in dollars",
+          "Proposed fee: % and base, then dollars",
           ""
         ],
         [
@@ -561,20 +548,24 @@
           ""
         ],
         [
-          "Cash flow with proposed setup",
+          "Cash flow with proposed setup = vendor-set cash flow - fee + duplicates removed",
           ""
         ],
         [
-          "Owner hours per year replaced (estimate)",
+          "Weak case: gross, then cash flow with proposed setup",
           ""
         ],
         [
-          "Cost per owner hour replaced",
+          "Owner hours replaced = hours per stay taken over × stays",
+          ""
+        ],
+        [
+          "Cost per owner hour = fee ÷ hours replaced",
           ""
         ]
       ],
-      "caption": "Part C of the exercise. Parts A and B: a task ledger with one payer per task, and an access matrix with one row per person, backups included. Use your underwriting from Sam's PA.4.",
-      "notes": "The exercise has three parts. Part A is the task ledger. List every task, from turnover cleaning to pricing. Beside each, write who does it, who pays, and how they're paid. If a task has two payers, fix it before you sign anything.\n\nPart B is the access matrix. One row per person, including backups. Write their platform level, spending limit, guest data, keys and codes, after-hours duty, and backup name.\n\nPart C is on the slide. It's the cost check, and it uses your own underwriting from Sam's PA.4 package.\n\nWork down the lines in order. Get your cash flow with a vendor set. Divide it by gross to get your break-even fee. Only then look at the proposal. Put in the fee, the base it's charged on, and the dollar amount. Take out any duplicate costs. Then work out the cost per owner hour.\n\nAt the end, you'll have one number to compare any quote against."
+      "caption": "Part C of the exercise. Use your underwriting from Sam's PA.4, or your best estimate of a year's revenue and costs with a cleaner and handyman retainer included.",
+      "notes": "The exercise has three parts. Part A is the task ledger. List every job from the job list. Beside each, write who does it, the backup, who pays, and how. If a task has two payers, fix it before you sign anything.\n\nPart B is the access matrix. One row per person, including backups.\n\nPart C is on the slide. It's the cost check. Use your own underwriting from Sam's PA.4. If you haven't done that, use your best estimate of a year's revenue and costs, with a cleaner and a handyman retainer in costs.\n\nWork down the lines in order. Get your cash flow with a vendor set. Divide it by gross to get your break-even fee. Only then look at the proposal. Put in the fee, the base, and the dollars. Add back any duplicate costs it removes. Then run the same thing for the weak case, because the next slide needs it. Last, work out the cost per owner hour."
     },
     {
       "type": "gates",
@@ -600,7 +591,7 @@
         }
       ],
       "end": "All four pass: sign the agreements and hand the team to OP.8.",
-      "notes": "These four rules turn the worksheet into a decision.\n\nFirst, compare the proposed fee with your break-even fee. If it's higher, the base case goes negative. You can still go ahead. But only if you've decided to fund the gap from other income, and you've written that down. I want that decision on paper, not discovered in month four.\n\nSecond, check the weak case. If it goes negative by more than your reserves can cover for a year, reduce the scope or change the fee base. At Cedar Ridge, the 10% messaging co-host in the weak case is negative $11,208. That's a real number to hold against the reserve.\n\nThird, every role needs a trained backup. If one doesn't have it, the calendar doesn't open.\n\nFourth, check access. If anyone has more platform access than their row requires, lower it now. It's easier on day one than after six months.\n\nPass all four, and the team is ready for its instructions."
+      "notes": "These four rules turn the worksheet into a decision.\n\nFirst, compare the proposed fee with your break-even fee. If it's higher, the base case goes negative. You can still go ahead. But only if you've decided to fund the gap from other income, and you've written that down. I want that decision on paper, not discovered in month four.\n\nSecond, check the weak case. If it goes negative by more than your reserves can cover for a year, reduce the scope or change the fee base. At Cedar Ridge, the weak case is already -$5,475 with the vendor set, and -$11,208 with the 10% messaging co-host. Hold both against your reserve.\n\nThird, every role needs a trained backup. If one doesn't have it, the calendar doesn't open.\n\nFourth, check access. If anyone has more platform access than their row requires, lower it now. It's easier on day one than after six months.\n\nPass all four, and the team is ready for its instructions."
     },
     {
       "type": "table",
@@ -613,7 +604,7 @@
       "rows": [
         [
           "Attorney or state real estate licensing board",
-          "Whether a paid co-host or manager needs a license in this state"
+          "Whether a paid co-host or manager needs a license in your state"
         ],
         [
           "Insurer",
@@ -625,33 +616,33 @@
         ],
         [
           "Airbnb help pages and your account screens",
-          "Permission level names and what each allows, checked before recording"
+          "Permission level names and what each allows, checked before you add anyone"
         ]
       ],
-      "notes": "Four checks before this team goes live.\n\nThe attorney or the state real estate licensing board tells you whether a paid co-host or manager needs a license in your state. That's not something to guess at. It can affect the person you hire and the agreement you sign.\n\nThe insurer tells you what vendor coverage your policy requires. Ask whether a co-host or manager must be named or listed on the policy.\n\nThe CPA tells you how co-host payouts through Airbnb get reported. Remember, co-hosts are paid first, straight from the booking. Ask whether any contractor needs a year-end information return from you.\n\nAnd check Airbnb's current co-host help pages against your own account screens. The permission level names I used came from search summaries. Confirm what each level allows before you set up anyone's access."
+      "notes": "Four checks before this team goes live.\n\nThe attorney or the state real estate licensing board tells you whether a paid co-host or manager needs a license in your state. That's not something to guess at. It can affect the person you hire and the agreement you sign.\n\nThe insurer tells you what vendor coverage your policy requires. Ask whether a co-host or manager must be named or listed on the policy.\n\nThe CPA tells you how co-host payouts through Airbnb get reported. Remember, co-hosts are paid first, straight from the booking. Ask whether any contractor needs a year-end information return from you.\n\nAnd check Airbnb's current co-host help pages against your own account screens. Airbnb changes these screens. Confirm what each level allows before you set up anyone's access."
     },
     {
       "type": "dothis",
       "ref": "OP.7.10",
       "title": "This week, name every role and backup and find your break-even fee",
       "items": [
-        "Write the task ledger for your house: every job from the list, one doer, one payer.",
-        "Work out your break-even fee: vendor-set cash flow divided by gross booking revenue.",
-        "Fill in the access matrix and lower anyone's platform access that's above what their row needs.",
-        "Call the state licensing board or your attorney and ask whether a paid co-host needs a license."
+        "Write the task ledger: every job from the list, one doer, one payer.",
+        "Find your break-even fee: vendor-set cash flow ÷ gross booking revenue.",
+        "Fill in the access matrix at the lowest platform level each row needs.",
+        "Ask the state licensing board or your attorney if a paid co-host needs a license."
       ],
-      "next": "Next: OP.8 SOPs: Cleaning, Guest Communication & Emergency Response. It writes the turnover checklist, message sequence, and emergency matrix for this team.",
-      "notes": "Four actions this week, each under an hour.\n\nWrite your task ledger. Every job from the list, one person who does it, one person who pays for it. Watch for two names on one line.\n\nWork out your break-even fee. Take your vendor-set cash flow from your underwriting and divide by gross booking revenue. Write it at the top of the page, so you see it when a quote comes in.\n\nFill in the access matrix. Then log into your platform and check what each person can actually do. If anyone has more access than their row needs, lower it today.\n\nAnd make one call about licensing, to the state board or your attorney.\n\nYou've named who does each job and what they can touch. Now they need instructions they can follow without calling you. That's OP.8. It writes the turnover checklist, the message sequence, and the emergency matrix for the Cedar Ridge team. Then it walks them through a normal turnover, a guest problem, and a real emergency."
+      "next": "Next: OP.8 SOPs writes the turnover checklist, message sequence, and emergency matrix for this team.",
+      "notes": "Four actions this week, each under an hour.\n\nWrite your task ledger. Every job from the list, one person who does it, one person who pays for it. Watch for two names on one line.\n\nWork out your break-even fee. Take your vendor-set cash flow from your underwriting and divide by gross booking revenue. Write it at the top of the page, so you see it when a quote comes in.\n\nFill in the access matrix. When you add each person on your platform, set their access to the lowest level their row needs. If someone already has more, lower it today.\n\nAnd make one call about licensing, to the state board or your attorney.\n\nYou've named who does each job and what they can touch. Now they need instructions they can follow without calling you. That's OP.8. It writes the turnover checklist, the message sequence, and the emergency matrix for the Cedar Ridge team. Then it walks them through a normal turnover, a guest problem, and a real emergency."
     },
     {
       "type": "sources",
       "ref": "OP.7 sources",
       "title": "Airbnb's co-host pages set the permission and payout rules used here",
-      "text": "All four pages checked 2026-09-25 through search summaries; direct fetch was blocked. Confirm permission labels in your own account. Licensing rules depend on your state, so they come from your attorney, not this list.",
+      "text": "All four pages summarized as of 2026-09-25. Confirm permission labels in your own account. Licensing rules depend on your state, so they come from your attorney, not this list.",
       "box": {
         "kind": "gold",
         "label": "Cedar Ridge figures",
-        "text": "From the canonical example file, sections B1 to B4. The 10% co-host, fee-base variant, flat service, break-even fee, and owner hours were computed for this lesson and are assumptions."
+        "text": "From the course's Cedar Ridge example: base case, weak case, 18% co-host case, and both loan quotes. The 10% co-host, fee-base variant, flat service, break-even fee, and owner hours were computed for this lesson and are assumptions."
       },
       "items": [
         {
@@ -675,7 +666,7 @@
           "note": "host stays responsible for co-host actions before removal"
         }
       ],
-      "notes": "The platform rules in this lesson come from four Airbnb pages. I checked them on 2026-09-25 through search summaries, because direct fetches were blocked. That's why I keep telling you to confirm the permission labels in your own account.\n\nThe co-host page, article 1534, covers the permission levels and the owner's responsibility for co-hosts. The resource center article gives background on how the levels were introduced. The payouts page, article 3389, covers who sets up payouts and the rule that co-hosts are paid first. The Co-Host Additional Terms, article 3264, cover your responsibility for what a co-host did before you removed them.\n\nThe Cedar Ridge numbers come from the canonical example file, sections B1 through B4. The new scenarios were computed for this lesson and marked as assumptions. That covers the 10% messaging co-host, the fee-base variant, the flat service, the break-even fee, and the owner hours.\n\nLicensing rules aren't sourced here, because they depend on your state. That's the attorney's call."
+      "notes": "The platform rules in this lesson come from four Airbnb pages. I summarized them as of September 25, 2026. Airbnb changes these screens, so confirm the permission labels in your own account.\n\nThe co-host page, article 1534, covers the permission levels and the owner's responsibility for co-hosts. The resource center article gives background on how the levels were introduced. The payouts page, article 3389, covers who sets up payouts and the rule that co-hosts are paid first. The Co-Host Additional Terms, article 3264, cover your responsibility for what a co-host did before you removed them.\n\nThe Cedar Ridge numbers come from the course's running example. That means the base case, the weak case, the 18% co-host case, and the two loan quotes. The new scenarios were computed for this lesson and marked as assumptions. That covers the 10% messaging co-host, the fee-base variant, the flat service, the break-even fee, and the owner hours.\n\nLicensing rules aren't sourced here, because they depend on your state. That's the attorney's call."
     }
   ]
 }

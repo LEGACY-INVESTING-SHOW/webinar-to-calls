@@ -26,7 +26,7 @@ Inline markup allowed in strings: `**bold**`, `*italic*`, `[text](https://url)`.
 | worksheet | columns [], rows [[]] (empty string = blank fill-in cell), caption |
 | two | left {head, note, items []}, right {same} |
 | flow | nodes [{k, h, d, kind: ""/"stop"/"go"}] (3-5 nodes) |
-| gates | gates [{q, sub, no}], end |
+| gates | gates [{q, sub, no, num (optional label, e.g. "G5"; defaults to 01, 02...)}], end |
 | calc | lines [{op, label, v}], result {label, v}, side (text), side_box (box) |
 | bars | items [{label, value (number, negative for costs), kind: pos/neg/total, hot (bool), display}], caption |
 | checklist | items [], cols2 (bool) |

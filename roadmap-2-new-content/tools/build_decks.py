@@ -140,7 +140,7 @@ def render_slide(d, s, n, total):
         g = []
         for k, x in enumerate(s["gates"]):
             sub = f'<small>{inline(x["sub"])}</small>' if x.get("sub") and not MINIMAL else ""
-            g.append(f'<div class="gate"><div class="num">{k + 1:02d}</div><div class="q">{inline(x["q"])}{sub}</div>'
+            g.append(f'<div class="gate"><div class="num">{inline(x.get("num", f"{k + 1:02d}"))}</div><div class="q">{inline(x["q"])}{sub}</div>'
                      f'<div class="no">{inline(x["no"])}</div></div>')
         end = f'<div class="end">{inline(s["end"])}</div>' if s.get("end") else ""
         body = '<div class="gates">' + "".join(g) + end + "</div>"

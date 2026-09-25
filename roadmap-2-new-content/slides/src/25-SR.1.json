@@ -8,7 +8,7 @@
   {
    "type": "cover",
    "kicker": "Part Three · Shared Resource Library",
-   "title": "Legal is a written decision for one address and one plan",
+   "title": "\"Is it legal?\" gets a written answer for one address and one plan",
    "subtitle": "Resource SR.1. Regulatory compliance checklist, by state and city",
    "meta": [
     [
@@ -25,7 +25,7 @@
     ]
    ],
    "ref": "SR.1.0",
-   "notes": "This resource is the sheet you fill in before you sign a lease or make an offer. It ends in one of three words: permitted, prohibited, or unresolved. Every answer on it points to an official page, a date, and the person who checked it.\n\nI'll walk you through each section of the template and the rules that decide the result. Then we run two tests. We drop the Alder Street unit into New York City, and then into Los Angeles. After that we look at Cedar Ridge, where almost every line is still blank, because that's what day one of due diligence looks like.\n\nOne thing to hold onto the whole way through. I'm teaching a method. I'm not your attorney, and nothing on these slides says a specific address is legal. The checklist helps you ask the right questions and write down the answers. A local professional still confirms the decision."
+   "notes": "This resource is the sheet you fill in before you sign a lease or make an offer. It ends in one of three words: permitted, prohibited, or unresolved. Every answer on it points to an official page, a date, and the person who checked it.\n\nThe title says by state and city. That means the sheet walks the state, county, and city layers for your address. It isn't a list of rules for each state.\n\nI'll walk you through each section of the template and the rules that decide the result. Then we run two tests. We drop the Alder Street unit into New York City, and then into Los Angeles. After that we look at Cedar Ridge, where almost every line is still blank, because that's what day one of due diligence looks like.\n\nOne thing to hold onto the whole way through. I'm teaching a method. I'm not your attorney, and nothing on these slides says a specific address is legal. The checklist helps you ask the right questions and write down the answers. A local professional still confirms the decision."
   },
   {
    "type": "two",
@@ -44,16 +44,16 @@
     "head": "What it does not do",
     "items": [
      "Rate a whole state or city as \"legal\" or \"Airbnb-friendly\"",
-     "Show you where to click. Sam's 3.2 and PA.2 do that",
+     "Show you where to click. Sam's live demos, 3.2 and PA.2, do that",
      "Replace a local attorney's review of the decision"
     ]
    },
    "box": {
     "kind": "gold",
-    "label": "Bring back from Sam's 3.2 and PA.2",
-    "text": "Sam shows you where to click. This sheet is where you write down what you found and what you decided."
+    "label": "Pairs with Sam's lessons 3.2 and PA.2",
+    "text": "Sam records the live demos: 3.2 in the Roadmap, PA.2 for owners. He shows you where to click. This sheet is where you write down what you found and decided."
    },
-   "notes": "Here's the idea the whole sheet is built on. Rules attach to the address, the building, the zoning district, the permit category, and your plan for the unit. They don't attach to a city in general. Two units on the same street can get different answers.\n\nSo this sheet never rates a state or a city as legal or Airbnb-friendly. It gives you a written decision for one exact address and one exact plan, with the official page behind every line.\n\nIt sits next to two of Sam's lessons. In 3.2, How to Research Regulations Before You Sign Anything, he runs the live search. Owners use it with his PA.2 when they screen markets. Don't expect this deck to repeat those demos. Watch Sam find the pages. Then come back here and write down what you found, the date, and what you decided."
+   "notes": "Here's the idea the whole sheet is built on. Rules attach to the address, the building, the zoning district, the permit category, and your plan for the unit. They don't attach to a city in general. Two units on the same street can get different answers.\n\nSo this sheet never rates a state or a city as legal or Airbnb-friendly. It gives you a written decision for one exact address and one exact plan, with the official page behind every line.\n\nIt pairs with two of Sam's lessons. Sam records the live demos in this course. In 3.2, How to Research Regulations Before You Sign Anything, he runs the live search. Owners in STR Concierge, our ownership program, also use his PA.2, Choosing a Market for Ownership. You can start this sheet before you watch either one. Watch Sam find the pages. Then write down here what you found, the date, and what you decided."
   },
   {
    "type": "table",
@@ -70,7 +70,7 @@
     ],
     [
      "B. Layers of permission",
-     "State, county, city, zoning, building, HOA, lease, insurance. Each with URL, date, result, reviewer"
+     "State, county, city, zoning, building, rent regulation, HOA, lease, insurance, lender. Each with URL, date, result, reviewer"
     ],
     [
      "C. Permit details",
@@ -93,7 +93,8 @@
      "The decision, the reason, and a recheck date"
     ]
    ],
-   "notes": "The order matters. You start with the plan in Section A, because most rules turn on those facts. Is the host there during the stay? Is it the whole unit or a room? How long do guests stay, how many of them, and who lives there the rest of the year? A vague plan gives you a vague answer.\n\nThen Section B walks each layer of permission, from the state down to your lease and your insurance. Section C records the permit details. Section D records tax registrations and who remits on each channel. Keep permit registration and tax registration apart. They're separate filings.\n\nE, F, and G close the loop. Anything unclear goes out as a written question. Anything still open gets an owner and a due date. Then you apply the decision rules and write the result, the reason, and a recheck date."
+   "notes": "The order matters. You start with the plan in Section A, because most rules turn on those facts. Is the host there during the stay? Is it the whole unit or a room? How long do guests stay, how many of them, and who lives there the rest of the year? A vague plan gives you a vague answer.\n\nThen Section B walks each layer of permission, ten of them, from the state down to your lease, your insurance, and, for owners, your lender. Section C records the permit details. Section D records tax registrations and who remits on each channel. Remit means collect the tax and pay it to the agency. Keep permit registration and tax registration apart. They're separate filings.\n\nE, F, and G close the loop. Anything unclear goes out as a written question. Anything still open gets an owner and a due date. Then you apply the decision rules and write the result, the reason, and a recheck date.",
+   "compact": true
   },
   {
    "type": "checklist",
@@ -103,7 +104,7 @@
     "Use official sources for rules: city, county, and state pages, the adopted ordinance, the tax agency",
     "Paste the sentence that decides the case into the Result cell, with the URL beside it",
     "Date every check. Rules change, and a result without a date is a guess",
-    "Name a reviewer. \"Self\" works for a first pass. Deciding lines get a second reviewer, such as a local STR attorney",
+    "Name a reviewer. \"Self\" works on a first pass. Deciding lines add a local short-term rental (STR) attorney",
     "Save evidence as PDFs and screenshots in one folder named with the address"
    ],
    "box": {
@@ -119,42 +120,43 @@
    "ref": "SR.1.2",
    "gates": [
     {
-     "q": "Does any official source clearly bar the planned use at this address?",
+     "q": "Does an official source clearly bar this plan at this address?",
      "sub": "Example: the plan is unhosted and the city allows only hosted stays",
-     "no": "Prohibited for this plan"
+     "no": "If yes: Prohibited for this plan"
     },
     {
-     "q": "Do the lease, HOA, condo, or building rules bar short stays, or is written landlord permission missing?",
-     "no": "Prohibited until written permission exists"
+     "q": "Do the lease, HOA, condo, or building rules bar short stays, or has the landlord refused written permission?",
+     "no": "If yes: Prohibited until written permission exists"
     },
     {
      "q": "Is a required permit capped, closed, or unavailable to your type of operator?",
      "sub": "Example: permits can't transfer to a new operator",
-     "no": "Prohibited for now; note when it reopens"
+     "no": "If yes: Prohibited for now; note when it reopens"
     },
     {
-     "q": "Is any deciding line blank, \"to verify\", or resting only on a platform page or a verbal answer?",
-     "no": "Unresolved"
+     "q": "Is any deciding line blank, \"to verify\", resting only on a platform page or a verbal answer, or waiting on the landlord?",
+     "no": "If yes: Unresolved"
     }
    ],
-   "end": "Rule 5. Every deciding line has an official source dated within 90 days, a written answer where the source was unclear, and no open item that could change it: **Permitted** for this plan, with its conditions.",
-   "notes": "Section G takes one of three answers, and these rules pick it. Go in order. Stop at the first rule that fits.\n\nRule 1 is the city, county, or state saying no to this plan. Rule 2 is the private layer: the lease, the HOA, the condo documents, or the building rules. If the landlord hasn't given written permission, that's a no until they do. Rule 3 is the permit itself. It might be capped or closed. Or it might not be open to someone like you, for example when permits can't pass to a new operator.\n\nRule 4 catches the gaps. A blank line, a \"to verify\", or a line that rests on a platform page or on something someone told you on the phone. That's unresolved.\n\nOnly when all of that clears do you reach Rule 5 and write permitted. Notice how much Rule 5 asks for. Official source, dated within 90 days, a written answer where the page was unclear, and nothing open that could flip it."
+   "end": "If no to all four, go to Rule 5. Every deciding line has an official source dated within 90 days, a written answer where the source was unclear, and no open item that could change it: **Permitted** for this plan, with its conditions.",
+   "notes": "Section G takes one of three answers, and these rules pick it. Go in order. If the answer to a rule is yes, that's your result, and you stop. If it's no, move down.\n\nRule 1 is the city, county, or state saying no to this plan. Rule 2 is the private layer: the lease, the HOA, the condo documents, or the building rules. If the landlord has refused written permission, that's a no until they give it. If you just haven't heard back, that's Rule 4. Owners with no landlord check only the HOA, condo, and building rules. Rule 3 is the permit itself. It might be capped, closed, or not open to someone like you.\n\nRule 4 catches the gaps. A blank line, a \"to verify\", a platform page, a phone answer, or a landlord who hasn't replied. That's unresolved.\n\nOnly when all four answers are no do you reach Rule 5 and write permitted. It asks for an official source dated within 90 days, a written answer where the page was unclear, and nothing open that could flip it."
   },
   {
    "type": "bullets",
-   "title": "Unresolved means don't sign, and permitted covers only the plan in Section A",
+   "title": "Unresolved means don't commit yet, and permitted covers only the plan in Section A",
    "ref": "SR.1.2",
    "items": [
-    "Change the plan (more guests, more nights, a different stay length) and you rerun the sheet",
-    "On an unresolved address you can keep negotiating. You don't sign a lease, release a deposit, or waive a contingency",
-    "A prohibited result can point to a different plan, such as stays of 30 nights or more. That's a different business, so start a new sheet"
+    "Change the plan (more guests, more nights, longer stays) and you rerun the sheet",
+    "Unresolved: keep negotiating. Don't sign a lease, release a deposit, or waive a contingency",
+    "A prohibited result can point to a longer-stay plan (30+ nights). Start a new sheet for it",
+    "Cities draw the 30-night line differently, so copy the exact wording from your city's page"
    ],
    "box": {
     "kind": "gold",
     "label": "Recheck dates",
-    "text": "Recheck 90 days after the decision (assumption: a teaching default; go shorter if the city has a pending ordinance), and again 30 days before any permit renewal."
+    "text": "Recheck 90 days after the decision, and again 30 days before any permit renewal. 90 days is my teaching default, not a legal rule. Check sooner if the city has a pending ordinance."
    },
-   "notes": "Three more rules keep the decision honest.\n\nA permitted result only covers the plan you wrote in Section A. If you later decide to add a bed, take more guests, or rent more nights, you've changed the plan. Rerun the sheet.\n\nUnresolved is the answer people try to talk themselves past. Here's the line. You can keep talking to the landlord or the seller. You don't sign the lease, you don't release a deposit, and you don't waive a contingency while the sheet says unresolved.\n\nAnd prohibited isn't always the end. Some cities treat stays of 30 nights or more differently from short stays. That's a different business, with a different lease clause and different numbers, so it gets its own sheet.\n\nOn the recheck: I use 90 days as a teaching default. If the city has an ordinance in the works, check sooner. Always check again 30 days before a permit renewal."
+   "notes": "Three more rules keep the decision honest.\n\nA permitted result only covers the plan you wrote in Section A. If you add a bed, take more guests, or rent more nights, you've changed the plan. Rerun the sheet.\n\nUnresolved is the answer people try to talk themselves past. You can keep talking to the landlord or the seller. You don't sign the lease, release a deposit, or waive a contingency. If you're buying, an offer with a regulatory contingency is fine. Removing the contingency is not.\n\nProhibited isn't always the end. Some cities treat stays of 30 nights or more differently. NYC says fewer than 30 consecutive days. LA's tax says 30 days or less. Copy your city's exact wording, and give a longer-stay plan its own sheet.\n\nOn the recheck: 90 days is my teaching default, not a legal rule. Check sooner if an ordinance is pending, and again 30 days before a permit renewal."
   },
   {
    "type": "worksheet",
@@ -194,8 +196,14 @@
     ],
     [
      "Type and year built",
-     "Single-family, 3+ units, condo, ADU; year",
+     "Single-family, 3+ units, condo, ADU (accessory dwelling unit); year",
      "Assessor record",
+     ""
+    ],
+    [
+     "Own or lease",
+     "Own, lease, or co-host for owner",
+     "Deed or lease",
      ""
     ],
     [
@@ -219,7 +227,7 @@
     [
      "Nights and channels",
      "Nights per year; Airbnb, Vrbo, Booking.com, direct",
-     "Your underwriting",
+     "Your plan",
      ""
     ],
     [
@@ -230,7 +238,7 @@
     ]
    ],
    "caption": "Status takes one of four values: Done, Written answer, To verify, or N/A with a reason.",
-   "notes": "Section A is the part people skip, and it's the part everything else depends on.\n\nThe top half pins down the property. Address and unit, the parcel number from the assessor, and whether you're inside a city or in unincorporated county. Then the zoning district, off the official zoning map. Year built can matter too, because rent-control coverage turns on it in some cities.\n\nThe bottom half is your plan. Does anyone live there as a primary residence? Is the host present? Whole unit or rooms? How long do guests stay, how many can sleep there, how many nights a year, and on which channels?\n\nThe Status column keeps you honest. Done means an official source, dated. Written answer means you have a reply from the office saved. To verify means you don't know yet. N/A needs a reason next to it. Fill this in once, and every later section reads off it."
+   "notes": "Section A is the part people skip, and it's the part everything else depends on.\n\nThe top half pins down the property. Address and unit, the parcel number from the assessor, and whether you're inside a city or in unincorporated county. Then the zoning district, off the official zoning map. Year built can matter too, because rent-control coverage turns on it in some cities. Then write whether you own it, lease it, or co-host for an owner.\n\nThe bottom half is your plan. Does anyone live there as a primary residence? Is the host present? Whole unit or rooms? How long do guests stay, how many can sleep there, how many nights a year, and on which channels?\n\nThe Status column keeps you honest. Done means an official source, dated. Written answer means you have a reply from the office saved. To verify means you don't know yet. N/A needs a reason next to it. Fill this in once, and every later section reads off it."
   },
   {
    "type": "table",
@@ -241,61 +249,61 @@
    "columns": [
     "Layer",
     "What to check",
-    "Where the answer lives"
+    "Type"
    ],
    "rows": [
     [
      "State",
-     "STR law, lodging-tax registration, any preemption of local rules",
-     "Official source URL"
+     "STR law, lodging-tax registration, any state limit on local rules (preemption)",
+     "Government"
     ],
     [
      "County",
      "STR ordinance if unincorporated; county lodging tax",
-     "Official source URL"
+     "Government"
     ],
     [
      "City",
      "STR or registration law; definitions of STR, host, primary residence",
-     "Official source URL"
+     "Government"
     ],
     [
      "Zoning",
      "Permitted, conditional, or prohibited use in this district",
-     "Official source URL"
+     "Government"
     ],
     [
      "Building",
      "Building class, prohibited-building lists, fire and occupancy rules",
-     "Official source URL"
+     "Government"
     ],
     [
      "Rent regulation",
      "Is the unit covered by rent control or stabilization?",
-     "Official source URL"
+     "Government"
     ],
     [
      "HOA / condo",
-     "CC&Rs, bylaws, minimum lease terms, rental caps",
-     "HOA documents"
+     "CC&Rs (recorded HOA rules), bylaws, minimum lease terms, rental caps",
+     "Private"
     ],
     [
      "Landlord / lease",
      "Written permission, sublet clause, guest rules",
-     "Signed lease or addendum (5.3)"
+     "Private (lesson 5.3)"
     ],
     [
      "Insurance",
      "Covers short-term guests at this address",
-     "Insurer, in writing (2.4)"
+     "Private (lesson 2.4)"
     ],
     [
      "Lender",
      "Mortgage allows the use; occupancy covenant",
-     "Loan documents"
+     "Private"
     ]
    ],
-   "notes": "Section B is where most deals get decided. There are ten layers, and a no on any one of them stops the plan.\n\nThe first six are government layers. The state may have its own law, or may limit what cities can do. The county matters if the parcel sits outside city limits. The city has the ordinance and its definitions, and definitions matter. What counts as a host, or a primary residence, can decide your case. Then zoning, the building, and whether the unit is under rent regulation.\n\nThe last four are private. The HOA or condo documents. Your lease, with written permission, which lesson 5.3 covers. Your insurer, in writing, which 2.4 covers. And for owners, the loan documents.\n\nFor the HOA row, you won't find a government page. Write down where you got the documents. Every row still gets a date, a result with the quoted line, and a reviewer."
+   "notes": "Section B is where most deals get decided. There are ten layers, and a no on any one of them stops the plan.\n\nThe first six are government layers. The state may have its own law, or may limit what cities can do. The county matters if the parcel sits outside city limits. The city has the ordinance and its definitions, and definitions matter. What counts as a host, or a primary residence, can decide your case. Then zoning, the building, and whether the unit is under rent regulation.\n\nThe last four are private. The HOA or condo documents. Your lease, with written permission, which lesson 5.3, the Sublease Addendum Deep Dive, covers. Your insurer, in writing, which lesson 2.4 on insurance and liability covers. And for owners, the loan documents.\n\nFor the HOA row, you won't find a government page. Write down where you got the documents. Every row still gets a date, a result with the quoted line, and a reviewer."
   },
   {
    "type": "two",
@@ -313,23 +321,23 @@
    },
    "right": {
     "head": "Section D. Taxes by channel",
-    "note": "Lesson 3.3 covers this in depth. Federal income tax is a CPA question.",
+    "note": "Lesson 3.3, Occupancy Taxes & Platform-Verified Registration, covers this in depth. Federal income tax is a CPA question.",
     "items": [
      "Registration number and agency for each tax",
      "Rate and base: does it include cleaning fees?",
      "Does Airbnb collect it? Does Vrbo?",
-     "Direct bookings: the operator collects and remits",
-     "Filing frequency, and whether zero returns are due"
+     "Direct bookings: you collect the tax and pay it to the agency (remit)",
+     "Filing frequency, and whether you must file in a month with no bookings"
     ]
    },
-   "notes": "Section C is the permit itself. Name the category that fits your plan, not just \"the STR permit\". Then the prerequisites, the fee, and how long it lasts. Caps and waitlists go here, and so does the primary-residence test, with the exact definition and the proof it needs. Transferability is the one owners miss. Does the permit stay with the owner, the host, or the property? Can a new operator use it?\n\nSection D is taxes, and it runs by channel. A platform may collect some taxes and not others. You may still need to register and file returns even when a platform remits. On direct bookings, you collect and remit. Write down each tax, the agency, the rate, whether cleaning fees are in the base, and how often you file.\n\nLesson 3.3 teaches occupancy tax properly. Here you're only recording it. And keep federal income tax out of this sheet. That's a conversation with your CPA."
+   "notes": "Section C is the permit itself. Name the category that fits your plan, not just \"the STR permit\". Then the prerequisites, the fee, and how long it lasts. Caps and waitlists go here, and so does the primary-residence test, with the exact definition and the proof it needs. Transferability is the one owners miss. Does the permit stay with the owner, the host, or the property? Can a new operator use it?\n\nSection D is taxes, and it runs by channel. A platform may collect some taxes and not others. You may still need to register and file returns even when a platform remits. On direct bookings, you collect the tax and pay it to the agency yourself. That's what remit means. Write down each tax, the agency, the rate, whether cleaning fees are in the base, and how often you file.\n\nLesson 3.3 teaches occupancy tax properly. Here you're only recording it. And keep federal income tax out of this sheet. That's a conversation with your CPA."
   },
   {
    "type": "worksheet",
    "title": "Sections E to G turn open questions into owners, due dates, and a dated decision",
    "ref": "SR.1.3",
    "compact": true,
-   "text": "Section E logs each written question with the rule quoted and the reply saved. Section F gives every open item an owner, a due date, and a yes or no on whether it blocks the decision. Section G:",
+   "text": "E: each written question, with the rule quoted and the reply saved. F: each open item, with an owner, a due date, and whether it blocks. G, the decision:",
    "columns": [
     "Field",
     "Entry"
@@ -381,15 +389,20 @@
     [
      "Address",
      "218 Alder Street, Unit 4B (placed in NYC, then LA, for these tests)",
-     "Test only"
+     "N/A (hypothetical address)"
     ],
     [
      "Property type",
-     "Four-unit residential building, leased from a small landlord",
+     "Four-unit residential building",
      "Done"
     ],
     [
-     "Primary residence of host?",
+     "Own or lease",
+     "Lease, from a small landlord",
+     "Done"
+    ],
+    [
+     "Primary residence of operator?",
      "No. The operator lives elsewhere",
      "Done"
     ],
@@ -424,44 +437,44 @@
      "Done"
     ]
    ],
-   "notes": "Now let's use it. Alder Street is our hypothetical two-bedroom, two-bath apartment, Unit 4B, in a four-unit building leased from a small landlord. It sleeps 5. The canonical example leaves the city unnamed on purpose. That lets us drop the same unit into two real cities and see how the answer changes.\n\nHere's the plan, written first. The operator doesn't live there. Nobody is on site during stays. Guests rent the whole unit. Stays average 3.0 nights. Up to 5 guests. 255 booked nights a year, on Airbnb and Vrbo. All of those numbers are assumptions from the example.\n\nLook at how specific that is. Every one of these facts is something a city rule can turn on. Host present or not. Whole unit or room. Guest count. Nights per year. Primary residence. With this written down, the research in Section B has something exact to test against."
+   "notes": "Now let's use it. Alder Street is our hypothetical two-bedroom, two-bath apartment, Unit 4B, in a four-unit building leased from a small landlord. It sleeps 5. The course example leaves the city unnamed on purpose. That lets us drop the same unit into two real cities and see how the answer changes.\n\nHere's the plan, written first. The operator doesn't live there. Nobody is on site during stays. Guests rent the whole unit. Stays average 3.0 nights. Up to 5 guests. 255 booked nights a year, on Airbnb and Vrbo. All of those numbers are assumptions from the example.\n\nLook at how specific that is. Every one of these facts is something a city rule can turn on. Host present or not. Whole unit or room. Guest count. Nights per year. Primary residence. With this written down, the research in Section B has something exact to test against."
   },
   {
    "type": "table",
    "title": "In NYC, Alder Street fails at Section B on host presence and the two-guest limit",
    "ref": "SR.1.4",
-   "assumption": true,
+   "assumption": false,
    "compact": true,
    "columns": [
     "Check",
-    "Result from the official OSE page",
-    "Deciding?"
+    "Result from the official OSE page (summarized)",
+    "Effect on the plan"
    ],
    "rows": [
     [
      "[Registration law](https://www.nyc.gov/site/specialenforcement/hosting-STRs/what-is-local-law-18.page)",
      "Local Law 18 of 2022: renting for fewer than 30 consecutive days requires OSE registration",
-     "Yes"
+     "Applies"
     ],
     [
      "[Host present](https://www.nyc.gov/site/specialenforcement/registration-law/tips-for-hosts.page)",
      "Host must be present for stays under 30 days; no renting an entire apartment or home",
-     "Plan fails"
+     "Fails the plan"
     ],
     [
      "[Guest limit](https://www.nyc.gov/site/specialenforcement/registration-law/registration.page)",
      "No more than two paying guests (children under 4 not counted)",
-     "Plan fails: 5 guests"
+     "Fails the plan: 5 guests"
     ],
     [
      "[Who can register](https://www.nyc.gov/site/specialenforcement/faq/faq-for-prospective-hosts.page)",
      "A natural person who is the permanent occupant of the unit",
-     "Plan fails"
+     "Fails the plan"
     ],
     [
      "Platform enforcement",
      "Platforms may not process transactions for unregistered short-term rentals",
-     "Yes"
+     "Applies (enforcement)"
     ],
     [
      "Building, fee",
@@ -474,35 +487,36 @@
      "Not reached"
     ]
    ],
-   "caption": "Checked 2026-09-25 by official-domain search of nyc.gov; pages not opened directly. Open them yourself. Real use needs an NYC attorney as second reviewer.",
-   "notes": "First test: New York City. The city's Mayor's Office of Special Enforcement, OSE, runs registration under Local Law 18 of 2022. Anyone renting housing for fewer than 30 consecutive days has to register.\n\nThen the plan runs into three rules at once. OSE says the host has to be present for stays under 30 days, and you can't rent an entire apartment or home. It caps stays at two paying guests. And the person registering has to be a natural person who permanently lives in the unit. Alder Street is unhosted, whole unit, 5 guests, and the operator lives elsewhere. It fails on every one.\n\nPlatforms also can't process bookings for unregistered rentals, so this isn't a rule you can quietly ignore.\n\nNotice the rows marked not reached. I didn't research the lease or insurance, because the city rule already ended it. One caution: these checks came from official-domain search, not from opening the pages. Open them yourself before you rely on any of this."
+   "caption": "The Alder Street plan is hypothetical. The rules come from the official pages linked in the first column. Checked 2026-09-25 from search results on nyc.gov; open each page yourself. Real use needs an NYC attorney as second reviewer.",
+   "notes": "First test: New York City. The Mayor's Office of Special Enforcement, OSE, runs registration under Local Law 18 of 2022. Anyone renting housing for fewer than 30 consecutive days has to register.\n\nThen the plan runs into three rules at once. The host has to be present for stays under 30 days, and you can't rent an entire apartment or home. Stays are capped at two paying guests. And the person registering has to be a natural person, meaning an individual rather than a company, who permanently lives in the unit. Alder Street fails on every one.\n\nPlatforms also can't process bookings for unregistered rentals. That rule applies, but it isn't what fails the plan.\n\nNot reached means I skipped those lines, because the city rule already ended it. Two cautions. I summarized each rule to fit the slide. On your sheet, paste the exact sentence. And the course team confirmed these rules from search results on nyc.gov but did not open every page. Open each page yourself before you rely on it.",
+   "text": "The Alder Street plan is hypothetical; the rules come from the linked official pages. Not reached = skipped because an earlier line already failed the plan."
   },
   {
    "type": "table",
-   "title": "In Los Angeles, the same plan fails on primary residence and the 120-day cap",
+   "title": "In Los Angeles, the same plan fails on primary residence before nights even matter",
    "ref": "SR.1.5",
-   "assumption": true,
+   "assumption": false,
    "compact": true,
    "columns": [
     "Check",
-    "Result from City Planning",
-    "Deciding?"
+    "Result from City Planning (summarized)",
+    "Effect on the plan"
    ],
    "rows": [
     [
      "[Home-Sharing Ordinance](https://planning.lacity.gov/project-review/home-sharing)",
      "Adopted December 2018. Limits STRs to the host's primary residence",
-     "Yes"
+     "Applies"
     ],
     [
      "[Residence test](https://planning.lacity.gov/ordinances/docs/HomeSharing/adopted/faq.pdf)",
      "Signed declaration that the host lives there more than six months a year",
-     "Plan fails"
+     "Fails the plan"
     ],
     [
      "[Night cap](https://planning.lacity.gov/blog/what-home-sharing-program)",
-     "Standard Home-Sharing allows up to 120 days a year",
-     "Plan fails: 255 nights"
+     "Standard Home-Sharing allows up to 120 days a year; Extended allows more with extra criteria",
+     "Would also fail: 255 nights"
     ],
     [
      "[Rent Stabilization](https://planning.lacity.gov/ordinances/docs/HomeSharing/FAQ.pdf)",
@@ -525,15 +539,16 @@
      "To verify: current fee"
     ]
    ],
-   "caption": "Checked 2026-09-25 by official-domain search of planning.lacity.gov, housing.lacity.gov, and finance.lacity.gov. Real use needs a Los Angeles attorney.",
-   "notes": "Same unit, same plan, now inside the City of Los Angeles.\n\nLA's Home-Sharing Ordinance, adopted in December 2018, limits short-term rental to the host's primary residence. The host signs a declaration saying they live there more than six months of the year. Our operator lives elsewhere, so the plan fails right there.\n\nIt would fail a second way too. Standard Home-Sharing allows up to 120 days a year. Our plan is 255 nights.\n\nA few lines stay open, and I've marked them to verify. The Rent Stabilization Ordinance covers most non-single-family rentals built before October 1, 1978, so a four-unit building needs its year built checked. City Planning has published a draft ordinance for non-primary residences, and the search didn't show it as adopted. The FAQ lists an $89 fee, but that document may be older than the current fee schedule.\n\nThose open lines don't change today's answer. They're what you'd ask the city about in writing."
+   "caption": "The Alder Street plan is hypothetical. The rules come from the official pages linked in the first column. Checked 2026-09-25 from search results on planning.lacity.gov, housing.lacity.gov, and finance.lacity.gov, not by opening every page. Real use needs a Los Angeles attorney.",
+   "notes": "Same unit, same plan, now inside the City of Los Angeles.\n\nLA's Home-Sharing Ordinance, adopted in December 2018, limits short-term rental to the host's primary residence. The host signs a declaration saying they live there more than six months of the year. Our operator lives elsewhere, so the plan fails right there.\n\nNights would be a second problem. Standard Home-Sharing allows up to 120 days a year. Extended Home-Sharing allows more, but only with extra criteria. Our plan is 255 nights, so it would also fail here. Primary residence already decided it.\n\nA few lines stay open, marked to verify. The Rent Stabilization Ordinance covers most non-single-family rentals built before October 1, 1978, so a four-unit building needs its year built checked. A draft ordinance for non-primary residences exists, and the search didn't show it as adopted. The $89 fee may be out of date.\n\nThose open lines don't change today's answer. They're what you'd ask the city about in writing.",
+   "text": "Same hypothetical plan; the rules come from the linked official pages."
   },
   {
    "type": "table",
    "title": "In LA, Airbnb remits the 14% city TOT, but the host still registers and files monthly",
    "ref": "SR.1.5",
    "compact": true,
-   "text": "Section D is filled here to show how it works, even though the plan already fails Section B.",
+   "text": "Section D is filled here only to show how it reads. The plan already fails Section B, so in real use you'd stop there.",
    "columns": [
     "Section D field",
     "City Transient Occupancy Tax (TOT)"
@@ -569,13 +584,13 @@
     ]
    ],
    "caption": "Sources: [LA Office of Finance: TOT requirements](https://finance.lacity.gov/transient-occupancy-tax-requirements); [Airbnb: California collection](https://www.airbnb.com/help/article/2297). Checked 2026-09-25.",
-   "notes": "I filled Section D for Los Angeles even though the plan fails, so you can see how the section reads.\n\nThe city Transient Occupancy Tax is 14% of rent for stays of 30 days or less. You register with the LA Office of Finance and get a TOT Registration Certificate within 30 days of starting.\n\nNow the part people get wrong. Airbnb collects and remits the city TOT on Airbnb bookings, and its article says the base includes cleaning fees. That doesn't mean you're finished. The host still files a monthly return, due by the 25th of the next month, and deducts what the platform already remitted. Vrbo's handling is marked to verify. On direct bookings, you collect and remit it all yourself.\n\nThat's why this section has a column per channel. The same tax can be handled three different ways depending on where the guest booked. Lesson 3.3 goes deeper on this."
+   "notes": "I filled Section D for Los Angeles even though the plan fails, so you can see how the section reads.\n\nThe city Transient Occupancy Tax is 14% of rent for stays of 30 days or less. You register with the LA Office of Finance and get a TOT Registration Certificate within 30 days of starting.\n\nNow the part people get wrong. Airbnb collects and remits the city TOT on Airbnb bookings, and its article says the base includes cleaning fees. That doesn't mean you're finished. The host still files a monthly return, due by the 25th of the next month, and deducts what the platform already remitted. Vrbo's handling is marked to verify. On direct bookings, you collect it all and pay it to the city yourself.\n\nThat's why this section has a column per channel. The same tax can be handled three different ways depending on where the guest booked. Lesson 3.3 goes deeper on this."
   },
   {
    "type": "table",
    "title": "Both cities say prohibited, for reasons a note like \"legal with a permit\" would miss",
    "ref": "SR.1.5",
-   "assumption": true,
+   "assumption": false,
    "columns": [
     "Section G",
     "New York City",
@@ -595,7 +610,7 @@
     [
      "Fails on",
      "Host presence, whole unit, 5 guests against a two-guest limit",
-     "Primary residence; 255 nights against the 120-day cap"
+     "Primary residence (and 255 nights exceeds the 120-day standard cap)"
     ],
     [
      "Next step",
@@ -611,9 +626,11 @@
    "box": {
     "kind": "gold",
     "label": "Why the plan comes first",
-    "text": "The NYC test ends at Section B. You don't spend a week on tax rates for a use the city bars."
+    "text": "The NYC test ends at Section B. You don't spend a week on tax rates for a use the city bars. (We filled LA's Section D only to show how it reads.)"
    },
-   "notes": "Put the two decisions side by side. Both say prohibited under Rule 1. But the reasons are different.\n\nNew York fails the plan on host presence and guest count. Los Angeles fails it on primary residence and nights. If you'd written \"LA: legal with a permit\" in a notes file, you'd have missed both of those conditions.\n\nEach decision also points somewhere. In New York, a prohibited short-stay plan can lead to a different plan, a furnished rental of 30 nights or more. That's a new sheet, a new lease clause, and new numbers. In Los Angeles, the open question is whether the draft ordinance for non-primary homes has been adopted. You ask City Planning in writing.\n\nBoth get a recheck date of December 24, 2026, which is 90 days after the September 25 decision. And look at how short the New York test was. That's what writing the plan first buys you."
+   "notes": "Put the two decisions side by side. Both say prohibited under Rule 1. But the reasons are different.\n\nNew York fails the plan on host presence and guest count. Los Angeles fails it on primary residence, and the 255 nights also exceed the standard 120-day cap. If you'd written \"LA: legal with a permit\" in a notes file, you'd have missed both of those conditions.\n\nEach decision also points somewhere. In New York, a prohibited short-stay plan can lead to a different plan, a furnished rental of 30 nights or more. That's a new sheet, a new lease clause, and new numbers. In Los Angeles, the open question is whether the draft ordinance for non-primary homes has been adopted. You ask City Planning in writing.\n\nBoth get a recheck date of December 24, 2026, which is 90 days after the September 25 decision. And look at how short the New York test was. That's what writing the plan first buys you.",
+   "caption": "Hypothetical plan; decisions based on the official pages on slides 12 and 13.",
+   "compact": true
   },
   {
    "type": "bullets",
@@ -635,7 +652,7 @@
    "ref": "SR.1.6",
    "assumption": true,
    "compact": true,
-   "text": "Three-bed house in a drive-to lake market. Sleeps 8, no HOA, unhosted, 3.5-night stays, 212 nights, about 10 personal days a year. The example names no state or county, so every rule line is blank.",
+   "text": "Three-bed house in a drive-to lake market. Sleeps 8, no HOA, unhosted, 3.5-night stays, 212 nights, about 10 personal days a year. No state or county is named, so all 18 rule lines are blank. Section F groups them into five questions by who can answer.",
    "columns": [
     "#",
     "Open item",
@@ -667,9 +684,9 @@
     ],
     [
      "4",
-     "Lender occupancy covenant fits 10 personal days",
+     "Loan's occupancy rule (covenant) fits 10 personal days",
      "Lender, in writing",
-     "Before rate lock",
+     "Before the rate lock",
      "Yes"
     ],
     [
@@ -681,14 +698,19 @@
     ]
    ],
    "caption": "Action: keep the offer's regulatory and inspection contingencies open until items 1, 2, 4, and 5 have written answers.",
-   "notes": "Cedar Ridge shows you what a sheet looks like on day one of due diligence. It's the hypothetical three-bedroom lake house that Maya and Chris would buy. It sleeps 8, has no HOA, and they'd use it about 10 days a year. The plan is unhosted, 3.5-night stays, 212 nights a year.\n\nThe canonical example doesn't name a state or county, so every rule line is blank. That gives us Rule 4: unresolved.\n\nAn unresolved sheet is still useful. It tells you exactly which emails to send and which contingency dates matter. Zoning and permit transfer have to be answered in writing before the contingency deadline. The lender has to confirm the occupancy covenant fits 10 personal days before the rate lock. The insurer confirms before closing.\n\nItem 3, taxes, doesn't block the decision. It doesn't change whether the use is legal. It still has to be done before the first booking. PA.1 and Sam's PA.2 cover screening the market before you get this far."
+   "notes": "Cedar Ridge shows you what a sheet looks like on day one of due diligence. It's the hypothetical three-bedroom lake house that Maya and Chris would buy. It sleeps 8, has no HOA, and they'd use it about 10 days a year. The plan is unhosted, 3.5-night stays, 212 nights a year.\n\nThe course example doesn't name a state or county, so all 18 rule lines are blank. That gives us Rule 4: unresolved. Their offer keeps its regulatory contingency open while they get answers.\n\nThose 18 blanks collapse into five questions, grouped by who can answer them. Zoning and permit transfer go to the planning or licensing office before the contingency deadline. In a real sheet, write the actual date. The lender confirms its occupancy covenant, the loan's rule on how the owner must use the home, before the rate lock. That's when the lender fixes your interest rate. The insurer confirms before closing.\n\nItem 3, taxes, doesn't change whether the use is legal. It still gets done before the first booking.",
+   "box": {
+    "kind": "gold",
+    "label": "Action",
+    "text": "Keep the offer's regulatory and inspection contingencies open until items 1, 2, 4, and 5 have written answers."
+   }
   },
   {
    "type": "bullets",
-   "title": "Email one topic at a time, quote the rule, and ask for the answer in writing",
+   "title": "Email about one address and plan, quote the rule, and ask for a written answer",
    "ref": "SR.1.7",
    "ordered": true,
-   "text": "Give the address, parcel, zoning district, the page you read with its date, and your exact plan. Then ask:",
+   "text": "Give the address, parcel, zoning, the page and date you read, and your plan. Then ask:",
    "items": [
     "Is this use allowed at this parcel? Which permit or registration category applies?",
     "Is there a cap, waitlist, or pending change that affects a new application?",
@@ -699,13 +721,13 @@
    "box": {
     "kind": "warn",
     "label": "A phone answer is not enough",
-    "text": "A call helps you find the right office. It doesn't clear a deciding line under Rule 5. Ask the person to confirm by email."
+    "text": "A phone answer doesn't clear a deciding line under Rule 5. Ask the person to confirm by email."
    },
-   "notes": "When an official page doesn't answer a deciding question, you write to the office. The full sample email is in SR.1.7. Here's how it's built.\n\nOpen with the facts: the full address, the parcel number, the zoning district, and the page you read, with the date. Then state your plan in one short paragraph. Whole unit or room, hosted or not, average stay, guests, nights a year, whether it's your primary residence, and whether you own or lease.\n\nThen ask the five questions on the slide, and ask for the answer in writing. Offices answer faster when they can reply yes, no, or see section X. If another office handles part of it, ask them to tell you which one.\n\nWhen the reply comes in, paste the key sentence into Section E, save the email as a PDF, and update the Status column. And if someone gives you a good answer on the phone, thank them and ask them to put it in an email."
+   "notes": "When an official page doesn't answer a deciding question, you write to the office. The full sample email is in SR.1.7. Here's how it's built.\n\nOpen with the facts: the full address, the parcel number, the zoning district, and the page you read, with the date. Then state your plan in one short paragraph. Whole unit or room, hosted or not, average stay, guests, nights a year, whether it's your primary residence, and whether you own or lease.\n\nKeep each email to one address and one plan. If you only need one answer, ask only that question. Otherwise ask the ones on the slide, and ask for the answer in writing. Offices answer faster when they can reply yes, no, or see section X. If another office handles part of it, ask them to tell you which one.\n\nWhen the reply comes in, paste the key sentence into Section E, save the email as a PDF, and update the Status column. And if someone gives you a good answer on the phone, thank them and ask them to put it in an email."
   },
   {
    "type": "table",
-   "title": "The attorney confirms the decision, and four other parties confirm their own lines",
+   "title": "The attorney confirms the decision; everyone else confirms only their own line",
    "ref": "SR.1.8",
    "columns": [
     "Who",
@@ -729,7 +751,7 @@
      "In writing: the policy covers short-term guests at this address"
     ],
     [
-     "Landlord, or HOA and lender",
+     "Landlord (if you rent), or HOA and lender (if you own)",
      "In writing: short-term stays are allowed"
     ]
    ],
@@ -742,24 +764,24 @@
    "ref": "SR.1.9",
    "nodes": [
     {
-     "k": "After 3.1",
+     "k": "3.1 rules overview",
      "h": "Fill Section A",
-     "d": "Write the plan for one address"
+     "d": "After 3.1, the rules overview. Write the plan for one address"
     },
     {
      "k": "Sam's 3.2",
      "h": "Run B and C",
-     "d": "Alongside the live regulation search"
+     "d": "Alongside Sam's 3.2 live regulation search"
     },
     {
-     "k": "3.3",
+     "k": "3.3 occupancy tax",
      "h": "Complete D",
-     "d": "Tax registrations and who remits by channel"
+     "d": "With 3.3 on occupancy tax: who remits by channel"
     },
     {
-     "k": "3.4",
-     "h": "Section G is gate one",
-     "d": "First gate of reject / investigate / advance",
+     "k": "3.4 red flags",
+     "h": "G is gate one",
+     "d": "In 3.4's red-flag screen: reject, investigate, or advance",
      "kind": "go"
     }
    ],
@@ -768,20 +790,20 @@
     "label": "Owners in STR Concierge",
     "text": "Run the sheet on each finalist market during Sam's PA.2, then again on the exact parcel before the offer's contingencies expire."
    },
-   "notes": "Here's where the sheet shows up in the course.\n\nIn the Roadmap, fill Section A after lesson 3.1, once you know how licensing, zoning, and primary-residence rules work. Run Sections B and C while you watch Sam's 3.2 live search. Complete Section D with lesson 3.3 on occupancy taxes. Then lesson 3.4 uses your Section G result as the first gate of its reject, investigate, or advance screen.\n\nOwners in STR Concierge use it twice. First on each finalist market during Sam's PA.2, as a screen. Then again on the exact parcel, before the offer's contingencies run out. The market-level pass tells you where to look. The parcel-level pass is the one that decides.\n\nAfter a unit clears this sheet, SR.5 picks up. That's where you choose the tools that will show the permit number in your listings and route taxes by channel."
+   "notes": "Here's where the sheet shows up in the course.\n\nIn the Roadmap, fill Section A after lesson 3.1, once you know how licensing, zoning, and primary-residence rules work. Run Sections B and C while you watch Sam's 3.2 live search. Complete Section D with lesson 3.3 on occupancy taxes. Then lesson 3.4, Red Flags, uses your Section G result as the first gate of its reject, investigate, or advance screen.\n\nOwners in STR Concierge use it twice. First on each finalist market during Sam's PA.2, as a screen. Then again on the exact parcel, before the offer's contingencies run out. The market-level pass tells you where to look. The parcel-level pass is the one that decides.\n\nAfter a unit clears this sheet, SR.5 picks up. That's where you choose the tools that will show the permit number in your listings and route taxes by channel."
   },
   {
    "type": "dothis",
    "title": "Start one real sheet this week and get one deciding line to Done",
    "ref": "SR.1.9",
    "items": [
-    "Copy Section A and write the plan for one real address: hosting, whole unit or room, stay length, guests, nights",
-    "Find the city's STR ordinance on an official site. Paste the deciding sentence into Section B with the URL and today's date",
-    "Make one evidence folder named with the address, and save each page you used as a PDF",
-    "Draft the SR.1.7 email for one deciding question the official page doesn't answer, and send it"
+    "Write Section A for one real address. No deal yet? Use a live listing in a market you like",
+    "Find the city's STR ordinance on an official site. Paste the deciding sentence, URL, and date",
+    "Make one evidence folder named with the address; save each page as a PDF",
+    "Send the SR.1.7 email for one deciding question the official page doesn't answer"
    ],
-   "next": "Next: SR.5 Tool comparison guide: PMS, dynamic pricing, AI guest messaging. It picks up once a unit clears this sheet.",
-   "notes": "Four things for this week, and none of them should take more than an hour.\n\nPick one real address you're looking at and write Section A. Be specific about the plan. If you haven't decided the guest count or whether you'll be on site, decide now, because the research depends on it.\n\nThen find the city's short-term rental ordinance on an official site. Not a blog, and not a platform page. Paste the one sentence that decides your case into Section B, with the link and today's date.\n\nSet up the evidence folder, named with the address, and save the pages you used as PDFs.\n\nLast, find one deciding question that the page doesn't answer, and send the email from SR.1.7. Then you'll have a written answer coming.\n\nWhen a unit clears the sheet, move to SR.5, the tool comparison guide. That's where the permit number and your tax routing turn into software settings."
+   "next": "Next: SR.5 Tool comparison guide. Use it once a unit clears this sheet.",
+   "notes": "Four things for this week, and none of them should take more than an hour.\n\nPick one real address you're looking at and write Section A. No deal yet? Use a live listing in a market you're considering. Be specific about the plan. If you haven't decided the guest count or whether you'll be on site, decide now, because the research depends on it.\n\nThen find the city's short-term rental ordinance on an official site. Not a blog, and not a platform page. Paste the one sentence that decides your case into Section B, with the link and today's date.\n\nSet up the evidence folder, named with the address, and save the pages you used as PDFs.\n\nLast, find one deciding question that the page doesn't answer, and send the email from SR.1.7. Then you'll have a written answer coming.\n\nWhen a unit clears the sheet, move to SR.5, the tool comparison guide. That's where the permit number and your tax routing turn into software settings."
   },
   {
    "type": "sources",
@@ -837,9 +859,24 @@
      "title": "Airbnb: Learn about hosting regulations",
      "url": "https://www.airbnb.com/resources/hosting-homes/a/learn-about-hosting-regulations-7",
      "note": "a starting point, not the final authority"
+    },
+    {
+     "title": "Airbnb: Occupancy tax collection in California",
+     "url": "https://www.airbnb.com/help/article/2297",
+     "note": "Airbnb collects LA city TOT; base includes cleaning fees"
+    },
+    {
+     "title": "LA Home-Sharing FAQ, earlier version (PDF)",
+     "url": "https://planning.lacity.gov/ordinances/docs/HomeSharing/FAQ.pdf",
+     "note": "RSO exclusion; notarized landlord approval"
+    },
+    {
+     "title": "LA Vacation Rentals fact sheet (PDF)",
+     "url": "https://planning.lacity.gov/odocument/ca33f8db-de3d-4629-b927-da7b7fe950fa/Vacation_Rental_Fact_Sheet.pdf",
+     "note": "draft non-primary-residence rules"
     }
    ],
-   "notes": "These are the main sources behind the slides. The full list, with how each was checked, is in the SR.1 sources section of the resource.\n\nTwo things to know about them. First, every rule check was done on September 25, 2026, by searching the official domains, not by opening every page. So open each page yourself before you rely on it, and put your own date on your own sheet.\n\nSecond, notice which sources decide things and which don't. The NYC and LA pages are the rules. The Airbnb pages tell you what Airbnb does, such as requiring a permit number before a listing goes live. Airbnb's own regulations page calls itself a starting point.\n\nRules change. The LA draft ordinance is the clearest example on this list. That's why every sheet carries a recheck date."
+   "notes": "These are the main sources behind the slides. The full list, with how each was checked, is in the SR.1 sources section of the resource.\n\nTwo things to know about them. First, every rule check was done on September 25, 2026, from search results on the official sites, not by opening every page. So open each page yourself before you rely on it, and put your own date on your own sheet.\n\nSecond, notice which sources decide things and which don't. The NYC and LA pages are the rules. The Airbnb pages tell you what Airbnb does, such as requiring a permit number before a listing goes live.\n\nRules change. The LA draft ordinance is the clearest example on this list. That's why every sheet carries a recheck date."
   }
  ]
 }

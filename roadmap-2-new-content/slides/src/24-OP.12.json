@@ -12,7 +12,7 @@
       "subtitle": "Lesson OP.12. Exit Strategy: Hold, Refinance, Sell, or 1031 Exchange",
       "meta": [["Teacher", "Preston"], ["Example", "Cedar Ridge house (hypothetical)"], ["Use", "Education only. Not tax, legal, or lending advice. Tax rates shown are placeholders."]],
       "ref": "OP.12.0",
-      "notes": "This is the last lesson in the STR Concierge track, and it's about the end of an investment, or at least a turning point.\n\nYou have four options for a property you own. You can hold it, refinance it, sell it, or sell it through a 1031 exchange. By the end of this lesson you'll be able to put those four side by side. You'll compare them on after-tax proceeds, future debt, time, and workload.\n\nYou'll also learn how the gain on a sale is built, which parts depreciation touches, and which answers only your CPA can give. I'm not going to calculate your tax. I'm going to show you the structure so you can collect the right records and read your CPA's answer.\n\nYou'll leave with a decision worksheet you can hand to that CPA and to a qualified intermediary. We'll use Cedar Ridge at the end of year 5."
+      "notes": "This is the last lesson in the STR Concierge track, and it's about the end of an investment, or at least a turning point.\n\nYou have four options for a property you own. You can hold it, refinance it, sell it, or sell it through a 1031 exchange. By the end of this lesson you'll be able to put those four side by side. You'll compare them on after-tax cash, time to complete, future debt, ongoing work, and opportunity cost.\n\nYou'll also learn how the gain on a sale is built, which parts depreciation touches, and which answers only your CPA can give. I'm not going to calculate your tax. I'm going to show you the structure so you can collect the right records and read your CPA's answer.\n\nYou'll leave with a decision worksheet you can hand to that CPA and to a qualified intermediary. That's the independent company that holds your sale money during a 1031 exchange. We'll use Cedar Ridge at the end of year 5."
     },
     {
       "type": "table",
@@ -26,35 +26,34 @@
       ],
       "box": {"kind": "gold", "label": "Weigh five things", "text": "After-tax cash, time to complete, future debt, the work you keep doing, and what you give up (opportunity cost). No option wins on all five."},
       "ref": "OP.12.1",
-      "notes": "Every exit decision comes down to one question. Is the equity in this property doing more for you here than it would do somewhere else?\n\nEquity is the value you could turn into cash. That's market value minus the loan balance, minus the costs of getting it out. Holding keeps that equity in the house. Refinancing pulls some of it out as a new loan. Selling turns it into cash, minus taxes. And a 1031 exchange moves it into another investment property and may defer the tax.\n\nEach option mixes five things differently: after-tax cash, time, future debt, ongoing work, and opportunity cost. None of them wins on all five. You're choosing a trade-off you can live with.\n\nYou'll make this call more than once. Run it whenever your review from Sam's OP.10 shows a real change. A big capital repair, a new local rule, a life change, or equity that has outgrown the cash flow."
+      "notes": "Every exit decision comes down to one question. Is the equity in this property doing more for you here than it would do somewhere else?\n\nEquity is the value you could turn into cash. That's market value minus the loan balance, minus the costs of getting it out. Holding keeps that equity in the house. Refinancing pulls some of it out as a new loan. Selling turns it into cash, minus taxes. And a 1031 exchange moves it into another investment property and may defer the tax.\n\nEach option mixes five things differently: after-tax cash, time, future debt, ongoing work, and opportunity cost. None of them wins on all five. You're choosing a trade-off you can live with.\n\nYou'll make this call more than once. Run it whenever your 90-day or annual review shows a real change. That's the review from Sam's lesson OP.10, the 30-Day and 90-Day Performance Review. A big capital repair, a new local rule, a life change, or equity that has outgrown the cash flow."
     },
     {
       "type": "bullets",
       "title": "Start with an honest equity number built from four documented inputs",
       "keyline": "Value - loan balance - selling costs = net proceeds before income tax",
       "items": [
-        "Updated value: a broker's opinion, recent comparable sales, or an appraisal. Not the price you'd like.",
-        "Ask the broker whether buyers in your market pay extra for furniture and future bookings.",
+        "Updated value: a broker's opinion, recent comps, or an appraisal, not the price you'd like. Ask whether buyers pay extra for furniture and bookings.",
         "Loan balance: the servicer's latest statement. If you plan to sell, request a payoff quote.",
         "Capital repairs due soon, like a roof, HVAC, or deck. They change the hold case and the sale price.",
         "Selling costs: commissions, transfer taxes, title and closing fees, concessions. Get your agent's net sheet."
       ],
       "ref": "OP.12.2",
-      "notes": "Four inputs start every exit analysis.\n\nThe first is the updated value. Get it from a broker's opinion of value, recent comparable sales, or an appraisal. Don't use the price you'd like. Short-term rental houses sometimes sell with furniture and bookings, so ask the broker whether buyers in your market actually pay for that.\n\nThe second is the loan balance. Take it from the servicer's latest statement, not your own amortization schedule. If you plan to sell, request a payoff quote. It can include items the statement doesn't show.\n\nThe third is capital repairs coming in the next few years. A roof or HVAC replacement changes the hold case. It can also change the sale price if a buyer's inspector finds it.\n\nThe fourth is the cost of selling. Our example uses 7% of value as an assumption. Your agent can give you a line-by-line net sheet.\n\nThe result is net proceeds before income tax. That's not your spendable number yet."
+      "notes": "Four inputs start every exit analysis.\n\nThe first is the updated value. Get it from a broker's opinion of value, recent comparable sales, or an appraisal. Don't use the price you'd like. Short-term rental houses sometimes sell with furniture and bookings, so ask the broker whether buyers in your market actually pay for that.\n\nThe second is the loan balance. Take it from the servicer's latest statement, not your own amortization schedule. The servicer is the company that collects your loan payments. If you plan to sell, request a payoff quote. It can include items the statement doesn't show.\n\nThe third is capital repairs coming in the next few years. A roof or HVAC replacement changes the hold case. It can also change the sale price if a buyer's inspector finds it.\n\nThe fourth is the cost of selling. The Cedar Ridge example later in this lesson uses 7% of value as an assumption. Your agent can give you a line-by-line net sheet.\n\nThe result is net proceeds before income tax. That's not your spendable number yet."
     },
     {
       "type": "table",
       "assumption": true,
-      "title": "Holding has a cost you never see on a statement: what the equity could earn elsewhere",
+      "title": "Hold, refinance, and sell each fit a different situation; holding has a hidden cost",
       "columns": ["Option", "Makes sense when", "What you carry"],
       "rows": [
         ["Hold", "It covers costs in a weak season, repairs are funded, the work is manageable, or a sale would trigger tax you'd rather defer", "Opportunity cost"],
         ["Refinance", "You have a specific, better use for the cash and the property can carry the bigger loan in a weak year", "More debt and payments; no sale, so no tax on a gain"],
         ["Sell", "The property no longer fits your goals, local rules tightened, a big repair won't pay back, or the equity has a clearly better use", "Tax due; cash to redeploy"]
       ],
-      "box": {"kind": "info", "label": "Opportunity cost in one line", "text": "A property earning $5,000 a year on $140,000 of equity earns about 3.6%. If safer money pays similar, holding carries more risk for the same return."},
+      "box": {"kind": "info", "label": "Opportunity cost in one line", "text": "Cedar Ridge earns about $5,172 a year after the mortgage on about $142,560 of equity: roughly 3.6%. If safer money pays similar, holding carries more risk."},
       "ref": "OP.12.3",
-      "notes": "Holding is the default. It needs no transaction. But it has a cost you don't see on any statement.\n\nSay a property earns $5,000 a year on $140,000 of equity. Both numbers are assumptions. That equity is earning about 3.6%. If you could sell and put the after-tax cash somewhere safer at a similar return, holding carries more risk for the same money. That's opportunity cost.\n\nHolding makes sense when the property still covers its costs in a weak season, the capital repairs are funded, and the work is manageable. It also makes sense when a sale would trigger a big tax bill you'd rather defer, and the property still meets your PA.1 goals.\n\nRefinancing keeps the property and pulls out cash. It doesn't trigger tax on a gain, but it adds debt. Refinance when you have a specific use for the cash.\n\nSelling ends the risk and the work. It also brings the tax consequences we'll look at next."
+      "notes": "Holding is the default. It needs no transaction. But it has a cost you don't see on any statement.\n\nTake Cedar Ridge, the example later in this lesson. It earns about $5,172 a year in cash flow after the mortgage, on about $142,560 of equity. That's roughly 3.6%. If you could sell and put the after-tax cash somewhere safer at a similar return, holding carries more risk for the same money. That's opportunity cost.\n\nHolding makes sense when the property still covers its costs in a weak season, the capital repairs are funded, and the work is manageable. It also makes sense when a sale would trigger a big tax bill you'd rather defer. The property should still meet your PA.1 buy-box goals.\n\nRefinancing keeps the property and pulls out cash. It doesn't trigger tax on a gain, but it adds debt. Refinance when you have a specific use for the cash and the property can carry the bigger loan in a weak year. That's the weak-season test: does it still pay every bill, mortgage included, in a bad year?\n\nSelling ends the risk and the work. It also brings the tax consequences we'll look at next."
     },
     {
       "type": "flow",
@@ -65,37 +64,35 @@
         {"k": "Step 3", "h": "Gain", "d": "Amount realized minus adjusted basis"},
         {"k": "Step 4", "h": "CPA splits it", "d": "Into pieces that can be taxed differently"}
       ],
-      "box": {"kind": "gold", "label": "Allowed or allowable", "text": "Depreciation reduces basis whether or not you claimed it (Pub 527). Skipping it only loses the deduction. Bonus depreciation and section 179 also reduce basis."},
+      "box": {"kind": "gold", "label": "Allowed or allowable", "text": "Depreciation reduces basis whether or not you claimed it (IRS Publication 527). Skipping it only loses the deduction. Bonus depreciation and section 179 also reduce basis."},
       "ref": "OP.12.4",
-      "notes": "You don't need to calculate your own tax. You do need to know how the calculation is built, so you can collect the right records and read your CPA's answer. Every rule here depends on your facts and the tax year.\n\nGain equals amount realized minus adjusted basis. Amount realized is roughly the sale price minus selling costs. Adjusted basis starts with what you paid plus certain acquisition costs. It goes up by improvements and down by depreciation. IRS Publication 544 describes it that way.\n\nNow the part that surprises people. Suppose you didn't claim all the depreciation you were entitled to. Publication 527 says you still reduce basis by the full amount you could have deducted. The IRS phrase is allowed or allowable. So skipping depreciation doesn't protect you at sale. It only means you lost the deduction.\n\nPublication 527 also says bonus depreciation and any section 179 deduction reduce basis."
+      "notes": "You don't need to calculate your own tax. You do need to know how the calculation is built, so you can collect the right records and read your CPA's answer. Every rule here depends on your facts and the tax year.\n\nGain equals amount realized minus adjusted basis. Amount realized is roughly the sale price minus selling costs. Adjusted basis starts with what you paid plus certain acquisition costs. It goes up by improvements and down by depreciation. IRS Publication 544 describes it that way.\n\nNow the part that surprises people. Suppose you didn't claim all the depreciation you were entitled to. Publication 527 says you still reduce basis by the full amount you could have deducted. The IRS phrase is allowed or allowable. So skipping depreciation doesn't protect you at sale. It only means you lost the deduction.\n\nPublication 527 also says bonus depreciation and any section 179 deduction reduce basis. Bonus depreciation means deducting a large share, or all, of an asset's cost in its first year, if it's eligible. Section 179 is another way to expense an asset up front."
     },
     {
       "type": "table",
       "title": "Your CPA splits the gain into three pieces, and cost segregation grows the ordinary one",
       "columns": ["Piece of the gain", "What's in it", "How it's treated"],
       "rows": [
-        ["Section 1245 recapture", "Furniture and building parts a study moved to 5- or 7-year lives", "Ordinary income, up to the lesser of that depreciation or the gain on those assets (Pub 544)"],
-        ["Unrecaptured section 1250 gain", "Gain tied to straight-line depreciation on the building", "Taxed at a maximum 25% rate (Topic 409)"],
-        ["Section 1231 gain", "Whatever gain remains", "Netted by your CPA with your other gains and losses (Pub 544)"]
+        ["Fast-depreciated items (section 1245 recapture)", "Furniture and parts a study moved to 5- or 7-year lives", "Ordinary income, up to the lesser of that depreciation or the gain on those assets (Pub 544)"],
+        ["Building depreciation (unrecaptured 1250 gain)", "Gain tied to straight-line depreciation on the building", "Taxed at a maximum 25% rate (Topic 409)"],
+        ["Mostly appreciation (section 1231 gain)", "Whatever gain remains", "Netted by your CPA with your other gains and losses (Pub 544)"]
       ],
       "caption": "15-year land improvements can be treated differently; your CPA classifies each asset. Also ask about suspended passive losses (Pub 925) and state tax. Neither is modeled here.",
-      "box": {"kind": "info", "label": "Cost segregation at sale", "text": "Faster deductions shrink basis faster, so more of the gain can land in the ordinary bucket. The study mostly changes timing. SR.3 is the tool for that talk."},
+      "box": {"kind": "info", "label": "Cost segregation at sale", "text": "A cost-segregation study moves parts of the building into 5-, 7-, and 15-year property, deducted faster. At sale, more gain can land in the ordinary bucket."},
       "ref": "OP.12.4",
-      "notes": "Your CPA splits the gain. Here's the structure.\n\nFirst, personal property. That includes furniture and many building parts a cost-segregation study moves to 5- or 7-year lives. It's generally section 1245 property. Publication 544 says gain on it is ordinary income to the extent of depreciation allowed or allowable. The ordinary part is the lesser of that depreciation or the gain on those assets. So it depends on how much of the price gets allocated to those items. That's a CPA and appraisal question.\n\nSecond, the building itself is section 1250 property. Gain tied to straight-line depreciation on it is taxed at a maximum 25% rate, per IRS Topic 409.\n\nThird, anything left is section 1231 gain.\n\nThis is where Sam's PA.5 lesson comes back. A study moves deductions earlier. At sale, more of the gain can land in the ordinary bucket. It can still be worth doing. Resource SR.3 is how you have that conversation."
+      "notes": "Your CPA splits the gain. Here's the structure.\n\nFirst, personal property. That includes furniture and many building parts a cost-segregation study moves to 5- or 7-year lives. It's generally section 1245 property. Publication 544 says gain on it is ordinary income to the extent of depreciation allowed or allowable. The ordinary part is the lesser of that depreciation or the gain on those assets. Say fully depreciated furniture is assigned $6,000 of the sale price. That's $6,000 of ordinary income. So it depends on how much of the price gets allocated to those items. That's a CPA and appraisal question.\n\nSecond, the building itself is section 1250 property. Gain tied to straight-line depreciation on it is taxed at a maximum 25% rate, per IRS Topic 409.\n\nThird, anything left is section 1231 gain.\n\nThis is where Sam's cost-segregation lesson, PA.5, comes back. A study moves deductions earlier. At sale, more of the gain can land in the ordinary bucket. It can still be worth doing, and Cedar Ridge will show why. Resource SR.3 is how you have that conversation."
     },
     {
       "type": "bullets",
       "title": "A 1031 exchange covers real property held for business or investment, not the furniture",
       "items": [
-        "Since 2018, only real property held for use in a business or for investment. That applies to both properties.",
         "Real property held primarily for sale doesn't qualify.",
-        "Property used mainly for personal use doesn't qualify: a primary residence, second home, or vacation home.",
         "Furniture, equipment, and other personal property generally no longer qualify after 2017.",
         "The gain is deferred, not erased. Ask your CPA how it affects the new property's basis and depreciation."
       ],
-      "box": {"kind": "warn", "label": "If you stay there too", "text": "Rev. Proc. 2008-16 is a safe harbor for units with occasional personal use. Have your CPA confirm its section 4.02 standards against the IRS text."},
+      "box": {"kind": "warn", "label": "If you stay there too", "text": "Rev. Proc. 2008-16 is a safe harbor for units with occasional personal use. Have your CPA check its section 4.02 day counts against the IRS text."},
       "ref": "OP.12.5",
-      "notes": "A like-kind exchange under section 1031 lets you sell one investment property and buy another. You defer the gain instead of paying tax on it now. Deferred means it waits. Ask your CPA how the deferred gain affects the replacement property's basis and future depreciation.\n\nWhat qualifies? Since 2018, only real property held for use in a business or for investment. Both the property you sell and the one you buy have to be held that way. The IRS says property used primarily for personal use, like a primary residence, second home, or vacation home, doesn't qualify. And personal property generally no longer qualifies. So the furniture in your STR generally can't be part of the exchange.\n\nNow the caveat for owners who also stay at the property. The IRS issued Rev. Proc. 2008-16, a safe harbor for a unit with occasional personal use. Summaries describe holding, rental, and personal-use conditions. Have your CPA confirm those specifics against the IRS text before you rely on them."
+      "notes": "A like-kind exchange under section 1031 lets you sell one investment property and buy another. You defer the gain instead of paying tax on it now. Deferred means it waits. Ask your CPA how the deferred gain affects the replacement property's basis and future depreciation.\n\nWhat qualifies? Since 2018, only real property held for use in a business or for investment. Both the property you sell and the one you buy have to be held that way. The IRS says property used primarily for personal use, like a primary residence, second home, or vacation home, doesn't qualify. And personal property generally no longer qualifies. So the furniture in your STR generally can't be part of the exchange.\n\nNow the caveat for owners who also stay at the property. The IRS issued Revenue Procedure 2008-16, a safe harbor for a unit with occasional personal use. Summaries describe a holding period, a minimum number of fair-rental days, and a cap on personal use. I couldn't confirm the exact counts from the IRS text. Have your CPA check them before you rely on them."
     },
     {
       "type": "gates",
@@ -121,34 +118,36 @@
         {"op": "-", "label": "Selling costs at 7%", "v": "$31,242"}
       ],
       "result": {"label": "Net proceeds before income tax", "v": "$142,560"},
-      "side": "They paid down $16,231 of principal in five years.\n\n**Hold:** base cash flow of $5,572 is **3.9%** on that equity. The weak case is -$5,475 (B4). Appreciation isn't spendable income.",
+      "side": "They paid down $16,231 of principal in five years. They put about $142,688 in at closing.\n\n**Hold:** base cash flow of $5,172 is **3.6%** on that equity. The weak case is -$5,875. Appreciation isn't spendable income.",
       "ref": "OP.12.6",
-      "notes": "Here's Cedar Ridge at the end of year 5. Maya and Chris kept the original DSCR loan and never refinanced. This is our canonical case B8. Every figure is an assumption, and the tax rates you'll see are placeholders for a CPA to replace.\n\nValue is $446,321, from 3% a year growth. The loan balance is $272,519, so they've paid down $16,231 of principal. Selling costs at 7% are $31,242. That leaves $142,560 of net proceeds before income tax.\n\nNow the hold case. Our model keeps NOI flat, so base-case cash flow is still $5,572, and the weak case is still minus $5,475. On $142,560 of equity, the base case earns 3.9%.\n\nOne note on those figures. They use the original underwriting, B1. PA.9's diligence added $400 a year, the permit renewal. Take $400 off every cash flow in this example. The hold becomes $5,172 and minus $5,875, which is 3.6% on the equity. The year-5 refinance becomes $2,085 and minus $8,962. The ranking of the options doesn't change.\n\nThat's before appreciation. Appreciation is real, but you can't spend it unless you sell or borrow against it. So compare the 3.9% against what that equity could do elsewhere."
+      "notes": "Here's Cedar Ridge at the end of year 5. It's the course's example house. Maya and Chris bought it for $385,000 with a $288,750 DSCR loan, one qualified mainly on the property's income. They put about $142,688 of cash in at closing, including furniture. They never refinanced. Every figure is an assumption.\n\nValue is $446,321, from 3% a year growth. The loan balance is $272,519, so they've paid down $16,231 of principal. Selling costs at 7% are $31,242. That leaves $142,560 of net proceeds before income tax. That's almost exactly the cash they put in.\n\nNow the hold case. These figures include the $400-a-year permit renewal found in due diligence. The model keeps net operating income flat, so base-case cash flow is $5,172, and the weak case is minus $5,875. On $142,560 of equity, the base case earns 3.6%.\n\nThat's before appreciation. Appreciation is real, but you can't spend it unless you sell or borrow against it. So compare the 3.6% against what that equity could do elsewhere."
     },
     {
       "type": "calc",
       "assumption": true,
-      "title": "A year-5 refinance pulls out $53,853 but shrinks base cash flow to $2,485",
+      "title": "A year-5 refinance pulls out $53,853 but shrinks base cash flow to $2,085",
       "lines": [
         {"op": "", "label": "Value", "v": "$446,321"},
-        {"op": "×", "label": "Maximum LTV", "v": "75%"},
+        {"op": "×", "label": "Maximum loan-to-value (LTV)", "v": "75%"},
         {"op": "=", "label": "New loan", "v": "$334,741"},
         {"op": "-", "label": "Current loan balance", "v": "$272,519"},
         {"op": "-", "label": "Refinance costs at 2.5%", "v": "$8,369"}
       ],
       "result": {"label": "Cash out", "v": "$53,853"},
-      "side": "New principal and interest at 7.0%: **$26,724 a year**.\n\nCash flow after: base **$2,485**, weak **-$8,562**.",
+      "side": "New principal and interest at 7.0% over 30 years: **$26,724 a year** ($2,227 a month).\n\nBase cash flow falls from $5,172 to **$2,085**. A weak year goes from -$5,875 to **-$8,962**.",
       "ref": "OP.12.6",
-      "notes": "Now suppose they refinance at year 5 instead, using the same B7 terms. That's 75% loan-to-value, 2.5% costs, and a 7.0% rate. All assumptions.\n\nThe new loan is $334,741. Pay off the $272,519 balance and the $8,369 of costs, and they walk away with $53,853 in cash. They keep the property.\n\nBut look at the other side. The new principal and interest is $26,724 a year. Base-case cash flow drops to $2,485. And a weak year now costs them $8,562 instead of $5,475.\n\nSo the refinance trades a thinner margin for cash now. It doesn't trigger tax on a gain, because nothing was sold. Whether that's a good trade depends on what the $53,853 is for. If they don't have a specific, better use for it, they've just taken on more debt."
+      "notes": "Now suppose they refinance at year 5 instead. They use the same refinance terms as earlier in the course. That's 75% loan-to-value, meaning the new loan is 75% of the value. Costs are 2.5% and the rate is 7.0%. All assumptions.\n\nThe new loan is $334,741. Pay off the $272,519 balance and the $8,369 of costs, and they walk away with $53,853 in cash. They keep the property.\n\nBut look at the other side. The new principal and interest is $26,724 a year, on a 30-year schedule. Base-case cash flow drops from $5,172 to $2,085. And a weak year now costs them $8,962 instead of $5,875.\n\nSo the refinance trades a thinner margin for cash now. It doesn't trigger tax on a gain, because nothing was sold. Whether that's a good trade depends on what the $53,853 is for. If they don't have a specific, better use for it, they've just taken on more debt."
     },
     {
       "type": "table",
       "compact": true,
       "assumption": true,
       "title": "A cost-segregation study nearly doubles the gain at sale, from $64,184 to $124,175",
-      "columns": ["", "A: no study", "B: B6 cost seg + 100% bonus"],
+      "columns": ["", "A: no study (furniture still expensed)", "B: cost-seg study + 100% bonus"],
       "rows": [
         ["Starting basis (price + $6,000 capitalized costs)", "$391,000", "$391,000"],
+        ["Of which land, not depreciable (20%)", "$78,200", "$78,200"],
+        ["Of which building", "$312,800", "$312,800"],
         ["Furnishings basis", "$32,000", "$32,000"],
         ["Depreciation on 5/7/15-year building parts (bonus)", "$0", "-$68,816"],
         ["Depreciation on furnishings (bonus, if eligible)", "-$32,000", "-$32,000"],
@@ -158,14 +157,14 @@
         ["Amount realized ($446,321 - $31,242)", "$415,079", "$415,079"],
         ["**Gain**", "**$64,184**", "**$124,175**"]
       ],
-      "caption": "Simplified: full-year straight-line for five years; building at 39 years ($8,021 or $6,256 a year). Real figures depend on placed-in-service dates and conventions.",
+      "caption": "Of the $391,000, $78,200 is land (not depreciable, assumption) and $312,800 is building. Building at 39 years: $312,800 ÷ 39 = $8,021, or $243,984 ÷ 39 = $6,256 after the study. Simplified: full-year straight-line for five years.",
       "ref": "OP.12.6",
-      "notes": "Now the sale, built two ways. The amount realized is the same in both: $446,321 minus $31,242 of selling costs, or $415,079. What changes is the adjusted basis, and that depends on how they depreciated.\n\nI simplified here. Full-year straight-line for five years, with the building on 39 years.\n\nIn Scenario A there's no cost-segregation study. They took bonus on the $32,000 of furniture and $8,021 a year on the building. Total depreciation is $72,105, so adjusted basis is $350,895 and the gain is $64,184.\n\nIn Scenario B they used the B6 study with 100% bonus. The reclassified building parts, $68,816, came off in year one, plus the furniture. The remaining building ran at $6,256 a year. Total depreciation is $132,096. Adjusted basis drops to $290,904, and the gain is $124,175.\n\nSame house, same sale price. The depreciation choice nearly doubles the gain."
+      "notes": "Now the sale, built two ways. The amount realized is the same in both: $446,321 minus $31,242 of selling costs, or $415,079. What changes is the adjusted basis, and that depends on how they depreciated.\n\nOf the $391,000 basis, 20% is land, which you can't depreciate. That leaves $312,800 of building. I simplified to full-year straight-line on a 39-year life, assuming short stays make it transient use. A 27.5-year life would give bigger yearly figures. Your CPA decides.\n\nIn Scenario A there's no study. They still took bonus on the $32,000 of furniture, plus $8,021 a year on the building. Total depreciation is $72,105, adjusted basis is $350,895, and the gain is $64,184.\n\nIn Scenario B the study moved $68,816 of building parts into faster property, all deducted in year one, plus the furniture. The remaining building ran at $6,256 a year. Total depreciation is $132,096. Adjusted basis drops to $290,904, and the gain is $124,175.\n\nSame house, same sale price. The depreciation choice nearly doubles the gain."
     },
     {
       "type": "table",
       "assumption": true,
-      "title": "The study moved deductions forward, and it didn't erase the tax",
+      "title": "The study moved deductions earlier; it didn't erase the tax",
       "columns": ["Piece of the gain", "Scenario A", "Scenario B", "Placeholder rate"],
       "rows": [
         ["Section 1245 recapture (ordinary)", "$6,000", "$36,000", "32%"],
@@ -174,10 +173,10 @@
         ["**Illustrative federal tax**", "**$14,658**", "**$27,874**", ""],
         ["**Net proceeds after illustrative tax**", "**$127,902**", "**$114,686**", ""]
       ],
-      "caption": "Allocations assumed: $6,000 to used furniture in both; plus $30,000 to reclassified parts in B, all treated as section 1245 for simplicity.",
-      "box": {"kind": "info", "label": "Check the logic", "text": "B took $59,991 more depreciation. At 32% that's up to $19,197 of earlier savings, if the losses were usable. At sale, B pays $13,216 more tax."},
+      "caption": "Allocations assumed: $6,000 to used furniture in both; plus $30,000 to reclassified parts in B, all treated as section 1245 for simplicity. B's section 1250 figure is smaller because the study moved $68,816 out of the building.",
+      "box": {"kind": "info", "label": "Check the logic", "text": "B took $59,991 more depreciation: up to $19,197 saved early at 32%, if the losses were usable. At sale, B pays $13,216 more. Net: up to about $5,981 ahead."},
       "ref": "OP.12.6",
-      "notes": "Now the split. The recapture depends on how much of the price is allocated to section 1245 items. I assumed $6,000 for the used furniture in both scenarios, plus $30,000 for the reclassified building parts in Scenario B. Those allocations are assumptions only.\n\nThe rates are placeholders too: 32% on the ordinary piece, 25% on the section 1250 piece because that's the maximum in Topic 409, and 15% on the rest. Illustrative federal tax is $14,658 in A and $27,874 in B.\n\nCheck the logic. Scenario B took $59,991 more depreciation over five years. At 32% that's up to $19,197 of earlier tax savings, but only if the losses were usable when they were taken. At sale, B pays $13,216 more.\n\nAfter tax, they'd walk away with $127,902 in A or $114,686 in B. And holding earns 4.4% or 4.9% on those after-tax figures. The equity you'd actually leave with is smaller than the equity on paper."
+      "notes": "Now the split. I assumed $6,000 of the price goes to the used furniture in both scenarios, plus $30,000 to the reclassified building parts in B. Allocations and rates are assumptions; the CPA replaces them. Illustrative federal tax is $14,658 in A and $27,874 in B.\n\nB's section 1250 figure is smaller because the study moved $68,816 out of the building. That depreciation shows up in the 1245 row and the remaining gain instead.\n\nCheck the logic. Scenario B took $59,991 more depreciation over five years. At 32% that's up to $19,197 of earlier tax savings, but only if the losses were usable. At sale, B pays $13,216 more. Net, B is up to about $5,981 ahead, plus the use of that money for five years. If the losses weren't usable, B is just $13,216 behind.\n\nAfter tax, they'd walk away with $127,902 in A or $114,686 in B. Holding earns 4.0% or 4.5% on those figures. B looks higher only because its after-tax cash is smaller. The property earns the same either way."
     },
     {
       "type": "flow",
@@ -186,12 +185,11 @@
       "nodes": [
         {"k": "Day 0", "h": "Oct 20, 2031", "d": "Sale closes. The QI holds the proceeds."},
         {"k": "Day 45", "h": "Dec 4, 2031", "d": "Written, signed identification of possible replacements"},
-        {"k": "Day 180", "h": "Apr 17, 2032", "d": "Receive the replacement, unless the 2031 return due date comes first"},
-        {"k": "CPA", "h": "Exact date", "d": "Confirms the deadline, any extension, and Form 8824"}
+        {"k": "Day 180", "h": "Apr 17, 2032", "d": "Receive the replacement, unless the 2031 return due date comes first"}
       ],
-      "box": {"kind": "warn", "label": "Inside those 180 days", "text": "Permission check (SR.1), underwriting (Sam's PA.4), financing (PA.6, PA.7), and a team (OP.7). Have the shortlist ready before the sale closes."},
+      "box": {"kind": "warn", "label": "Before and inside those 180 days", "text": "Their CPA confirms the exact deadline, any extension, Form 8824, and whether 10 personal-use days a year fit the section 4.02 cap.\n\nThe replacement needs a permission check (SR.1), underwriting, financing, and a team. Have the shortlist ready before the sale closes."},
       "ref": "OP.12.6",
-      "notes": "Now the 1031 path. Suppose they sell on October 20, 2031, and want to exchange. The dates are assumptions.\n\nDay 45 is December 4, 2031. That's the written identification deadline. Day 180 is April 17, 2032. That can be later than the due date of their 2031 return. If it is, the return due date comes first unless they extend. Their CPA confirms the exact date.\n\nIf the exchange qualifies, the gain on the real property is deferred. The furniture sits outside the exchange, so the CPA handles that $6,000 allocation separately. Their 10 personal-use days a year are the Rev. Proc. 2008-16 question. They need calendar records for the two years before the sale, and a plan for the two years after.\n\nThe exchange also restarts the whole buying process. The replacement needs its own address check, underwriting, financing, and team, all inside 180 days. That clock argues for having the replacement shortlist ready before the sale closes."
+      "notes": "Now the 1031 path. Suppose they sell on October 20, 2031, and want to exchange. The dates are assumptions.\n\nDay 45 is December 4, 2031. That's the written identification deadline. Day 180 is April 17, 2032. Check whether their 2031 return is due before that. If it is, that earlier date is the real deadline unless they file an extension. Their CPA confirms which date applies.\n\nIf the exchange qualifies, the gain on the real property is deferred. The furniture sits outside the exchange, so the CPA handles that $6,000 allocation separately. Their 10 personal-use days a year go to the CPA to check against the section 4.02 personal-use cap. They need calendar records for the two years before the sale, and a plan for the two years after.\n\nThe exchange also restarts the whole buying process. The replacement needs its own address check, underwriting, financing, and team, all inside 180 days. That clock argues for having the replacement shortlist ready before the sale closes."
     },
     {
       "type": "table",
@@ -200,19 +198,20 @@
       "title": "Side by side, the numbers show the trade-offs but don't pick for Maya and Chris",
       "columns": ["Option", "Cash now", "Future debt", "Cash flow, base / weak", "Work", "Main risk"],
       "rows": [
-        ["Hold", "$0", "$272,519", "$5,572 / -$5,475", "Same", "Weak seasons; capital repairs"],
-        ["Refinance", "$53,853", "$334,741", "$2,485 / -$8,562", "Same", "Bigger loan in a weak year"],
+        ["Hold", "$0", "$272,519", "$5,172 / -$5,875", "Same", "Weak seasons; capital repairs"],
+        ["Refinance", "$53,853", "$334,741", "$2,085 / -$8,962", "Same", "Bigger loan in a weak year"],
         ["Sell", "$127,902 (A) or $114,686 (B)", "$0", "n/a", "Ends", "Tax due; redeploying cash"],
-        ["1031 exchange", "Reinvested", "New loan", "Depends on replacement", "Restarts", "Deadlines; QI; qualification"]
+        ["1031 exchange", "About $142,560 rolled over (furniture handled outside; CPA)", "New loan", "Depends on replacement", "Restarts", "Deadlines; QI; qualification"]
       ],
-      "caption": "Sell figures are after illustrative federal tax. Which is right depends on their PA.1 goals and their worksheet answers.",
+      "caption": "Sell figures are after illustrative federal tax. Hold and refinance both lose money in a weak year, so either needs cash reserves. Which is right depends on their PA.1 goals and their worksheet answers.",
       "ref": "OP.12.6",
-      "notes": "Here's how the four options line up for Maya and Chris.\n\nHold gives them no cash now, keeps $272,519 of debt, and keeps the $5,572 base and minus $5,475 weak case. The work stays the same. The risk is weak seasons and capital repairs.\n\nRefinance gives them $53,853 now, with $334,741 of debt. Base cash flow drops to $2,485 and a weak year costs $8,562. Same work, bigger loan.\n\nSell gives them $127,902 or $114,686 after illustrative tax, depending on how they depreciated. No debt, no work. The risk moves to paying the tax and finding a use for the cash.\n\nThe exchange reinvests everything into a new property with a new loan. The work restarts, and the risks are the deadlines, the QI, and qualification.\n\nWhich one is right depends on their goals from PA.1 and their answers in the worksheet. The numbers make the trade-offs visible. They don't pick for you.\n\n[Recording note: Preston can add a real example here if he has one.]"
+      "notes": "Here's how the four options line up for Maya and Chris.\n\nHold gives them no cash now, keeps $272,519 of debt, and keeps the $5,172 base and minus $5,875 weak case. The work stays the same. The risk is weak seasons and capital repairs.\n\nRefinance gives them $53,853 now, with $334,741 of debt. Base cash flow drops to $2,085 and a weak year costs $8,962. Same work, bigger loan.\n\nNotice that both lose money in a weak year. By our own test, holding only works with reserves for about $5,875 of weak-year losses. A refinance needs about $8,962.\n\nSell gives them $127,902 or $114,686 after illustrative tax, depending on how they depreciated. No debt, no work. The risk moves to paying the tax and finding a use for the cash.\n\nThe exchange rolls about $142,560 into a new property with a new loan. The furniture is handled outside it. The work restarts, and the risks are the deadlines, the QI, and qualification.\n\n[Recording note: Preston can add a real example here if he has one.]",
+      "box": {"kind": "warn", "label": "Weak year", "text": "Hold and refinance both lose money in a weak year, so either one needs cash reserves."}
     },
     {
       "type": "worksheet",
       "title": "Fill one column per option, and date every figure you enter",
-      "text": "Part B of the exit worksheet. Attach your trailing-12 from OP.11 and your Part A starting facts.",
+      "text": "Part B of the exit worksheet. Next to each figure, write its source and date. Attach your trailing-12 from OP.11 and your Part A starting facts.",
       "columns": ["", "Hold", "Refinance", "Sell", "1031 exchange"],
       "rows": [
         ["Cash received now, before tax", "", "", "", ""],
@@ -222,34 +221,36 @@
         ["Annual cash flow, base / weak", "", "", "", ""],
         ["Months to complete", "", "", "", ""],
         ["Hours a month of your time afterward", "", "", "", ""],
-        ["Return on after-tax equity", "", "", "", ""]
+        ["Return on after-tax equity: base cash flow ÷ after-tax sale cash (Sell column)", "", "", "", ""],
+        ["What the cash would do instead (opportunity cost)", "", "", "", ""]
       ],
       "ref": "OP.12.7",
-      "notes": "Now your worksheet. It has three parts.\n\nPart A is your starting facts. Current value, loan balance or payoff quote, capital repairs due in the next three years, selling costs from an agent net sheet, and net proceeds. Add trailing-12 NOI, annual debt service, personal-use days for each of the last two years, depreciation taken to date by asset class, and any suspended passive losses. The last two come from your tax returns.\n\nThis slide is Part B. One column per option. Cash now, the tax estimate your CPA gives you, cash after tax, debt, cash flow in a base and weak case, how long it takes, and how many hours a month it costs you afterward.\n\nThen return on after-tax equity: cash flow divided by cash after tax. And one more row on the full worksheet: what the cash would do instead. That's your opportunity cost, written down.\n\nEnd with one decision, a one-sentence reason, a recheck date, and who approved it."
+      "notes": "Your worksheet has three parts.\n\nPart A is your starting facts. Start with current value, loan balance or payoff quote, and capital repairs due in the next three years. Add selling costs from an agent net sheet, and net proceeds. Then add trailing-12 NOI, meaning your last 12 months of actual results, and annual debt service. Add personal-use days for each of the last two years. Pull depreciation to date by asset class, and any suspended passive losses, from your tax returns.\n\nThis slide is Part B. One column per option. Write the cash now, the tax estimate your CPA gives you, cash after tax, and debt. Then cash flow in a base and weak case, how long it takes, and your hours a month afterward. Next to each figure, write its source and date.\n\nThen return on after-tax equity. Divide annual base cash flow by the Sell column's cash after tax. For the 1031, use the replacement's projected cash flow over the same equity. The last row is what the cash would do instead. That's your opportunity cost, written down.\n\nEnd with one decision, a one-sentence reason, a recheck date, and who approved it.",
+      "compact": true
     },
     {
       "type": "checklist",
       "cols2": true,
-      "title": "If you choose the exchange, clear this checklist before the sale closes",
+      "title": "Start this exchange checklist before you list, and finish it by day 180",
       "items": [
-        "Relinquished property held for business or investment (CPA)",
+        "The property you're selling held for business or investment (CPA)",
         "Personal use fits Rev. Proc. 2008-16 or other support (CPA)",
-        "QI chosen, not a disqualified agent, funds holding known",
+        "QI chosen, not a disqualified agent, funds holding known (attorney, CPA)",
         "Sale closing date (title or escrow)",
         "Day 45 written identification date (QI)",
         "Day 180 or return due date, whichever is earlier (CPA)",
-        "Replacements identified, each with an SR.1 check",
+        "Replacements identified, each with an SR.1 address check (licensing office, attorney)",
         "Replacement price and loan planned; effect of cash or a smaller loan (CPA, lender)",
         "Furniture handled outside the exchange (CPA)",
-        "Everyone who must approve: owners, lender, partners"
+        "Everyone who must approve: owners, lender, partners (owners)"
       ],
       "ref": "OP.12.7",
-      "notes": "Part C is the 1031 checklist. You only fill it in if the exchange is your choice.\n\nEach line has someone who confirms it. Your CPA confirms the property is held for investment, whether your personal use fits Rev. Proc. 2008-16, and the real deadline. Your attorney and CPA help you vet the QI. Title or escrow gives you the closing date. The QI tracks day 45.\n\nThen the replacement side. Every property you identify needs an address-level permission check with SR.1, confirmed by the licensing office or an attorney. You need a planned price and loan. Ask your CPA and lender what happens if you take cash out or end up with a smaller loan than before.\n\nThe furniture goes outside the exchange, so the CPA handles it separately.\n\nAnd last, list who must approve. All owners, the lender, and any partners. Line up those approvals before the clock starts."
+      "notes": "Part C is the 1031 checklist. You only fill it in if the exchange is your choice. Start it before you list, because the last items run to day 180.\n\nEach line has someone who confirms it. Your CPA confirms the property is held for investment, whether your personal use fits Rev. Proc. 2008-16, and the real deadline. Your attorney and CPA help you vet the QI. Title or escrow gives you the closing date. The QI tracks day 45.\n\nThen the replacement side. Every property you identify needs an address-level permission check with SR.1, confirmed by the licensing office or an attorney. You need a planned price and loan. Ask your CPA and lender what happens if you take cash out or end up with a smaller loan than before.\n\nThe furniture goes outside the exchange, so the CPA handles it separately.\n\nAnd last, list who must approve. All owners, the lender, and any partners. Line up those approvals before the clock starts."
     },
     {
       "type": "bullets",
       "title": "An exit is only as good as four records you keep from day one",
-      "text": "Every input traces back to the track: goals (PA.1), the weak-case test (0.3, PA.6, PA.7), depreciation (PA.10, Sam's PA.5, SR.3), repairs (PA.9, OP.8), and the trailing 12 (OP.10, OP.11).",
+      "text": "Every input comes from work you've already done: your goals, your weak-season test, your depreciation choices, your inspection and maintenance log, and your monthly reviews.",
       "items": [
         "Closing documents",
         "Every depreciation schedule your CPA files",
@@ -257,41 +258,40 @@
         "A calendar of rental and personal-use days"
       ],
       "ref": "OP.12.8",
-      "notes": "This is the last lesson in STR Concierge, so look at where the worksheet's inputs came from.\n\nThe goals in your exit decision are the goals from your PA.1 buy box. The weak-case test is the same one you ran in 0.3, PA.6, and PA.7. The depreciation history comes from the choices you made with your CPA in PA.10 and Sam's PA.5, using SR.3. The capital repair list comes from your PA.9 inspection and your OP.8 maintenance records. The trailing 12 comes from the review habit Sam set up in OP.10 and that you extended in OP.11.\n\nSo keep four things from day one. Closing documents. Every depreciation schedule your CPA files. Receipts for improvements and repairs. And a calendar of rental and personal-use days.\n\nWith those, any of the four options is a short conversation. Without them, even a good sale turns into a reconstruction project."
+      "notes": "This is the last lesson in STR Concierge, so look at where the worksheet's inputs came from.\n\nEvery input comes from work you've already done. That includes your investment goals, which are your buy box, and your weak-season test. It also includes the depreciation choices you made with your CPA. Then there's your inspection report and your maintenance log. And the trailing 12 comes from your monthly and quarterly reviews.\n\nSo keep four things from day one. Closing documents. Every depreciation schedule your CPA files. Receipts for improvements and repairs. And a calendar of rental and personal-use days.\n\nWith those, any of the four options is a short conversation. Without them, even a good sale turns into a reconstruction project."
     },
     {
       "type": "table",
       "compact": true,
-      "title": "A broker, servicer, CPA, QI, lender, and licensing office each confirm one piece",
+      "title": "Each number has a named confirmer, and your CPA confirms the most",
       "columns": ["Who", "What they confirm"],
       "rows": [
         ["Broker or appraiser", "Current market value; whether furniture or future bookings add anything a buyer will pay for"],
         ["Loan servicer", "A written payoff quote and any prepayment penalty"],
         ["CPA: the sale", "Adjusted basis, depreciation by asset, allocation to section 1245 items, the gain split, rates, state tax, suspended losses, other federal taxes"],
-        ["CPA: the exchange", "Held for investment; personal use and Rev. Proc. 2008-16; how cash or debt changes are reported on Form 8824"],
-        ["QI, and an attorney if needed", "The exchange agreement, how funds are held, the day-45 and day-180 dates"],
+        ["CPA, QI, and attorney: the exchange", "Everything in Part C, the 1031 checklist"],
         ["Refinance lender", "In writing: value, LTV, rate, costs, and reserves"],
         ["Licensing office or STR attorney", "Any replacement property's exact address permits your planned use"]
       ],
       "ref": "OP.12.9",
-      "notes": "Here's who confirms what.\n\nA broker or appraiser confirms value, and whether furniture or future bookings add anything a buyer will actually pay for. Your loan servicer gives you a written payoff quote and tells you about any prepayment penalty.\n\nYour CPA carries the most weight here. On a sale, they confirm the adjusted basis, depreciation allowed or allowable by asset, and the allocation of price to section 1245 items. They also confirm the gain split, the rates, state tax, any suspended passive losses, and any other federal taxes. On an exchange, they confirm investment use, whether your personal use fits Rev. Proc. 2008-16, and how cash or debt changes show up on Form 8824.\n\nThe QI, with an attorney if you need one, confirms the exchange agreement, how funds are held, and the two dates. The refinance lender confirms terms in writing. And the licensing office or an STR attorney checks any replacement's exact address."
+      "notes": "Here's who confirms what.\n\nA broker or appraiser confirms value, and whether furniture or future bookings add anything a buyer will actually pay for. Your loan servicer gives you a written payoff quote and tells you about any prepayment penalty.\n\nYour CPA carries the most weight here. On a sale, they confirm the adjusted basis, depreciation allowed or allowable by asset, and the allocation of price to section 1245 items. They also confirm the gain split, the rates, state tax, any suspended passive losses, and any other federal taxes. If you exchange, they work with the QI, and an attorney if needed, on everything in Part C, the 1031 checklist.\n\nThe QI also confirms the exchange agreement, how funds are held, and the two dates. The refinance lender confirms terms in writing. And the licensing office or an STR attorney checks any replacement's exact address."
     },
     {
       "type": "dothis",
-      "title": "Four requests this week give you real numbers for every column",
+      "title": "Four requests this week replace the biggest guesses in your worksheet",
       "items": [
         "Ask a broker for an opinion of value and your agent for a line-by-line seller net sheet.",
         "Request a written payoff quote from your loan servicer.",
         "Pull depreciation taken to date, by asset class, from your filed tax returns.",
         "Count your personal-use days for each of the last 2 years from your calendar."
       ],
-      "next": "This closes STR Concierge. Holding: rerun this yearly after Sam's OP.10 reviews. Buying again: start at **PA.1 Discovery: Defining Your Buy Box**. Tax side: fill in **SR.3** before you meet your CPA.",
+      "next": "Holding: keep Sam's quarterly OP.10 review and rerun this at least yearly. Buying again: start at **PA.1 Discovery: Defining Your Buy Box**. Tax side: fill in **SR.3** before you meet your CPA.",
       "ref": "OP.12.10",
       "notes": "Four things to do this week. Ask a broker for an opinion of value, and ask your agent for a line-by-line seller net sheet. Request a written payoff quote from your servicer. Pull the depreciation you've taken to date, by asset class, from your filed returns. And count your personal-use days for each of the last two years.\n\nThat closes STR Concierge.\n\nIf your decision is to hold, go back to Sam's OP.10 review each quarter, and rerun this worksheet at least once a year.\n\nIf you're buying again, whether by exchange or with sale proceeds, start at PA.1, Discovery: Defining Your Buy Box, with updated goals. The course path starts over from there: market and deal review, financing, diligence, closing, launch, and the 30- and 90-day review.\n\nFor the tax side, open resource SR.3 and fill in your actual depreciation history before you meet your CPA."
     },
     {
       "type": "sources",
-      "title": "Every tax and exchange rule here traces to an IRS publication or notice",
+      "title": "IRS guidance backs these rules; your CPA must confirm the vacation-home day counts",
       "items": [
         {"title": "IRS Publication 544, Sales and Other Dispositions of Assets", "url": "https://www.irs.gov/publications/p544", "note": "Adjusted basis; allowed or allowable; section 1245 ordinary gain; section 1231 gain"},
         {"title": "IRS Publication 527, Residential Rental Property", "url": "https://www.irs.gov/publications/p527", "note": "Basis reduced by depreciation you could have deducted, bonus, and section 179"},
@@ -299,7 +299,7 @@
         {"title": "IRS Publication 925", "url": "https://www.irs.gov/publications/p925", "note": "Passive activity rules; the suspended-loss question for your CPA"},
         {"title": "IRS: Like-kind exchanges, real estate tax tips", "url": "https://www.irs.gov/businesses/small-businesses-self-employed/like-kind-exchanges-real-estate-tax-tips", "note": "Real property only; investment use; 45 and 180 days; QI and disqualified agents"},
         {"title": "IRS: Instructions for Form 8824", "url": "https://www.irs.gov/instructions/i8824", "note": "Reporting an exchange; 45-day and 180-day timing"},
-        {"title": "IRS Rev. Proc. 2008-16", "url": "https://www.irs.gov/pub/irs-drop/rp-08-16.pdf", "note": "Safe harbor for dwelling units with occasional personal use; section 4.02 standards"}
+        {"title": "IRS Rev. Proc. 2008-16", "url": "https://www.irs.gov/pub/irs-drop/rp-08-16.pdf", "note": "Safe harbor for dwelling units with occasional personal use; section 4.02 standards. Specific day counts not confirmed from the IRS text"}
       ],
       "ref": "OP.12 sources",
       "notes": "These are the sources behind this lesson.\n\nPublication 544 covers adjusted basis, the allowed-or-allowable rule, section 1245 gain as ordinary income, and section 1231 gain. Publication 527 covers how depreciation, bonus, and section 179 reduce basis. Topic 409 gives the 25% maximum rate on unrecaptured section 1250 gain. Publication 925 covers passive activity rules. How a sale affects suspended losses is a question I've left for your CPA.\n\nFor exchanges, the IRS real estate tips page covers what qualifies, the two deadlines, and who can't be your QI. The Form 8824 instructions cover reporting and timing. Rev. Proc. 2008-16 is the safe harbor for units with some personal use. Confirm its exact day and month standards with your CPA against the IRS text.\n\nThe Cedar Ridge figures come from cases B4, B6, B7, and B8. The year-5 refinance, the gain split, the allocations, and the placeholder rates are new assumptions for teaching."

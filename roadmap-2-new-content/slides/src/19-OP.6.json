@@ -261,7 +261,7 @@
           "v": "$33,565"
         },
         {
-          "op": "−",
+          "op": "-",
           "label": "Cuts to style items and labor",
           "v": "$2,760"
         },
@@ -276,7 +276,7 @@
           "v": "$32,000"
         },
         {
-          "op": "−",
+          "op": "-",
           "label": "Final purchases",
           "v": "$30,805"
         }

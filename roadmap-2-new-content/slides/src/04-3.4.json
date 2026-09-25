@@ -284,13 +284,13 @@
         [
           "**C6** Setup payback at base net",
           "12 months or less",
-          "12 to 18 months",
+          "Over 12, up to 18 months",
           "Over 18 months"
         ],
         [
           "**C7** Cash reserve after setup",
           "2+ months of rent plus utilities",
-          "1 to 2 months",
+          "1 month, up to just under 2",
           "Under 1 month"
         ],
         [
@@ -462,7 +462,7 @@
         ]
       ],
       "ref": "3.4.7",
-      "notes": "Here's the rest of the commercial side.\n\nC3 scores 1 because nobody has pulled real comps yet. The $205 rate and 70% occupancy are teaching assumptions. That stays a 1 until you do Sam's 4.3 pull.\n\nC4 is a 1 because I'm assuming hospital-related stays drive most bookings. One employer is a single point of failure.\n\nC5: annual rent is $1,950 times 12, which is $23,400. Divide by base gross of $61,625 and you get 38%. That's in the 35 to 45 band, so a 1. In the stress case the same rent is 49.3% of gross, which is why C2 is weak.\n\nC6: sunk setup is $12,050. At $1,018 a month of base net, payback is 11.8 months. Zero.\n\nC7: the plan holds a $4,420 reserve, two months of rent plus utilities. Zero. A slow 30-day month at 40% occupancy and $180 brings in about $2,600 and loses about $788. The reserve could absorb five of those, but not a season of them.\n\nC8 isn't checked yet, so it's a 1 until Sam's 4.2 screen."
+      "notes": "Here's the rest of the commercial side.\n\nC3 scores 1 because nobody has pulled real comps yet. The $205 rate and 70% occupancy are teaching assumptions. That stays a 1 until you do Sam's 4.3 pull.\n\nC4 is a 1 because I'm assuming hospital-related stays drive most bookings. One employer is a single point of failure.\n\nC5: annual rent is $1,950 times 12, which is $23,400. Divide by base gross of $61,625 and you get 38%. That's in the 35 to 45 band, so a 1. In the stress case the same rent is 49.3% of gross, which is why C2 is weak.\n\nC6: sunk setup is $12,050. At $1,018 a month of base net, payback is 11.8 months. Zero.\n\nC7: the plan holds a $4,420 reserve, two months of rent plus utilities. Zero. A slow 30-day month at 40% occupancy and $180 brings in about $2,600, counting four cleaning fees, and loses about $788. The reserve could absorb five of those, but not a season of them.\n\nC8 isn't checked yet, so it's a 1 until Sam's 4.2 screen."
     },
     {
       "type": "table",

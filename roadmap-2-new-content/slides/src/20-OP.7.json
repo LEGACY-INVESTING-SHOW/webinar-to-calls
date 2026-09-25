@@ -292,7 +292,7 @@
           "v": "$29,209"
         },
         {
-          "op": "−",
+          "op": "-",
           "label": "Co-host fee, 18% × $74,275",
           "v": "$13,370"
         },
@@ -302,7 +302,7 @@
           "v": "$15,839"
         },
         {
-          "op": "−",
+          "op": "-",
           "label": "Annual debt service, DSCR quote",
           "v": "$23,637"
         }
@@ -326,7 +326,7 @@
           "v": "$29,209"
         },
         {
-          "op": "−",
+          "op": "-",
           "label": "Annual debt service, DSCR quote",
           "v": "$23,637"
         },
@@ -574,7 +574,7 @@
         ]
       ],
       "caption": "Part C of the exercise. Parts A and B: a task ledger with one payer per task, and an access matrix with one row per person, backups included. Use your underwriting from Sam's PA.4.",
-      "notes": "The exercise has three parts. Part A is the task ledger. List every task, from turnover cleaning to pricing. Beside each, write who does it, who pays, and how they're paid. If a task has two payers, fix it before you sign anything.\n\nPart B is the access matrix. One row per person, including backups. Write their platform level, spending limit, guest data, keys and codes, after-hours duty, and backup name.\n\nPart C is on the slide. It's the cost check, and it uses your own underwriting from Sam's PA.4 package.\n\nWork down the lines in order. Get your cash flow with a vendor set. Divide it by gross to get your break-even fee. Only then look at the proposal. Put in the fee, the base it's charged on, and the dollar amount. Take out any duplicate costs. Then work out the cost per owner hour.\n\nWhen you're done, you'll have one number to compare any quote against."
+      "notes": "The exercise has three parts. Part A is the task ledger. List every task, from turnover cleaning to pricing. Beside each, write who does it, who pays, and how they're paid. If a task has two payers, fix it before you sign anything.\n\nPart B is the access matrix. One row per person, including backups. Write their platform level, spending limit, guest data, keys and codes, after-hours duty, and backup name.\n\nPart C is on the slide. It's the cost check, and it uses your own underwriting from Sam's PA.4 package.\n\nWork down the lines in order. Get your cash flow with a vendor set. Divide it by gross to get your break-even fee. Only then look at the proposal. Put in the fee, the base it's charged on, and the dollar amount. Take out any duplicate costs. Then work out the cost per owner hour.\n\nAt the end, you'll have one number to compare any quote against."
     },
     {
       "type": "gates",

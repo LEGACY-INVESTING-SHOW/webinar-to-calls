@@ -342,7 +342,7 @@
       "left": {
         "head": "Ending A: written approval",
         "items": [
-          "Dana's attorney asks for a 30-day cure period instead of 15. You accept.",
+          "Dana's attorney asks that the 30-day cure period start only after written notice. You accept.",
           "Dana signs the lease and the addendum",
           "Same day, you email what's signed and what you still owe: declarations page and permit number",
           "Scorecard rows L1 and L2 drop to 0"
@@ -363,7 +363,7 @@
         "text": "A \"let me think about it\" with nothing written, or a yes that Dana doesn't fully understand."
       },
       "ref": "5.7.6",
-      "notes": "From there, the conversation ends one of two ways.\n\nEnding A is written approval. Dana's attorney reviews the addendum and asks for one change: a 30-day cure period instead of 15. You accept. Dana signs the lease and the addendum. The same day, you send a confirmation email listing what's signed and what you still owe, which is the declarations page and the permit number. On your 3.4 scorecard, L1 and L2 drop to zero.\n\nEnding B is a documented pass. Dana's insurer says the building policy excludes short-stay use, and Dana declines. You thank Dana and ask whether a standard lease is of interest. You log the pass with the reason and the date. You don't argue with the insurer's answer, and you never suggest listing anyway.\n\nI want you to hear this clearly: either ending is a good result. The bad result is a vague \"let me think about it\" with nothing written. Or a yes that Dana doesn't fully understand, because that yes turns into a problem after the first complaint."
+      "notes": "From there, the conversation ends one of two ways.\n\nEnding A is written approval. Dana's attorney reviews the addendum and asks for one change: the 30-day cure period should start only after written notice. You accept. Dana signs the lease and the addendum. The same day, you send a confirmation email listing what's signed and what you still owe, which is the declarations page and the permit number. On your 3.4 scorecard, L1 and L2 drop to zero.\n\nEnding B is a documented pass. Dana's insurer says the building policy excludes short-stay use, and Dana declines. You thank Dana and ask whether a standard lease is of interest. You log the pass with the reason and the date. You don't argue with the insurer's answer, and you never suggest listing anyway.\n\nI want you to hear this clearly: either ending is a good result. The bad result is a vague \"let me think about it\" with nothing written. Or a yes that Dana doesn't fully understand, because that yes turns into a problem after the first complaint."
     },
     {
       "type": "two",

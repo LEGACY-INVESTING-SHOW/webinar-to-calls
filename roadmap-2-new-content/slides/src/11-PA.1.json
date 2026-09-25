@@ -1,0 +1,679 @@
+{
+ "nn": 11,
+ "code": "PA.1",
+ "title": "Discovery: Defining Your Buy Box (Market, Property Type, Price Range, Goals)",
+ "short": "Defining Your Buy Box",
+ "section": "Part Two · Phase 1 - Property Acquisition",
+ "slides": [
+  {
+   "type": "cover",
+   "ref": "PA.1.0",
+   "kicker": "Part Two · Phase 1 · Property Acquisition",
+   "title": "Write the buy box before you see listings, so you can walk away without debate",
+   "subtitle": "Lesson PA.1. Discovery: Defining Your Buy Box (Market, Property Type, Price Range, Goals)",
+   "meta": [
+    [
+     "Teacher",
+     "Preston"
+    ],
+    [
+     "Example",
+     "Cedar Ridge house (hypothetical)"
+    ],
+    [
+     "Use",
+     "Education only. Not legal, tax, lending, or insurance advice."
+    ]
+   ],
+   "notes": "This is the first lesson of the acquisition phase. By the end of it, you'll have a written, one-page buy box.\n\nThat page ranks your goals. It states your constraints. It names your hard requirements. And it describes the property you want in terms someone else could search with. It ends with a pass rule, a sentence that tells you when to walk away from a listing without arguing about it.\n\nWhy does this come before any market research? Because Sam's PA.2 and PA.3 lessons use this page. PA.2 picks a market with it. PA.3 builds your property pipeline with it. Without the page, those lessons have nothing to filter on.\n\nWe'll build Maya and Chris's buy box from what they learned in 0.3. Then we'll test it on Cedar Ridge at two prices, and on a house they should never look at twice. Every figure is an assumption. The canonical ones come from the course example file, and the new ones are marked."
+  },
+  {
+   "type": "two",
+   "ref": "PA.1.1",
+   "eyebrow": "What a buy box is for",
+   "title": "A buy box protects you from budget drift and from underwriting the wrong houses",
+   "left": {
+    "head": "Drift",
+    "note": "Nobody decides to raise the budget. It happens one listing at a time.",
+    "items": [
+     "You start looking for a three-bedroom house at $380,000.",
+     "A month later you're touring a $450,000 house with a pool, because the photos were good.",
+     "Nobody decided to spend $70,000 more."
+    ]
+   },
+   "right": {
+    "head": "Wasted work",
+    "note": "Every serious look costs hours.",
+    "items": [
+     "Reading rules, pulling comparables, underwriting, calling lenders.",
+     "Sam's PA.3 builds a pipeline of 5 to 10 qualified properties.",
+     "Without a buy box, qualified means nothing, and the pipeline fills with the wrong houses."
+    ]
+   },
+   "notes": "A buy box is a search specification. It says what you'll buy, where, at what price, and under what conditions. Anything outside the box, you don't look at twice.\n\nIt protects you from two things.\n\nThe first is drift. You start looking for a three-bedroom house at $380,000. A month later you're touring a $450,000 house with a pool. The photos were great and the agent said it \"books great\". Nobody decided to raise the budget by $70,000. It just happened, one listing at a time.\n\nThe second is wasted work. Every property you seriously consider costs hours. Reading rules, pulling comparable listings, underwriting, calling lenders. Sam's PA.3 builds a pipeline of 5 to 10 qualified properties. Without a buy box, \"qualified\" means nothing.\n\nA good buy box is short and specific. You write it before you see listings. And it's hard to change on purpose. If you want to change it, you rewrite it, with numbers. You don't change it in a driveway during a showing."
+  },
+  {
+   "type": "table",
+   "ref": "PA.1.2",
+   "eyebrow": "Goal hierarchy",
+   "title": "Your goals pull against each other, so rank them and let the top two or three decide",
+   "text": "Six common goals: cash flow, long-term ownership, personal use, tax planning, portfolio growth, and desired involvement.",
+   "columns": [
+    "Goal",
+    "Pulls against",
+    "Why"
+   ],
+   "rows": [
+    [
+     "Personal use",
+     "Cash flow",
+     "Your own peak-season week is a week you didn't rent"
+    ],
+    [
+     "Tax planning",
+     "Everything else",
+     "A deal bought for the depreciation can lose money monthly, and the deduction may be unusable"
+    ],
+    [
+     "Low involvement",
+     "Cash flow",
+     "In 0.2, an 18% co-host turned $5,572 of cash flow into -$7,798"
+    ],
+    [
+     "Portfolio growth",
+     "Safety",
+     "Stretching to buy again sooner leaves less reserve for this house"
+    ]
+   ],
+   "notes": "Before you describe a property, rank your goals. People want several things from a short-term rental purchase, and they conflict. A ranking tells you which one wins when they do.\n\nThe common six are cash flow, long-term ownership, personal use, tax planning, portfolio growth, and how involved you want to be.\n\nHere's how they fight. Personal use pulls against cash flow. Your own peak-season week is a week you didn't rent.\n\nTax planning can pull against everything else. A deal bought \"for the depreciation\" can lose money every month. And the deduction may not even be usable, depending on your household. Lesson 0.2 covered why.\n\nLow involvement pulls against cash flow. In 0.2, a full-service co-host at 18% turned Cedar Ridge from $5,572 a year to minus $7,798.\n\nPortfolio growth pulls against safety. If you stretch now to buy again sooner, this house gets a thinner reserve.\n\nRank your goals 1 to 6. Only the top two or three shape the search. The rest are tie-breakers. And if two owners rank them differently, settle it now. A skipped disagreement tends to come back at the offer."
+  },
+  {
+   "type": "table",
+   "ref": "PA.1.3",
+   "eyebrow": "Constraints",
+   "title": "Write down the limits you can't wish away; most of them come from your 0.3 scorecard",
+   "columns": [
+    "Constraint",
+    "What to write down"
+   ],
+   "rows": [
+    [
+     "Money",
+     "Two caps: max cash to close, and max total cash in (cash to close plus furnishing). Both leave your reserves untouched. Add any 0.3 funding condition."
+    ],
+    [
+     "Financing path",
+     "DSCR, conventional investment, or both, with the down payment you plan around. The lender decides eligibility in PA.6 and PA.7."
+    ],
+    [
+     "Distance",
+     "Driving hours. Distance decides whether you can fix a problem yourself or must pay someone."
+    ],
+    [
+     "Time",
+     "The hours per week you'll actually give it, from 0.3."
+    ],
+    [
+     "Minimum reserves",
+     "The property reserve and emergency savings you won't spend below. These are floors, not targets."
+    ]
+   ],
+   "notes": "Constraints are limits you can't wish away. Most of them come straight from lesson 0.3.\n\nMoney comes as two caps. The first is the maximum cash to close: down payment, closing costs, and points. The second is the maximum total cash in, which adds furnishing. Both caps have to leave your property reserve and your personal emergency savings untouched. If your 0.3 scorecard carried a funding condition, write it here too.\n\nFinancing path. Write which loan types you'll pursue and the down payment you're planning around. The lender makes the real eligibility call later, in PA.6 and PA.7. For now you write the path and the assumed terms.\n\nDistance. Write it in driving hours. This isn't only about convenience. It decides whether you can handle a problem yourself or have to pay someone.\n\nTime. The hours per week you'll really give it.\n\nAnd minimum reserves. These are floors. You don't spend below them to make a deal work."
+  },
+  {
+   "type": "bullets",
+   "ref": "PA.1.4",
+   "eyebrow": "Describe the property",
+   "title": "Describe the property in lines concrete enough for Sam's PA.2 and PA.3 filters",
+   "items": [
+    "**Market type** and its demand driver: drive-to leisure, urban, event-driven, business travel.",
+    "**Property type:** detached, townhouse, condo, small multi-unit. It changes legality, lending, and insurance.",
+    "**Location inside the market.** Zoning, HOA boundaries, and permit caps can change street by street.",
+    "**Price range.** The ceiling comes from your money and downside rules, not from what the market charges.",
+    "**Capacity and amenities.** More beds can raise ADR and wear. Water or height brings insurance and safety questions.",
+    "**Operating complexity:** septic, wells, long private roads, snow, older systems. Each adds cost or response time."
+   ],
+   "notes": "Now the property itself. Keep each line concrete enough that Sam's filters can apply it.\n\nMarket type: name it and its demand driver. Sam's PA.2 picks the actual market.\n\nProperty type matters for three reasons: legality, because of condo and HOA rules; lending, because some lenders restrict condos or certain property types; and insurance.\n\nLocation inside the market. Rules can change street by street. Zoning districts, HOA boundaries, and permit caps can all differ within one town. Write where you'll look, and where you won't.\n\nPrice range. You need a floor and a ceiling. The ceiling comes from your money constraints and your downside rule. It doesn't come from what sellers are asking. I'll show you how to calculate it shortly.\n\nGuest capacity and amenities. More capacity can mean a higher nightly rate. It also means more wear, more cleaning, and more noise risk. Separate what guests expect from what adds complexity. Any amenity with water or height brings insurance and safety questions.\n\nOperating complexity. None of these kills a deal alone. Decide how much you'll accept."
+  },
+  {
+   "type": "gates",
+   "ref": "PA.1.5",
+   "eyebrow": "Hard requirements",
+   "title": "A property must clear every hard requirement before it gets any more of your time",
+   "gates": [
+    {
+     "q": "Is unhosted STR use legal at the exact address, including HOA and deed rules?",
+     "sub": "Use the SR.1 checklist and record the official source ([Airbnb, article 1397](https://www.airbnb.com/help/article/1397))",
+     "no": "Pass"
+    },
+    {
+     "q": "Is there a written STR insurance quote your underwriting can carry?",
+     "sub": "Platform protection is not a substitute (PA.12)",
+     "no": "Pass"
+    },
+    {
+     "q": "Do the property type, location, and income fit a lender's written guidelines?",
+     "no": "Pass"
+    },
+    {
+     "q": "Are cash to close and total cash in at or under your caps?",
+     "sub": "No exceptions for a great house",
+     "no": "Pass"
+    },
+    {
+     "q": "Does the weak case stay inside your downside floor at a real loan quote?",
+     "sub": "A weak-case cash flow floor plus a base-case NOI to P&I minimum",
+     "no": "Pass"
+    }
+   ],
+   "notes": "Hard requirements are the lines a property must clear, every one, before you spend real time on it. They aren't preferences. Fail one, and you pass.\n\nFive belong in almost every short-term rental buy box.\n\nOne: legal STR use at the exact address. Unhosted short-term rental of a house you don't live in has to be allowed there. Any HOA or deed restriction has to allow it too. Airbnb itself tells hosts to check local laws and HOA rules. Use the SR.1 checklist and record the official source.\n\nTwo: acceptable insurance. That means a written quote from an insurer willing to cover STR use of this house, at a premium your numbers can carry.\n\nThree: lender fit, in writing.\n\nFour: your two cash caps. No exceptions because the house is great.\n\nFive: minimum downside performance. Set a floor on weak-case cash flow after debt service, and a minimum ratio of base-case NOI to principal and interest.\n\nAdd a sixth if 0.3 surfaced one. For Maya and Chris, it's that the deal must work with self-management."
+  },
+  {
+   "type": "flow",
+   "ref": "PA.1.6",
+   "eyebrow": "The pass rule",
+   "title": "The pass rule names the trigger and the action, and it allows only written changes",
+   "nodes": [
+    {
+     "k": "Trigger",
+     "h": "A failed hard requirement",
+     "d": "Or a price over the ceiling, or a preference score below your level",
+     "kind": "stop"
+    },
+    {
+     "k": "Action",
+     "h": "Pass",
+     "d": "Don't keep an eye on it unless the price drops below the ceiling"
+    },
+    {
+     "k": "Record",
+     "h": "Log the reason",
+     "d": "Which requirement failed"
+    },
+    {
+     "k": "Change process",
+     "h": "Rewrite on purpose",
+     "d": "In writing, new numbers, signed by every owner. Never during a showing.",
+     "kind": "go"
+    }
+   ],
+   "box": {
+    "kind": "gold",
+    "label": "Why log every pass",
+    "text": "After 20 passes you'll see a pattern. If every house in your range fails the insurance quote, that's information for Sam's PA.2 market choice, not a reason to lower your standards."
+   },
+   "notes": "The pass rule is one or two sentences you agree on in advance. It tells you what to do when a listing doesn't fit.\n\nA good one has three parts. The trigger: any failed hard requirement, a price above the ceiling, or a preference score below a level you set. The action: pass, and log why. Don't \"keep an eye on it\" unless the price drops below your ceiling. And the change process: the buy box changes only on purpose. That means in writing, with the new numbers, signed by every owner. Never during a showing.\n\nWhy log every pass? Because after 20 passes you'll see a pattern. Maybe every house in your price range fails the insurance quote. Maybe every house near the water fails on permits. That's information. It goes back to Sam's PA.2 market choice. It isn't a reason to lower your standards.\n\nThe log also stops you from re-reading the same bad listing three times because it keeps showing up in your feed. You already decided. The log says why."
+  },
+  {
+   "type": "table",
+   "ref": "PA.1.7",
+   "eyebrow": "Worked example · Goals",
+   "assumption": true,
+   "title": "Maya and Chris rank protecting the household first and tax planning fifth",
+   "columns": [
+    "Rank",
+    "Goal",
+    "How it shapes the search"
+   ],
+   "rows": [
+    [
+     "1",
+     "Protect the household",
+     "Emergency fund stays at $51,000; property reserve stays at 6 months PITIA"
+    ],
+    [
+     "2",
+     "Long-term ownership, 10+ year hold",
+     "Favor durable houses and stable rules over a short-term price opportunity"
+    ],
+    [
+     "3",
+     "Positive base-case cash flow, self-managing",
+     "Base case positive after debt service and reserves"
+    ],
+    [
+     "4",
+     "Personal use, about 10 days, off-peak",
+     "Drive time matters; personal days go in slow weeks"
+    ],
+    [
+     "5",
+     "Tax planning",
+     "Tie-breaker only; no deal is bought for depreciation"
+    ],
+    [
+     "6",
+     "Portfolio growth",
+     "Not before the OP.10 review and the OP.11 decision on property two"
+    ]
+   ],
+   "caption": "Desired involvement: self-manage with a local cleaner and an on-call handyman, about 3 hours a week (assumption, from 0.3).",
+   "notes": "Maya and Chris finished 0.3 with \"proceed to PA.1, with conditions\". Here's how they turn that into a buy box, starting with the goals.\n\nNumber one is protecting the household. The $51,000 emergency fund stays put, and the property reserve stays at six months of PITIA.\n\nNumber two is long-term ownership, a hold of 10 years or more, which is an assumption. That means they favor durable houses and stable rules over a quick price opportunity.\n\nNumber three is positive base-case cash flow while they self-manage.\n\nNumber four is personal use, about 10 days, off-peak. That's why drive time matters to them.\n\nTax planning is fifth. It's a tie-breaker only. They won't buy a deal for the depreciation.\n\nAnd portfolio growth is last. They won't think about a second property before the OP.10 review and the OP.11 decision.\n\nFor involvement, they self-manage with a local cleaner and an on-call handyman, about 3 hours a week.\n\nNotice how short this is. Six lines. But when two goals collide during a showing, this table settles it."
+  },
+  {
+   "type": "calc",
+   "ref": "PA.1.7",
+   "eyebrow": "Worked example · Price ceiling",
+   "assumption": true,
+   "title": "Their two cash caps set a price ceiling of $393,000 on the DSCR terms",
+   "lines": [
+    {
+     "op": "",
+     "label": "Cash to close as a share of price: 25% down + 3% closing + 1 point on a 75% loan",
+     "v": "28.75%"
+    },
+    {
+     "op": "",
+     "label": "Cash-to-close cap: $115,000 / 28.75%",
+     "v": "$400,000"
+    },
+    {
+     "op": "",
+     "label": "Total-cash-in cap: ($145,000 - $32,000 furnishing) / 28.75%",
+     "v": "$393,043"
+    }
+   ],
+   "result": {
+    "label": "Price ceiling: the tighter cap wins",
+    "v": "$393,000"
+   },
+   "side": "Caps (assumptions): **$115,000** max cash to close and **$145,000** max total cash in, both leaving the reserves untouched.",
+   "side_box": {
+    "kind": "info",
+    "label": "The downside rule agrees",
+    "text": "With Cedar Ridge's weak-case revenue, the weak case hits -$6,000 at about $392,000."
+   },
+   "notes": "Now the money constraints become a price. Maya and Chris set two caps, both assumptions. Maximum cash to close is $115,000. Maximum total cash in, including $32,000 of furnishing, is $145,000.\n\nOn the DSCR terms, cash to close is 25% down, plus 3% closing costs, plus one point on a loan that's 75% of the price. One point on 75% is 0.75% of the price. So cash to close is 28.75% of the price.\n\nNow divide. The cash-to-close cap: $115,000 divided by 28.75% is $400,000. The total-cash-in cap: $145,000 minus $32,000 of furnishing is $113,000. Divide by 28.75% and you get $393,043.\n\nThe tighter cap wins. Their ceiling is $393,000 contract price on these terms.\n\nTheir downside rule also gives a price ceiling on its own. For a house with Cedar Ridge's weak-case revenue, the weak case reaches minus $6,000 at about $392,000. That sits right next to the cash ceiling. When two different rules land in the same place, that's a good sign the box is consistent."
+  },
+  {
+   "type": "table",
+   "ref": "PA.1.7",
+   "eyebrow": "Worked example · The buy box",
+   "assumption": true,
+   "title": "Their buy box fits on one page: a detached 3 to 4 bedroom lake house under $393,000",
+   "columns": [
+    "Field",
+    "Maya and Chris"
+   ],
+   "rows": [
+    [
+     "Market and location",
+     "Drive-to lake leisure market (Sam's PA.2 picks it); within 2.5 hours of home and 10 minutes of lake access"
+    ],
+    [
+     "Property type and size",
+     "Detached single-family; no HOA, or HOA with written STR permission; no condos. 3 to 4 bed, 2+ bath, sleeps 6 to 8"
+    ],
+    [
+     "Price and financing",
+     "$325,000 to $393,000 contract price; DSCR at 25% down, with a conventional quote for comparison"
+    ],
+    [
+     "Amenities wanted",
+     "Parking for 3 cars, reliable internet, outdoor space, year-round road access"
+    ],
+    [
+     "Complexity limits",
+     "No pool; hot tub only if insured; septic and well accepted with inspection and water test; punch list under $4,000"
+    ],
+    [
+     "Downside rule",
+     "Weak-case cash flow no worse than -$6,000 a year; base NOI / P&I at least 1.20"
+    ],
+    [
+     "Other hard requirements",
+     "Legal STR use; written insurance quote at or under $3,500 a year; lender fit in writing; works with self-management and a named cleaner plus backup"
+    ],
+    [
+     "Pass rule",
+     "Pass on any failed requirement or a price over $393,000, unless the seller will accept a price at or under it. Log it. Change the box only in writing, signed by both."
+    ]
+   ],
+   "compact": true,
+   "notes": "Here's the whole buy box on one page.\n\nMarket: a drive-to lake leisure market, within 2.5 hours of home and a 10-minute drive of lake access. Sam's PA.2 picks the actual market.\n\nProperty: a detached single-family house. No HOA, or an HOA with written permission to host. No condos. Three to four bedrooms, two or more baths, sleeps six to eight.\n\nPrice: $325,000 to $393,000 contract price, on the DSCR terms, with a conventional quote for comparison.\n\nAmenities and limits. No pool. A hot tub only if the insurer quotes it. Septic and well are fine with an inspection and water test. The punch list has to stay under $4,000.\n\nThe downside rule is theirs, not a lender's: weak-case cash flow no worse than minus $6,000 a year, and base-case NOI at least 1.20 times principal and interest. PA.6 covers how lenders define coverage, and the example file shows three different ratios for the same house.\n\nAnd the pass rule, written out so neither of them has to argue with the other later."
+  },
+  {
+   "type": "table",
+   "ref": "PA.1.7",
+   "eyebrow": "Test 1 · Contract price",
+   "assumption": true,
+   "title": "At the $385,000 contract price, Cedar Ridge fits the box with two checks pending",
+   "columns": [
+    "Check",
+    "Result",
+    "Pass?"
+   ],
+   "rows": [
+    [
+     "Cash to close",
+     "$110,688, under $115,000",
+     "Yes"
+    ],
+    [
+     "Total cash in",
+     "$142,688, under $145,000",
+     "Yes"
+    ],
+    [
+     "Weak-case cash flow",
+     "-$5,475, better than -$6,000",
+     "Yes"
+    ],
+    [
+     "Base NOI / annual P&I",
+     "$29,209 / $23,637 = 1.24",
+     "Yes"
+    ],
+    [
+     "Insurance",
+     "$3,200 a year in the model; written quote needed",
+     "Pending"
+    ],
+    [
+     "Legal STR use",
+     "Address-level check needed (PA.2, SR.1)",
+     "Pending"
+    ],
+    [
+     "Property fit",
+     "3 bed, 2 bath, sleeps 8, no HOA, drive-to lake market",
+     "Yes"
+    ]
+   ],
+   "notes": "Now we test the box on a real listing. First, Cedar Ridge at the $385,000 contract price.\n\nCash to close is $110,688, under the $115,000 cap. Total cash in is $142,688, under $145,000. Both pass.\n\nThe weak case loses $5,475 a year. That's better than the minus $6,000 floor. Pass.\n\nBase-case NOI is $29,209. Annual principal and interest is $23,637. Divide, and you get 1.24. That's above 1.20. Pass.\n\nInsurance is pending. The model uses $3,200 a year, which is under their $3,500 cap. But a number in a model isn't a written quote. They need the quote.\n\nLegal STR use is pending too. That's an address-level check. It happens with Sam's PA.2 and the SR.1 checklist.\n\nProperty fit is a yes: three bedrooms, two baths, sleeps eight, no HOA, in a drive-to lake market.\n\nSo at $385,000, Cedar Ridge fits the box, subject to two pending checks. Notice that \"pending\" isn't \"pass\". Those two rows stay open until the evidence arrives."
+  },
+  {
+   "type": "table",
+   "ref": "PA.1.7",
+   "eyebrow": "Test 2 · Asking price",
+   "assumption": true,
+   "title": "At the $399,000 asking price, the same house fails three hard requirements",
+   "text": "Same revenue and operating costs. Property tax scales with price at 1% (assumption).",
+   "columns": [
+    "Check",
+    "Result",
+    "Pass?"
+   ],
+   "rows": [
+    [
+     "Cash to close",
+     "$114,713",
+     "Yes, barely"
+    ],
+    [
+     "Total cash in",
+     "$146,713, over $145,000",
+     "**No**"
+    ],
+    [
+     "Weak-case cash flow",
+     "-$6,475, worse than -$6,000",
+     "**No**"
+    ],
+    [
+     "Base NOI / annual P&I",
+     "1.19, under 1.20",
+     "**No**"
+    ],
+    [
+     "Base-case cash flow (for reference)",
+     "$4,572",
+     ""
+    ]
+   ],
+   "box": {
+    "kind": "gold",
+    "label": "What made the deal",
+    "text": "The $14,000 negotiation from $399,000 to $385,000. If the seller had refused, the pass rule says walk. PA.8 covers setting the walk-away price."
+   },
+   "notes": "Now the same house at the $399,000 asking price. Revenue and operating costs stay the same. The only change is property tax, which I scale with price at 1%. That matches the example's $3,850 on $385,000.\n\nCash to close is $114,713. That passes, barely.\n\nTotal cash in is $146,713. That's over the $145,000 cap. Fail.\n\nThe weak case now loses $6,475 a year. That's worse than the minus $6,000 floor. Fail.\n\nBase NOI to principal and interest drops to 1.19. That's under 1.20. Fail.\n\nBase-case cash flow is still positive, $4,572. That's why people talk themselves into houses like this. The base case looks fine. The box says no.\n\nSo the same house fails three hard requirements at asking price. The $14,000 negotiation from $399,000 down to $385,000 is what makes Cedar Ridge a deal for Maya and Chris. If the seller had refused to go below $399,000, their pass rule says walk. PA.8 covers how to set that walk-away price before you're emotionally attached."
+  },
+  {
+   "type": "calc",
+   "ref": "PA.1.7",
+   "eyebrow": "Test 3 · A pass example",
+   "assumption": true,
+   "title": "A $435,000 house with a pool fails the cash caps before anyone looks at revenue",
+   "lines": [
+    {
+     "op": "",
+     "label": "List price, 4 bedrooms with a pool (hypothetical)",
+     "v": "$435,000"
+    },
+    {
+     "op": "x",
+     "label": "Cash to close as a share of price",
+     "v": "28.75%"
+    },
+    {
+     "op": "=",
+     "label": "Cash to close, against a $115,000 cap",
+     "v": "$125,063"
+    },
+    {
+     "op": "+",
+     "label": "Furnishing",
+     "v": "$32,000"
+    }
+   ],
+   "result": {
+    "label": "Total cash in, against a $145,000 cap",
+    "v": "$157,063"
+   },
+   "side": "It also has a pool, which is outside their complexity limit.\n\nLogged as: **over cash cap; pool.** No underwriting needed.",
+   "side_box": {
+    "kind": "info",
+    "label": "The value of the box",
+    "text": "The $435,000 house never takes an evening of their time."
+   },
+   "notes": "Here's the third test, and it's the one I like best, because it's so short.\n\nA four-bedroom house with a pool comes up in the same market, listed at $435,000. It's hypothetical.\n\nOn their DSCR terms, cash to close is 28.75% of the price. That's $125,063, already over the $115,000 cap. Add $32,000 of furnishing, and total cash in is $157,063, over the $145,000 cap.\n\nIt also has a pool, which is outside their complexity limit.\n\nSo they pass and log it as \"over cash cap; pool\". They don't pull comparables. They don't build a revenue model. They don't call the lender. No underwriting needed.\n\nThat's the value of the box. The $435,000 house never takes an evening of their time.\n\n[Recording note: Preston can add a real example here if he has one.]\n\nWhen you're in the middle of your own search, you'll feel the pull of houses like this. The photos will be better than anything in your range. That's exactly when the one-line log entry earns its keep."
+  },
+  {
+   "type": "worksheet",
+   "ref": "PA.1.8",
+   "eyebrow": "Exercise · Section B",
+   "title": "Fill in your constraints from your own statements and your 0.3 cash stack",
+   "columns": [
+    "Field",
+    "What to enter",
+    "Source or formula",
+    "Your entry"
+   ],
+   "rows": [
+    [
+     "Liquid savings available",
+     "Total liquid, excluding retirement",
+     "Your statements",
+     ""
+    ],
+    [
+     "Emergency savings floor",
+     "Months x essential monthly spending",
+     "0.3",
+     ""
+    ],
+    [
+     "Property reserve floor",
+     "Lender months x PITIA, or your higher target",
+     "Lender quote; 0.3",
+     ""
+    ],
+    [
+     "Max cash to close",
+     "Down payment + closing costs + points",
+     "0.3 cash stack",
+     ""
+    ],
+    [
+     "Max total cash in",
+     "Cash to close + furnishing",
+     "0.3 cash stack",
+     ""
+    ],
+    [
+     "Funding condition",
+     "Any gap still to close before an offer",
+     "0.3 scorecard line 1",
+     ""
+    ],
+    [
+     "Financing path and terms",
+     "Loan type, down %, rate, points",
+     "Written quote when available",
+     ""
+    ],
+    [
+     "Max drive time",
+     "Hours",
+     "Your choice",
+     ""
+    ],
+    [
+     "Time available",
+     "Hours per week",
+     "0.3",
+     ""
+    ]
+   ],
+   "compact": true,
+   "notes": "Now your turn. The full template has seven sections, A to G. Goals, constraints, price ceiling, property description, hard requirements, pass rule, and a pass log. Fill it in and save it as one page. Bring it to Sam's PA.2 and PA.3.\n\nThis slide is section B, your constraints. Most of it comes straight from your 0.3 work.\n\nLiquid savings, excluding retirement, from your statements. Your emergency savings floor, which is months times your essential monthly spending. Your property reserve floor. Use the lender's months times PITIA, or your own higher target.\n\nThen the two caps. Max cash to close, and max total cash in. Then any funding condition from line 1 of your scorecard.\n\nFinancing path and terms. Use a written quote when you have one. Until then, write your assumed terms and mark them.\n\nDrive time in hours. And the hours per week you'll really give it.\n\nIf you can't fill in a row, that's useful. It tells you what to get before you look at listings."
+  },
+  {
+   "type": "worksheet",
+   "ref": "PA.1.8",
+   "eyebrow": "Exercise · Section C",
+   "title": "Compute your price ceiling three ways and use the lowest one",
+   "columns": [
+    "Line",
+    "Formula",
+    "Your number"
+   ],
+   "rows": [
+    [
+     "Cash to close as % of price",
+     "Down % + closing % + (points x loan %)",
+     ""
+    ],
+    [
+     "Ceiling from cash-to-close cap",
+     "Max cash to close / line above",
+     ""
+    ],
+    [
+     "Ceiling from total-cash-in cap",
+     "(Max total cash in - furnishing) / cash-to-close %",
+     ""
+    ],
+    [
+     "Ceiling from downside rule",
+     "From the PA.4 model, once a comparable house is underwritten",
+     ""
+    ],
+    [
+     "**Price ceiling**",
+     "Lowest of the three",
+     ""
+    ]
+   ],
+   "text": "Then finish the page: D, property description; E, hard requirements with evidence and who confirms; F, your pass rule in one or two sentences; G, the pass log.",
+   "notes": "Section C turns your caps into a price.\n\nFirst line: cash to close as a percentage of price. That's your down payment percentage, plus closing costs, plus points times the loan percentage. For Maya and Chris it was 28.75%.\n\nSecond line: your cash-to-close cap divided by that percentage.\n\nThird line: your total-cash-in cap, minus furnishing, divided by the same percentage.\n\nFourth line: the ceiling from your downside rule. You can't fill that in yet. It comes from Sam's PA.4 model once you've underwritten a comparable house. Leave it blank for now and come back.\n\nYour price ceiling is the lowest of the three.\n\nThen finish the rest of the page. Section D is the property description. Section E is your hard requirements, each with the evidence you need and who confirms it. Section F is your pass rule, written in one or two sentences. And section G is the pass log: date, address, which requirement failed, and whether a price change would fix it.\n\nThat last column matters. It tells you which passes might come back if the seller drops the price."
+  },
+  {
+   "type": "flow",
+   "ref": "PA.1.10",
+   "eyebrow": "Bring it to Sam's lessons",
+   "title": "Take the buy box through Sam's four demos, and bring each result back to PA.6",
+   "nodes": [
+    {
+     "k": "Sam · PA.2",
+     "h": "Choosing a Market",
+     "d": "Apply hard requirement 1 to each market; note drive time and price fit"
+    },
+    {
+     "k": "Sam · PA.3",
+     "h": "Deal Sourcing",
+     "d": "Use your pass rule as the filter; keep the pass log"
+    },
+    {
+     "k": "Sam · PA.4",
+     "h": "Underwriting Package",
+     "d": "Test your downside rule on a real listing"
+    },
+    {
+     "k": "Sam · PA.5",
+     "h": "Cost Segregation",
+     "d": "The tax timing from 0.2, in detail"
+    },
+    {
+     "k": "Preston · PA.6",
+     "h": "DSCR Loans 101",
+     "d": "Your financing line becomes a written quote",
+     "kind": "go"
+    }
+   ],
+   "notes": "Here's how the buy box travels through the next four lessons, which are Sam's demos. I won't re-teach them. Here's what to watch for and what to bring back.\n\nIn PA.2, Choosing a Market for Ownership, apply your hard requirement 1 to each market Sam screens. Note which markets fit your drive time and price range.\n\nIn PA.3, Deal Sourcing, Sam shows how to fill a pipeline of 5 to 10 qualified properties. Your pass rule is the filter. Keep the pass log going the whole time.\n\nIn PA.4, Reading a Full Underwriting Package, your downside rule gets tested on a real listing. This is also where you fill in the fourth line of your price ceiling.\n\nIn PA.5, Cost Segregation and Year-One Depreciation, you'll see the tax timing from 0.2 in detail. Remember it's a tie-breaker in most buy boxes, not a reason to buy.\n\nAfter those four, I pick up with PA.6, DSCR Loans 101. There, the financing line in your buy box becomes a written lender quote."
+  },
+  {
+   "type": "table",
+   "ref": "PA.1.9",
+   "eyebrow": "Who confirms what",
+   "title": "The city, your insurer, your lender, and your CPA each confirm one part of the box",
+   "columns": [
+    "Confirm with",
+    "What they confirm",
+    "When"
+   ],
+   "rows": [
+    [
+     "City or county licensing office",
+     "Unhosted STR use is allowed at the address. Use SR.1; an STR attorney if unclear.",
+     "For each address that passes your other filters"
+    ],
+    [
+     "Insurance agent",
+     "Premium and exclusions for STR use on the house",
+     "For each finalist, before the diligence window"
+    ],
+    [
+     "Lender",
+     "Property type, location, and planned use fit the loan, and the terms in section C",
+     "Before you rely on your ceiling"
+    ],
+    [
+     "CPA",
+     "Your household's actual tax situation",
+     "Before tax planning ranks above 4 in your goals"
+    ]
+   ],
+   "notes": "Here's who confirms what for the buy box.\n\nThe city or county licensing office confirms that unhosted short-term rental use is allowed at each address that passes your other filters. Use the SR.1 checklist. If the answer is unclear, go to an STR attorney. Don't take a listing agent's word for it.\n\nYour insurance agent confirms the premium and the exclusions for STR use on each finalist. Do that before the diligence window, not during it. If insurance fails, you want to know before you've paid for inspections.\n\nYour lender confirms that the property type, location, and planned use fit their loan. They also confirm the terms you used in section C. If the real terms are different, your price ceiling changes. Recompute it.\n\nAnd your CPA. Talk to them before you rank tax planning above fourth in your goal list. That way the ranking reflects your household's actual situation, not a hope about depreciation.\n\nEvery \"confirm with\" line is a phone call or an email. Keep the replies with your buy box."
+  },
+  {
+   "type": "dothis",
+   "ref": "PA.1.8",
+   "title": "Four short tasks give you a signed, one-page buy box before Sam's PA.2",
+   "items": [
+    "Rank your six goals 1 to 6. If there are two owners, rank separately, then agree on one list.",
+    "Fill in section B and compute your price ceiling in section C.",
+    "Write your hard requirements and a one- or two-sentence pass rule, and have every owner sign the page.",
+    "Start the pass log with the first listing you see that fails a requirement."
+   ],
+   "next": "Next: Sam's **PA.2, Choosing a Market for Ownership: Regulatory-Safe, Cash-Flowing Areas**, then PA.3 to PA.5. I pick up at **PA.6, DSCR Loans 101: How They Qualify the Property, Not You.**",
+   "notes": "Four tasks, each under an hour.\n\nFirst, rank your six goals. If there are two of you, rank them separately first, then compare. The places you disagree are the conversation you need to have now, not at the offer.\n\nSecond, fill in section B, your constraints, and compute your price ceiling in section C. Leave the downside-rule line blank until PA.4.\n\nThird, write your hard requirements and your pass rule. One or two sentences for the pass rule. Then have every owner sign the page. A signature sounds formal. It's what makes the box hard to change in a driveway.\n\nFourth, start the pass log. The first listing you see that fails a requirement goes in, with the reason.\n\nThen take the page to Sam's PA.2, Choosing a Market for Ownership: Regulatory-Safe, Cash-Flowing Areas. Then PA.3, PA.4, and PA.5. After those, I'll see you in PA.6, DSCR Loans 101: How They Qualify the Property, Not You, where your financing line becomes a written quote."
+  },
+  {
+   "type": "sources",
+   "ref": "PA.1 sources",
+   "eyebrow": "Sources",
+   "title": "The legal check starts with official local rules; every figure here is an assumption",
+   "items": [
+    {
+     "title": "Airbnb Help Center, General info about hosting places to stay (article 1397)",
+     "url": "https://www.airbnb.com/help/article/1397",
+     "note": "hosts should check local laws and HOA or co-op rules before hosting"
+    }
+   ],
+   "text": "Cedar Ridge figures come from the course example file (all assumptions). New assumptions in this lesson: the $115,000 and $145,000 cash caps, the $393,000 and $392,000 ceilings, the -$6,000 and 1.20 rules, the $399,000 and $435,000 tests, 1% tax scaling, location rules, the $3,500 insurance cap, and the $325,000 floor.\n\nLender coverage definitions and reserve rules: see the 0.3 sources and PA.6. No lender figure is asserted in this lesson.",
+   "notes": "This lesson has one outside source, and that's on purpose.\n\nAirbnb's help center article 1397 backs the point that hosts should check local laws and HOA or co-op rules before hosting. That's the root of hard requirement 1.\n\nEverything else in this lesson is your own specification, built from assumptions. The Cedar Ridge figures come from the course example file. The new ones are assumptions too: the $115,000 and $145,000 cash caps, the $393,000 and $392,000 ceilings, the minus $6,000 and 1.20 rules, the $399,000 and $435,000 tests, the 1% property tax scaling, the location rules, the $3,500 insurance cap, and the $325,000 price floor.\n\nI didn't assert any lender figure here. Lender coverage definitions and reserve rules live in the 0.3 sources and in PA.6.\n\nWhen you build your own box, replace every one of these numbers with yours. The method carries over. The numbers don't."
+  }
+ ]
+}

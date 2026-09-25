@@ -460,12 +460,12 @@
           "v": "18"
         },
         {
-          "op": "−",
+          "op": "-",
           "label": "Clean sets put on the 6 beds",
           "v": "6"
         },
         {
-          "op": "−",
+          "op": "-",
           "label": "Used sets sent to the wash",
           "v": "6"
         }
@@ -481,7 +481,7 @@
       "type": "flow",
       "ref": "OP.8.8",
       "assumption": true,
-      "title": "When the internet fails mid-stay, give facts, a credit, and a fix, and leave reviews out of it",
+      "title": "When the internet fails, give facts, a credit, and a fix, and leave reviews out of it",
       "text": "Tuesday, four-night midweek stay. The listing advertises a dedicated workspace.",
       "nodes": [
         {

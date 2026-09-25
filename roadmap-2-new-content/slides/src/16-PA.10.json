@@ -8,7 +8,7 @@
     {
       "type": "cover",
       "kicker": "Phase 1 · Property Acquisition",
-      "title": "Title, operator, and tax treatment are three separate choices, and your lender often makes the first",
+      "title": "Title, operator, and tax treatment are three separate choices, and your lender often decides the first one",
       "subtitle": "Lesson PA.10. Entity & Tax Structure Setup: LLC, S-Corp or Holding Company",
       "meta": [
         [
@@ -25,7 +25,7 @@
         ]
       ],
       "ref": "PA.10.0",
-      "notes": "Somebody has already told you to put your rental in an LLC. Somebody else probably said to run it through an S-corp. This lesson sorts those answers out.\n\nBy the end you'll be able to separate three questions people blur together. Who holds title? Who operates the rental? How is the activity taxed? You'll know which professional answers each one, and where each name shows up in the paperwork.\n\nYou'll leave with a filled decision worksheet and a list of questions for your attorney, CPA, insurer, and lender.\n\nI won't give you a universal recommendation, because there isn't one. The right structure depends on your state, your lender, your insurer, your partners, and your tax facts. Cedar Ridge is hypothetical, and nothing here is legal, tax, lending, or insurance advice."
+      "notes": "Somebody has already told you to put your rental in an LLC. Somebody else probably said to run it through an S-corp. This lesson sorts those answers out.\n\nBy the end you'll be able to separate three questions people blur together. Who holds title? Who operates the rental? How is the activity taxed? You'll know which professional answers each one, and where each name shows up in the paperwork.\n\nYou'll leave with a decision worksheet, facts filled in, ready for your professionals' answers. You'll also have a list of questions for your lender, attorney, insurer, CPA, and licensing office.\n\nI won't give you a universal recommendation, because there isn't one. The right structure depends on your state, your lender, your insurer, your partners, and your tax facts. Cedar Ridge is hypothetical, and nothing here is legal, tax, lending, or insurance advice."
     },
     {
       "type": "table",
@@ -59,7 +59,7 @@
         "text": "All three can be you and your spouse, personally. Or all three can differ. Every layer you add has a cost and a paper trail. Add one only when it solves a problem you can name."
       },
       "ref": "PA.10.1",
-      "notes": "Here are the three questions.\n\nFirst, title owner. Whose name is on the deed? That person or entity owns the property and signs as the buyer.\n\nSecond, operator. Who runs the rental business? That's whoever holds the Airbnb account, signs the cleaner and co-host agreements, holds the permit, and collects the payouts.\n\nThird, tax treatment. How does the IRS classify the entity and the activity? That decides which forms get filed and how income and losses flow to you.\n\n'Put it in an LLC' answers the first question. 'Run it through an S-corp' answers the third. Neither one answers the question your lender asks first, which is who's borrowing.\n\nThese can all be the same, you and your spouse. Or a property LLC might hold title while an operating company runs the listing. Every layer costs money and paperwork. Add one only when it solves a problem you can name."
+      "notes": "Here are the three questions.\n\nFirst, title owner. Whose name is on the deed? That person or entity owns the property and signs as the buyer.\n\nSecond, operator. Who runs the rental business? A short-term rental, or STR, is a furnished home rented by the night on platforms like Airbnb and Vrbo. Its operator is whoever holds the Airbnb account, signs the cleaner and co-host agreements, holds the permit, and collects the payouts.\n\nThird, tax treatment. How does the IRS classify the entity and the activity? That decides which forms get filed and how income and losses flow to you.\n\n'Put it in an LLC' answers the first question. 'Run it through an S-corp' answers the third. Neither one answers the question your lender asks first, which is: who is borrowing?\n\nThese can all be the same, you and your spouse. Or a property LLC might hold title while an operating company runs the listing. Every layer costs money and paperwork. Add one only when it solves a problem you can name."
     },
     {
       "type": "two",
@@ -78,54 +78,48 @@
         "head": "S corporation",
         "note": "A federal tax status (SBA).",
         "items": [
-          "An LLC can be taxed as a C corp or an S corp",
-          "The LLC files Form 2553 to elect it",
-          "Form 2553 also counts as electing corporate classification (Pub 3402)",
-          "Shareholder-employees must get reasonable pay before distributions"
+          "An LLC can be taxed as a C corp (a regular corporation) or an S corp",
+          "The LLC files Form 2553 to elect it; your CPA handles the filing",
+          "Owners who work in it must take a reasonable salary through payroll before other payouts"
         ]
       },
       "ref": "PA.10.2",
-      "notes": "This is the distinction that clears up most of the confusion.\n\nA limited liability company is created under state law. You file with the state and pay the state's fees. The state's law decides what liability protection you get. The SBA says an LLC separates business and personal liabilities, and that the rules vary by state.\n\nAn S corporation is a tax status. The SBA says designations like S corp aren't strictly business structures. An LLC can be taxed as a C corp or an S corp.\n\nTo become an S corp, the LLC files Form 2553. IRS Publication 3402 says that filing also counts as electing corporate classification, so you don't file Form 8832 first.\n\nPeople usually want an S-corp to manage self-employment or payroll taxes on active business income. The IRS requires reasonable pay to a shareholder-employee before non-wage distributions. That means payroll and a second return. For a single STR, that's a CPA question."
+      "notes": "A limited liability company is created under state law. You file with the state and pay the state's fees. The state's law decides what liability protection you get. The SBA says an LLC separates business and personal liabilities, and that the rules vary by state.\n\nAn S corporation is a tax status. The SBA says designations like S corp aren't strictly business structures. An LLC can be taxed as a C corp, meaning a regular corporation, or as an S corp.\n\nTo become an S corp, the LLC files Form 2553. One form does it, and your CPA handles the filing.\n\nPeople usually want an S-corp to manage self-employment or payroll taxes on active business income. The IRS requires reasonable pay to a shareholder-employee before non-wage distributions. In plain words, an owner who works in it takes a reasonable salary through payroll before other payouts. That means payroll and a second return. For a single STR, that's a CPA question.\n\nAnd one warning. If anyone suggests putting the real estate itself inside an S corporation, ask the CPA about it. Have them walk you through moving the property out, refinancing, and selling. This lesson doesn't cover those consequences.",
+      "box": {
+        "kind": "warn",
+        "label": "Before you put real estate in an S corporation",
+        "text": "Ask the CPA to explain what happens later when you move the property out, refinance, or sell. This lesson doesn't cover those consequences."
+      }
     },
     {
       "type": "table",
       "eyebrow": "Default tax treatment",
-      "title": "An LLC's default federal tax treatment depends on how many members it has",
+      "title": "An LLC's default federal tax treatment depends on who owns it and what it elects",
       "columns": [
         "LLC",
-        "Default treatment",
-        "IRS source"
+        "Default treatment"
       ],
       "rows": [
         [
           "**One member**",
-          "Disregarded. Activity shows on the owner's return, such as Schedule C or E.",
-          "Single-member LLC page"
+          "Disregarded. Activity shows on the owner's return, such as Schedule C or E."
         ],
         [
           "**Two or more members**",
-          "Partnership. Files Form 1065.",
-          "LLC filing as a corporation or partnership"
+          "Partnership. Files Form 1065."
         ],
         [
           "**Spouses, community property state**",
-          "The IRS respects treating it as disregarded or as a partnership.",
-          "Rev. Proc. 2002-69"
+          "The IRS respects treating it as disregarded or as a partnership."
         ],
         [
           "**Files Form 2553**",
-          "S corporation. Corporate classification is deemed elected.",
-          "Publication 3402"
+          "S corporation. Your CPA handles the filing."
         ]
       ],
       "caption": "Community property states named by the IRS: Arizona, California, Idaho, Louisiana, Nevada, New Mexico, Texas, Washington, and Wisconsin. Outside them, a spouse-owned two-member LLC is generally a partnership.",
-      "box": {
-        "kind": "warn",
-        "label": "Before you put real estate in an S corporation",
-        "text": "Ask the CPA to explain what happens later when you move the property out, refinance, or sell."
-      },
       "ref": "PA.10.2",
-      "notes": "The IRS lays out the defaults in Publication 3402.\n\nA one-member LLC is disregarded unless it elects otherwise. Its activity shows on the owner's own return, such as Schedule C or Schedule E.\n\nA domestic LLC with two or more members is a partnership by default. It files Form 1065.\n\nMarried couples have one extra wrinkle. In community property states, the IRS will respect spouses treating a jointly owned entity as either disregarded or a partnership. Those states are on the slide. Outside them, a two-member LLC owned by spouses is generally a partnership. Your CPA decides which applies to you.\n\nAnd one warning. If anyone suggests putting the real estate itself inside an S corporation, ask the CPA to walk you through moving the property out, refinancing, and selling. Get that answer before you choose it."
+      "notes": "The IRS lays out the defaults in Publication 3402.\n\nMembers are the LLC's owners. A one-member LLC is disregarded unless it elects otherwise. Its activity shows on the owner's own return, such as Schedule C or Schedule E.\n\nA domestic LLC with two or more members is a partnership by default. It files Form 1065.\n\nMarried couples have one extra wrinkle. In community property states, the IRS will respect spouses treating a jointly owned entity as either disregarded or a partnership. Those states are on the slide. Outside them, a two-member LLC owned by spouses is generally a partnership. Your CPA decides which applies to you.\n\nThe last row is the S-corp election from the slide before. The sources for every row are on the final slide."
     },
     {
       "type": "table",
@@ -139,22 +133,22 @@
       "rows": [
         [
           "**Conventional (Fannie Mae)**",
-          "Borrowers must be natural persons, with limited exceptions such as certain land trusts",
+          "Borrowers must be individual people (\"natural persons\"), with limited exceptions such as certain land trusts",
           "Expect title and the note in your personal names"
         ],
         [
-          "**DSCR**",
-          "Each lender sets its own rules. Kiavi says some DSCR lenders allow an LLC.",
+          "**DSCR (rental-income loan)**",
+          "Each lender sets its own rules. One DSCR lender, Kiavi, says some DSCR lenders allow an LLC.",
           "Ask whether a personal guarantee is required, in writing"
         ]
       ],
       "box": {
         "kind": "warn",
         "label": "If a guarantee is required",
-        "text": "The LLC doesn't separate you from the loan debt. It may still separate you from some other claims. Your attorney explains what it does and doesn't do in your state."
+        "text": "The LLC doesn't separate you from the loan debt. It may still separate you from some other claims. Your attorney explains which ones, and what it does in your state."
       },
       "ref": "PA.10.3",
-      "notes": "Your financing choice from PA.7 often settles the title question before you pick an entity.\n\nConventional loans sold to Fannie Mae generally go to individuals. Fannie Mae's Selling Guide requires borrowers to be natural persons, with limited exceptions like certain land trusts. If Maya and Chris take the conventional quote, expect title and the note in their personal names.\n\nDSCR lenders set their own rules. Kiavi says some DSCR lenders allow borrowing through an LLC. That's one lender's page, not a market standard.\n\nAn entity loan may also require a personal guarantee from the owners. I couldn't confirm a lender's published guarantee terms, so put that question to your lender in writing.\n\nIf a guarantee is required, the LLC doesn't separate you from the loan debt. It may still help with some other claims. Your attorney tells you what it does in your state."
+      "notes": "Your financing choice often settles the title question before you pick an entity. PA.7 compares the two main paths. A conventional mortgage qualifies you on your personal income. A DSCR loan qualifies the property on its rental income.\n\nConventional loans sold to Fannie Mae generally go to individuals. Fannie Mae's Selling Guide requires borrowers to be natural persons, meaning individual people, with limited exceptions like certain land trusts. Take Maya and Chris, the married couple buying our hypothetical Cedar Ridge lake house. If they take the conventional quote, expect title and the note in their personal names.\n\nDSCR lenders set their own rules. One DSCR lender, Kiavi, says some DSCR lenders allow borrowing through an LLC. That's one lender's page, not a market standard.\n\nAn entity loan may also require a personal guarantee from the owners. This lesson doesn't cite any lender's guarantee terms, so put that question to your lender in writing.\n\nIf a guarantee is required, the LLC doesn't separate you from the loan debt. It may still separate you from some other claims. Your attorney explains which ones, and what it does in your state."
     },
     {
       "type": "flow",
@@ -162,7 +156,7 @@
       "title": "Decide the entity before closing, because retitling later can trip the due-on-sale clause",
       "nodes": [
         {
-          "k": "Before closing",
+          "k": "As early as possible",
           "h": "Pick the structure",
           "d": "With your attorney, CPA, lender, and insurer."
         },
@@ -180,7 +174,7 @@
         {
           "k": "After closing",
           "h": "Retitling is risky",
-          "d": "A transfer to your LLC isn't on the federal exceptions list.",
+          "d": "Moving title to your LLC later can let the lender call the loan due.",
           "kind": "stop"
         }
       ],
@@ -190,7 +184,7 @@
         "text": "Get the lender's written consent before you deed the property anywhere. Ask your title company whether the transfer affects your owner's title policy."
       },
       "ref": "PA.10.3",
-      "notes": "Now the caution about moving title after closing.\n\nA mortgage or deed of trust usually has a due-on-sale clause. It lets the lender demand full payment if the property is transferred without consent.\n\nFederal law, 12 U.S.C. 1701j-3, lists transfers a lender can't treat as a trigger on certain residential loans. Examples include some transfers to a spouse or into certain living trusts. A transfer to your own LLC is not on that list. Some lenders will consent to it, and some won't.\n\nSo get the lender's written consent before you deed the property anywhere. And ask your title company whether the transfer affects your owner's title policy.\n\nThe better path is on the slide. Decide before closing, so the lender, title company, and insurer all draw up documents with the same names. Retitling after closing costs money and can put the loan and the title coverage at risk."
+      "notes": "Now the caution about moving title after closing.\n\nA mortgage or deed of trust usually has a due-on-sale clause. It lets the lender demand full payment if the property is transferred without consent.\n\nFederal law, 12 U.S.C. 1701j-3, lists transfers a lender can't treat as a trigger on certain residential loans. Examples include some transfers to a spouse or into certain living trusts. A transfer to your own LLC is not on that list. Some lenders will consent to it, and some won't.\n\nSo get the lender's written consent before you deed the property anywhere. And ask your title company whether the transfer affects your owner's title policy. If you've already closed in your own names, that's your path: ask first, in writing.\n\nThe better path is on the slide. Decide before closing, and as early as you can, since the lender sets the borrower's name when it approves the loan. Ask your lender how late the borrower can change. That way the lender, title company, and insurer all draw up documents with the same names. Retitling after closing costs money and can put the loan and the title coverage at risk."
     },
     {
       "type": "bullets",
@@ -214,7 +208,7 @@
     {
       "type": "table",
       "eyebrow": "Name map · the purchase",
-      "title": "Map every closing document to one name, because mismatches break claims later",
+      "title": "Check each closing document against the structure you chose; a wrong name can break a claim",
       "columns": [
         "Document",
         "Whose name appears",
@@ -258,12 +252,12 @@
         ]
       ],
       "ref": "PA.10.5",
-      "notes": "Draw this map before closing. Every document should match the structure you chose. Mismatches are how a claim, a permit renewal, or a tax filing goes sideways.\n\nThis first half covers the purchase itself.\n\nThe purchase contract names the buyer. If you're still forming the LLC, your attorney may use an assignment clause. The deed names the title owner. The promissory note names whoever the lender approved as borrower. The mortgage or deed of trust is signed by the title owner, pledging the property.\n\nIf the lender requires a personal guaranty, the individual owners sign it. The title policies name the title owner and the lender. The STR insurance policy names the insured and the mortgagee.\n\nWalk down this column with your PA.10 worksheet open. If two rows disagree, fix it before closing, not after."
+      "notes": "Draw this map before closing. Every document should match the structure you chose. Mismatches are how a claim, a permit renewal, or a tax filing goes sideways.\n\nThis first half covers the purchase itself.\n\nThe purchase contract names the buyer. If you're still forming the LLC, your attorney may use an assignment clause. The deed names the title owner. The promissory note names whoever the lender approved as borrower. The mortgage or deed of trust is signed by the title owner, pledging the property.\n\nIf the lender requires a personal guaranty, the individual owners sign it. The title policies name the title owner and the lender. The STR insurance policy names the insured and the mortgagee.\n\nWalk down this column with your Part 3 decisions open. If a document shows a different name than your decision calls for, fix it before closing, not after."
     },
     {
       "type": "table",
       "eyebrow": "Name map · the operation",
-      "title": "The operator's name goes on the platform, permit, and vendor accounts",
+      "title": "The operator's name goes on platform and vendor accounts; the permit follows local rules",
       "columns": [
         "Document or account",
         "Whose name appears",
@@ -304,71 +298,70 @@
       "box": {
         "kind": "info",
         "label": "Beneficial ownership",
-        "text": "FinCEN's March 2025 interim final rule exempts US-created entities from BOI reporting. Check the page before you form."
+        "text": "FinCEN's March 2025 interim final rule exempts US-created entities from federal beneficial ownership (BOI) reporting. The rule has changed before, so check FinCEN's page before you form."
       },
       "ref": "PA.10.5",
-      "notes": "The second half of the map is the operation.\n\nThe permit and tax registration go in whatever name the local office requires. Often that's the owner or the operator. The Airbnb and Vrbo accounts, the payout method, and the platform tax forms go to the operator. The bank account belongs to the entity that earns the income. Vendor agreements are signed by the operator.\n\nA note on beneficial owners. The federal reporting rule used to apply to most small LLCs. FinCEN's March 2025 interim final rule exempts entities created in the United States and their owners. That status has changed before, so check FinCEN's page before you form an entity. Your bank will still ask who owns and controls the LLC.\n\nFinCEN also reports that a court vacated its residential real estate reporting rule in March 2026. Your title company tracks what applies to your closing."
+      "notes": "The second half of the map is the operation.\n\nThe permit and tax registration go in whatever name the local office requires. Often that's the owner or the operator. The Airbnb and Vrbo accounts, the payout method, and the platform tax forms go to the operator. The bank account belongs to the entity that earns the income. Vendor agreements are signed by the operator.\n\nA note on beneficial owners. The federal reporting rule used to apply to most small LLCs. FinCEN's March 2025 interim final rule exempts entities created in the United States and their owners. That status has changed before, so check FinCEN's page before you form an entity. Your bank will still ask who owns and controls the LLC. Your title company tracks what applies to your closing."
     },
     {
       "type": "calc",
       "eyebrow": "Cedar Ridge · personal use",
-      "title": "Ten personal days sits under both personal-use thresholds at 212 rented nights",
-      "assumption": true,
+      "title": "At 212 rented nights, ten personal days stays under the 21.2-day personal-use limit",
+      "assumption": false,
       "lines": [
         {
           "op": "",
-          "label": "Rented nights, base case",
+          "label": "Rented nights, base case (assumption)",
           "v": "212"
         },
         {
           "op": "",
-          "label": "10% of fair-rental days",
+          "label": "Limit: greater of 14 days or 10% of 212",
           "v": "21.2 days"
         },
         {
           "op": "",
-          "label": "Threshold: greater of 14 days or 10%",
-          "v": "21.2 days"
-        },
-        {
-          "op": "",
-          "label": "Planned personal-use days",
+          "label": "Planned personal-use days (assumption)",
           "v": "10"
+        },
+        {
+          "op": "",
+          "label": "Days used: 212 rented + 10 personal",
+          "v": "222"
         }
       ],
       "result": {
-        "label": "Rental share: 212 of 222 days",
+        "label": "Rental share: 212 ÷ 222",
         "v": "95.5%"
       },
-      "side": "Under IRS Publication 527, a dwelling counts as a home when personal use exceeds 14 days or 10% of fair-rental days, whichever is greater.\n\nWith any personal use, Pub 527 still requires dividing expenses between rental and personal use.",
+      "side": "Why it's here: your CPA needs this day count whichever entity you choose.\n\nUnder IRS Publication 527, a dwelling counts as a home when personal use exceeds 14 days or 10% of fair-rental days, whichever is greater. With any personal use, Pub 527 still requires dividing expenses.\n\nCedar Ridge figures are assumptions; the 14-day and 10% limits are IRS rules.",
       "ref": "PA.10.6",
-      "notes": "Sam's PA.5 walks through cost segregation and year-one depreciation. That lesson assumes the CPA has already settled some facts. Here's what drives them. The entity choice doesn't change most of this.\n\nStart with personal use. Maya and Chris plan about 10 personal days a year. Under IRS Publication 527, a dwelling is used as a home when personal use exceeds 14 days or 10% of fair-rental days, whichever is greater.\n\nAt 212 rented nights, 10% is 21.2 days. So 10 personal days sits under both thresholds, on these assumptions.\n\nBut Publication 527 still requires dividing expenses between rental and personal use whenever there's any personal use. Here that's roughly 212 of 222 total days, or 95.5% rental.\n\nBring back from Sam's PA.5 the depreciation figures. Your CPA uses this day count alongside them."
+      "notes": "Some tax facts matter whichever structure you pick, and your CPA needs them before advising on the entity. Two of the biggest are personal-use days and average guest stay.\n\nStart with personal use. Maya and Chris plan about 10 personal days a year. Under IRS Publication 527, a dwelling is used as a home when personal use exceeds 14 days or 10% of fair-rental days, whichever is greater.\n\nAt 212 rented nights, 10% is 21.2 days. I'm treating the rented nights as the fair-rental days. The limit is the greater of the two, so 21.2 days. Ten personal days sits under it, on these assumptions.\n\nBut Publication 527 still requires dividing expenses between rental and personal use whenever there's any personal use. Here that's 212 rented days out of 222 days used, which is 212 plus 10. That's 95.5% rental. Empty nights aren't in that count.\n\nYour CPA uses this day count alongside the depreciation figures from PA.5, Sam's cost segregation lesson."
     },
     {
       "type": "two",
       "eyebrow": "Participation and day counts",
-      "title": "A 3.5-night average stay changes which tests the CPA applies, and no entity does the hours",
+      "title": "A 3.5-night average stay changes the CPA's tests, and an LLC can't log your hours",
       "left": {
         "head": "Average stay (IRS Pub 925)",
         "note": "Cedar Ridge averages 3.5 nights.",
         "items": [
-          "7 days or less: not a rental activity under the passive rules",
-          "The 'STR loophole' is really a set of tests with facts",
+          "Stays of 7 days or less: not a 'rental activity' under the passive-loss rules, so different tests apply",
+          "The 'STR loophole': STR losses may offset W‑2 wages if the tests are met",
           "Your hours and your cleaner's or co-host's hours matter",
           "The CPA applies the tests"
         ]
       },
       "right": {
         "head": "Same days, different offices",
-        "note": "Reg Z commentary, 1026.3",
+        "note": "",
         "items": [
-          "A beach house the owner occupies over 14 days next year isn't treated as non-owner-occupied",
-          "That's a lending-disclosure rule, not a tax rule",
-          "Tell your lender and your CPA the same honest number"
+          "Your lender and CPA each count personal-use days under their own rules",
+          "Give both the same honest number"
         ]
       },
       "ref": "PA.10.6",
-      "notes": "Next, average stay. Under IRS Publication 925, an activity isn't a rental activity for the passive rules if the average customer stay is 7 days or less. Cedar Ridge averages 3.5 nights.\n\nThat changes which participation tests the CPA applies. It's the reason people talk about 'the STR loophole.' It's really a set of tests with facts behind them.\n\nWhether your losses can offset W-2 income depends on participation facts. The hours you work matter. So do the hours your cleaner or co-host works. The CPA applies the tests. Your entity doesn't do those hours for you.\n\nOne more note for the lender. The CFPB's Regulation Z commentary says a beach house the owner will occupy over 14 days next year isn't treated as non-owner-occupied under that rule. That's a lending rule, not a tax rule. Same personal-use days, different offices. Give both the same honest number."
+      "notes": "Next, average stay. Under IRS Publication 925, an activity isn't a rental activity for the passive rules if the average customer stay is 7 days or less. Cedar Ridge averages 3.5 nights.\n\nThat sounds odd for a rental. It means the usual rental-loss rules don't automatically apply. Instead, participation tests decide whether a loss can offset your other income. That's what people mean by 'the STR loophole': the chance that STR losses, such as early depreciation, can offset W-2 wages. It's really a set of tests with facts behind them.\n\nWhether your losses can offset W-2 income depends on participation facts. The hours you work matter. So do the hours your cleaner or co-host works. The CPA applies the tests. Your entity doesn't do those hours for you.\n\nOne more note. Give your lender and your CPA the same honest personal-use number. Each applies its own rules to it."
     },
     {
       "type": "checklist",
@@ -381,29 +374,29 @@
         "Schedule E or Schedule C, given the services we provide guests?",
         "If title goes into a one- or two-member LLC, which return is filed, and what does it cost?",
         "Is an S-corp election useful at all? If it holds real estate, what happens at refinance or sale?",
-        "How do cost segregation and bonus depreciation from PA.5 interact with our entity and hold period?",
-        "Does the entity limit a future sale or 1031 exchange? (OP.12 covers exits.)",
+        "How do cost segregation and bonus depreciation from PA.5 (cost segregation lesson) interact with our entity and hold period?",
+        "Does the entity limit a future sale or 1031 exchange? (OP.12, the exit lesson)",
         "What records do you want from day one: bank account, bookkeeping software, mileage, time log?"
       ],
       "ref": "PA.10.6",
-      "notes": "Take these questions to your CPA in writing. Written questions get written answers, and you'll want those answers later.\n\nThe first two are about facts: which participation tests apply and how to log your time, and whether your personal use means dividing expenses.\n\nThe third is about which schedule the activity reports on. That depends on the services you provide guests.\n\nThe fourth and fifth are about entities. Which return gets filed if title goes into an LLC, and what it costs to prepare. And whether an S-corp election helps at all.\n\nThe sixth connects to Sam's PA.5. Cost segregation and bonus depreciation interact with your entity and how long you'll hold.\n\nThe seventh looks at the exit. OP.12 covers that. The eighth is what records the CPA wants from day one. Set those up before your first booking."
+      "notes": "Take these questions to your CPA in writing. Written questions get written answers, and you'll want those answers later.\n\nThe first two are about facts: which participation tests apply and how to log your time, and whether your personal use means dividing expenses.\n\nThe third is about which schedule the activity reports on. That depends on the services you provide guests.\n\nThe fourth and fifth are about entities. Which return gets filed if title goes into an LLC, and what it costs to prepare. And whether an S-corp election helps at all.\n\nThe sixth connects to PA.5, Sam's cost segregation lesson. Cost segregation and bonus depreciation interact with your entity and how long you'll hold.\n\nThe seventh looks at the exit. OP.12, the exit lesson, covers that. The eighth is what records the CPA wants from day one. Set those up before your first booking."
     },
     {
       "type": "statement",
       "eyebrow": "Holding companies",
       "title": "For a first property, a holding company often adds cost before it solves anything",
       "text": "For a first property, a holding company often adds cost before it solves anything.",
-      "support": "Revisit it in OP.11 when you buy property number two. Ask your attorney whether your state offers a series LLC, and how your lender and insurer treat it.",
+      "support": "A holding company is a parent LLC that owns several property LLCs. Revisit it in OP.11 when you buy property number two. Ask your attorney whether your state offers a series LLC, and how your lender and insurer treat it.",
       "ref": "PA.10.7",
       "notes": "You'll hear about holding companies next. A holding company structure usually means a parent LLC that owns several property LLCs. People use it to keep each property's liabilities separate while managing them together.\n\nFor a first property, it often adds cost before it solves anything. You'd be paying for filings and returns on entities that don't have a second property to protect yet.\n\nSo park it. Revisit it in OP.11 when you're buying property number two.\n\nWhen you get there, ask your attorney whether your state offers a series LLC. Then ask your lender and your insurer how they treat one. Those two answers often matter more than the structure chart."
     },
     {
       "type": "table",
       "eyebrow": "Cedar Ridge · three options",
-      "title": "Cedar Ridge has three workable structures, and each one waits on professional answers",
-      "assumption": true,
+      "title": "Cedar Ridge has three possible structures, and each one waits on professional answers",
+      "assumption": false,
       "columns": [
-        "",
+        "Question",
         "A: personal names",
         "B: property LLC, DSCR loan",
         "C: personal title, operating LLC"
@@ -425,12 +418,12 @@
           "**Operator**",
           "Maya and Chris",
           "Cedar Ridge LLC",
-          "Operating LLC under a written agreement"
+          "Operating LLC that runs the rental under a written agreement with the owners"
         ],
         [
           "**Default federal tax**",
           "Their personal return",
-          "Partnership (1065) unless a community property exception applies",
+          "Partnership return (Form 1065), unless a community property exception applies",
           "Depends on the operating LLC's members and elections"
         ],
         [
@@ -443,17 +436,18 @@
           "**Main open questions**",
           "Umbrella limit and price",
           "Lender's entity terms; guarantee; named insured",
-          "Whether it holds up and what it costs"
+          "Whether it holds up if challenged, and what it costs"
         ]
       ],
       "compact": true,
       "ref": "PA.10.8",
-      "notes": "Maya and Chris are married, both on W-2 income, with their primary home in personal names. In the base case they self-manage with a local cleaner.\n\nHere are three options, laid out for their professionals. None of these is my recommendation. Each one depends on answers they don't have yet.\n\nOption A keeps everything in their personal names. It fits either loan. Liability is handled with insurance plus an umbrella.\n\nOption B puts title in Cedar Ridge LLC on a DSCR loan. That works only if the lender lends to LLCs, and a guarantee is likely. By default it's a partnership return, unless a community property exception applies.\n\nOption C keeps title personal and puts the operation in a separate LLC under a written agreement. The open question is whether that arrangement holds up and what it costs to maintain.\n\nNext, let's price Option B."
+      "notes": "Maya and Chris are married, both on W-2 income, with their primary home in personal names. In the base case they self-manage with a local cleaner.\n\nHere are three options, laid out for their professionals. None of these is my recommendation. Each one depends on answers they don't have yet.\n\nOption A keeps everything in their personal names. It fits either loan. Liability is handled with insurance plus an umbrella.\n\nOption B puts title in Cedar Ridge LLC on a DSCR loan. That works only if the lender lends to LLCs, and a guarantee is likely. By default it's a partnership return, unless a community property exception applies. Cedar Ridge's state isn't named. If it's a community property state, spouses can treat the LLC as disregarded or as a partnership. Their CPA advises which.\n\nOption C keeps title personal and puts the operation in a separate LLC under a written agreement. The open question is whether that arrangement holds up if challenged, and what it costs to maintain.\n\nNext, let's price Option B.",
+      "caption": "Hypothetical example. None of these is my recommendation."
     },
     {
       "type": "calc",
       "eyebrow": "Cedar Ridge · the cost of Option B",
-      "title": "Option B's LLC costs about $1,625 a year, which leaves $127 on the PA.9 numbers",
+      "title": "Option B's LLC costs about $1,625 a year, which drops their cash flow below the $5,000 floor",
       "assumption": true,
       "lines": [
         {
@@ -476,20 +470,20 @@
         "label": "Extra annual cost",
         "v": "$1,625"
       },
-      "side": "Canonical base case: $5,572 - $1,625 = $3,947, about $329 a month instead of about $464.\n\nPA.9 final base case: $5,172 - $1,625 = $3,547 a year, under their $5,000 minimum from PA.8.",
+      "side": "Original base case: $5,572 - $1,625 = $3,947 a year, about $329 a month instead of $464.\n\nCurrent base case after PA.9: $5,172 - $1,625 = $3,547 a year. That's $1,453 under the $5,000 minimum they set for themselves in PA.8.",
       "side_box": {
         "kind": "gold",
         "label": "The real question",
         "text": "Is the liability benefit worth about $1,625 a year to this household? Their attorney and insurer can tell them."
       },
       "ref": "PA.10.8",
-      "notes": "Let's put a number on Option B. Assume a $300 state annual report fee, a $125 registered agent, and $1,200 for a partnership return. All three are assumptions. That's $1,625 a year. State filing fees vary widely, so replace the $300 with your state's actual fee.\n\nAgainst the canonical DSCR base-case cash flow of $5,572, Option B drops it to $3,947. That's about $329 a month instead of about $464.\n\nBut remember PA.9. After diligence, the final base case is $5,172. Option B's $1,625 would take it to $3,547 a year. That's under the $5,000 minimum they set in PA.8.\n\nThat doesn't make Option B wrong. It means the liability benefit has to be worth about $1,625 a year to this household. Their attorney and insurer are the people who can tell them whether it is.\n\n[Recording note: Preston can add a real example here if he has one.]"
+      "notes": "Let's put a number on Option B. Assume a $300 state annual report fee, a $125 registered agent, and $1,200 for a partnership return. All three are assumptions. That's $1,625 a year. It leaves out one-time formation costs. State filing fees vary widely, so replace the $300 with your state's actual fee.\n\nAgainst the original base-case cash flow of $5,572, Option B drops it to $3,947. That's about $329 a month instead of about $464.\n\nPA.9's due diligence added a $400 yearly permit renewal, which lowered the base case to $5,172. Option B's $1,625 would take it to $3,547 a year. That's $1,453 under the $5,000 minimum yearly cash flow they set for themselves in PA.8.\n\nThat doesn't make Option B wrong. It means the liability benefit has to be worth about $1,625 a year to this household. Their attorney and insurer are the people who can tell them whether it is."
     },
     {
       "type": "worksheet",
-      "eyebrow": "Exercise · part 2",
+      "eyebrow": "Exercise · parts 1 and 2",
       "title": "Ask every professional from one worksheet so they all work from the same facts",
-      "text": "Fill in Part 1 first: your states, owners, financing path, personal-use days, average stay, hours, and umbrella policy.",
+      "text": "Part 1 (fill in first): states, owners and shares, marriage, financing path, personal-use days, average stay, hours, other properties, umbrella.",
       "columns": [
         "Professional",
         "Question",
@@ -535,19 +529,13 @@
         ],
         [
           "Insurer",
-          "Who should be the named insured? Can we add the LLC and ourselves?",
-          "",
-          ""
-        ],
-        [
-          "Insurer",
-          "Umbrella options and price",
+          "The four named-insured questions (PA.10.4), plus umbrella options and price",
           "",
           ""
         ],
         [
           "CPA",
-          "The eight questions in PA.10.6",
+          "The eight questions in PA.10.6 (attach the CPA's written reply)",
           "",
           ""
         ],
@@ -560,7 +548,7 @@
       ],
       "compact": true,
       "ref": "PA.10.9",
-      "notes": "Here's the exercise. It has three parts, and you fill it out before your first call with any professional.\n\nPart 1 is facts. Which state the property sits in and which state you live in. Who owns what percentage. Whether you're married, and whether it's a community property state. Your financing path from PA.7. Personal-use days, average stay, who does the operating work and roughly how many hours. Other properties you own or plan. Any umbrella policy.\n\nPart 2 is this slide: questions by professional. Three for the lender, three for the attorney, two for the insurer, the CPA's eight, and one for the licensing office.\n\nBring the whole worksheet to all four meetings. The point is that the lender, the attorney, the insurer, and the CPA are all working from the same facts. Write each answer down with a date."
+      "notes": "Here's the exercise. It has three parts, and you fill it out before your first call with any professional.\n\nPart 1 is facts. Which state the property sits in and which state you live in. Who owns what percentage. Whether you're married, and whether it's a community property state. Your financing path from PA.7. Personal-use days, average stay, who does the operating work and roughly how many hours. Other properties you own or plan. Any umbrella policy.\n\nPart 2 is this slide: questions by professional. Three go to the lender and three to the attorney. One line covers the insurer's four named-insured questions plus umbrella pricing. Then come the CPA's eight and one for the licensing office. Start with the lender, because the attorney's questions depend on whether a guarantee is required.\n\nBring the whole worksheet to every conversation. The point is that the lender, attorney, insurer, CPA, and licensing office all work from the same facts. Write each answer down with a date."
     },
     {
       "type": "worksheet",
@@ -613,10 +601,10 @@
       "box": {
         "kind": "warn",
         "label": "The closing rule",
-        "text": "The lender, title company, and insurer need the same names in writing a week before closing. If they don't have them, don't close until they do."
+        "text": "The lender, title company, and insurer need the same names in writing a week before closing. If they don't, don't close until they do. If names don't match, call your attorney and agent that day."
       },
       "ref": "PA.10.9",
-      "notes": "Part 3 is the decision itself. Five rows.\n\nTitle owner at closing. Operator. Tax classification. How you'll cover liability, whether that's an entity, insurance, an umbrella, or some mix. And the date you'll set up the bank account and bookkeeping.\n\nFor each one, write the choice, one sentence on why, who confirmed it, and the date.\n\nThen apply the rule at the bottom. The lender, the title company, and the insurer need the same names in writing a week before closing. If they don't have them, don't close until they do.\n\nThat rule sounds strict. It's much cheaper than fixing a mismatched deed, loan, and insurance policy after the fact."
+      "notes": "Part 3 is the decision itself. Five rows.\n\nTitle owner at closing. Operator. Tax classification. How you'll cover liability, whether that's an entity, insurance, an umbrella, or some mix. And the date you'll set up the bank account and bookkeeping.\n\nFor each one, write the choice, one sentence on why, who confirmed it, and the date.\n\nThen apply the rule at the bottom. The lender, the title company, and the insurer need the same names in writing a week before closing. If they don't have them, don't close until they do. If the names don't match a week out, call your attorney and your agent that same day.\n\nThat rule sounds strict. It's much cheaper than fixing a mismatched deed, loan, and insurance policy after the fact."
     },
     {
       "type": "table",
@@ -649,7 +637,7 @@
         ]
       ],
       "ref": "PA.10.10",
-      "notes": "Here's who confirms what.\n\nYour real estate attorney, licensed in the property's state, confirms what liability protection an entity gives, how to form it, what the operating agreement says, and whether any transfer makes sense.\n\nYour CPA confirms the tax classification, whether an S-corp election makes sense, which return reports the activity, participation and personal-use treatment, and what happens at exit.\n\nYour lender confirms, in writing, who it lends to, whether a guarantee is required, the exact names on the loan documents, and its position on transfers after closing.\n\nYour insurer confirms the named insured, any additional insureds, the mortgagee clause, and umbrella coverage.\n\nThe licensing office and the state tax agency confirm whose name goes on the permit and the lodging tax registration."
+      "notes": "Here's who confirms what.\n\nYour real estate attorney, licensed in the property's state, confirms what liability protection an entity gives and how to form it. They also cover the operating agreement and whether any transfer makes sense.\n\nYour CPA confirms the tax classification and whether an S-corp election makes sense. They also confirm which return reports the activity, participation and personal-use treatment, and what happens at exit.\n\nYour lender confirms, in writing, who it lends to and whether a guarantee is required. It also confirms the exact names on the loan documents and its position on transfers after closing.\n\nYour insurer confirms the named insured, any additional insureds, the mortgagee clause, and umbrella coverage.\n\nThe licensing office and the state tax agency confirm whose name goes on the permit and the lodging tax registration."
     },
     {
       "type": "dothis",
@@ -657,16 +645,16 @@
       "items": [
         "Fill in Part 1 of the worksheet with your facts.",
         "Email your lender the three lender questions and ask for written answers.",
-        "Email your insurer the four named-insured questions.",
+        "Email your insurer the four named-insured questions (PA.10.4) and ask for umbrella options and price.",
         "Send your CPA the eight questions and book a call."
       ],
       "next": "Next: PA.11 Closing Day: Documents, Wire Fraud Prevention & Possession. Bring your completed worksheet to check every name on every document.",
       "ref": "PA.10.11",
-      "notes": "Four things this week. Each one takes under an hour.\n\nFirst, fill in Part 1 of the worksheet. Just the facts.\n\nSecond, email your lender the three lender questions. Ask for written answers.\n\nThird, email your insurer the four named-insured questions.\n\nFourth, send your CPA the eight questions and book a call. Give them a few days with the list before you talk.\n\nWith the names settled, you're ready to close. PA.11 Closing Day walks through the closing figures line by line against your loan quote. It covers how to move the money safely and what to collect when you get the keys. Bring your completed worksheet. You'll use it to check every name on every document at the table."
+      "notes": "Four things this week. Each one takes under an hour.\n\nFirst, fill in Part 1 of the worksheet. Just the facts.\n\nSecond, email your lender the three lender questions. Ask for written answers.\n\nThird, email your insurer the four named-insured questions. Ask for umbrella options and a price too.\n\nFourth, send your CPA the eight questions and book a call. Give them a few days with the list before you talk. Your attorney and the licensing office come next, once the lender answers. The attorney's questions depend on whether a guarantee is required.\n\nWith the names settled, you're ready to close. PA.11 Closing Day walks through the closing figures line by line against your loan quote. It covers how to move the money safely and what to collect when you get the keys. Bring your completed worksheet. You'll use it to check every name on every document at the table."
     },
     {
       "type": "sources",
-      "title": "The entity and tax rules here come from IRS, SBA, and lender pages, checked 2026-09-25",
+      "title": "The rules here come from IRS, SBA, and lender pages; confirm each before you rely on it",
       "items": [
         {
           "title": "IRS Publication 3402, Taxation of LLCs",
@@ -720,7 +708,7 @@
         }
       ],
       "ref": "PA.10 sources",
-      "notes": "These are the main sources behind this lesson. The full list is in the PA.10 sources section. It adds the IRS S corporation compensation page, the Kiavi DSCR guide, the CFPB's Regulation Z commentary, FinCEN's real estate rule page, and Airbnb's hosting pages.\n\nThe tax classification rules come from IRS publications and pages. The legal-form point comes from the SBA. The borrower rule for conventional loans comes from Fannie Mae's Selling Guide. The due-on-sale exceptions come from the federal statute.\n\nEach one was checked on September 25, 2026, through a search summary of the official page. Open them yourself before you rely on them. FinCEN's reporting rules in particular have changed more than once.\n\nThe Cedar Ridge entity costs are assumptions. Replace them with your state's real fees."
+      "notes": "These are the main sources behind this lesson. The full list is in the PA.10 sources section. It adds the IRS S corporation compensation page, the Kiavi DSCR guide, and the CFPB's Regulation Z commentary. It also adds FinCEN's real estate rule page and Airbnb's hosting pages.\n\nThe tax classification rules come from IRS publications and pages. The legal-form point comes from the SBA. The borrower rule for conventional loans comes from Fannie Mae's Selling Guide. The due-on-sale exceptions come from the federal statute.\n\nEach one was checked on September 25, 2026, through a search summary of the official page. Open them yourself before you rely on them. FinCEN's reporting rules in particular have changed more than once.\n\nThe Cedar Ridge entity costs are assumptions. Replace them with your state's real fees."
     }
   ]
 }

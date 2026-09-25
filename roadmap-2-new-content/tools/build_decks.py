@@ -11,6 +11,9 @@ ROOT = pathlib.Path(__file__).resolve().parent.parent
 SRC = ROOT / "slides" / "src"
 OUT = ROOT / "slides"
 MD = "roadmap-2-complete-new-content.md"
+# Minimal mode (Preston feedback, 2026-09-25): no labels, eyebrows, subheadlines, captions, assumption tags,
+# box labels, footers, cover meta, or sources slides. Slides show the point and nothing else.
+MINIMAL = True
 FONTS = ""  # fonts are bundled in slides/assets/fonts and imported by deck.css
 
 
@@ -40,7 +43,8 @@ def box(b):
     kind = b.get("kind", "info")
     cls = {"info": "box", "warn": "box warn", "gold": "box gold"}[kind]
     lab = b.get("label", {"info": "Worked example", "warn": "This fails if", "gold": "How to use this"}[kind])
-    return f'<div class="{cls}"><div class="lab">{inline(lab)}</div>{paras(b["text"])}</div>'
+    labhtml = "" if MINIMAL else f'<div class="lab">{inline(lab)}</div>'
+    return f'<div class="{cls}">{labhtml}{paras(b["text"])}</div>'
 
 
 def table(cols, rows, compact=False, total_last=False, ws=False):
@@ -86,36 +90,39 @@ def render_slide(d, s, n, total):
     t = s["type"]
     head = ""
     if t not in ("cover", "statement"):
-        eb = s.get("eyebrow", "")
+        eb = "" if MINIMAL else s.get("eyebrow", "")
         head = (f'<div class="eyebrow">{inline(eb)}</div>' if eb else "") + f'<h2>{inline(s["title"])}</h2>'
-        if s.get("keyline"):
+        if s.get("keyline") and not MINIMAL:
             head += f'<div class="keyline">{inline(s["keyline"])}</div>'
         head += '<div class="rule"></div>'
-    tag = '<div class="assume">All figures on this slide are assumptions</div>' if s.get("assumption") else ""
+    tag = '<div class="assume">All figures on this slide are assumptions</div>' if s.get("assumption") and not MINIMAL else ""
     body = ""
     if t == "cover":
-        meta = "".join(f"<div><span>{inline(a)}</span>{inline(b)}</div>" for a, b in s["meta"])
-        body = (glyph(d["nn"]) + f'<div class="eyebrow">{inline(s.get("eyebrow", "PRESTON · ROADMAP 2.0"))}</div>'
+        meta = "".join(f"<div><span>{inline(a)}</span>{inline(b)}</div>" for a, b in s.get("meta", []))
+        if MINIMAL:
+            body = f'<h1>{inline(s["title"])}</h1><div class="goldrule"></div>'
+        else:
+          body = (glyph(d["nn"]) + f'<div class="eyebrow">{inline(s.get("eyebrow", "PRESTON · ROADMAP 2.0"))}</div>'
                 f'<div class="kicker">{inline(s.get("kicker", ""))}</div><h1>{inline(s["title"])}</h1>'
                 f'<div class="goldrule"></div><p class="sub">{inline(s.get("subtitle", ""))}</p><div class="meta">{meta}</div>')
     elif t == "statement":
-        eb = s.get("eyebrow", "")
+        eb = "" if MINIMAL else s.get("eyebrow", "")
         body = ((f'<div class="eyebrow">{inline(eb)}</div>' if eb else "") +
                 f'<div class="big"><p>{inline(s["text"])}</p>' +
-                (f'<div class="support">{inline(s["support"])}</div>' if s.get("support") else "") + "</div>")
+                (f'<div class="support">{inline(s["support"])}</div>' if s.get("support") and not MINIMAL else "") + "</div>")
     elif t == "bullets":
         tagn = "ol" if s.get("ordered") else "ul"
         cls = "steps" if s.get("ordered") else "pts"
         body = f'<{tagn} class="{cls}">' + "".join(f"<li>{inline(x)}</li>" for x in s["items"]) + f"</{tagn}>"
     elif t in ("table", "worksheet"):
         body = table(s["columns"], s["rows"], s.get("compact"), s.get("total_last"), ws=(t == "worksheet"))
-        if s.get("caption"):
+        if s.get("caption") and not MINIMAL:
             body += f'<div class="cap">{inline(s["caption"])}</div>'
     elif t == "two":
         cols = []
         for side in (s["left"], s["right"]):
             c = f'<div><h3>{inline(side["head"])}</h3>'
-            if side.get("note"):
+            if side.get("note") and not MINIMAL:
                 c += f'<div class="colnote">{inline(side["note"])}</div>'
             c += '<ul class="pts">' + "".join(f"<li>{inline(x)}</li>" for x in side["items"]) + "</ul></div>"
             cols.append(c)
@@ -125,13 +132,14 @@ def render_slide(d, s, n, total):
         for k, nd in enumerate(s["nodes"]):
             if k:
                 parts.append('<div class="arrow">&rarr;</div>')
-            parts.append(f'<div class="node {nd.get("kind", "")}"><div class="k">{inline(nd.get("k", ""))}</div>'
+            khtml = "" if MINIMAL else f'<div class="k">{inline(nd.get("k", ""))}</div>'
+            parts.append(f'<div class="node {nd.get("kind", "")}">{khtml}'
                          f'<div class="h">{inline(nd["h"])}</div><div class="d">{inline(nd.get("d", ""))}</div></div>')
         body = '<div class="flow">' + "".join(parts) + "</div>"
     elif t == "gates":
         g = []
         for k, x in enumerate(s["gates"]):
-            sub = f'<small>{inline(x["sub"])}</small>' if x.get("sub") else ""
+            sub = f'<small>{inline(x["sub"])}</small>' if x.get("sub") and not MINIMAL else ""
             g.append(f'<div class="gate"><div class="num">{k + 1:02d}</div><div class="q">{inline(x["q"])}{sub}</div>'
                      f'<div class="no">{inline(x["no"])}</div></div>')
         end = f'<div class="end">{inline(s["end"])}</div>' if s.get("end") else ""
@@ -161,7 +169,7 @@ def render_slide(d, s, n, total):
             rows.append(f'<div class="{cls}"><div class="lbl">{inline(x["label"])}</div><div class="trk"><div class="fill" style="left:0;width:{w:.1f}%"></div></div>'
                         f'<div class="val">{inline(disp)}</div></div>')
         body = '<div class="bars">' + "".join(rows) + "</div>"
-        if s.get("caption"):
+        if s.get("caption") and not MINIMAL:
             body += f'<div class="cap">{inline(s["caption"])}</div>'
     elif t == "checklist":
         cls = "check cols2" if s.get("cols2") else "check"
@@ -173,7 +181,8 @@ def render_slide(d, s, n, total):
         body += f'<div class="bands">{bands}</div>'
     elif t == "dothis":
         items = "".join(f"<li>{inline(x)}</li>" for x in s["items"])
-        body = f'<div class="do"><div class="lab">{inline(s.get("label", "Do this week"))}</div><ul>{items}</ul></div>'
+        lab = "" if MINIMAL else f'<div class="lab">{inline(s.get("label", "Do this week"))}</div>'
+        body = f'<div class="do">{lab}<ul>{items}</ul></div>'
         if s.get("next"):
             body += f'<div class="next">{inline(s["next"])}</div>'
     elif t == "sources":
@@ -190,7 +199,7 @@ def render_slide(d, s, n, total):
         body = f'<div class="body small">{paras(s["text"])}</div>' + body
     body += box(s.get("box"))
     ref = s.get("ref", "")
-    foot = (f'<div class="foot"><span>{inline(d["code"])} · {inline(d.get("short", d["title"]))}</span>'
+    foot = "" if MINIMAL else (f'<div class="foot"><span>{inline(d["code"])} · {inline(d.get("short", d["title"]))}</span>'
             f'<span class="ref">{("§ " + inline(ref)) if ref else ""}</span><span>{n} / {total}</span></div>')
     cls = "slide s-" + t
     return (f'<section class="{cls}" data-n="{n}">{head}<div class="content">{tag}{body}</div>{foot}</section>'
@@ -200,6 +209,8 @@ def render_slide(d, s, n, total):
 
 def build(path):
     d = json.loads(path.read_text())
+    if MINIMAL:
+        d["slides"] = [s for s in d["slides"] if s["type"] != "sources"]
     total = len(d["slides"])
     slides = "".join(render_slide(d, s, k + 1, total) for k, s in enumerate(d["slides"]))
     title = f'{d["code"]} {d["title"]}'

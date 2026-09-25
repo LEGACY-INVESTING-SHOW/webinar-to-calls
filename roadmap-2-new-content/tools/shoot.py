@@ -20,7 +20,7 @@ async def main(stem, outdir, nums):
             ov = await pg.evaluate(f"""(() => {{ const s=document.querySelector('.slide[data-n="{n}"]'); const c=s.querySelector('.content'); const f=s.querySelector('.foot');
                  if(!c) return 0; const cb=c.getBoundingClientRect(), sb=s.getBoundingClientRect(); let maxb=0;
                  c.querySelectorAll('*').forEach(e=>{{const r=e.getBoundingClientRect(); if(r.height>0) maxb=Math.max(maxb,r.bottom);}});
-                 if(!f || getComputedStyle(f).display==='none') return 0; const fb = f.getBoundingClientRect().top; return Math.round((maxb - fb) ); }})()""")
+                 if(s.classList.contains('s-cover')) return 0; const sc = sb.height/720; const fb = (f && getComputedStyle(f).display!=='none') ? f.getBoundingClientRect().top : sb.top + 676*sc; return Math.round((maxb - fb) ); }})()""")
             if ov > 0: overflow.append((n, ov))
             await el.screenshot(path=str(out / f"{stem}-{n:02d}.png"))
         await b.close()

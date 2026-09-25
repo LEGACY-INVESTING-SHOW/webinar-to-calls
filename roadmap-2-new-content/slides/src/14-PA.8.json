@@ -8,40 +8,90 @@
     {
       "type": "cover",
       "kicker": "Phase 1 · Property Acquisition",
-      "title": "Set your walk-away price from conservative NOI before you see the seller's number",
+      "title": "Set your walk-away price from net operating income before you see the seller's number",
       "subtitle": "Lesson PA.8. Offer Strategy & Negotiation for Investment Property",
-      "meta": [["Teacher", "Preston"], ["Example", "Cedar Ridge house (hypothetical)"], ["Use", "Education only. Not legal, lending, or real estate advice. Contracts are state-specific."]],
+      "meta": [
+        [
+          "Teacher",
+          "Preston"
+        ],
+        [
+          "Example",
+          "Cedar Ridge house (hypothetical)"
+        ],
+        [
+          "Use",
+          "Education only. Not legal, lending, or real estate advice. Contracts are state-specific."
+        ]
+      ],
       "ref": "PA.8.0",
-      "notes": "This lesson is about one number you set before you ever talk to the seller: your walk-away price.\n\nBy the end you'll build that number from three things. Conservative net operating income. Your loan terms. And the cash you actually have. Then you'll learn the contract terms that protect it: earnest money, contingencies, appraisal gap, seller concessions, closing date, and furniture.\n\nAnd you'll learn a habit. Every negotiation decision gets recorded as proceed, renegotiate, or walk, with the reason in one line.\n\nWe stay with Cedar Ridge. The asking price is $399,000. Maya and Chris end up under contract at $385,000. You'll see exactly why $399,000 fails their tests and $385,000 passes. All Cedar Ridge figures are assumptions from our canonical example."
+      "notes": "This lesson is about one number you set before you ever talk to the seller: your walk-away price.\n\nBy the end you'll build that number from three things. Your base-case and weak-case net operating income. Your loan terms. And the cash you actually have. Then you'll learn the eight contract terms that protect it. They include earnest money, three contingencies, seller concessions, closing date, furniture, and existing bookings.\n\nAnd you'll learn a habit. Every negotiation decision gets recorded as proceed, renegotiate, or walk, with the reason in one line.\n\nWe stay with Cedar Ridge, the course's hypothetical lake house, and Maya and Chris, our example buyers. The asking price is $399,000. They end up under contract at $385,000. You'll see exactly why $399,000 fails their tests and $385,000 passes. All Cedar Ridge figures are assumptions from the course example."
     },
     {
       "type": "flow",
       "eyebrow": "Reverse the order",
       "title": "Decide the most you'll pay first, then negotiate below that number",
       "nodes": [
-        {"k": "Bring", "h": "Sam's PA.4 package", "d": "Base-case NOI and weak-case NOI"},
-        {"k": "Run", "h": "Three tests", "d": "Base cash flow, weak-case survival, cash"},
-        {"k": "Set", "h": "Walk-away price", "d": "The lowest of the three ceilings"},
-        {"k": "Then", "h": "Negotiate below it", "d": "Seller won't go under? You walk, and you know why.", "kind": "go"}
+        {
+          "k": "Bring",
+          "h": "Your PA.4 numbers",
+          "d": "Base-case and weak-case NOI from your underwriting"
+        },
+        {
+          "k": "Run",
+          "h": "Three tests",
+          "d": "Base cash flow, weak-case survival, cash"
+        },
+        {
+          "k": "Set",
+          "h": "Walk-away price",
+          "d": "The lowest of the three ceilings"
+        },
+        {
+          "k": "Then",
+          "h": "Negotiate below it",
+          "d": "Seller won't go under? You walk, and you know why.",
+          "kind": "go"
+        }
       ],
-      "box": {"kind": "warn", "label": "This fails if", "text": "You start from the $399,000 asking price, then nudge the nightly rate up until the spreadsheet works. Now the offer rests on the most optimistic line in the model."},
+      "box": {
+        "kind": "warn",
+        "label": "This fails if",
+        "text": "You start from the $399,000 asking price, then nudge the nightly rate up until the spreadsheet works. Now the offer rests on the most optimistic line in the model."
+      },
       "ref": "PA.8.1",
-      "notes": "The asking price is the seller's opening position. It tells you what the seller hopes to get. It says nothing about what the house can carry as a rental.\n\nA common way STR offers go wrong is working backward from the asking price. The buyer sees $399,000, then nudges the nightly rate up until the spreadsheet works. Now the offer depends on the most optimistic line in the model.\n\nReverse the order. Decide the most you'll pay first, from numbers you'd defend to a lender. Then negotiate below that number. If the seller won't come under it, you walk, and you already know why.\n\nSam's PA.4 lesson builds the underwriting package: revenue, expenses, cap rate, and cash-on-cash. I'm not redoing that here. What you bring back from PA.4 is two lines: base-case NOI and weak-case NOI. This lesson turns those two lines into a price."
+      "notes": "The asking price is the seller's opening position. It tells you what the seller hopes to get. It says nothing about what the house can carry as a short-term rental.\n\nA common way STR offers go wrong is working backward from the asking price. The buyer sees $399,000, then nudges the nightly rate up until the spreadsheet works. Now the offer depends on the most optimistic line in the model.\n\nReverse the order. Decide the most you'll pay first, from numbers you'd defend to a lender. Then negotiate below that number. If the seller won't come under it, you walk, and you already know why.\n\nSam's PA.4 lesson is the live underwriting demo. I'm not redoing it here. You bring back two lines. NOI is net operating income: revenue minus operating costs, before the loan payment. Base-case NOI is your expected year. Weak-case NOI is a bad year. This lesson turns those two lines into a price."
     },
     {
       "type": "table",
       "eyebrow": "Three tests",
       "title": "Your walk-away price is the lowest of three ceilings, run on the costlier loan",
       "assumption": true,
-      "columns": ["Test", "The question", "Maya and Chris's rule"],
-      "rows": [
-        ["**1. Base-case cash flow**", "At expected revenue, does the house clear a minimum cash flow after the loan?", "At least $5,000 a year"],
-        ["**2. Weak-case survival**", "In a weak year, does it break even, or is the shortfall funded in writing?", "Shortfall up to $6,000 a year, two years set aside"],
-        ["**3. Cash**", "Does everything you put in, plus your reserves, fit in the cash you have?", "Inside $231,000, with $51,000 emergency fund and 6 months PITIA"]
+      "columns": [
+        "Test",
+        "The question",
+        "Maya and Chris's rule"
       ],
-      "caption": "They underwrite on the DSCR quote (7.25%, 1 point, 25% down) until the conventional approval is in writing. The three rules are theirs to set, so they're assumptions.",
+      "rows": [
+        [
+          "**1. Base-case cash flow**",
+          "At expected revenue, does the house clear a minimum cash flow after the loan?",
+          "At least $5,000 a year"
+        ],
+        [
+          "**2. Weak-case survival**",
+          "In a weak year, does it break even, or is the shortfall funded in writing?",
+          "Funded: shortfall up to $6,000 a year, two years set aside (strict = break even)"
+        ],
+        [
+          "**3. Cash**",
+          "Does everything you put in, plus your reserves, fit in the cash you have?",
+          "Inside $231,000, with $51,000 emergency fund and 6 months of full payment (PITIA)"
+        ]
+      ],
+      "caption": "They use the DSCR (debt service coverage ratio) loan quote, the costlier of their two: 7.25%, 1 point, 25% down. That holds until the conventional approval is in writing. The rules are theirs, so they're assumptions.",
       "ref": "PA.8.2",
-      "notes": "Your walk-away price is the lowest of three ceilings.\n\nTest one is base-case cash flow. At your expected revenue, the house must produce at least a minimum annual cash flow after the loan payment. You set the minimum. It should be more than zero, because base-case years still bring surprises.\n\nTest two is weak-case survival. In a weak year, the house should break even. If it can't, you need a written, funded plan for the shortfall. A buyer who can't fund a weak year should hold the strict breakeven line.\n\nTest three is cash. Down payment, closing costs, points, furnishing, lender reserves, a weak-year reserve, and your emergency fund. It all has to fit.\n\nUse the more expensive financing quote for all three. That's the DSCR quote for Maya and Chris.\n\nWhy cash flow and not cap rate? Cap rate uses NOI but ignores your loan. Cash flow shows what the loan does to that NOI."
+      "notes": "Your walk-away price is the lowest of three ceilings.\n\nTest one is base-case cash flow. At your expected revenue, the house must clear a minimum annual cash flow after the loan payment. You set the minimum. Set it above zero, because base-case years still bring surprises.\n\nTest two is weak-case survival. It has two versions, and you pick one before you run any numbers. Strict means the house breaks even in a weak year. Funded means you carry a set shortfall, in writing, with the cash set aside. Maya and Chris pick funded.\n\nTest three is cash. Down payment, closing costs, points, furnishing, lender reserves, a weak-year reserve, and your emergency fund all have to fit. Their $231,000 is the $210,000 from lesson 0.3 plus six months of saving $3,500.\n\nUse the costlier quote for all three. For them that's the DSCR loan, sized mostly on the property's income. PITIA is the full monthly payment: principal, interest, taxes, insurance, and dues."
     },
     {
       "type": "calc",
@@ -49,62 +99,155 @@
       "title": "Keeping $5,000 of base-case cash flow caps Cedar Ridge's price at $394,310",
       "assumption": true,
       "lines": [
-        {"op": "", "label": "Base-case NOI (tax and insurance already inside)", "v": "$29,209"},
-        {"op": "-", "label": "Minimum base-case cash flow", "v": "$5,000"},
-        {"op": "=", "label": "Max annual P&I ($2,017 a month)", "v": "$24,209"},
-        {"op": "", "label": "Loan that supports, 7.25%, 30 years", "v": "about $295,732"},
-        {"op": "÷", "label": "Loan as a share of price (25% down)", "v": "0.75"}
+        {
+          "op": "",
+          "label": "Base-case NOI (incl. tax + insurance)",
+          "v": "$29,209"
+        },
+        {
+          "op": "-",
+          "label": "Minimum base-case cash flow",
+          "v": "$5,000"
+        },
+        {
+          "op": "=",
+          "label": "Max annual P&I ($2,017 a month)",
+          "v": "$24,209"
+        },
+        {
+          "op": "",
+          "label": "Loan that supports, 7.25%, 30 years",
+          "v": "about $295,732"
+        },
+        {
+          "op": "÷",
+          "label": "Loan as a share of price (25% down)",
+          "v": "0.75"
+        }
       ],
-      "result": {"label": "Test 1 price ceiling", "v": "$394,310"},
-      "side": "NOI already covers property tax ($3,850) and insurance ($3,200), so cash flow is NOI minus principal and interest.",
+      "result": {
+        "label": "Test 1 price ceiling",
+        "v": "$394,310"
+      },
+      "side": "NOI already covers property tax ($3,850) and insurance ($3,200), so cash flow is NOI minus principal and interest (P&I).\n\nThe payment-to-loan step uses a loan calculator or the spreadsheet PV function (see the exercise).",
       "ref": "PA.8.3",
-      "notes": "Canonical inputs: base-case NOI $29,209, weak-case NOI $18,162. Property tax and insurance are already inside NOI. Maya and Chris now have $231,000 in liquid savings. That's the $210,000 from 0.3 plus six months of saving at $3,500. So the funding condition from 0.3 is met.\n\nTest one. Because NOI already covers tax and insurance, cash flow is simply NOI minus principal and interest.\n\nThey want at least $5,000 a year in the base case. So the most principal and interest they can carry is $29,209 minus $5,000. That's $24,209 a year, or $2,017 a month.\n\nAt 7.25% over 30 years, $2,017 a month supports a loan of about $295,732.\n\nWith 25% down, the loan is 75% of the price. Divide by 0.75 and the price ceiling is $394,310.\n\nOn your own deal, a lender's calculator or a spreadsheet PV function does this step. We'll get to that in the worksheet."
+      "notes": "Here are the inputs: base-case NOI $29,209, weak-case NOI $18,162. Property tax and insurance are already inside NOI.\n\nTest one. Because NOI already covers tax and insurance, cash flow is simply NOI minus principal and interest. I'll call that P&I.\n\nThey want at least $5,000 a year in the base case. So the most P&I they can carry is $29,209 minus $5,000. That's $24,209 a year, or $2,017 a month.\n\nAt 7.25% over 30 years, $2,017 a month supports a loan of about $295,732.\n\nHow do you get that? A loan calculator or a spreadsheet does it. In a spreadsheet, PV of 0.0725 over 12, 360 months, and minus 2,017 gives about $295,700. The small difference is rounding in the monthly payment.\n\nWith 25% down, the loan is 75% of the price. Divide by 0.75 and the price ceiling is $394,310."
     },
     {
       "type": "calc",
-      "eyebrow": "Test 2 · strict breakeven",
+      "eyebrow": "Test 2 · strict breakeven (not their rule)",
       "title": "A strict weak-case breakeven caps the price at $295,818, far below asking",
       "assumption": true,
       "lines": [
-        {"op": "", "label": "Weak-case NOI = max annual P&I at breakeven", "v": "$18,162"},
-        {"op": "", "label": "Loan that supports, 7.25%, 30 years", "v": "about $221,863"},
-        {"op": "÷", "label": "Loan as a share of price", "v": "0.75"}
+        {
+          "op": "",
+          "label": "Weak-case NOI (= max P&I at breakeven)",
+          "v": "$18,162"
+        },
+        {
+          "op": "",
+          "label": "Loan that supports, 7.25%, 30 years",
+          "v": "about $221,863"
+        },
+        {
+          "op": "÷",
+          "label": "Loan as a share of price",
+          "v": "0.75"
+        }
       ],
-      "result": {"label": "Strict Test 2 ceiling", "v": "$295,818"},
-      "side": "That's $103,182 under the $399,000 asking price.",
-      "side_box": {"kind": "warn", "label": "More cash doesn't close the gap", "text": "At $385,000, a breakeven loan means $163,137 down, 42.4% of price. Add closing costs and $32,000 furnishing: about $208,906, far over the $180,000 left after the emergency fund."},
+      "result": {
+        "label": "Strict Test 2 ceiling",
+        "v": "$295,818"
+      },
+      "side": "That's $103,182 under the $399,000 asking price.\n\nMaya and Chris chose the funded version before running numbers (next slide).",
+      "side_box": {
+        "kind": "warn",
+        "label": "More cash doesn't close the gap",
+        "text": "At $385,000, a breakeven loan means $163,137 down, 42.4% of price. Add closing costs and $32,000 furnishing: about $208,906, far over the $180,000 left after the emergency fund."
+      },
       "ref": "PA.8.3",
-      "notes": "Test two, strict version. Breakeven in the weak case means principal and interest can't be more than weak-case NOI.\n\nSo the most they can carry is $18,162 a year. That supports a loan of about $221,863. Divide by 0.75 and the price ceiling is $295,818.\n\nThat's $103,182 under the asking price.\n\nCould more cash close the gap instead? Let's check. At $385,000, a breakeven loan of $221,863 means a down payment of $163,137. That's 42.4% of the price. Add closing costs and the $32,000 furnishing budget, and the total is about $208,906. That's far more than the $180,000 they can put into a property once the $51,000 emergency fund is set aside.\n\nSo under the strict rule, Cedar Ridge doesn't work anywhere near the asking price. That's a real answer, and for many buyers it's the right one. Hold on to it. On the next slide, Maya and Chris make a different choice, on purpose, and in writing."
+      "notes": "Test two, strict version. This isn't Maya and Chris's rule. They picked the funded version in writing before running any numbers. But you need to see what a strict buyer would see.\n\nBreakeven in the weak case means P&I can't be more than weak-case NOI. So the most they could carry is $18,162 a year. That supports a loan of about $221,863. Divide by 0.75 and the price ceiling is $295,818.\n\nThat's $103,182 under the asking price.\n\nCould more cash close the gap instead? At $385,000, a breakeven loan of $221,863 means a down payment of $163,137. That's 42.4% of the price. Add closing costs and the $32,000 furnishing budget, and the total is about $208,906. They only have $180,000 for a property once the $51,000 emergency fund is set aside.\n\nSo under the strict rule, Cedar Ridge doesn't work anywhere near the asking price. For many buyers that's the right answer."
     },
     {
       "type": "bars",
       "eyebrow": "The walk-away price",
-      "title": "The lowest ceiling, the funded weak-case test, sets the walk-away price at $393,000",
+      "title": "Of the ceilings that apply to them, the funded weak-case test is lowest: $393,000",
       "assumption": true,
       "items": [
-        {"label": "Test 1: base cash flow of $5,000", "value": 394310, "kind": "pos"},
-        {"label": "Test 2 strict: weak-case breakeven", "value": 295818, "kind": "pos"},
-        {"label": "Test 2 funded: shortfall up to $6,000", "value": 393544, "kind": "total", "hot": true},
-        {"label": "Test 3: cash fits in $231,000", "value": 409984, "kind": "pos"}
+        {
+          "label": "Test 1: base cash flow of $5,000",
+          "value": 394310,
+          "kind": "pos"
+        },
+        {
+          "label": "Test 2 funded: shortfall up to $6,000",
+          "value": 393544,
+          "kind": "total",
+          "hot": true
+        },
+        {
+          "label": "Test 3: cash fits in $231,000",
+          "value": 409984,
+          "kind": "pos"
+        },
+        {
+          "label": "Test 2 strict (not their rule)",
+          "value": 295818,
+          "kind": "neg"
+        }
       ],
-      "caption": "Funded version: max P&I = $18,162 + $6,000 = $24,162, so the ceiling is $393,544. Round down to $393,000. The strict test applies to buyers who can't fund a weak year.",
+      "caption": "Funded: max P&I = $18,162 + $6,000 = $24,162, a loan of about $295,158, so the ceiling is $393,544. Round down to $393,000. The grey bar applies only to buyers who can't fund a weak year.",
       "ref": "PA.8.3",
-      "notes": "Maya and Chris have two W-2 incomes and savings. So they decide, in writing, that they can carry a weak-year shortfall of up to $6,000 a year. And they set aside two years of it.\n\nThat changes Test two. The most principal and interest they'll carry becomes $18,162 plus $6,000, which is $24,162. The price ceiling becomes $393,544.\n\nTest three asks the highest price where all their cash needs stay at or under $231,000. That's 25% down, 3% closing costs, one point, $32,000 furnishing, six months of PITIA, two years of weak-case shortfall, and the $51,000 emergency fund. It works out to about $409,984.\n\nNow take the lowest of the three that applies to them: $393,544, just under Test one's $394,310. Round down to $393,000.\n\nThat's a real choice, and they're making it on purpose. A buyer without their income or savings should use the strict test and pass on this house."
+      "notes": "Here's their rule in action. Maya and Chris have two salaries and savings. So before running numbers, they decided in writing to carry a weak-year shortfall of up to $6,000 a year, with two years set aside.\n\nThat sets Test two. The most P&I they'll carry is $18,162 plus $6,000, which is $24,162. That supports a loan of about $295,158. Divide by 0.75 and the ceiling is $393,544.\n\nTest three is the highest price where all their cash needs stay at or under $231,000. Payment, reserves, and shortfall all rise with price, so you find it by trying prices in a spreadsheet. It lands at about $409,984.\n\nNow take the lowest ceiling that applies to them: $393,544, just under Test one's $394,310. Round down to $393,000, which keeps it on the safe side. The grey strict bar is for buyers who can't fund a weak year.\n\nOne more thing. Their $10,000 buffer for after signing isn't in this number. So they aim to sign well under it."
     },
     {
       "type": "table",
       "eyebrow": "Four prices",
       "title": "At $399,000 both cash-flow tests fail; at $385,000 both pass",
       "assumption": true,
-      "columns": ["Price", "Loan (75%)", "Total cash in", "Annual P&I", "Base cash flow", "Weak cash flow"],
+      "columns": [
+        "Price",
+        "Loan (75%)",
+        "Total cash in",
+        "Annual P&I",
+        "Base cash flow",
+        "Weak cash flow"
+      ],
       "rows": [
-        ["$399,000", "$299,250", "$146,712", "$24,497", "$4,712", "-$6,335"],
-        ["$392,000", "$294,000", "$144,700", "$24,067", "$5,142", "-$5,905"],
-        ["$385,000", "$288,750", "$142,688", "$23,637", "$5,572", "-$5,475"],
-        ["$372,000", "$279,000", "$138,950", "$22,839", "$6,370", "-$4,677"]
+        [
+          "$399,000",
+          "$299,250",
+          "$146,712",
+          "$24,497",
+          "$4,712",
+          "-$6,335"
+        ],
+        [
+          "$392,000",
+          "$294,000",
+          "$144,700",
+          "$24,067",
+          "$5,142",
+          "-$5,905"
+        ],
+        [
+          "$385,000",
+          "$288,750",
+          "$142,688",
+          "$23,637",
+          "$5,572",
+          "-$5,475"
+        ],
+        [
+          "$372,000",
+          "$279,000",
+          "$138,950",
+          "$22,839",
+          "$6,370",
+          "-$4,677"
+        ]
       ],
       "caption": "DSCR quote. At $399,000, base cash flow is under $5,000 and the weak shortfall is over $6,000.",
-      "box": {"kind": "gold", "label": "Before you finalize", "text": "The model holds property tax at $3,850. Some counties reassess after a sale. Ask your agent or the county assessor what the tax would be at your price."},
       "ref": "PA.8.3",
       "notes": "Here's the same check at four prices, all on the DSCR quote.\n\nAt $399,000, the asking price, the loan is $299,250. Base cash flow is $4,712, under their $5,000 minimum. The weak shortfall is $6,335, over their $6,000 limit. Both tests fail.\n\nAt $392,000, both pass, barely. Keep that row in mind. It shows up in the negotiation later.\n\nAt $385,000, the eventual contract price, base cash flow is $5,572 and the weak shortfall is $5,475. Both pass with some room.\n\nAt $372,000, their opening offer, the numbers are better again.\n\nOne caution before you lock your ceiling. The model holds property tax at $3,850. Some counties reassess after a sale, and the tax could rise. Ask your agent or the county assessor what the tax would be at your price. A higher tax lowers NOI, and that lowers every ceiling."
     },
@@ -113,46 +256,139 @@
       "eyebrow": "The cash plan",
       "title": "At $385,000, Maya and Chris commit $219,980 and keep $11,020 unallocated",
       "assumption": true,
-      "columns": ["Use of cash at $385,000", "Amount"],
+      "columns": [
+        "Use of cash at $385,000",
+        "Amount"
+      ],
       "rows": [
-        ["Total cash in (cash to close + furnishing)", "$142,688"],
-        ["Lender reserves, 6 months PITIA (6 x $2,557)", "$15,342"],
-        ["Weak-year reserve, 2 x $5,475", "$10,950"],
-        ["Personal emergency fund", "$51,000"],
-        ["**Total committed**", "**$219,980**"],
-        ["Unallocated from $231,000", "$11,020"]
+        [
+          "Total cash in (cash to close + furnishing)",
+          "$142,688"
+        ],
+        [
+          "Lender reserves (held, not spent): 6 months PITIA (6 x $2,557)",
+          "$15,342"
+        ],
+        [
+          "Weak-year reserve, 2 x $5,475",
+          "$10,950"
+        ],
+        [
+          "Personal emergency fund",
+          "$51,000"
+        ],
+        [
+          "**Total committed**",
+          "**$219,980**"
+        ],
+        [
+          "Unallocated from $231,000",
+          "$11,020"
+        ]
       ],
       "total_last": true,
       "caption": "Every line has a job. The unallocated $11,020 is the only slack in the plan.",
       "ref": "PA.8.3",
-      "notes": "Here's what the cash plan looks like at $385,000.\n\nTotal cash in, which is cash to close plus furnishing, is $142,688. Lender reserves at six months of PITIA are $15,342. The weak-year reserve is two years of the $5,475 weak-case shortfall, so $10,950. And their personal emergency fund stays at $51,000, untouched.\n\nTotal committed: $219,980. Unallocated from their $231,000: $11,020.\n\nI want you to notice what this table does. Every dollar has a job before they sign. The weak-year reserve isn't a hope. It's a line with a number on it.\n\nAnd that $11,020 is the only slack in the whole plan. Keep an eye on it. In a few slides we'll hit a low appraisal and an inspection finding. That's when this number decides whether they proceed, renegotiate, or walk."
+      "notes": "Here's what the cash plan looks like at $385,000.\n\nTotal cash in, which is cash to close plus furnishing, is $142,688. Lender reserves at six months of PITIA are $15,342. That money has to sit in their account; it isn't spent at closing. The weak-year reserve is two years of the $5,475 weak-case shortfall, so $10,950. And their personal emergency fund stays at $51,000, untouched.\n\nTotal committed: $219,980. Unallocated from their $231,000: $11,020.\n\nI want you to notice what this table does. Every dollar has a job before they sign. The weak-year reserve isn't a hope. It's a line with a number on it.\n\nAnd that $11,020 is the only slack in the whole plan. They also set a buffer rule: after signing, any surprise must leave at least $10,000 unallocated. Keep an eye on it. In a few slides we'll hit a low appraisal and an inspection finding."
     },
     {
       "type": "table",
-      "eyebrow": "Contract terms",
-      "title": "Seven contract terms decide how much risk you carry between signing and closing",
-      "compact": true,
-      "columns": ["Term", "What it does", "What to check"],
+      "eyebrow": "Contract terms · money",
+      "title": "Four of the eight contract terms decide how much cash you could need or lose",
+      "columns": [
+        "Term",
+        "What it does",
+        "What to check"
+      ],
       "rows": [
-        ["**Earnest money**", "Deposit held by escrow or title; goes toward cash to close", "When it's at risk. Bigger deposit, bigger possible loss."],
-        ["**Inspection contingency**", "Days to inspect, then cancel or renegotiate", "Long enough for STR insurance quotes and a licensing answer"],
-        ["**Financing contingency**", "Cancel if the loan isn't approved by a date", "Match the lender's real timeline, with room to switch"],
-        ["**Appraisal contingency / gap**", "Renegotiate or cancel on a low value; a gap clause covers some shortfall", "Only offer gap cash you counted in Test 3"],
-        ["**Seller concessions**", "Seller credit toward your closing costs", "The lender's dollar limit for this occupancy type"],
-        ["**Closing date**", "Sets your rate lock and launch timing", "Lock expiry, extension cost, launch season"],
-        ["**Furniture, equipment, bookings**", "Items or reservations that come with the house", "Fit, condition, lender treatment, platform transfer rules"]
+        [
+          "**Earnest money**",
+          "Deposit held by escrow or title; credited toward cash to close",
+          "When it's at risk. Bigger deposit, bigger possible loss."
+        ],
+        [
+          "**Financing contingency**",
+          "Cancel if the loan isn't approved by a date",
+          "Match the lender's real timeline, with room to switch"
+        ],
+        [
+          "**Appraisal contingency / gap**",
+          "Renegotiate or cancel on a low value; a gap clause covers some shortfall",
+          "Only offer gap cash you counted in Test 3"
+        ],
+        [
+          "**Seller concessions**",
+          "Seller credit toward your closing costs",
+          "The lender's dollar limit for this occupancy type"
+        ]
       ],
       "caption": "Purchase contracts are state-specific. Treat these as questions for your agent and attorney, not rules.",
       "ref": "PA.8.4",
-      "notes": "Price is one term. These decide how much risk you carry between signing and closing. Purchase contracts are state-specific, often a standard form your agent uses. So treat all of this as questions for your agent and attorney.\n\nEarnest money counts toward your cash to close. A bigger deposit can make an offer stronger. It also raises what you could lose if you miss a deadline.\n\nThe inspection period is where you test the business, not just the house: permits, HOA rules, insurance quotes, septic capacity. PA.9 builds that list.\n\nLenders generally size the loan on the lower of price or appraised value. Ask yours to confirm. If you offer gap coverage, only offer cash you already counted in Test three.\n\nSeller credits reduce your cash to close, but lenders limit them. Get the limit in dollars first.\n\nFor furniture, ask if it fits your OP.6 design plan, and how your lender treats it. For existing bookings, ask whether the platform even allows a transfer."
+      "notes": "Price is one term. Eight others decide how much risk you carry between signing and closing. Purchase contracts are state-specific, often a standard form your agent uses. So treat all of this as questions for your agent and attorney.\n\nThis slide is the four money terms.\n\nEarnest money counts toward your cash to close. It doesn't lower the total cash you need. You pay part of it earlier, and it's credited at closing. A bigger deposit can make an offer stronger. It also raises what you could lose if you miss a deadline.\n\nThe financing contingency lets you cancel if the loan isn't approved by a date. Match it to your lender's real timeline.\n\nLenders generally size the loan on the lower of price or appraised value. Ask yours to confirm. If you offer gap coverage, only offer cash you already counted in Test three.\n\nSeller credits reduce your cash to close, but lenders limit them. The limit can depend on how the lender classifies the house. Get the limit in dollars first."
+    },
+    {
+      "type": "table",
+      "eyebrow": "Contract terms · time and scope",
+      "title": "The other four terms decide whether you can test the house and launch on time",
+      "columns": [
+        "Term",
+        "What it does",
+        "What to check"
+      ],
+      "rows": [
+        [
+          "**Inspection contingency**",
+          "Days to inspect, then cancel or renegotiate",
+          "Long enough for STR insurance quotes and a licensing answer"
+        ],
+        [
+          "**Closing date**",
+          "Sets your rate lock and launch timing",
+          "Lock expiry, extension cost, the lake's peak booking season"
+        ],
+        [
+          "**Furniture and equipment**",
+          "Items that come with the house",
+          "Fit with your OP.6 plan, condition, lender treatment"
+        ],
+        [
+          "**Existing bookings**",
+          "Reservations already on the calendar",
+          "Whether they transfer, who keeps the payments, platform rules"
+        ]
+      ],
+      "caption": "List included items in the contract or on a separate bill of sale. Mark anything you don't want as excluded.",
+      "ref": "PA.8.4",
+      "notes": "Now the other four terms: time and scope.\n\nThe inspection period is where you test the business, not just the house. That means permits, homeowners association or deed rules, insurance quotes, and septic capacity. PA.9 builds that list. Make sure the window is long enough to get STR insurance quotes and a written answer from the licensing office.\n\nThe closing date has two drivers. Your rate lock expires, and extensions cost money. And your launch season matters. Closing in time to furnish, photograph, and list before Cedar Ridge's lake season is worth more than a small price cut.\n\nFor furniture, ask if it fits your OP.6 design plan, whether it's usable, and how your lender treats it. If you want it, list it in the contract or a bill of sale. If you don't, say it's excluded.\n\nFor existing bookings, ask whether they transfer, who keeps the payments, and whether the platform even allows a transfer."
     },
     {
       "type": "two",
       "eyebrow": "Before you waive or shorten",
       "title": "Get written answers from your agent and lender before you shorten any contingency",
-      "left": {"head": "Ask your agent", "items": ["Can we still fit the inspection, septic or sewer check, and STR insurance quote?", "What happens to my earnest money if I cancel after this expires?", "What's normal here for this type of house?", "Can the permit answer arrive before inspection ends?"]},
-      "right": {"head": "Ask your lender", "items": ["How many days do you really need to approve this loan?", "What happens if the appraisal comes in $10,000 low?", "Does approval depend on proof of STR permit eligibility?", "What's your seller credit limit for this occupancy?", "When does my rate lock expire, and what does extending cost?"]},
-      "box": {"kind": "warn", "label": "Keep the contingency if", "text": "Any answer puts your earnest money at risk for a problem you can't test in time."},
+      "left": {
+        "head": "Ask your agent",
+        "items": [
+          "Can we still fit the inspection, septic or sewer check, and STR insurance quote?",
+          "What happens to my earnest money if I cancel after the contingency expires?",
+          "What's normal here for this type of house?",
+          "Can the permit answer arrive before inspection ends?"
+        ]
+      },
+      "right": {
+        "head": "Ask your lender",
+        "items": [
+          "How many days do you really need to approve this loan?",
+          "What happens if the appraisal comes in $10,000 low?",
+          "Does approval depend on proof of STR permit eligibility?",
+          "What's your seller credit limit for this occupancy?",
+          "When does my rate lock expire, and what does extending cost?"
+        ]
+      },
+      "box": {
+        "kind": "warn",
+        "label": "Keep the contingency if",
+        "text": "Any answer puts your earnest money at risk for a problem you can't test in time."
+      },
       "ref": "PA.8.5",
       "notes": "Sellers sometimes ask for a shorter inspection period, no financing contingency, or appraisal gap coverage. Before you agree, get written answers to these questions.\n\nFrom your agent: can you still fit the inspection, the septic or sewer check, and the STR insurance quote in a shorter window? What happens to your earnest money if you cancel after the contingency expires? What's normal in this market for this type of house? And can the permit or licensing answer arrive before inspection ends?\n\nFrom your lender: how many days does it really need? What happens if the appraisal comes in $10,000 low? Does approval depend on proof of STR permit eligibility, and when? What's the seller credit limit? And when does the rate lock expire?\n\nThe rule is simple. If any answer puts your earnest money at risk for a problem you can't test in time, keep the contingency."
     },
@@ -161,17 +397,58 @@
       "eyebrow": "Scenario 1 · low appraisal",
       "title": "A $375,000 appraisal means split the gap at most, or walk above $380,000",
       "assumption": true,
-      "text": "The lender lends 75% of the lower value: $281,250, which is $7,500 less than planned. Their rule: keep at least $10,000 unallocated.",
-      "columns": ["Option", "Price", "Cash to close", "Total committed", "Unallocated", "Rule met?"],
+      "text": "Price gap $10,000. The lender lends 75% of $375,000 = $281,250, which is $7,500 less loan, so $7,500 more cash. Their buffer: keep at least $10,000 unallocated.",
+      "columns": [
+        "Option",
+        "Price",
+        "Cash to close",
+        "Total committed",
+        "Unallocated",
+        "Rule met?"
+      ],
       "rows": [
-        ["Pay the full gap", "$385,000", "$118,112", "$225,870", "$5,130", "No"],
-        ["Split the gap", "$380,000", "$112,962", "$220,720", "$10,280", "Yes"],
-        ["Seller drops to value", "$375,000", "$107,812", "$215,570", "$15,430", "Yes"]
+        [
+          "As planned",
+          "$385,000",
+          "$110,688",
+          "$219,980",
+          "$11,020",
+          "Yes"
+        ],
+        [
+          "Pay the full gap",
+          "$385,000",
+          "$118,112",
+          "$225,870",
+          "$5,130",
+          "No"
+        ],
+        [
+          "Split the gap",
+          "$380,000",
+          "$112,962",
+          "$220,720",
+          "$10,280",
+          "Yes"
+        ],
+        [
+          "Seller drops to value",
+          "$375,000",
+          "$107,812",
+          "$215,570",
+          "$15,430",
+          "Yes"
+        ]
       ],
       "caption": "The smaller loan lowers PITIA to $2,506. Base cash flow rises to $6,186 and the weak case to -$4,861 in every option.",
-      "box": {"kind": "info", "label": "Decision", "text": "Renegotiate. Ask for $375,000. Accept up to $380,000. If the seller holds at $385,000 with the appraisal contingency open, walk."},
+      "box": {
+        "kind": "info",
+        "label": "Decision",
+        "text": "Renegotiate. Ask for $375,000. Accept up to $380,000. If the seller holds at $385,000 with the appraisal contingency open, walk."
+      },
       "ref": "PA.8.6",
-      "notes": "Two practice scenarios, both what-ifs on the accepted $385,000 contract. I've added one more rule for Maya and Chris: keep at least $10,000 of the $231,000 unallocated after every commitment. That's an assumption.\n\nScenario one: the appraisal comes in at $375,000. The lender lends 75% of the lower value, which is $281,250. That's $7,500 less than planned.\n\nIf they pay the full gap at $385,000, unallocated cash drops to $5,130. That breaks their rule. If they split the gap at $380,000, they keep $10,280. If the seller drops to $375,000, they keep $15,430.\n\nThe smaller loan helps cash flow in every option. Base rises to $6,186 and the weak case improves to minus $4,861.\n\nDecision: renegotiate. Ask for $375,000. Accept anything up to $380,000. If the seller holds at $385,000 and the appraisal contingency is still open, walk. They'd be spending their margin on a price the appraiser didn't support."
+      "notes": "Two practice scenarios, both what-ifs on the accepted $385,000 contract. Both use the buffer rule they wrote before the offer: after any new cost, keep at least $10,000 of the $231,000 unallocated. That's an assumption.\n\nScenario one: the appraisal comes in at $375,000. The price is $10,000 above the appraisal. The lender lends 75% of the lower value, $281,250. That's $7,500 less loan, so $7,500 more cash at the full price.\n\nThe first row is the plan: $11,020 unallocated. If they pay the full gap at $385,000, that drops to $5,130. That breaks their rule. If they split the gap at $380,000, they keep $10,280. If the seller drops to $375,000, they keep $15,430.\n\nDecision: renegotiate. Ask for $375,000. Accept anything up to $380,000. If the seller holds at $385,000 and the appraisal contingency is still open, walk. If it has already expired, the earnest money may be at risk, so ask your attorney first.",
+      "compact": true
     },
     {
       "type": "calc",
@@ -179,15 +456,34 @@
       "title": "Absorbing $4,500 of repairs would drop unallocated cash to $6,520, so renegotiate",
       "assumption": true,
       "lines": [
-        {"op": "", "label": "Total committed at $385,000", "v": "$219,980"},
-        {"op": "+", "label": "Water heater and soft deck boards (assumption)", "v": "$4,500"},
-        {"op": "=", "label": "New total committed", "v": "$224,480"}
+        {
+          "op": "",
+          "label": "Total committed at $385,000",
+          "v": "$219,980"
+        },
+        {
+          "op": "+",
+          "label": "Water heater + deck boards (assumed)",
+          "v": "$4,500"
+        },
+        {
+          "op": "=",
+          "label": "New total committed",
+          "v": "$224,480"
+        }
       ],
-      "result": {"label": "Unallocated from $231,000", "v": "$6,520"},
-      "side": "That's under their $10,000 rule. Ask the seller to repair before closing or cut the price. Ask the lender first whether a seller credit can cover repairs. Guest safety items get fixed before launch either way (PA.12).",
-      "side_box": {"kind": "warn", "label": "A different finding, a different answer", "text": "A septic system sized for fewer guests than planned can break the business plan. Walk unless the fix and the permit both work on paper."},
+      "result": {
+        "label": "Unallocated from $231,000",
+        "v": "$6,520"
+      },
+      "side": "That's under their $10,000 buffer. Ask the seller to repair before closing or cut the price. Ask the lender first whether a seller credit can cover repairs. Guest safety items get fixed before launch either way (PA.12).",
+      "side_box": {
+        "kind": "warn",
+        "label": "A different finding, a different answer",
+        "text": "A septic system sized for fewer guests than planned can break the business plan. Walk unless the fix and the permit both work on paper."
+      },
       "ref": "PA.8.6",
-      "notes": "Scenario two: the inspection finds $4,500 of work. That's an assumption. Say the water heater is at the end of its life and several deck boards are soft.\n\nIf Maya and Chris absorb the cost, total committed rises from $219,980 to $224,480. Unallocated cash falls to $6,520. That's under their $10,000 rule.\n\nDecision: renegotiate. Ask the seller to repair before closing, or to reduce the price. But ask the lender first whether a seller credit can go toward repairs or only toward closing costs. The answer changes what you ask the seller for.\n\nIf the finding is a safety issue for guests, it gets fixed before launch either way. PA.12 covers that sign-off.\n\nNow notice the box. A different finding changes the answer. A failing septic system sized for fewer guests than you planned isn't a price problem. It can break the business plan. That's a walk unless the fix and the permit both work on paper."
+      "notes": "Scenario two: the inspection finds $4,500 of work. That's an assumption. Say the water heater is at the end of its life and several deck boards are soft.\n\nIf Maya and Chris absorb the cost, total committed rises from $219,980 to $224,480. Unallocated cash falls to $6,520. That's under their $10,000 buffer.\n\nDecision: renegotiate. Ask the seller to repair before closing, or to reduce the price. But ask the lender first whether a seller credit can go toward repairs or only toward closing costs. The answer changes what you ask the seller for.\n\nIf the finding is a safety issue for guests, it gets fixed before launch either way. PA.12 covers that sign-off.\n\nNow notice the box. A different finding changes the answer. A failing septic system sized for fewer guests than you planned isn't a price problem. It can break the business plan. That's a walk unless the fix and the permit both work on paper."
     },
     {
       "type": "table",
@@ -195,85 +491,251 @@
       "title": "Give the seller what costs you little, and hold the terms that protect your ceiling",
       "assumption": true,
       "compact": true,
-      "columns": ["Term", "Round 1: offer", "Round 2: seller", "Round 3: counter"],
-      "rows": [
-        ["Price", "$372,000", "$392,000", "$385,000"],
-        ["Earnest money", "$3,720 (1%)", "2%", "$7,700 (2%)"],
-        ["Inspection contingency", "10 days", "7 days", "10 days"],
-        ["Financing contingency", "30 days", "Not in counter", "30 days"],
-        ["Appraisal contingency", "Yes, no gap", "Not in counter", "Yes, no gap"],
-        ["Closing", "45 days", "30 days", "45 days"],
-        ["Furniture", "Excluded", "Included for $8,000 more", "Excluded"]
+      "columns": [
+        "Term",
+        "Round 1: offer",
+        "Round 2: seller",
+        "Round 3: counter"
       ],
-      "caption": "The seller accepts $385,000, which is $14,000 (3.5%) under asking. No seller credit, so cash to close stays $110,688. Terms are assumptions except the asking and contract prices.",
+      "rows": [
+        [
+          "Price",
+          "$372,000",
+          "$392,000",
+          "$385,000"
+        ],
+        [
+          "Earnest money",
+          "$3,720 (1%)",
+          "2%",
+          "$7,700 (2%)"
+        ],
+        [
+          "Inspection contingency",
+          "10 days",
+          "7 days",
+          "10 days"
+        ],
+        [
+          "Financing contingency",
+          "30 days",
+          "Unchanged (30 days)",
+          "30 days"
+        ],
+        [
+          "Appraisal contingency",
+          "Yes, no gap",
+          "Unchanged (yes, no gap)",
+          "Yes, no gap"
+        ],
+        [
+          "Closing",
+          "45 days",
+          "30 days",
+          "45 days"
+        ],
+        [
+          "Furniture",
+          "Excluded",
+          "Included for $8,000 more",
+          "Excluded"
+        ]
+      ],
+      "caption": "The seller accepts $385,000. Opening $21,000 under walk-away left room to move up. The bigger deposit was low-risk because all three contingencies stayed open. Cash to close stays $110,688.",
       "ref": "PA.8.7",
-      "notes": "Here's how the Cedar Ridge negotiation could run. The terms are assumptions for teaching, except the asking and contract prices.\n\nRound one: they offer $372,000. Why that number? It's $21,000 under their $393,000 walk-away price. That leaves room for two counters without crossing the line.\n\nRound two: the seller counters at $392,000, 2% earnest money, a 7-day inspection, a 30-day close, and the furniture for $8,000 more. $392,000 is under their ceiling by only $1,000. It passes on paper with almost no margin. And the terms are the problem. Their agent says seven days isn't enough for the septic inspection and an STR insurance quote. Thirty days is tight for their lender. The furniture doesn't fit the OP.6 design plan, and in this mock their lender won't count it in the loan.\n\nRound three: $385,000. They accept the larger deposit, which they'll put toward closing anyway. They hold inspection time, financing time, and the appraisal contingency. The seller accepts."
+      "notes": "Here's how the Cedar Ridge negotiation could run. The terms are assumptions for teaching, except the asking and contract prices.\n\nRound one: they offer $372,000. It's $21,000 under their $393,000 walk-away price. That leaves room to move up without crossing the line.\n\nRound two: the seller counters at $392,000, 2% earnest money, a 7-day inspection, a 30-day close, and the furniture for $8,000 more. The financing and appraisal contingencies stay as offered. $392,000 is under their ceiling by only $1,000. And signing there would leave only about $7,900 unallocated, already under their $10,000 buffer. The terms are a problem too. Seven days isn't enough for the septic inspection and an STR insurance quote.\n\nRound three: $385,000. They accept the larger deposit. That's low-risk here because the inspection, financing, and appraisal contingencies all stay open. They hold those terms. The seller accepts. The deposit is part of the $110,688 cash to close, just paid early."
     },
     {
       "type": "table",
       "eyebrow": "Decision log",
       "title": "Log every step as proceed, renegotiate, or walk, with a one-line reason tied to a test",
       "compact": true,
-      "columns": ["When", "Event and numbers", "Decision", "Reason"],
+      "columns": [
+        "When",
+        "Event and numbers",
+        "Decision",
+        "Reason"
+      ],
       "rows": [
-        ["Day 0", "Offer sent, $372,000", "Proceed", "$21,000 under walk-away"],
-        ["Day 2", "Counter $392,000, 7-day inspection", "Renegotiate", "Inside ceiling by $1,000; inspection too short"],
-        ["Day 3", "Accepted $385,000, 10-day inspection", "Proceed", "Passes all three tests; $11,020 unallocated"],
-        ["If appraisal low", "Value $375,000, gap $10,000", "Renegotiate; walk above $380,000", "Unallocated cash rule"],
-        ["If inspection finds work", "$4,500", "Renegotiate", "Unallocated cash rule"]
+        [
+          "Day 0",
+          "Offer sent, $372,000",
+          "Proceed",
+          "$21,000 under walk-away"
+        ],
+        [
+          "Day 2",
+          "Counter $392,000, 7-day inspection",
+          "Renegotiate",
+          "Inside ceiling by $1,000; under buffer; inspection too short"
+        ],
+        [
+          "Day 3",
+          "Accepted $385,000, 10-day inspection",
+          "Proceed",
+          "Passes all three tests; $11,020 unallocated"
+        ],
+        [
+          "If appraisal low",
+          "Value $375,000 ($10,000 under price; $7,500 more cash)",
+          "Renegotiate; walk above $380,000",
+          "Unallocated cash rule"
+        ],
+        [
+          "If inspection finds work",
+          "$4,500",
+          "Renegotiate",
+          "Unallocated cash rule"
+        ]
       ],
       "caption": "All figures are assumptions from the Cedar Ridge example.",
       "ref": "PA.8.7",
-      "notes": "This is Maya and Chris's decision log. Every event gets a date, the numbers, one of three decisions, and a one-line reason.\n\nLook at the reasons column. None of them say \"felt right\" or \"didn't want to lose the house.\" Every reason ties back to a test or a rule. $21,000 under walk-away. Inside the ceiling by only $1,000. Passes all three tests with $11,020 unallocated. The unallocated cash rule.\n\nThat's the point of the log. In the middle of a negotiation, emotions run high. You've already pictured the first guests. The log keeps you tied to the numbers you set when you were calm.\n\nThe last two rows are written before anything happens. They already know what they'll do if the appraisal comes in low or the inspection finds work. Decide your triggers in advance, too.\n\n[Recording note: Preston can add a real example here if he has one.]"
+      "notes": "This is Maya and Chris's decision log. Every event gets a date, the numbers, one of three decisions, and a one-line reason.\n\nLook at the reasons column. None of them say \"felt right\" or \"didn't want to lose the house.\" Every reason ties back to a test or a rule. $21,000 under walk-away. Inside the ceiling by only $1,000, and under the buffer. Passes all three tests with $11,020 unallocated. The unallocated cash rule.\n\nThat's the point of the log. In the middle of a negotiation, emotions run high. You've already pictured the first guests. The log keeps you tied to the numbers you set when you were calm.\n\nThe last two rows are written before anything happens. They already know what they'll do if the appraisal comes in low or the inspection finds work. Decide your triggers in advance, too.\n\n[Recording note: Preston can add a real example here if he has one.]"
     },
     {
       "type": "worksheet",
       "eyebrow": "Exercise · part 1 inputs",
       "title": "Fill in your inputs from PA.4, your costlier quote, and your own written rules",
       "compact": true,
-      "columns": ["Input", "Your number", "Source"],
+      "columns": [
+        "Input",
+        "Your number",
+        "Source"
+      ],
       "rows": [
-        ["Base-case NOI / weak-case NOI", "", "PA.4"],
-        ["Rate, term, points / down payment %", "", "Written quote (PA.6 / PA.7)"],
-        ["Closing costs %", "", "Lender or agent estimate"],
-        ["Furnishing and launch budget", "", "OP.6 plan"],
-        ["Liquid cash available", "", "Bank statements"],
-        ["Minimum base-case cash flow", "", "Your rule"],
-        ["Weak-case rule (breakeven or max funded shortfall)", "", "Your rule"],
-        ["Emergency fund / minimum unallocated cash", "", "Your rule"],
-        ["Lender reserves required", "", "Written quote"]
+        [
+          "Base-case NOI",
+          "",
+          "PA.4"
+        ],
+        [
+          "Weak-case NOI",
+          "",
+          "PA.4"
+        ],
+        [
+          "Rate, term, points",
+          "",
+          "Written quote (PA.6 / PA.7)"
+        ],
+        [
+          "Down payment %",
+          "",
+          "Written quote"
+        ],
+        [
+          "Closing costs %",
+          "",
+          "Lender or agent estimate"
+        ],
+        [
+          "Furnishing and launch budget",
+          "",
+          "OP.6 plan"
+        ],
+        [
+          "Liquid cash available",
+          "",
+          "Bank statements"
+        ],
+        [
+          "Minimum base-case cash flow",
+          "",
+          "Your rule"
+        ],
+        [
+          "Weak-case rule (breakeven or max funded shortfall)",
+          "",
+          "Your rule"
+        ],
+        [
+          "Personal emergency fund kept aside",
+          "",
+          "Your rule"
+        ],
+        [
+          "Lender reserves required",
+          "",
+          "Written quote"
+        ]
       ],
       "ref": "PA.8.8",
-      "notes": "Now it's your turn. The exercise has three parts. This is part one: your inputs.\n\nUse Sam's PA.4 numbers for base-case and weak-case NOI. Use your more expensive financing quote from PA.6 or PA.7 for the rate, term, points, and down payment. Closing costs come from your lender or agent. Furnishing comes from your OP.6 plan. Liquid cash comes from your actual bank statements, not a guess.\n\nThen the four rules that are yours to set. Your minimum base-case cash flow. Your weak-case rule, either strict breakeven or a maximum funded shortfall. Your emergency fund. And the minimum cash you'll keep unallocated after every commitment.\n\nWrite those rules down before you look at any listing price. If you set them after, you'll set them to fit the house."
+      "notes": "Now it's your turn. The exercise has three parts. This is part one: your inputs.\n\nUse Sam's PA.4 numbers for base-case and weak-case NOI, one per row. Use your more expensive financing quote from PA.6 or PA.7 for the rate, term, points, and down payment. Closing costs come from your lender or agent. Furnishing comes from your OP.6 plan. Liquid cash comes from your actual bank statements, not a guess.\n\nThen the three rules that set your ceiling. Your minimum base-case cash flow. Your weak-case rule, either strict breakeven or a maximum funded shortfall. And your emergency fund. Lender reserves come from the written quote.\n\nWrite those rules down before you look at any listing price. If you set them after, you'll set them to fit the house."
     },
     {
       "type": "worksheet",
       "eyebrow": "Exercise · part 1 ceilings",
       "title": "Your walk-away price is the lowest of your three ceilings, rounded down",
-      "columns": ["Ceiling", "Formula", "Result"],
-      "rows": [
-        ["Test 1", "(Base NOI minus minimum cash flow) → max loan at your rate → divide by loan-to-price", ""],
-        ["Test 2", "(Weak NOI plus allowed shortfall) → max loan → divide by loan-to-price", ""],
-        ["Test 3", "Highest price where total committed cash ≤ liquid cash", ""],
-        ["**Walk-away price**", "Lowest of the three, rounded down", ""]
+      "columns": [
+        "Ceiling",
+        "Formula",
+        "Result"
       ],
-      "box": {"kind": "gold", "label": "Annual P&I to loan amount", "text": "Use your lender's calculator or a spreadsheet PV function: PV(rate/12, months, -monthly payment). Then part 2: write your offer terms. Part 3: keep the decision log."},
+      "rows": [
+        [
+          "Test 1",
+          "(Base NOI minus minimum cash flow) → max loan at your rate → divide by loan-to-price",
+          ""
+        ],
+        [
+          "Test 2",
+          "(Weak NOI plus allowed shortfall) → max loan → divide by loan-to-price",
+          ""
+        ],
+        [
+          "Test 3",
+          "Highest price where total committed cash ≤ liquid cash (try prices in a spreadsheet)",
+          ""
+        ],
+        [
+          "**Walk-away price**",
+          "Lowest of the three, rounded down",
+          ""
+        ]
+      ],
+      "box": {
+        "kind": "gold",
+        "label": "Annual P&I to loan amount",
+        "text": "PV(rate/12, months, -monthly payment). Example: PV(0.0725/12, 360, -2017) ≈ $295,700. Rate as a decimal, 360 months for 30 years."
+      },
       "ref": "PA.8.8",
-      "notes": "Here are the three ceilings, in formula form.\n\nTest one: base NOI minus your minimum cash flow gives your maximum annual principal and interest. Turn that into a loan amount, then divide by your loan-to-price. At 25% down, that's 0.75.\n\nTest two works the same way, starting from weak NOI plus your allowed shortfall. If you hold the strict rule, the allowed shortfall is zero.\n\nTest three is the highest price where total committed cash stays at or under your liquid cash.\n\nTo turn a payment into a loan amount, use your lender's calculator or the PV function in a spreadsheet. PV of rate over 12, number of months, and the negative monthly payment.\n\nThen part two: write your offer terms. Price, earnest money, each contingency and its days, any gap cap, seller concessions within the lender's limit, closing date, and included or excluded items. Part three is the decision log, from the first offer on."
+      "notes": "Here are the three ceilings, in formula form.\n\nTest one: base NOI minus your minimum cash flow gives your maximum annual P&I. Turn that into a loan amount, then divide by your loan-to-price. At 25% down, that's 0.75.\n\nTest two works the same way, starting from weak NOI plus your allowed shortfall. If you hold the strict rule, the allowed shortfall is zero.\n\nTest three is the highest price where total committed cash stays at or under your liquid cash. Try prices in a spreadsheet until you hit the limit.\n\nTo turn a payment into a loan amount, use the PV function. For Cedar Ridge, PV of 0.0725 over 12, 360 months, and minus 2,017 gives about $295,700.\n\nThen part two: write your offer terms. Price, earnest money, each contingency and its days, any gap cap, seller concessions within the lender's limit, closing date, and included items. Part three: write your buffer for after signing, then start the decision log.",
+      "caption": "Part 2: write your offer terms (price, deposit, each contingency and its days, gap cap, seller credit, closing date, included items). Part 3: write your buffer, then start your decision log."
     },
     {
       "type": "table",
       "eyebrow": "Who confirms what",
-      "title": "Six people confirm the pieces your walk-away price and contract depend on",
+      "title": "Six contacts confirm the pieces your walk-away price and contract depend on",
       "compact": true,
-      "columns": ["Who", "What they confirm"],
+      "columns": [
+        "Who",
+        "What they confirm"
+      ],
       "rows": [
-        ["**Real estate agent**", "The local contract form, contingency periods, earnest money handling, and what's normal in this market."],
-        ["**Attorney**", "What each contingency lets you do, when earnest money is at risk, and how any appraisal gap clause is worded."],
-        ["**Lender**", "Max seller credit for this occupancy, whether it can cover repairs, treatment of personal property, approval timeline, rate lock expiry."],
-        ["**County assessor or agent**", "The likely property tax at your purchase price."],
-        ["**Insurer**", "An STR quote inside the inspection period."],
-        ["**Local licensing office**", "That STR use is allowed at this address before the inspection contingency expires (SR.1)."]
+        [
+          "**Real estate agent**",
+          "The local contract form, contingency periods, earnest money handling, and what's normal in this market."
+        ],
+        [
+          "**Attorney**",
+          "What each contingency lets you do, when earnest money is at risk, and how any appraisal gap clause is worded."
+        ],
+        [
+          "**Lender**",
+          "Max seller credit for this occupancy, whether it can cover repairs, treatment of personal property, approval timeline, rate lock expiry."
+        ],
+        [
+          "**County assessor or agent**",
+          "The likely property tax at your purchase price."
+        ],
+        [
+          "**Insurer**",
+          "An STR quote inside the inspection period."
+        ],
+        [
+          "**Local licensing office**",
+          "That STR use is allowed at this address before the inspection contingency expires (SR.1)."
+        ]
       ],
       "ref": "PA.8.9",
       "notes": "Here's who confirms what.\n\nYour real estate agent confirms the local contract form, the contingency periods, how earnest money is handled, and what's normal in this market.\n\nYour attorney confirms what each contingency actually lets you do, when your earnest money is at risk, and how any appraisal gap clause is worded. Don't rely on my summary of any of that. Contracts are state-specific.\n\nYour lender confirms the maximum seller credit for this occupancy type and whether it can cover repairs. It also confirms how personal property in the price is treated, the approval timeline, and when the rate lock expires.\n\nThe county assessor, or your agent, confirms the likely property tax at your price.\n\nYour insurer gives you an STR quote inside the inspection period.\n\nAnd the local licensing office confirms STR use is allowed at this address before the inspection contingency runs out. Use your SR.1 checklist."
@@ -282,26 +744,38 @@
       "type": "dothis",
       "title": "Write your walk-away price and your contract triggers before you make an offer",
       "items": [
-        "Write your four rules: minimum cash flow, weak-case rule, emergency fund, minimum unallocated cash.",
+        "Write your three ceiling rules: minimum cash flow, weak-case rule, emergency fund.",
         "Run the three ceilings on your costlier quote and write your walk-away price, rounded down.",
         "Ask your agent and lender the contingency questions and save their answers in writing.",
-        "Start your decision log with your first offer and your appraisal and inspection triggers."
+        "Start your decision log with your buffer, your first offer, and your appraisal and inspection triggers."
       ],
       "next": "Next: PA.9 Due Diligence: STR-Specific Inspections, Appraisal & Title Review. Bring your decision log.",
       "ref": "PA.8.10",
-      "notes": "Four things this week, each under an hour.\n\nFirst, write your four rules before you look at another listing. Minimum base-case cash flow, your weak-case rule, your emergency fund, and your minimum unallocated cash.\n\nSecond, run the three ceilings on your more expensive quote. Write the walk-away price, rounded down.\n\nThird, send your agent and lender the contingency questions and keep their answers in writing.\n\nFourth, start your decision log. Put your first offer in it, and write your appraisal and inspection triggers before anything happens.\n\nMaya and Chris now have an accepted contract at $385,000 and a 10-day inspection clock running. PA.9 fills that window: STR-specific inspections, the appraisal, and the title review, with a tracker that gives every item an owner and a deadline. Bring your decision log. Every finding in PA.9 gets a proceed, renegotiate, or walk entry."
+      "notes": "Four things this week.\n\nFirst, write your three ceiling rules before you look at another listing. Minimum base-case cash flow, your weak-case rule, and your emergency fund.\n\nSecond, run the three ceilings on your more expensive quote. Write the walk-away price, rounded down.\n\nThird, send your agent and lender the contingency questions and keep their answers in writing.\n\nFourth, start your decision log. Write your buffer first: the minimum cash you'll keep unallocated after any surprise. Then put your first offer in it, and write your appraisal and inspection triggers before anything happens.\n\nMaya and Chris now have an accepted contract at $385,000 and a 10-day inspection clock running. PA.9 fills that window: STR-specific inspections, the appraisal, and the title review, with a tracker that gives every item an owner and a deadline. Bring your decision log. Every finding in PA.9 gets a proceed, renegotiate, or walk entry."
     },
     {
       "type": "sources",
-      "title": "The Cedar Ridge ceilings are computed from canonical inputs; the rules come from the CFPB",
+      "title": "Cedar Ridge ceilings are computed from the course example; the CFPB explains cash to close",
       "items": [
-        {"title": "CFPB: Loan Estimate explainer", "url": "https://www.consumerfinance.gov/owning-a-home/loan-estimate/", "note": "cash to close includes down payment and closing costs, minus deposit already paid and seller credits"},
-        {"title": "CFPB: Compare and negotiate your loan offers", "url": "https://www.consumerfinance.gov/owning-a-home/compare/compare-loan-estimates/", "note": "comparing loan terms before committing"},
-        {"title": "CFPB: Schedule a home inspection", "url": "https://www.consumerfinance.gov/owning-a-home/close/schedule-a-home-inspection/", "note": "inspection vs. appraisal (developed in PA.9); not independently opened"}
+        {
+          "title": "CFPB: Loan Estimate explainer",
+          "url": "https://www.consumerfinance.gov/owning-a-home/loan-estimate/",
+          "note": "cash to close includes down payment and closing costs, minus deposit already paid and seller credits"
+        },
+        {
+          "title": "CFPB: Compare and negotiate your loan offers",
+          "url": "https://www.consumerfinance.gov/owning-a-home/compare/compare-loan-estimates/",
+          "note": "comparing loan terms before committing"
+        },
+        {
+          "title": "CFPB: Schedule a home inspection",
+          "url": "https://www.consumerfinance.gov/owning-a-home/close/schedule-a-home-inspection/",
+          "note": "background on inspection vs. appraisal (covered in PA.9)"
+        }
       ],
-      "text": "All ceilings, the four-price table, the cash plan, and both scenarios were computed in Python from the canonical Cedar Ridge inputs (Examples B1, B2, B4) on 2026-09-25.",
+      "text": "All ceilings, the four-price table, the cash plan, and both scenarios were computed in Python from the course's Cedar Ridge example. The three tests and the rules are this course's own method.",
       "ref": "PA.8 sources",
-      "notes": "This lesson leans less on outside rules and more on arithmetic, so the source list is short.\n\nThe CFPB's Loan Estimate explainer supports one point. Your estimated cash to close includes the down payment and closing costs, minus any deposit already paid and any seller credits. That's why earnest money and seller concessions both show up in the cash plan.\n\nThe CFPB's guide to comparing loan offers is background for comparing terms before you commit.\n\nThe CFPB page on scheduling a home inspection is listed for the inspection versus appraisal distinction, which PA.9 develops. The lesson notes it wasn't independently opened.\n\nEverything else, every ceiling, the four-price table, the cash plan, and both scenarios, was computed from the canonical Cedar Ridge inputs. Those are assumptions for teaching, not a real appraisal or quote."
+      "notes": "This lesson leans less on outside rules and more on arithmetic, so the source list is short.\n\nThe three tests and Maya and Chris's rules are this course's own method. They don't come from any agency.\n\nThe CFPB's Loan Estimate explainer supports one point. Your estimated cash to close includes the down payment and closing costs, minus any deposit already paid and any seller credits. That's why earnest money and seller concessions both show up in the cash plan.\n\nThe CFPB's guide to comparing loan offers is background for comparing terms before you commit.\n\nThe CFPB page on scheduling a home inspection is background on inspection versus appraisal, which PA.9 develops.\n\nEverything else, every ceiling, the four-price table, the cash plan, and both scenarios, was computed from the Cedar Ridge example. Those are assumptions for teaching, not a real appraisal or quote."
     }
   ]
 }

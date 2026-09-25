@@ -25,7 +25,7 @@
         ]
       ],
       "ref": "5.7.0",
-      "notes": "This lesson is about the part of the landlord conversation that decides most deals in 2026: the owner's worries about legality and liability.\n\nBy the end you'll be able to run a landlord conversation that ends in one of two documented outcomes. One is written approval with a signed addendum. The other is a clear pass that you log and move on from. Both are fine results.\n\nYou'll build three things. A 60-second opening. An evidence packet that answers regulation and liability objections before they come up. And an accurate way to explain how your own insurance differs from a platform's protection program. That last one is where I hear operators say inaccurate things most often, so we'll spend real time on it.\n\nWe'll run it all through Alder Street, with a role play against a fictional landlord named Dana."
+      "notes": "This lesson is about the part of the landlord conversation that often decides whether an owner says yes: their worries about legality and liability.\n\nBy the end you'll be able to run a landlord conversation that ends in one of two documented outcomes. One is written approval with a signed addendum. The other is a clear pass that you log and move on from. Both are fine results.\n\nYou'll build three things. A 60-second opening. An evidence packet that answers regulation and liability objections before they come up. And an accurate way to explain how your own insurance differs from a platform's protection program. That last one is where I hear operators say inaccurate things most often, so we'll spend real time on it.\n\nWe'll run it all through Alder Street, with a role play against a fictional landlord named Dana."
     },
     {
       "type": "two",
@@ -33,9 +33,9 @@
       "left": {
         "head": "Why a pushed yes backfires",
         "items": [
+          "You aren't trying to talk a reluctant owner into anything",
           "An owner who signs without understanding panics after the first neighbor complaint",
-          "That panic costs you the lease and your setup money",
-          "You aren't trying to talk a reluctant owner into anything"
+          "That panic costs you the lease and your setup money"
         ]
       },
       "right": {
@@ -51,10 +51,10 @@
       "box": {
         "kind": "gold",
         "label": "Before you dial",
-        "text": "Sam's 5.6 found the owner. Lessons 5.1 and 5.2 cover the basic script. The address should already clear the 3.4 hard stops. If the city bans your use there, there's nothing to pitch."
+        "text": "Bring the owner's name and number (from Sam's 5.6). The address should already have no deal-killers from 3.4. If the city bans your use there, there's nothing to pitch. Lessons 5.1 and 5.2 cover the basic script."
       },
       "ref": "5.7.1",
-      "notes": "Sam's 5.6 lesson showed you how to find the owner. Bring back the owner's name and a working phone number from that lesson. Lessons 5.1 and 5.2 cover the basic landlord script and a general role play. This lesson picks up the part those don't: legality and liability.\n\nSet your goal before you dial. You're after a clear yes or a clear no, in writing. You aren't trying to talk a reluctant owner into something they don't understand. An owner who signs without knowing what they agreed to is the owner who panics after the first neighbor complaint. That panic costs you the lease and your setup money.\n\nSo the pitch rests on facts the owner can check. Who runs the unit. Who stays there. How it's maintained. What happens at 2 a.m. What insurance covers, and what it doesn't. If you can show each of those on paper, most objections turn into questions with answers.\n\nOne more thing. The address should already have cleared the hard stops in 3.4. If the city bans your use, there's nothing to pitch."
+      "notes": "Sam's 5.6 lesson showed you how to find the owner. Bring back the owner's name and a working phone number from that lesson. Lessons 5.1 and 5.2 cover the basic landlord script and a general role play. This lesson picks up the part those don't: legality and liability.\n\nSet your goal before you dial. You're after a clear yes or a clear no, in writing. You aren't trying to talk a reluctant owner into something they don't understand. An owner who signs without knowing what they agreed to is the owner who panics after the first neighbor complaint. That panic costs you the lease and your setup money.\n\nSo the pitch rests on facts the owner can check. Who runs the unit. Who stays there. How it's maintained. What happens at 2 a.m. What insurance covers, and what it doesn't. If you can show each of those on paper, most objections turn into questions with answers.\n\nOne more thing. The address should already have cleared the hard stops in 3.4. A hard stop is a condition that ends a deal by itself. If the city bans your use, there's nothing to pitch."
     },
     {
       "type": "flow",
@@ -88,20 +88,20 @@
         "text": "Anything you can't control, like \"zero wear and tear\" or \"no complaints ever.\""
       },
       "ref": "5.7.2",
-      "notes": "Owners decide in the first minute whether you sound like a business or a risk. So cover four points, in this order.\n\nWho operates the property. Your name, your company, and the fact that you'd be the tenant on the lease.\n\nWho stays. Paying guests for short stays, usually a few nights, booked through named platforms. Give the expected volume. Owners want a number, not \"some guests.\"\n\nHow the unit is maintained. Professional cleaning after every stay, a local contact for repairs, and inspections on a schedule.\n\nWhy it can benefit the owner. A lease at the asking rent with a professional tenant. The unit kept furnished and cleaned. Problems reported fast.\n\nBe careful on that fourth point. Don't promise things you can't control. \"Zero wear and tear\" and \"no complaints ever\" are promises you'll break, and the owner will remember them the day you do."
+      "notes": "Owners decide in the first minute whether you sound like a business or a risk. So cover four points, in this order.\n\nWho operates the property. Your name, your company, and the fact that you'd be the tenant on the lease.\n\nWho stays. Paying guests for short stays, usually a few nights, booked through named platforms. Give the expected volume. Owners want a number, not \"some guests.\"\n\nHow the unit is maintained. Professional cleaning after every stay, a local contact for repairs, and inspections on a schedule.\n\nWhy it can benefit the owner. A lease at the asking rent with a professional tenant. The unit kept furnished and cleaned. Problems reported fast.\n\nThe sample on the next slide also names your insurance, the permit, and the addendum. Those preview your evidence.\n\nBe careful on that fourth point. Don't promise things you can't control. \"Zero wear and tear\" and \"no complaints ever\" are promises you'll break, and the owner will remember them the day you do."
     },
     {
       "type": "text",
       "title": "The Alder Street opening states rent, model, and volume, then asks for questions",
       "assumption": true,
-      "text": "*\"Thanks for taking the call. I run a small furnished-rental business, and I'd like to lease Unit 4B myself at your asking rent of $1,950 on a 24-month term. I'd host guests for short stays, usually around three nights, through Airbnb and a couple of other channels. That's roughly one or two check-ins a week. A professional cleaner turns the unit after every stay, and I'll have a local person on call for anything urgent. I'll carry my own short-term-rental liability policy, get the city permit, and put all of it in a written addendum you'd review. I want to be upfront about the model so you can decide with the full picture. What questions do you have?\"*",
+      "text": "*\"Thanks for taking the call. I run a small furnished-rental business, and I'd like to lease Unit 4B myself at your asking rent of $1,950 on a 24-month term. I'd host guests for short stays, usually around three nights, through Airbnb and a couple of other channels. That's roughly one or two check-ins a week. A professional cleaner turns the unit after every stay, and I'll have a local person on call for anything urgent. I'll carry my own short-term-rental liability policy, apply for the city permit, and put all of it in a written addendum you'd review. I want to be upfront about the model so you can decide with the full picture. What questions do you have?\"*",
       "box": {
         "kind": "gold",
         "label": "Why the last line matters",
         "text": "It invites objections now, while your evidence is on the table."
       },
       "ref": "5.7.2",
-      "notes": "Here's a sample for Alder Street. The asking rent is $1,950 and the lease is 24 months. Those are canonical assumptions from our example.\n\nNotice what's in it. The owner hears who you are, that you'll be the tenant, and that you'll pay the asking rent on the full term. They hear the model plainly: short stays of around three nights, through Airbnb and a couple of other channels. They hear the volume, roughly one or two check-ins a week. They hear who cleans and who's on call. And they hear the three things you'll carry: your own liability policy, the city permit, and a written addendum they get to review.\n\nNotice what's not in it. No promises about zero wear. No income claims for the owner.\n\nThen the last line: what questions do you have? That line matters most. It invites the objections now, while you have your evidence ready, instead of later, when the owner is talking to someone else. Practice it out loud until it fits under 60 seconds."
+      "notes": "Here's a sample for Alder Street. The asking rent is $1,950 and the lease is 24 months. Those are the course's standard example numbers, all assumptions.\n\nNotice what's in it. The owner hears who you are, that you'll be the tenant, and that you'll pay the asking rent on the full term. They hear the model plainly: short stays of around three nights, through Airbnb and a couple of other channels. They hear the volume, roughly one or two check-ins a week. They hear who cleans and who's on call. And they hear what you'll take on: your own liability policy, applying for the city permit, and a written addendum they get to review.\n\nNotice what's not in it. No promises about zero wear. No income claims for the owner. If this is your first unit, say so plainly. Owners trust a straight answer more than a borrowed track record.\n\nThen the last line: what questions do you have? That line matters most. It invites the objections now, while you have your evidence ready, instead of later, when the owner is talking to someone else. Practice it out loud until it fits under 60 seconds."
     },
     {
       "type": "table",
@@ -116,22 +116,22 @@
         [
           "Permit status",
           "The city allows your use at this address, and you've applied or know the steps",
-          "Your 3.4 scorecard and SR.1 research, with official URLs"
+          "Your 3.4 scorecard and SR.1 compliance checklist, with official URLs"
         ],
         [
-          "Insurance declarations page (or a written quote)",
-          "Your STR liability coverage, limits, and effective dates",
+          "Insurance declarations page (policy summary) or a written quote",
+          "Your short-term-rental (STR) liability coverage, limits, and effective dates",
           "Your broker; lesson 2.4"
         ],
         [
           "Draft addendum",
-          "The ten topics from lesson 3.5 in writing",
+          "The ten topics from lesson 3.5 in writing, starting from 3.5's sample addendum",
           "Lesson 5.3 walkthrough, reviewed by your attorney"
         ],
         [
           "Operating summary",
           "Stays per year, maximum guests, cleaning, inspections",
-          "Your underwriting"
+          "Your underwriting numbers (lesson 1.3)"
         ],
         [
           "House rules",
@@ -141,7 +141,7 @@
         [
           "Local contact sheet",
           "Name and 24-hour number for the person who responds in person",
-          "Your cleaner or on-call vendor (Module 6)"
+          "Your cleaner or on-call vendor (hired in Module 6; until then, give a date)"
         ],
         [
           "Complaint and damage process",
@@ -150,7 +150,7 @@
         ]
       ],
       "ref": "5.7.3",
-      "notes": "Owners respond to paper more than to reassurance. So bring the documents that answer objections before they come up.\n\nThe permit status comes from your 3.4 scorecard and your SR.1 research, with the official links. The insurance declarations page, or a written quote if the policy hasn't bound yet, comes from your broker. Lesson 2.4 covers choosing it. The draft addendum carries the ten topics from lesson 3.5, drafted with lesson 5.3 and reviewed by your attorney.\n\nThe operating summary gives stays per year, maximum guests, cleaning, and inspections. House rules come from your listing draft. The local contact sheet names the person who shows up in person, with a 24-hour number. And a short written complaint and damage process says who gets called, how fast, and how damage gets paid.\n\nYou won't always have everything. That's fine. Say so and give a date. \"The insurer quoted $1,300 a year; I'll send the declarations page when the policy binds, before the first guest.\" That's honest and specific, and owners hear the difference.",
+      "notes": "Owners respond to paper more than to reassurance. Your evidence packet is a folder of documents that answer objections before they come up.\n\nThe permit status comes from your 3.4 scorecard and your SR.1 research, with the official links. The insurance declarations page is the summary page of your policy: who's covered, the limits, and the dates. It comes from your broker, or a written quote if the policy hasn't bound, meaning taken effect. Lesson 2.4 covers choosing it. The draft addendum carries the ten topics from lesson 3.5, drafted with lesson 5.3 and reviewed by your attorney.\n\nThe operating summary gives stays per year, maximum guests, cleaning, and inspections. House rules come from your listing draft. The local contact sheet names the person who shows up in person, with a 24-hour number. You'll hire them in Module 6, so for now give a date. A short complaint and damage process says who gets called, how fast, and how damage gets paid.\n\nMissing something? Say so and give a date. \"The insurer quoted $1,300 a year; I'll send the declarations page when the policy binds, before the first guest.\" That's honest and specific, and owners hear the difference.",
       "keyline": "Missing one? Say so and give a date for when the owner gets it."
     },
     {
@@ -168,13 +168,13 @@
           "\"Is this even legal here?\"",
           "Fines, liability, enforcement",
           "Ordinance link, permit category, date checked, written answer from the licensing office",
-          "Tenant keeps every permit; change-in-law clause (3.5, clause 8)"
+          "Tenant keeps every permit; change-in-law clause (3.5 sample addendum, clause 8)"
         ],
         [
           "\"I don't want parties.\"",
           "Damage, police, neighbors",
           "House rules; guest cap; Airbnb bans open-invite parties ([article 3345](https://www.airbnb.com/help/article/3345))",
-          "Occupancy cap; no events; breach and cure"
+          "Occupancy cap; no events; breach and cure (notice, then days to fix)"
         ],
         [
           "\"What about noise?\"",
@@ -185,22 +185,22 @@
         [
           "\"Who pays for damage?\"",
           "Repairs from the owner's pocket",
-          "Declarations page; damage process; deposit",
+          "Declarations page; damage process; your lease deposit",
           "Tenant pays guest damage beyond wear; report within 24 hours"
         ],
         [
           "\"My other tenants will complain.\"",
           "Losing long-term tenants",
-          "Contact sheet; neighbor notice; Airbnb's [neighbor line](https://www.airbnb.com/help/article/3290) as backstop",
+          "Contact sheet; neighbor notice; Airbnb's [Neighborhood Support](https://www.airbnb.com/help/article/3290) page as backstop",
           "24-hour contact; response time"
         ]
       ],
       "ref": "5.7.4",
-      "notes": "Every objection has a real worry behind it. Answer the worry with evidence. Then write the answer into the addendum, so it outlasts the phone call.\n\n\"Is this even legal here?\" The worry is fines, liability, or being named in enforcement. Show the ordinance link, the permit category, the date you checked, and any written answer from the licensing office. In writing, you take on every permit, and the change-in-law clause from 3.5 covers the day the rules move.\n\n\"I don't want parties.\" Show your house rules, your guest cap, and Airbnb's policy against open-invite parties and disruptive gatherings. In writing: an occupancy cap, no events, and breach and cure.\n\nNoise gets quiet hours and a response time. Damage gets your declarations page, your damage process, and a deposit, with a clause that you pay for guest damage beyond ordinary wear and report within 24 hours.\n\nFor worries about other tenants, show your contact sheet and a neighbor notice with your number. Airbnb also has a neighbor support line, but treat that as a backstop. Your number comes first."
+      "notes": "Every objection has a real worry behind it. Answer it with evidence, then write the answer into the addendum.\n\n\"Is this even legal here?\" The worry is fines, liability, or being named in enforcement. Show the ordinance link, the permit category, the date you checked, and any written answer from the licensing office. In writing, you take on every permit, and the change-in-law clause, clause 8 of 3.5's sample addendum, covers the day the rules move.\n\n\"I don't want parties.\" Show your house rules, your guest cap, and Airbnb's policy against open-invite parties and disruptive gatherings. In writing: an occupancy cap, no events, and breach and cure. That means written notice and a set number of days to fix a problem.\n\nNoise gets quiet hours and a response time. Damage gets your declarations page, your damage process, and the lease deposit you pay the owner. In writing, you pay for guest damage beyond ordinary wear and report within 24 hours.\n\nFor worries about other tenants, show your contact sheet and a neighbor notice with your number. Airbnb's Neighborhood Support page, where neighbors can report parties, is only a backstop. Your number comes first."
     },
     {
       "type": "table",
-      "title": "Some objections belong to the owner: if their insurer or lender says no, log a pass",
+      "title": "Three more objections are yours; the owner's insurer or lender is theirs to answer",
       "columns": [
         "Objection",
         "The worry",
@@ -211,8 +211,8 @@
         [
           "\"What if you can't fill it and stop paying?\"",
           "Vacancy and default",
-          "Your stress case and cash reserve (lessons 1.3, 3.4)",
-          "Standard rent and default terms; security deposit"
+          "A summary of your stress case and cash reserve (lessons 1.3, 3.4)",
+          "Standard rent and default terms; your lease deposit"
         ],
         [
           "\"Who answers at night?\"",
@@ -234,7 +234,7 @@
         ]
       ],
       "ref": "5.7.4",
-      "notes": "Four more objections.\n\n\"What if you can't fill it and stop paying?\" That's a vacancy and default worry. Your stress case and cash reserve from lessons 1.3 and 3.4 are the evidence. In writing, it's standard rent and default terms plus a security deposit.\n\n\"Who answers at night?\" The owner doesn't want a 2 a.m. call. Name your local contact and a backup, with coverage hours, and commit to delivering the name before the first stay.\n\n\"What if something happens to a guest?\" The owner is afraid of being sued. Show your STR liability declarations page, with the owner named as an additional insured if your insurer allows it.\n\nThe last row is honest about limits. Some objections you can't solve. If the owner's own insurer excludes short stays, or the owner believes the mortgage forbids it, that's for the owner to resolve. You can't answer for their policy or their loan. Offer to wait while they check. If the answer is no, log the pass and move on."
+      "notes": "Four more objections. You answer the first three. Only the owner can answer the last one.\n\n\"What if you can't fill it and stop paying?\" That's a vacancy and default worry. A summary of your stress case, your numbers with a lower rate and occupancy, plus your cash reserve is the evidence. In writing, it's standard rent and default terms plus your lease deposit.\n\n\"Who answers at night?\" The owner doesn't want a 2 a.m. call. Name your local contact and a backup, with coverage hours, and commit to delivering the name before the first stay.\n\n\"What if something happens to a guest?\" The owner is afraid of being sued. Show your STR liability declarations page, with the owner named as an additional insured, a person the policy also protects, if your insurer allows it.\n\nThe last row is honest about limits. Some objections you can't solve. If the owner's own insurer excludes short stays, or the owner believes the mortgage forbids it, that's for the owner to resolve. You can't answer for their policy or their loan. Offer to wait while they check. If the answer is no, log the pass and move on."
     },
     {
       "type": "two",
@@ -243,10 +243,10 @@
         "head": "Airbnb's AirCover for hosts",
         "note": "Two parts with different rules",
         "items": [
-          "Host damage protection: Airbnb says it isn't an insurance policy ([3733](https://www.airbnb.com/help/article/3733))",
-          "Request within 14 days of checkout; wear and tear excluded; can be denied for lack of reasonable care ([279](https://www.airbnb.com/help/article/279))",
-          "Host liability insurance: third-party underwritten, with exclusions; landlord covered only narrowly ([3145](https://www.airbnb.com/help/article/3145))",
-          "Applies to stays booked on Airbnb, not Vrbo or direct ([937](https://www.airbnb.com/help/article/937))"
+          "Host damage protection: Airbnb says it isn't an insurance policy ([Airbnb Help 3733](https://www.airbnb.com/help/article/3733))",
+          "Request within 14 days of checkout; wear and tear excluded; can be denied for lack of reasonable care ([Airbnb Help 279](https://www.airbnb.com/help/article/279))",
+          "Host liability insurance: third-party underwritten, with exclusions; landlord covered only narrowly ([Airbnb Help 3145](https://www.airbnb.com/help/article/3145))",
+          "Host liability insurance applies only to Airbnb bookings, not Vrbo or direct ([Airbnb Help 937](https://www.airbnb.com/help/article/937))"
         ]
       },
       "right": {
@@ -260,19 +260,19 @@
         ]
       },
       "ref": "5.7.5",
-      "notes": "This is the objection where operators most often say something inaccurate. Get it right, because the owner may repeat what you said to their own insurer.\n\nStart with what Airbnb says. AirCover for hosts includes Host damage protection and Host liability insurance. Airbnb states that Host damage protection isn't an insurance policy. It also has conditions: you file within 14 days of the guest's checkout, wear and tear isn't covered, and Airbnb can deny a request if you didn't take reasonable care.\n\nHost liability insurance is actual insurance, underwritten by third-party insurers, with terms and exclusions. The program summary lists exclusions for injury the insured intended or should have expected, fungi or bacteria, and liability assumed under a contract. It treats a host's landlord as an insured only narrowly. And it applies to Airbnb bookings, not Vrbo or your direct site.\n\nYour own policy is different. It's your contract with your insurer. It names you, lists limits and exclusions, may name the landlord, and can cover every channel if it says so. Verify Airbnb's current terms before you describe them."
+      "notes": "This is the objection where operators most often say something inaccurate. Get it right, because the owner may repeat what you said to their own insurer.\n\nStart with what Airbnb says. AirCover for hosts includes Host damage protection and Host liability insurance. Airbnb states that Host damage protection isn't an insurance policy. It also has conditions. You file within 14 days of the guest's checkout. Wear and tear isn't covered. Airbnb can deny a request if you didn't take reasonable care.\n\nHost liability insurance is actual insurance, underwritten by third-party insurers, with terms and exclusions. The program summary lists exclusions for injury the insured intended or should have expected, fungi or bacteria, and liability assumed under a contract. It treats a host's landlord as an insured only narrowly. And it applies to Airbnb bookings, not Vrbo or your direct site.\n\nYour own policy is different. It's your contract with your insurer. It names you, lists limits and exclusions, may name the landlord, and can cover every channel if it says so. Verify Airbnb's current terms before you describe them."
     },
     {
       "type": "text",
-      "title": "Say it accurately: you rely on your policy, and treat the platform program as a backup",
-      "text": "*\"I carry my own short-term-rental liability policy. Here's the declarations page with the limits. Airbnb also has a host program. Part of it is liability insurance with its own exclusions, and part of it, the damage protection, Airbnb says isn't insurance. I treat the platform program as a backup for Airbnb bookings only. My policy is what I rely on.\"*",
+      "title": "Say it accurately: you rely on your own policy, not on the platform program",
+      "text": "*\"I carry my own short-term-rental liability policy. Here's the declarations page with the limits. Airbnb also has a host program. Part of it is liability insurance with its own exclusions, and part of it, the damage protection, Airbnb says isn't insurance. The platform program only applies to Airbnb bookings, so I don't rely on it. My policy is what I rely on.\"*",
       "box": {
         "kind": "info",
         "label": "Confirm with",
-        "text": "Your insurance broker: what the policy covers, whether it covers all booking channels, and whether the landlord can be added as an additional insured. Check Airbnb's current help pages before recording or pitching. Lesson 2.4 covers picking the policy."
+        "text": "Your insurance broker: what the policy covers, whether it covers all booking channels, whether the landlord can be an additional insured, and how your policy and Airbnb's host liability insurance interact. Check Airbnb's current help pages before pitching."
       },
       "ref": "5.7.5",
-      "notes": "Here's an accurate way to say it to an owner. Read it a few times and put it in your own words, but keep the facts the same.\n\nYou lead with your own policy and the declarations page. That's the document the owner can hand to their attorney or insurer. Then you mention the platform program, and you describe both halves correctly. The liability part is insurance with its own exclusions. The damage protection part, Airbnb says, isn't insurance. Then you say how you treat it: a backup for Airbnb bookings only. Your policy is what you rely on.\n\nWhy does this matter so much? Because if you call the platform program \"insurance\" and the owner repeats that to their insurer, you've just damaged your own credibility with the one person who can say yes.\n\nBefore you pitch, confirm three things with your broker: what your policy covers, whether it covers every booking channel, and whether the landlord can be added as an additional insured. And check Airbnb's help pages again, because program terms change. Lesson 2.4 goes deeper on the policy itself."
+      "notes": "Here's an accurate way to say it to an owner. Read it a few times and put it in your own words, but keep the facts the same.\n\nYou lead with your own policy and the declarations page. That's the document the owner can hand to their attorney or insurer. Then you mention the platform program, and you describe both halves correctly. The liability part is insurance with its own exclusions. The damage protection part, Airbnb says, isn't insurance. Then you say why you don't rely on it: it only applies to Airbnb bookings. Your policy is what you rely on.\n\nWhy does this matter so much? If you call the platform program \"insurance,\" the owner may repeat that to their insurer. Then you've damaged your credibility with the one person who can say yes.\n\nBefore you pitch, ask your broker four things. What your policy covers, and whether it covers every booking channel. Whether the landlord can be an additional insured. And how your policy and Airbnb's interact on an Airbnb booking. And check Airbnb's help pages again, because program terms change. Lesson 2.4 goes deeper on the policy itself."
     },
     {
       "type": "calc",
@@ -294,9 +294,14 @@
         "label": "Rent over the full term",
         "v": "$46,800"
       },
-      "side": "**Check-ins per week:** 85 stays ÷ 52 weeks = about **1.6**.\n\nSetting: the unnamed city allows unhosted stays with an annual permit that needs the owner's signed consent. Hard stops cleared, with the licensing office's written answer saved. Sleeps 5, about 85 stays a year at 3 nights average. Insurance $1,300 a year; permit $250 a year.",
+      "side": "**Check-ins per week:** 85 stays ÷ 52 weeks = about **1.6**. That's how often strangers come and go in the building.",
       "ref": "5.7.6",
-      "notes": "Now the Alder Street role play. Here's the setting. I'm assuming the unnamed city allows unhosted stays with an annual permit that needs the owner's signed consent. You've cleared the Alder Street hard stops in 3.4, with the licensing office's written answer saved. You've drafted an addendum with the ten topics from 3.5. The landlord owns the four-unit building and has agreed to a call.\n\nThe canonical figures are rent of $1,950 a month on a 24-month lease, a unit that sleeps 5, about 85 stays a year at 3 nights average, STR liability insurance at $1,300 a year, and a $250 annual permit. All assumptions for teaching.\n\nBefore the call, run two numbers the landlord may care about. Rent over the full term is $1,950 times 24, which is $46,800. That's what a committed tenant is worth to them. And check-ins per week: 85 stays divided by 52 weeks is about 1.6. That's the number that tells an owner how busy the hallway will be. Have both ready before you dial."
+      "notes": "Now the Alder Street role play. Here's the setting. I'm assuming the city allows unhosted stays, meaning you don't live there. Those stays need an annual permit with the owner's signed consent. The city is unnamed on purpose, because rules attach to an exact address. You've cleared the Alder Street hard stops in 3.4, with the licensing office's written answer saved. You've drafted an addendum with the ten topics from 3.5. The landlord owns the four-unit building and has agreed to a call.\n\nThe course's standard example numbers are rent of $1,950 a month on a 24-month lease, and a unit that sleeps 5. Expect about 85 stays a year at 3 nights average. Insurance is $1,300 a year and the permit is $250 a year. All assumptions for teaching.\n\nBefore the call, run two numbers the landlord may care about. Rent over the full term is $1,950 times 24, which is $46,800. That's the total rent you're committing to pay the owner. And check-ins per week: 85 stays divided by 52 weeks is about 1.6. That tells an owner how busy the hallway will be.",
+      "side_box": {
+        "kind": "gold",
+        "label": "Role-play setup (assumptions)",
+        "text": "The city allows unhosted stays with an annual permit that needs the owner's signed consent. Hard stops cleared. Sleeps 5, about 85 stays a year. Insurance $1,300 a year; permit $250 a year."
+      }
     },
     {
       "type": "table",
@@ -313,7 +318,7 @@
         ],
         [
           "\"Show me the permit.\"",
-          "Not held yet: the application needs Dana's signed consent (clause 4). No guest checks in before the permit is issued, and that's in the addendum."
+          "Not held yet: the application needs Dana's signed consent (addendum clause 4, compliance). No guest checks in before the permit is issued and the policy is bound."
         ],
         [
           "\"If a guest falls, I get sued.\"",
@@ -325,15 +330,15 @@
         ],
         [
           "\"I'm not taking calls at 2 a.m.\"",
-          "A name and 24-hour number for Dana and the other three units before the first stay, with changes sent in writing"
+          "A name and 24-hour number for Dana and the other tenants before the first stay, with changes in writing"
         ],
         [
           "\"Put all of that in writing.\"",
-          "The draft addendum and one-page summary for Dana's attorney, plus a request that Dana check their own insurer and lender"
+          "The draft addendum and one-page summary ($46,800 of rent, 1.6 check-ins a week) for Dana's attorney. Dana checks their own insurer and lender."
         ]
       ],
       "ref": "5.7.6",
-      "notes": "The landlord in the role play is Dana, a fictional character. You deliver the 60-second opening, and Dana starts asking.\n\n\"Is it even legal?\" You don't argue. You show the ordinance link and the permit page, the date you checked, and the licensing office's written reply. The $250 permit is yours to pay.\n\n\"Show me the permit.\" You don't have it yet, because the application needs Dana's signed consent. That's clause 4. Once Dana signs, you file within a week. And no guest checks in before the permit is issued. That condition is in the addendum too.\n\nInsurance gets the $1,300 quote, the additional insured request, and proof at renewal. Damage gets the addendum clause, 24-hour reporting, about 85 cleans a year, and a monthly inspection. The 2 a.m. worry gets a named local contact for Dana and the other three units.\n\nThen Dana says, \"Put all of that in writing.\" It already is. You hand over the addendum and the summary, and you ask Dana to check with their own insurer and lender. That part you can't answer."
+      "notes": "Dana is a fictional landlord. You deliver the 60-second opening, and Dana starts asking.\n\n\"Is it even legal?\" You don't argue. You show the ordinance link and the permit page, the date you checked, and the licensing office's written reply. The $250 permit is yours to pay.\n\n\"Show me the permit.\" You don't have it yet, because the application needs Dana's signed consent. That's clause 4, compliance, in the draft addendum. Once Dana signs, you file within a week. And no guest checks in before the permit is issued and your policy is bound. That condition goes in the addendum too.\n\nInsurance gets the $1,300 quote, the additional insured request, and proof at renewal. Damage gets the addendum clause, 24-hour reporting, about 85 cleans a year, and a monthly inspection. The 2 a.m. worry gets a named local contact for Dana and the tenants in the other three units.\n\nThen Dana says, \"Put all of that in writing.\" It already is. You hand over the addendum and the summary, which shows the $46,800 and the 1.6 check-ins. Then you ask Dana to check with their own insurer and lender. That part you can't answer."
     },
     {
       "type": "two",
@@ -342,17 +347,17 @@
       "left": {
         "head": "Ending A: written approval",
         "items": [
-          "Dana's attorney asks that the 30-day cure period start only after written notice. You accept.",
-          "Dana signs the lease and the addendum",
-          "Same day, you email what's signed and what you still owe: declarations page and permit number",
-          "Scorecard rows L1 and L2 drop to 0"
+          "Dana's insurer and lender say short stays are acceptable",
+          "Dana's attorney asks that the 30-day cure period start only after written notice by email and by mail. You accept, and Dana signs the lease and addendum.",
+          "Same day, you email what's signed and what you still owe: declarations page, permit number, local contact",
+          "Scorecard lease risks L1 (no-cause termination) and L2 (unclear guest rights) drop to 0"
         ]
       },
       "right": {
         "head": "Ending B: documented pass",
         "items": [
           "Dana's insurer says the building policy excludes short-stay use. Dana declines.",
-          "You thank Dana and ask whether a standard lease is of interest",
+          "You thank Dana and ask whether a standard long-term lease is of interest",
           "You log the pass with the reason and date",
           "You don't argue with the insurer or suggest listing anyway"
         ]
@@ -363,7 +368,7 @@
         "text": "A \"let me think about it\" with nothing written, or a yes that Dana doesn't fully understand."
       },
       "ref": "5.7.6",
-      "notes": "From there, the conversation ends one of two ways.\n\nEnding A is written approval. Dana's attorney reviews the addendum and asks for one change: the 30-day cure period should start only after written notice. You accept. Dana signs the lease and the addendum. The same day, you send a confirmation email listing what's signed and what you still owe, which is the declarations page and the permit number. On your 3.4 scorecard, L1 and L2 drop to zero.\n\nEnding B is a documented pass. Dana's insurer says the building policy excludes short-stay use, and Dana declines. You thank Dana and ask whether a standard lease is of interest. You log the pass with the reason and the date. You don't argue with the insurer's answer, and you never suggest listing anyway.\n\nI want you to hear this clearly: either ending is a good result. The bad result is a vague \"let me think about it\" with nothing written. Or a yes that Dana doesn't fully understand, because that yes turns into a problem after the first complaint."
+      "notes": "From there, the conversation ends one of two ways.\n\nEnding A is written approval. Dana's insurer and lender both say short stays are fine. Dana's attorney asks for one change: the 30-day cure period should start only after written notice by email and by mail. You accept, and Dana signs. The same day, you email what's signed and what you still owe: the declarations page, the permit number, and the local contact sheet. On your 3.4 scorecard, L1, no-cause termination, and L2, unclear guest rights, drop to zero.\n\nEnding B is a documented pass. Dana's insurer says the building policy excludes short-stay use, and Dana declines. You thank Dana and ask whether a standard long-term lease, with no short stays, is of interest. You log the pass with the reason and the date. You don't argue with the insurer's answer, and you never suggest listing anyway.\n\nI want you to hear this clearly: either ending is a good result. The bad result is a vague \"let me think about it\" with nothing written. Or a yes that Dana doesn't fully understand, because that yes turns into a problem after the first complaint."
     },
     {
       "type": "two",
@@ -403,7 +408,7 @@
       ],
       "rows": [
         [
-          "Address and 3.4 scorecard label",
+          "Address and 3.4 scorecard label (reject / investigate / advance)",
           "",
           ""
         ],
@@ -454,11 +459,11 @@
         ]
       ],
       "ref": "5.7.8",
-      "notes": "Your exercise is this prep sheet, filled in for one real address before you call.\n\nStart with the address and its 3.4 label. Then the regulation evidence: the ordinance URL with the date you checked, the file name of the licensing office's written answer, and the permit category, cost, and whether the owner has to consent.\n\nThen insurance: your quote or declarations page with limits, premium, and which channels it covers. Find out whether the landlord can be named as additional insured before the owner asks.\n\nThen the documents: the draft addendum with the ten topics, and whether your attorney has reviewed it. The operating summary with stays per year, guests per stay, and check-ins per week. House rules. Your local contact's name, hours, and backup.\n\nWrite out your 60-second opening. List the top three objections you expect with the evidence for each. And write down the one you can't answer, the owner's insurer or lender, and how you'll handle it.\n\nThen practice the opening out loud until it takes under 60 seconds and contains no promise you can't keep."
+      "notes": "Your exercise: fill in this prep sheet for one real address before you call. No address yet? Fill it in for Alder Street, then redo it for a real one.\n\nStart with the address and its 3.4 label: reject, investigate, or advance. Then the regulation evidence. That's the ordinance URL with the date you checked, and the file name of the licensing office's written answer. Add the permit category, cost, and whether the owner has to consent.\n\nThen insurance: your quote or declarations page with limits, premium, and which channels it covers. Find out whether the landlord can be named as additional insured before the owner asks.\n\nThen the documents: the draft addendum with the ten topics, and whether your attorney has reviewed it. The operating summary with stays per year, guests per stay, and check-ins per week. House rules. Your local contact's name, hours, and backup.\n\nWrite out your 60-second opening. List the top three objections you expect with the evidence for each. And write down the one you can't answer, the owner's insurer or lender, and how you'll handle it.\n\nThen practice the opening out loud until it runs under 60 seconds with no promise you can't keep."
     },
     {
       "type": "table",
-      "title": "Five parties confirm the facts your pitch depends on, including the owner's own",
+      "title": "Five checks confirm the facts your pitch depends on, including the owner's own",
       "columns": [
         "Who",
         "What they confirm"
@@ -470,7 +475,7 @@
         ],
         [
           "Your insurance broker",
-          "Policy limits, exclusions, channels covered, and whether the landlord can be an additional insured"
+          "Policy limits, exclusions, channels covered, whether it covers damage to the unit, and whether the landlord can be an additional insured"
         ],
         [
           "Attorney licensed in the property's state",
@@ -486,7 +491,7 @@
         ]
       ],
       "ref": "5.7.9",
-      "notes": "Here's who confirms what.\n\nThe local licensing office confirms, in writing, that your use is permitted at the address and whether the owner has to sign the permit application.\n\nYour insurance broker confirms your limits, your exclusions, which booking channels are covered, and whether the landlord can be named as an additional insured.\n\nAn attorney licensed in the property's state confirms that the addendum terms are enforceable. That includes cure periods, like the 30-day cure Dana's attorney asked for, and the change-in-law language.\n\nThe landlord's own insurer and lender confirm that short stays don't breach the owner's policy or loan. I want to be precise here: the landlord confirms that, not you. You can ask them to check. You can't check for them.\n\nAnd Airbnb's current help pages confirm what AirCover covers before you describe it to anyone. Program terms change, so check them before each pitch or recording, not once a year."
+      "notes": "Here's who confirms what.\n\nThe local licensing office confirms, in writing, that your use is permitted at the address and whether the owner has to sign the permit application.\n\nYour insurance broker confirms your limits, your exclusions, which booking channels are covered, and whether the landlord can be named as an additional insured. Also ask whether your policy covers damage to the owner's unit or only liability claims.\n\nAn attorney licensed in the property's state confirms that the addendum terms are enforceable. That includes cure periods, like the 30-day cure Dana's attorney asked for, and the change-in-law language.\n\nThe landlord's own insurer and lender confirm that short stays don't breach the owner's policy or loan. I want to be precise here: the landlord confirms that, not you. You can ask them to check. You can't check for them.\n\nAnd Airbnb's current help pages confirm what AirCover covers before you describe it to anyone. Program terms change, so check them before each pitch or recording, not once a year."
     },
     {
       "type": "dothis",
@@ -494,12 +499,12 @@
       "items": [
         "Write your 60-second opening for one address and time it out loud until it runs under 60 seconds.",
         "Ask your insurance broker, by email, which channels your STR quote covers and whether the landlord can be an additional insured.",
-        "Build the evidence packet folder: permit status, quote, draft addendum, operating summary, house rules, contact sheet.",
+        "Build the evidence packet folder with all seven documents from slide 5, including your complaint and damage process.",
         "Set up a pass log with date, address, owner, outcome, reason given, and follow-up date."
       ],
       "next": "Next: Module 6, starting with lesson 6.1, Cleaners. Bring the local contact commitments from your addendum. They set the minimum standard your cleaner and on-call help must meet.",
       "ref": "5.7.10",
-      "notes": "Four things this week, each under an hour.\n\nWrite your 60-second opening for one real address, then say it out loud with a timer. Cut anything that sounds like a promise you can't keep.\n\nEmail your broker two questions: which channels does my STR quote cover, and can the landlord be named as an additional insured? Get the answer in writing.\n\nBuild the evidence packet as a folder. Permit status, insurance quote, draft addendum, operating summary, house rules, and the contact sheet. Missing items get a date.\n\nAnd set up your pass log with the six columns, before you need it.\n\nWith a signed lease and addendum, you've promised the owner a clean unit after every stay and a local person who answers. Module 6 is where you build that team. Start with lesson 6.1, Cleaners, and bring the local contact commitments you wrote into the addendum. They set the minimum standard your cleaner and on-call help have to meet."
+      "notes": "Four things this week.\n\nWrite your 60-second opening for one real address, then say it out loud with a timer. Cut anything that sounds like a promise you can't keep.\n\nEmail your broker two questions: which channels does my STR quote cover, and can the landlord be named as an additional insured? Get the answer in writing.\n\nBuild the evidence packet as a folder. All seven documents: permit status, insurance quote, draft addendum, operating summary, house rules, the contact sheet, and your complaint and damage process. Missing items get a date.\n\nAnd set up your pass log with the six columns, before you need it.\n\nWith a signed lease and addendum, you've promised the owner a clean unit after every stay and a local person who answers. Module 6 is where you build that team. Start with lesson 6.1, Cleaners, and bring the local contact commitments you wrote into the addendum. They set the minimum standard your cleaner and on-call help have to meet."
     },
     {
       "type": "sources",
@@ -537,7 +542,7 @@
         }
       ],
       "ref": "5.7 sources",
-      "notes": "The sources for this lesson are all Airbnb help center pages, checked on 25 September 2026.\n\nArticle 3733 is the AirCover for hosts overview. It's where Airbnb says Host damage protection isn't an insurance policy. Article 279 covers Host damage protection itself: the 14-day window, the wear-and-tear exclusion, and the reasonable-care condition. Article 3145 is the Host liability insurance program summary, with the third-party underwriting, the exclusions, and the narrow treatment of a host's landlord. Article 937 says the liability coverage applies to stays arranged through Airbnb.\n\nArticle 3345 is the Community Disturbance Policy on parties, and article 3290 is Neighborhood Support, where neighbors can report problems.\n\nThe Alder Street figures, the $46,800 of rent over the term and the 1.6 check-ins a week, come from the canonical example. These platform terms change more often than city codes do, so open each page again before you pitch."
+      "notes": "The sources for this lesson are all Airbnb help center pages, checked on 25 September 2026.\n\nArticle 3733 is the AirCover for hosts overview. It's where Airbnb says Host damage protection isn't an insurance policy. Article 279 covers Host damage protection itself: the 14-day window, the wear-and-tear exclusion, and the reasonable-care condition. Article 3145 is the Host liability insurance program summary, with the third-party underwriting, the exclusions, and the narrow treatment of a host's landlord. Article 937 says the liability coverage applies to stays arranged through Airbnb.\n\nArticle 3345 is the Community Disturbance Policy on parties, and article 3290 is Neighborhood Support, where neighbors can report problems.\n\nThe Alder Street figures, the $46,800 of rent over the term and the 1.6 check-ins a week, come from the course's standard example. These platform terms change more often than city codes do, so open each page again before you pitch."
     }
   ]
 }

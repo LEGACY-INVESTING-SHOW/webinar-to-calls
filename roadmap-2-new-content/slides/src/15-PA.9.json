@@ -17,7 +17,7 @@
         ],
         [
           "Example",
-          "Cedar Ridge house (hypothetical)"
+          "Cedar Ridge: 3-bed lake house, sleeps 8 (hypothetical)"
         ],
         [
           "Use",
@@ -25,43 +25,95 @@
         ]
       ],
       "ref": "PA.9.0",
-      "notes": "This lesson starts the day your offer is accepted. You have a house under contract and a short window to find out what you actually bought.\n\nI'm going to show you how to spend that window. We'll test the building, and we'll test the rental business Sam underwrote in PA.4. Then we'll rerun his numbers with what we found.\n\nBy the end you'll have two things. A filled diligence tracker, and a dated decision: proceed, renegotiate, or walk.\n\nWe'll use Cedar Ridge the whole way. Maya and Chris have it under contract at $385,000. Every finding I show you on Cedar Ridge is made up for teaching, and I'll flag it on the slide. None of this is legal, lending, or insurance advice. Your attorney, inspector, insurer, and lender confirm the real answers for your address."
+      "notes": "This lesson starts the day your offer is accepted. You have a house under contract and a short window to find out what you actually bought.\n\nI'm going to show you how to spend that window. We'll test the building, and we'll test the rental business Sam underwrote in PA.4. Then we'll rerun those numbers with what we found.\n\nBy the end you'll have two things. A filled diligence tracker, and a dated decision: proceed, renegotiate, or walk.\n\nWe'll use Cedar Ridge the whole way. Maya and Chris have it under contract at $385,000. Every finding I show you on Cedar Ridge is made up for teaching, and I'll flag it on the slide. None of this is legal, lending, or insurance advice. Your attorney, inspector, insurer, and lender confirm the real answers for your address."
     },
     {
-      "type": "flow",
+      "type": "table",
+      "eyebrow": "Cedar Ridge · the baseline",
+      "title": "Cedar Ridge starts diligence with $5,572 a year of base-case cash flow",
+      "assumption": true,
+      "columns": [
+        "Baseline from PA.4",
+        "Amount"
+      ],
+      "rows": [
+        [
+          "Gross booking revenue, base case ($300 a night, 58% occupancy)",
+          "$74,275"
+        ],
+        [
+          "NOI, base case (revenue minus operating costs, before the loan)",
+          "$29,209"
+        ],
+        [
+          "NOI, weak case ($265 a night, 50% occupancy)",
+          "$18,162"
+        ],
+        [
+          "DSCR loan: 75% of price, 1 point (a fee of 1% of the loan)",
+          "$288,750"
+        ],
+        [
+          "Annual P&I, the debt service (principal and interest)",
+          "$23,637"
+        ],
+        [
+          "Annual cash flow, base case / weak case",
+          "$5,572 / -$5,475"
+        ],
+        [
+          "Cash to close: $96,250 down plus $14,438 closing costs",
+          "$110,688"
+        ],
+        [
+          "Total cash in, with the $32,000 furnishing budget",
+          "$142,688"
+        ]
+      ],
+      "caption": "B1 means this base-case budget. Its repairs line and capital reserve are each 5% of gross ($3,714). It already includes STR insurance at $3,200.",
+      "ref": "PA.9.0",
+      "notes": "Before we start, here's the house we'll use the whole way.\n\nCedar Ridge is a hypothetical three-bedroom, two-bath lake house that sleeps 8. No HOA. Maya and Chris have it under contract at $385,000. They plan to run it as a short-term rental, an STR.\n\nSam built the underwriting in PA.4. In the base case it books $74,275 a year. NOI, net operating income, is revenue minus operating costs before the loan. That's $29,209. In a weak year it's $18,162.\n\nThe loan is a DSCR loan. The lender sizes it mainly on the property's rental income. It's 75% of price with one point, a fee of 1% of the loan. Principal and interest, the debt service, is $23,637 a year. So the base case clears $5,572 and the weak case loses $5,475.\n\nWhen I say B1, I mean this base-case budget. Every finding in diligence gets tested against it.",
+      "compact": true
+    },
+    {
+      "type": "table",
       "eyebrow": "The clock",
       "title": "Order the diligence work by what can kill the deal fastest",
       "text": "Your contract sets the windows. Put every deadline in a calendar the day you sign.",
-      "nodes": [
-        {
-          "k": "First",
-          "h": "Legal use and insurance quote",
-          "d": "No repair fixes a ban or an uninsurable house.",
-          "kind": "stop"
-        },
-        {
-          "k": "Next",
-          "h": "Inspections",
-          "d": "Specialists need time to schedule."
-        },
-        {
-          "k": "In parallel",
-          "h": "Title and survey",
-          "d": "Read the commitment with your attorney."
-        },
-        {
-          "k": "Lender",
-          "h": "Appraisal",
-          "d": "The lender orders it. You know when it's due."
-        }
-      ],
       "box": {
         "kind": "warn",
         "label": "This fails if",
         "text": "You find a problem after a contingency expires. It's still your problem, and most of your bargaining power is gone."
       },
       "ref": "PA.9.1",
-      "notes": "Your accepted offer from PA.8 bought you time. That time is the real asset in this phase.\n\nMost purchase contracts give you a window to inspect and a window to secure financing. Some add a separate appraisal contingency. The names and lengths come from your contract and your state's forms.\n\nThe CFPB puts it plainly. With a satisfactory-inspection contingency, you should be able to cancel without penalty if serious flaws turn up. That protection works only while the window is open, and only in the form your contract states.\n\nSo order the work by what can kill the deal fastest. Legal use and the insurance quote go first. Inspections come next, because specialists book up. Title and survey run alongside.\n\nOpen one folder for the property on day one. Every report, quote, email, and photo goes in with a date in the file name. You'll use that folder again at closing in PA.11 and in the handoff in PA.12."
+      "notes": "Your accepted offer from PA.8 bought you time. That time is the real asset in this phase.\n\nA contingency is a condition in the contract that lets you cancel if it isn't met. Most purchase contracts give you a window to inspect and a window to secure financing. Some add a separate appraisal contingency. The names and lengths come from your contract and your state's forms.\n\nThe CFPB puts it plainly. With a satisfactory-inspection contingency, you should be able to cancel without penalty if serious flaws turn up. That protection works only while the window is open, and only in the form your contract states.\n\nSo order the work by what can kill the deal fastest. Legal use and the insurance quote go first. Inspections come next, because specialists book up. Title and survey run alongside the inspections. The lender orders the appraisal, so put its due date on your calendar.\n\nOpen one folder for the property on day one. Every report, quote, email, and photo goes in with a date in the file name. You'll use that folder again at closing in PA.11 and in the handoff in PA.12.",
+      "columns": [
+        "When",
+        "What",
+        "Why"
+      ],
+      "rows": [
+        [
+          "**First**",
+          "Legal use and the insurance quote",
+          "No repair fixes a ban or an uninsurable house."
+        ],
+        [
+          "**Next**",
+          "Inspections",
+          "Specialists need time to schedule."
+        ],
+        [
+          "**Alongside**",
+          "Title and survey",
+          "Read the commitment with your attorney."
+        ],
+        [
+          "**Lender's timing**",
+          "Appraisal",
+          "The lender orders it. Put its due date on your calendar."
+        ]
+      ]
     },
     {
       "type": "two",
@@ -77,8 +129,8 @@
         ]
       },
       "right": {
-        "head": "Can it run Sam's business?",
-        "note": "At his guest count and his price.",
+        "head": "Can it run the rental business?",
+        "note": "At the guest count and price in your PA.4 underwriting.",
         "items": [
           "Legal STR use for this exact parcel",
           "An insurer willing to cover 8 guests on a lake",
@@ -89,10 +141,10 @@
       "box": {
         "kind": "gold",
         "label": "How to read your PA.4 package",
-        "text": "Treat the underwriting as a guess to test. Every finding confirms a line or changes it. At the end you rerun the numbers."
+        "text": "Treat the underwriting as a hypothesis to test. Every finding confirms a line or changes it. At the end you rerun the numbers."
       },
       "ref": "PA.9.2",
-      "notes": "A regular homebuyer asks one question during diligence. Is this house sound? You have to ask a second one. Can this house run the rental business in Sam's underwriting, at his guest count and his price?\n\nThose two questions need different people. An inspector can tell you the roof has four years left. Only the county can tell you whether it will issue a rental permit. Only the insurer can tell you whether it will cover eight guests on a lake.\n\nYour tracker names each owner in writing.\n\nBring your PA.4 underwriting package from Sam's lesson into this one. Base case and weak case. We're going to treat it as a hypothesis. Every finding either confirms a line or changes it, and at the end we rerun it."
+      "notes": "A regular homebuyer asks one question during diligence. Is this house sound? You have to ask a second one. Can this house run the rental business in your PA.4 underwriting, at the guest count and price it assumes? For Cedar Ridge, that's 8 guests at $300 a night.\n\nThose two questions need different people. An inspector can tell you the roof has four to six years left. Only the county can tell you whether it will issue a rental permit. Only the insurer can tell you whether it will cover eight guests on a lake.\n\nYour tracker names each owner in writing.\n\nBring your PA.4 underwriting package from Sam's lesson into this one. Base case and weak case. We're going to treat it as a hypothesis. Every finding either confirms a line or changes it, and at the end we rerun it."
     },
     {
       "type": "table",
@@ -154,15 +206,12 @@
       "eyebrow": "Water and septic",
       "title": "Test the well and septic during the contingency, because after closing they're yours",
       "items": [
-        "The EPA says its public drinking water rules don't apply to private wells.",
-        "EPA suggests testing yearly for coliform bacteria, nitrates, dissolved solids, and pH. CDC says use certified labs.",
-        "EPA notes many states require a septic inspection when real estate transfers.",
-        "For a typical household, EPA suggests inspecting every 1 to 3 years and pumping every 3 to 5 years.",
-        "An STR isn't a typical household. More guests and more laundry mean more load.",
-        "Ask what bedroom count the septic was permitted for. The county health department usually holds the record."
+        "Well: test during the contingency, at a certified lab (EPA, CDC). After closing, the test is on you.",
+        "Septic: pump the tank, inspect the baffles and the drain field (EPA).",
+        "Ask the county for the septic's permitted bedroom count. It can cap your guests (next slide)."
       ],
       "ref": "PA.9.3",
-      "notes": "Lake houses often run on a private well and a septic tank. Both are easy to skip and expensive to find out about later.\n\nOn the well, the EPA is direct. Its public drinking water rules don't apply to private wells. The owner does the testing. EPA recommends yearly tests for coliform bacteria, nitrates, dissolved solids, and pH. The CDC recommends certified labs. Do the test during the contingency, not after closing.\n\nOn septic, EPA notes many states require an inspection at transfer. For a typical household it suggests inspecting every 1 to 3 years and pumping every 3 to 5. A rental with eight guests is not a typical household.\n\nSo ask the septic inspector for three things. Pump the tank. Inspect the baffles and the drain field. And tell you what bedroom count the system was permitted for. That last number comes back on the capacity slide."
+      "notes": "Lake houses often run on a private well and a septic tank. Both are easy to skip and expensive to find out about later.\n\nOn the well, the EPA is direct. Its public drinking water rules don't apply to private wells. The owner does the testing. EPA recommends yearly tests for coliform bacteria, nitrates, dissolved solids, and pH. The CDC recommends certified labs. Do the test during the contingency, not after closing.\n\nOn septic, EPA notes many states require an inspection at transfer. For a typical household it suggests inspecting every 1 to 3 years and pumping every 3 to 5. A rental with eight guests is not a typical household.\n\nSo ask the septic inspector for three things. Pump the tank. Inspect the baffles, the walls that hold solids in the tank, and the drain field, the buried pipes that spread treated water into the soil. And tell you what bedroom count the system was permitted for. That last number comes back on the capacity slide."
     },
     {
       "type": "table",
@@ -181,7 +230,7 @@
         ],
         [
           "**Transfer**",
-          "Does the permit transfer? Who honors stays booked after closing?",
+          "Does the permit transfer? Who honors guest bookings after closing?",
           "Licensing office, contract"
         ],
         [
@@ -203,10 +252,10 @@
       "box": {
         "kind": "info",
         "label": "Real capacity",
-        "text": "Take the lowest of three limits: the septic permit's bedroom count, the permit's occupancy cap, and what the insurer will write. If it's below 8, your revenue line changes."
+        "text": "Convert each limit to guests and take the lowest: septic design, permit cap, insurer's limit. If it's below 8, your revenue line changes."
       },
       "ref": "PA.9.4",
-      "notes": "A normal home inspection never touches this half.\n\nFirst, legal use. You and Sam checked the market in PA.2. A market answer is not an address answer. Use the SR.1 checklist on this parcel, and get the licensing office's answer in writing if you can. Airbnb's own guidance says hosts are responsible for permits, zoning, safety, and health rules.\n\nSecond, transfer. Does the permit move to a new owner, or do you apply fresh? If there are bookings after your closing date, the contract says who honors them and who keeps the money. Don't rely on the listing agent's word.\n\nThird, covenants. Cedar Ridge has no HOA. Recorded covenants can still limit rentals.\n\nFourth, a bindable insurance quote before the inspection window closes. Airbnb says AirCover isn't a substitute for your own policy.\n\nFifth, capacity. The lowest of the three limits is your real number."
+      "notes": "A normal home inspection never touches this half.\n\nFirst, legal use. You and Sam checked the market in PA.2. A market answer is not an address answer. Use the SR.1 checklist on this parcel, and get the licensing office's answer in writing if you can. Airbnb's own guidance says hosts are responsible for permits, zoning, safety, and health rules.\n\nSecond, transfer. Does the permit move to a new owner, or do you apply fresh? If there are bookings after your closing date, the contract says who honors them and who keeps the money. Don't rely on the listing agent's word.\n\nThird, covenants. Cedar Ridge has no HOA. Recorded covenants can still limit rentals.\n\nFourth, a bindable insurance quote before the inspection window closes. Airbnb says AirCover isn't a substitute for your own policy.\n\nFifth, capacity. Put all three limits in guests first. At Cedar Ridge the permit allows 2 guests per bedroom plus 2, so a 3-bedroom septic means 8. The lowest limit is your real number."
     },
     {
       "type": "two",
@@ -227,11 +276,11 @@
         "items": [
           "Gives the lender a market value estimate",
           "On a first-lien dwelling loan, you're entitled to a copy before closing",
-          "On a DSCR loan, ask if it includes a rent or income analysis"
+          "On a DSCR loan (sized on the property's rental income), ask if it includes a rent or income analysis"
         ]
       },
       "ref": "PA.9.5",
-      "notes": "The CFPB draws this line clearly. A home inspector works for you and looks for flaws. An appraiser is an independent professional whose job is to give the lender an estimate of market value.\n\nSo you need both, and neither one covers the other. A clean appraisal doesn't mean the septic works. A clean inspection doesn't mean the house is worth your price.\n\nOn a first-lien dwelling loan, you're entitled to a copy of the appraisal before closing. That's in the CFPB's version of Regulation B, section 1002.14. When it arrives, read the comparable sales. Don't just look at the final number.\n\nIf you're on a DSCR loan, ask one more question. Does the appraisal include a rent or income analysis, and which figure will the lender actually use? You want that answer before the report lands."
+      "notes": "The CFPB draws this line clearly. A home inspector works for you and looks for flaws. An appraiser is an independent professional whose job is to give the lender an estimate of market value.\n\nSo you need both, and neither one covers the other. A clean appraisal doesn't mean the septic works. A clean inspection doesn't mean the house is worth your price.\n\nOn a first-lien dwelling loan, you're entitled to a copy of the appraisal before closing. That's in the CFPB's version of Regulation B, section 1002.14. When it arrives, read the comparable sales, the recent sales of similar houses nearby. Don't just look at the final number.\n\nIf you're on a DSCR loan, ask one more question. Does the appraisal include a rent or income analysis, and which figure will the lender actually use? You want that answer before the report lands."
     },
     {
       "type": "calc",
@@ -256,7 +305,7 @@
         },
         {
           "op": "+",
-          "label": "Closing costs, with points down to $2,812",
+          "label": "Closing costs: 3% of price + 1 point ($2,812)",
           "v": "$14,362"
         }
       ],
@@ -264,14 +313,14 @@
         "label": "Cash to close",
         "v": "$118,112"
       },
-      "side": "The canonical cash to close is $110,688. The low appraisal adds $7,424.\n\nLenders generally size the loan on the lower of price or appraised value. Confirm your lender's rule in writing.",
+      "side": "Cedar Ridge's planned cash to close is $110,688. The low appraisal adds $7,424.\n\nLenders generally size the loan on the lower of price or appraised value. Confirm your lender's rule in writing.",
       "side_box": {
         "kind": "gold",
         "label": "Already decided",
-        "text": "PA.8 worked the low-appraisal decision. Here you just need the cash effect the day the report lands."
+        "text": "PA.8 set the rule: ask the seller to drop to value, accept up to $380,000, walk if they hold at $385,000."
       },
       "ref": "PA.9.5",
-      "notes": "PA.8 already worked through what to do with a low appraisal. In diligence, your job is narrower. Know the cash effect the day the report lands.\n\nSay Cedar Ridge appraises at $375,000. That's an assumption for teaching. Lenders generally size the loan on the lower of price or appraised value, so check your lender's rule in writing.\n\nAt 75%, the loan drops to $281,250. The price is still $385,000, so the down payment rises to $103,750. Points are 1% of a smaller loan, so they fall to $2,812. Closing costs become $14,362.\n\nCash to close comes to $118,112. That's $7,424 more than the canonical $110,688.\n\nIf you don't have $7,424 sitting unassigned, you want to know that before the appraisal comes back, not after."
+      "notes": "PA.8 already worked through what to do with a low appraisal. Maya and Chris ask the seller to drop to the appraised value, and accept up to $380,000. If the seller holds at $385,000, they walk. In diligence, your job is narrower. Know the cash effect the day the report lands.\n\nSay Cedar Ridge appraises at $375,000. That's an assumption for teaching. Lenders generally size the loan on the lower of price or appraised value, so check your lender's rule in writing.\n\nAt 75%, the loan drops to $281,250. The price is still $385,000, so the down payment rises to $103,750. A point is 1% of the loan, so it falls to $2,812. Add 3% of price, $11,550, and closing costs become $14,362.\n\nCash to close comes to $118,112. That's $7,424 more than the planned $110,688."
     },
     {
       "type": "table",
@@ -303,45 +352,45 @@
       "box": {
         "kind": "info",
         "label": "Two title policies",
-        "text": "The lender's policy covers only the loan, and most lenders require it. The owner's policy is optional and protects your equity. With about $96,000 of your own cash in, decide it on purpose."
+        "text": "The lender's policy covers only the loan, and most lenders require it. The owner's policy is optional and protects your equity. With a $96,250 down payment at stake, decide it on purpose."
       },
       "ref": "PA.9.6",
-      "notes": "The title company searches public records and issues a title commitment. Read it yourself, with your attorney or closing agent. You're the one who knows how you plan to use the land.\n\nTwo parts matter. The requirements list what has to happen before the title company will insure, like paying off the seller's mortgage. The exceptions list what the policy won't cover. Anything in the exceptions stays with the land after you buy it.\n\nThe CFPB gives unpaid contractors and unpaid taxes as examples of claims owner's title insurance can protect against. It also lists survey fees among the closing services you can often shop for. A lake lot with a dock and shared access is reason enough to order a survey.\n\nOn the policies, the CFPB says most lenders require the lender's policy. The owner's policy is optional. I'd want it priced and decided on purpose. PA.11 shows where it lands on the closing figures."
+      "notes": "The title company searches public records and issues a title commitment. Read it yourself, with your attorney or closing agent. You're the one who knows how you plan to use the land.\n\nTwo parts matter. The requirements list what has to happen before the title company will insure, like paying off the seller's mortgage. The exceptions list what the policy won't cover. Anything in the exceptions stays with the land after you buy it.\n\nThe CFPB gives unpaid contractors and unpaid taxes as examples of claims owner's title insurance can protect against. It also lists survey fees among the closing services you can often shop for. A lake lot with a dock and shared access is reason enough to order a survey.\n\nOn the policies, the CFPB says most lenders require the lender's policy. The owner's policy is optional, and it protects your equity, your ownership stake. With a $96,250 down payment at stake, I'd want it priced and decided on purpose. PA.11 shows where it lands on the closing figures."
     },
     {
-      "type": "flow",
+      "type": "table",
       "eyebrow": "Decisions",
       "title": "Every finding gets one of four decisions, written down with a reason that day",
-      "nodes": [
-        {
-          "k": "1",
-          "h": "Accept",
-          "d": "You'll live with it and budget for it."
-        },
-        {
-          "k": "2",
-          "h": "Seller fixes",
-          "d": "The seller repairs before closing, with proof."
-        },
-        {
-          "k": "3",
-          "h": "Credit or price",
-          "d": "You negotiate money."
-        },
-        {
-          "k": "4",
-          "h": "Walk",
-          "d": "You terminate inside the contingency window.",
-          "kind": "stop"
-        }
-      ],
       "box": {
         "kind": "gold",
         "label": "Save the evidence",
         "text": "Every report, answer, and quote goes in the property folder. The insurer, lender, and permit office will ask for several of them again."
       },
       "ref": "PA.9.7",
-      "notes": "The decision column in your tracker has only four possible answers.\n\nAccept means you'll live with it and put it in the budget. Seller fixes means the seller repairs it before closing and shows you proof, like an invoice. Credit or price means you negotiate money. Walk means you terminate inside the contingency window.\n\nWrite the decision the day you make it, and write why. One sentence is enough. Three weeks later, when the lender asks why the septic line changed, you'll have the answer in your own words.\n\nSave everything in the property folder. The insurer, the lender, and the permit office will each ask for some of the same documents again.\n\n[Recording note: Preston can add a real example here if he has one.]"
+      "notes": "The decision column in your tracker has only four possible answers. They're alternatives, not steps. You pick one.\n\nAccept means you'll live with it and put it in the budget. Seller fixes means the seller repairs it before closing and shows you proof, like an invoice. Credit or price means you negotiate money. Walk means you terminate inside the contingency window.\n\nWrite the decision the day you make it, and write why. One sentence is enough. Three weeks later, when the lender asks why the septic line changed, you'll have the answer in your own words.\n\nSave everything in the property folder. The insurer, the lender, and the permit office will each ask for some of the same documents again.",
+      "text": "These are alternatives, not steps. Each finding gets exactly one.",
+      "columns": [
+        "Option",
+        "What it means"
+      ],
+      "rows": [
+        [
+          "**Accept**",
+          "You'll live with it and budget for it."
+        ],
+        [
+          "**Seller fixes**",
+          "The seller repairs before closing, with proof."
+        ],
+        [
+          "**Credit or price**",
+          "You negotiate money."
+        ],
+        [
+          "**Walk**",
+          "You terminate inside the contingency window."
+        ]
+      ]
     },
     {
       "type": "table",
@@ -358,7 +407,7 @@
       "rows": [
         [
           "**STR permit**",
-          "County office, in writing",
+          "County, in writing",
           "Permitted. Doesn't transfer. Cap of 8 guests.",
           "$400 / year",
           "Accept. Apply after closing."
@@ -366,8 +415,8 @@
         [
           "**Insurance**",
           "STR agent",
-          "$3,200 / year. Railing and alarms within 30 days.",
-          "See below",
+          "$3,200 / year, with two conditions below.",
+          "$3,200 (already budgeted)",
           "Accept with conditions."
         ],
         [
@@ -388,11 +437,11 @@
           "**Well water**",
           "Certified lab",
           "Total coliform present. Nitrates OK.",
-          "$350 + $1,650",
+          "$350 + $1,650 (seller)",
           "Seller treats, installs UV."
         ],
         [
-          "**Dock railing**",
+          "**Railing**",
           "General inspector",
           "Loose posts on the dock stairs.",
           "$2,300",
@@ -410,32 +459,25 @@
           "General inspector",
           "14 years old, working, no records.",
           "$275",
-          "Accept. Service after closing."
+          "Accept. Service later."
         ],
         [
           "**Title**",
-          "Title company, attorney",
+          "Title co., attorney",
           "$3,100 lien. Neighbor's footpath easement.",
           "$0 to buyers",
           "Seller pays lien. Disclose path."
-        ],
-        [
-          "**Appraisal**",
-          "Lender's appraiser",
-          "Supports the contract price.",
-          "None",
-          "Proceed."
         ]
       ],
       "compact": true,
-      "caption": "Selected rows. The full 13-row tracker, including septic program, survey, and bookings, is in PA.9.8.",
+      "caption": "Decisions shown are final, after the renegotiation on the slides that follow. Cedar Ridge's full tracker (13 rows) is in PA.9.8.",
       "ref": "PA.9.8",
-      "notes": "Here's Cedar Ridge. Maya and Chris have it under contract at $385,000 on the DSCR quote. Their PA.8 terms give them a 10-day inspection contingency, a 30-day financing contingency, an appraisal contingency, and a 45-day close. All of these findings are assumptions for teaching.\n\nLook at the Verified by column first. Every row has a named source. The permit answer came from the county in writing, not from the listing agent.\n\nThe permit is allowed, but it doesn't transfer, so they apply as new owners. The insurer quoted $3,200 a year with two conditions: fix the dock railing and add lower-level alarms within 30 days.\n\nThe septic has a broken outlet baffle and no effluent filter. The well tested positive for total coliform. The title shows a $3,100 mechanic's lien and a footpath easement to the lake. The appraisal came in fine.\n\nNow we turn these rows into money."
+      "notes": "Here's Cedar Ridge's tracker. The Decision column shows the final calls, after the renegotiation I'll walk through next. Maya and Chris have it under contract at $385,000 on the DSCR quote. Their PA.8 terms give them a 10-day inspection contingency, a 30-day financing contingency, an appraisal contingency, and a 45-day close. All of these findings are assumptions for teaching.\n\nLook at the Verified by column first. Every row has a named source. The permit answer came from the county in writing, not from the listing agent.\n\nThe permit is allowed, but it doesn't transfer, so they apply as new owners. The insurer quoted $3,200 a year with two conditions: fix the dock railing and add lower-level alarms within 30 days. That $3,200 matches the insurance line already in the PA.4 budget, so it adds no new cost.\n\nThe septic has a broken outlet baffle and no effluent filter. The well tested positive for total coliform. The title shows a $3,100 mechanic's lien and a footpath easement to the lake. The appraisal came in fine.\n\nNow we turn these rows into money."
     },
     {
       "type": "table",
       "eyebrow": "Cedar Ridge · new costs",
-      "title": "Four findings add $3,820 a year that PA.4's generic lines don't cover",
+      "title": "Four findings add $3,820 a year that PA.4's budget doesn't list by name",
       "assumption": true,
       "columns": [
         "Added annual cost",
@@ -467,54 +509,41 @@
       "box": {
         "kind": "gold",
         "label": "First rerun: all four on top",
-        "text": "The cautious first rerun adds all four to B1's budget. That keeps the whole 5% capital reserve ($3,714) free for surprises."
+        "text": "The cautious first rerun adds all four on top of the PA.4 base-case budget and leaves its 5% capital reserve ($3,714) untouched."
       },
       "ref": "PA.9.8",
-      "notes": "Four findings add costs that recur every year. PA.4's generic lines don't name them.\n\nThe roof needs replacing in about five years at $14,000. Spread that over five years and you set aside $2,800 a year. The septic needs a yearly inspection and more pumping because of the guest load. That's $400. The well's UV lamp and annual test are $220. And the county permit renewal is $400.\n\nTotal: $3,820 a year.\n\nThe first rerun is the cautious version. It stacks all four on top of the budget. That keeps the whole 5% capital reserve of $3,714 free for surprises. Hold on to that choice. We'll come back to it in two slides."
+      "notes": "Four findings add costs that recur every year. PA.4's budget doesn't list them by name.\n\nThe roof needs replacing in about five years at $14,000. Spread that over five years and you set aside $2,800 a year. The septic needs a yearly inspection and more pumping because of the guest load. That's $400. The well's UV lamp and annual test are $220. And the county permit renewal is $400.\n\nTotal: $3,820 a year.\n\nThe first rerun is the cautious version. It adds all four on top of the PA.4 base-case budget. That leaves the whole 5% capital reserve of $3,714 untouched, free for surprises. Hold on to that choice. We'll come back to it in two slides."
     },
     {
-      "type": "bars",
+      "type": "table",
       "eyebrow": "Cedar Ridge · the rerun",
       "title": "The cautious first rerun cuts base-case cash flow from $5,572 to $1,752 a year",
       "assumption": true,
-      "items": [
-        {
-          "label": "NOI, PA.4 baseline",
-          "value": 29209,
-          "kind": "pos"
-        },
-        {
-          "label": "NOI, first rerun",
-          "value": 25389,
-          "kind": "pos",
-          "hot": true
-        },
-        {
-          "label": "Base-case cash flow, before",
-          "value": 5572,
-          "kind": "pos"
-        },
-        {
-          "label": "Base-case cash flow, first rerun",
-          "value": 1752,
-          "kind": "pos",
-          "hot": true
-        },
-        {
-          "label": "Weak-case cash flow, before",
-          "value": -5475,
-          "kind": "neg"
-        },
-        {
-          "label": "Weak-case cash flow, first rerun",
-          "value": -9295,
-          "kind": "neg",
-          "hot": true
-        }
-      ],
       "caption": "First rerun NOI: $29,209 - $3,820 = $25,389. Less $23,637 DSCR debt service = $1,752, about $146 a month. Weak case: $18,162 - $3,820 - $23,637 = -$9,295.",
       "ref": "PA.9.8",
-      "notes": "Now rerun Sam's baseline with the $3,820 stacked on top.\n\nThe canonical base case had gross booking revenue of $74,275, operating costs of $45,066, and NOI of $29,209. Take off the $3,820 and NOI becomes $25,389.\n\nThe DSCR debt service is $23,637 a year. So annual cash flow drops from $5,572 to $1,752. That's about $146 a month instead of about $464.\n\nThe weak case gets worse by the same $3,820. Weak-case NOI was $18,162. Subtract the $3,820 and the debt service, and you get minus $9,295 a year, down from minus $5,475.\n\nRevenue didn't change here, because real capacity stayed at 8. If the septic or the permit had capped them at 6, you'd rerun revenue first, before any of this."
+      "notes": "Now rerun Sam's baseline with the $3,820 stacked on top.\n\nThe PA.4 base case had gross booking revenue of $74,275, operating costs of $45,066, and NOI of $29,209. Take off the $3,820 and NOI becomes $25,389.\n\nThe DSCR debt service is $23,637 a year. So annual cash flow drops from $5,572 to $1,752. That's about $146 a month instead of about $464.\n\nThe weak case gets worse by the same $3,820. Weak-case NOI was $18,162. Subtract the $3,820 and the debt service, and you get minus $9,295 a year, down from minus $5,475.\n\nRevenue didn't change here, because real capacity stayed at 8. If the septic or the permit had capped them at 6, you'd rerun revenue first, before any of this.",
+      "columns": [
+        "Measure",
+        "PA.4 baseline",
+        "First rerun"
+      ],
+      "rows": [
+        [
+          "NOI",
+          "$29,209",
+          "$25,389"
+        ],
+        [
+          "Base-case cash flow",
+          "$5,572",
+          "$1,752"
+        ],
+        [
+          "Weak-case cash flow",
+          "-$5,475",
+          "-$9,295"
+        ]
+      ]
     },
     {
       "type": "table",
@@ -547,19 +576,19 @@
           "**No**"
         ]
       ],
-      "caption": "PA.1's cash caps still pass: cash to close $110,688, cash to close plus furnishing $142,688, punch list $2,955 against a $4,000 limit.",
+      "caption": "PA.1's cash caps still pass: cash to close $110,688; cash to close plus furnishing $142,688.",
       "box": {
         "kind": "warn",
         "label": "Their written rule",
-        "text": "A broken buy box means renegotiate or walk. The box changes only in writing. The seller had already refused a credit or a price cut."
+        "text": "A broken buy box means renegotiate or walk. The box changes only in writing. They asked the seller for a $7,000 roof credit. The seller refused."
       },
       "ref": "PA.9.8",
-      "notes": "Cash isn't the only rule Maya and Chris brought into diligence. PA.1 and PA.8 wrote down three more, and PA.9 has to run them.\n\nBase-case cash flow has to be at least $5,000. The first rerun gives $1,752. Fail.\n\nThe weak case can lose no more than $6,000 a year. The first rerun loses $9,295. Fail.\n\nBase NOI has to be at least 1.20 times annual principal and interest. $25,389 over $23,637 is 1.07. Fail.\n\nThe cash caps from PA.1 still pass. Cash to close is still $110,688, and the $2,955 punch list is under their $4,000 limit.\n\nSo the written rule applies: renegotiate or walk. The box only changes in writing. The seller had already refused a credit or a price cut. Before walking, they reread their own budget."
+      "notes": "Cash isn't the only rule Maya and Chris brought into diligence. PA.1 and PA.8 wrote down three more, and PA.9 has to run them.\n\nBase-case cash flow has to be at least $5,000. That's PA.8 Test 1, their minimum base-case cash flow. The first rerun gives $1,752. Fail.\n\nThe weak case can lose no more than $6,000 a year. The first rerun loses $9,295. Fail.\n\nBase NOI has to be at least 1.20 times annual principal and interest. $25,389 over $23,637 is 1.07. Fail.\n\nThe cash caps from PA.1 still pass. Cash to close is still $110,688, and total cash in with furnishing is still $142,688.\n\nSo the written rule applies: renegotiate or walk. The box only changes in writing. They asked the seller for a $7,000 roof credit. The seller refused it, and any price cut. The seller did agree to fix the septic, treat the well, and pay a lien. That helps the cash, but not these three rules. So before walking, they reread their own budget."
     },
     {
       "type": "table",
       "eyebrow": "Cedar Ridge · the final budget",
-      "title": "Funding the roof and routine upkeep from B1's reserve lines brings all three rules back",
+      "title": "Paying the roof and upkeep from PA.4's reserve lines passes all three rules, barely",
       "assumption": true,
       "columns": [
         "Measure",
@@ -569,7 +598,7 @@
       ],
       "rows": [
         [
-          "Cost added on top of B1",
+          "Cost added on top of the PA.4 budget",
           "$3,820",
           "$400 (permit)",
           "n/a"
@@ -601,18 +630,18 @@
       ],
       "box": {
         "kind": "gold",
-        "label": "Each cost counted once",
-        "text": "Roof $2,800 from the 5% capital reserve. Septic $400 and UV lamp $220 from the 5% repairs line. Permit $400 on top. Less cushion for surprises."
+        "label": "Not new money",
+        "text": "Roof $2,800 from the capital reserve; septic $400 and UV $220 from the repairs line; only the $400 permit is new. Capital line left: $914 ($66 in a weak year)."
       },
       "ref": "PA.9.8",
-      "notes": "Here's what they found. B1 already sets aside 5% of gross as a capital reserve, $3,714 in the base case. That line exists for bills like a roof. B1 also has a 5% repairs line for routine upkeep. With the new baffle and filter in place, the septic program and the UV lamp are routine upkeep.\n\nSo the final budget counts each cost once. The $2,800 roof fund comes out of the capital reserve. The septic and UV costs come out of the repairs line. Only the $400 permit renewal is new, so only that goes on top.\n\nFinal NOI is $28,809. Base cash flow is $5,172, about $431 a month. The weak case is minus $5,875. Coverage is 1.22. All three rules pass, none by much. Base cash flow clears $5,000 by $172, and the weak case clears the limit by $125.\n\nHere's the price. In the base case, the capital line has $914 left after the roof. In a weak year it has $66. Any other capital bill, like the 14-year-old HVAC, comes from the $15,342 property reserve."
+      "notes": "Here's what they found. B1, the PA.4 base-case budget, already sets aside 5% of gross as a capital reserve, $3,714. That line exists for bills like a roof. B1 also has a 5% repairs line for routine upkeep. With the new baffle and filter in place, the septic program and the UV lamp are routine upkeep.\n\nThis isn't new money. The first rerun left both reserve lines untouched, which is cautious. The final budget spends them on the bills they were built for. They wrote that change down, as the decision rules require. Only the $400 permit goes on top.\n\nFinal NOI is $28,809. Base cash flow is $5,172, about $431 a month. The weak case is minus $5,875. Coverage is 1.22. All three rules pass, none by much: by $172, by $125, and by 0.02.\n\nHere's the price. The capital line has $914 left after the roof, and $66 in a weak year. Any other capital bill, like the 14-year-old HVAC, comes from the $15,342 property reserve. That's six months of loan payments, tax, and insurance, set in lesson 0.3."
     },
     {
       "type": "table",
       "eyebrow": "Cedar Ridge · the cash test",
-      "title": "Seller repairs and the final budget turn a $1,575 cash shortfall into $7,265 spare",
+      "title": "The cash test goes from $1,575 short to $7,265 left, still under their $10,000 floor",
       "assumption": true,
-      "text": "The seller refused a $7,000 roof credit, but fixed the septic and well before closing and paid the $3,100 lien.",
+      "text": "The seller refused a $7,000 roof credit. It agreed to treat the well ($2,000) on top of the septic repair, and to pay the $3,100 lien.",
       "columns": [
         "Cash test line",
         "First draft",
@@ -658,21 +687,21 @@
         "text": "$7,265 is $2,735 under their $10,000 floor (PA.8.6). Saving refills it before closing. Cash-on-cash falls from 3.9% to 3.6%."
       },
       "ref": "PA.9.8",
-      "notes": "Now the cash. PA.8 left Maya and Chris $11,020 unallocated, after their Test 3 set-asides. Those set-asides included two years of weak-case shortfall.\n\nThe first draft had the buyers paying every repair: $350, $1,650, $2,300, $380, and $275. That's $4,955. With the $3,820 stacked on top, the weak-case shortfall grows by $7,640 over the two years PA.8 funds. Together that's $12,595 against $11,020. The deal fails by $1,575.\n\nSo they renegotiated inside the 10-day window. The seller refused a $7,000 roof credit, but agreed to repair the septic and treat the well before closing, and to pay the lien. Now the buyers pay only $2,955. That column passes by $425.\n\nOn the final budget, the weak case is only $400 a year worse than planned, so the extra reserve is $800. The total is $3,755, and $7,265 stays unallocated. That's under the $10,000 floor they set in PA.8.6 by $2,735. They still save $3,500 a month, so the 45 days to closing refill it.\n\nBase-case cash-on-cash falls from 3.9% to 3.6%. That's $5,172 over $145,643."
+      "notes": "Now the cash. PA.8 left Maya and Chris $11,020 unallocated after their Test 3 set-asides. Test 3 is PA.8's cash check, and it included two years of weak-case shortfall.\n\nThe first draft assumed the seller would fix the broken septic baffle, a clear defect. The buyers paid every other repair: $4,955. The weak-case shortfall grows by $7,640 over two years. Together that's $12,595 against $11,020. It fails by $1,575.\n\nAfter the renegotiation, the seller also treats the well, so the buyers pay only $2,955. That column fits inside the $11,020, with only $425 to spare.\n\nOn the final budget, the weak case is only $400 a year worse, so the extra reserve is $800. The total is $3,755, and $7,265 stays unallocated. That's $2,735 under the $10,000 floor they promised to keep. They still save $3,500 a month, so the 45 days to closing refill it. If saving slipped, they'd close under their own floor.\n\nBase-case cash-on-cash falls from 3.9% to 3.6%. That's $5,172 over $145,643."
     },
     {
       "type": "statement",
       "eyebrow": "Cedar Ridge · the decision",
       "text": "Proceed and walk can both be right. Write the decision before the deadline, not after.",
-      "support": "Maya and Chris proceeded, with the reserve change in writing. One more rule: if year one runs near the weak case, they revisit co-host and pricing at OP.11's 12-month review.",
+      "support": "Maya and Chris proceeded, with the reserve change in writing, though each rule passes by only a few hundred dollars. If year one runs near the weak case, they revisit co-host and pricing at OP.11's 12-month review.",
       "ref": "PA.9.8",
-      "notes": "So what did they decide?\n\nThe house is sound enough to buy. The final budget meets all three buy-box rules and the cash test, each with a thin margin.\n\nMaya and Chris decided to proceed. They wrote down why: B1's reserve lines fund the roof and the routine septic and well costs. The permit is the only new cost. They also wrote a new rule. If the first 12 months run closer to the weak case, they revisit the co-host and pricing plan at the 12-month review in OP.11.\n\nA buyer with less cash could read the same file and walk inside the 10-day window. So could a buyer who wants the whole capital reserve kept free for surprises. That would also be a sound decision.\n\nWhat makes either answer defensible is timing. Both are written down, with a reason, before the deadline. The bad version is the one where nobody decides and the window just closes.",
-      "title": "Proceed or walk can both be right if written before the deadline"
+      "notes": "So what did they decide?\n\nThe house is sound enough to buy. The final budget meets all three buy-box rules and the cash test, each with a thin margin.\n\nMaya and Chris decided to proceed. They wrote down why: the PA.4 budget's reserve lines fund the roof and the routine septic and well costs. The permit is the only new cost. They also wrote a new rule. If the first 12 months run closer to the weak case, they revisit the co-host and pricing plan at the 12-month review in OP.11.\n\nA buyer with less cash could read the same file and walk inside the 10-day window. So could a buyer who wants the whole capital reserve kept free for surprises. That would also be a sound decision.\n\nWhat makes either answer defensible is timing. Both are written down, with a reason, before the deadline. The bad version is the one where nobody decides and the window just closes.",
+      "title": "Proceed and walk can both be right if written before the deadline"
     },
     {
       "type": "gates",
       "eyebrow": "Decision rules",
-      "title": "Run five gates on your deal before the inspection window closes",
+      "title": "Run five gates on your deal before your contingency windows close",
       "gates": [
         {
           "q": "Is legal STR use at this address confirmed?",
@@ -689,7 +718,7 @@
         },
         {
           "q": "Is the revised base case positive and inside your written buy-box rules?",
-          "sub": "PA.1 limits: weak case, coverage, minimum cash flow.",
+          "sub": "PA.1 and PA.8 limits: weak case, coverage, minimum cash flow.",
           "no": "Renegotiate or walk"
         },
         {
@@ -699,13 +728,13 @@
       ],
       "end": "All five pass: record the decision, the date, and the reason in one sentence.",
       "ref": "PA.9.9",
-      "notes": "These are the decision rules from the exercise. Run them in order, before the window closes.\n\nGate one is legal use. If STR use at this address is prohibited or still unresolved, walk, or get the window extended in writing. Don't close on 'probably.'\n\nGate two is insurance. If no insurer will write a policy at a price your numbers can carry, walk.\n\nGate three is capacity. If the real number is lower than the underwriting assumed, stop and rerun revenue before you touch anything else.\n\nGate four is the revised base case. If it's negative, or it breaks a written buy-box rule from PA.1, renegotiate or walk. A budget change or a rule change only counts in writing, with the reason.\n\nGate five is your own cash test from PA.8. If the revised numbers break it, renegotiate or walk.\n\nIf everything passes, write one sentence with the decision, the date, and the reason. Cedar Ridge passed gate four on its final budget, and gate five with $7,265 unallocated."
+      "notes": "These are the decision rules from the exercise. Run them in order, before your contingency windows close.\n\nGate one is legal use. If STR use at this address is prohibited or still unresolved, walk, or get the window extended in writing. Don't close on 'probably.'\n\nGate two is insurance. If no insurer will write a policy at a price your numbers can carry, walk.\n\nGate three is capacity. If the real number is lower than the underwriting assumed, stop and rerun revenue before you touch anything else.\n\nGate four is the revised base case. If it's negative, or it breaks a written rule from PA.1 or PA.8, renegotiate or walk. A budget change or a rule change only counts in writing, with the reason.\n\nGate five is your own cash test from PA.8. If the revised numbers break it, renegotiate or walk.\n\nIf everything passes, write one sentence with the decision, the date, and the reason. Cedar Ridge passed gate four on its final budget, and gate five with $7,265 unallocated."
     },
     {
       "type": "worksheet",
       "eyebrow": "Exercise",
-      "title": "Rerun the PA.4 baseline with your own findings before the window closes",
-      "text": "Copy the 20-row tracker in PA.9.9 too. Fill in Verified by and Deadline the day you sign, before any findings come in.",
+      "title": "Rerun your PA.4 baseline with every new finding",
+      "text": "Two parts: your blank tracker (20 rows) in the lesson text, PA.9.9, and this rerun box. No deal yet? Use Cedar Ridge.",
       "columns": [
         "Rerun of PA.4 baseline",
         "Before diligence",
@@ -718,12 +747,17 @@
           ""
         ],
         [
+          "New annual costs from the tracker (and which budget line pays them)",
+          "",
+          ""
+        ],
+        [
           "Operating costs",
           "",
           ""
         ],
         [
-          "NOI",
+          "NOI, base case / weak case",
           "",
           ""
         ],
@@ -765,7 +799,7 @@
       ],
       "compact": true,
       "ref": "PA.9.9",
-      "notes": "Here's your exercise. There are two parts.\n\nFirst, copy the 20-row diligence tracker from the lesson. It covers permit, transfer, covenants, insurance, flood, capacity, every building system, title, survey, appraisal, and existing bookings. Fill in the Verified by and Deadline columns the day you sign. Do it before any findings come in, so every row already has an owner and a date.\n\nSecond, complete this rerun box. The Before column comes straight from your PA.4 package. The After column comes from your tracker.\n\nOnly change gross revenue if real capacity changed. Add every new recurring cost to operating costs. Put one-time repairs you'll pay after closing on their own line, and add them to total cash in.\n\nThen run the five gates from the last slide against the After column."
+      "notes": "Here's your exercise. There are two parts. No house under contract yet? Practice on Cedar Ridge's findings and baseline.\n\nFirst, copy the 20-row diligence tracker from the lesson. It covers permit, transfer, covenants, insurance, flood, capacity, every building system, title, survey, appraisal, and existing bookings. Fill in the Verified by and Deadline columns the day you sign. Do it before any findings come in, so every row already has an owner and a date.\n\nSecond, complete this rerun box. The Before column comes straight from your PA.4 package. The After column comes from your tracker.\n\nOnly change gross revenue if real capacity changed. List every new recurring cost and the budget line that pays it. Fill in weak-case NOI too. Put one-time repairs you'll pay after closing on their own line, and add them to total cash in.\n\nThen run the five gates from the last slide against the After column."
     },
     {
       "type": "table",
@@ -802,7 +836,7 @@
         ]
       ],
       "ref": "PA.9.10",
-      "notes": "Here's who confirms what. I'm not the last word on any of these, and neither are you.\n\nYour attorney or agent owns the calendar. Contingency deadlines, extensions in writing, and how to terminate without losing your earnest money.\n\nThe licensing or zoning office owns legal use. Permit transfer, occupancy caps, and how long a new application takes.\n\nThe county health department or the septic inspector owns the bedroom count the septic was designed for.\n\nYour insurance agent owns whether the policy can actually be bound, what conditions come with it, and the price for your guest count. Ask about flood at the same time.\n\nYour lender owns loan sizing after the appraisal, and whether the appraisal includes an income analysis.\n\nThe title company and your attorney own the liens, the exceptions, and whether you need a survey."
+      "notes": "Here's who confirms what. I'm not the last word on any of these, and neither are you.\n\nYour attorney or agent owns the calendar. Contingency deadlines, extensions in writing, and how to terminate without losing your earnest money, the deposit you made with your offer.\n\nThe licensing or zoning office owns legal use. Permit transfer, occupancy caps, and how long a new application takes.\n\nThe county health department or the septic inspector owns the bedroom count the septic was designed for.\n\nYour insurance agent owns whether the policy can actually be bound, what conditions come with it, and the price for your guest count. Ask about flood at the same time.\n\nYour lender owns loan sizing after the appraisal, and whether the appraisal includes an income analysis.\n\nThe title company and your attorney own the liens, the exceptions, and whether you need a survey."
     },
     {
       "type": "dothis",
@@ -813,13 +847,13 @@
         "Fill in Verified by and Deadline for all 20 tracker rows.",
         "Look up your address on the FEMA Flood Map Service Center and save a dated copy of the result."
       ],
-      "next": "Next: PA.10 Entity & Tax Structure Setup. Bring your lender's written answer on lending to an LLC and your insurer's answer on who can be the named insured.",
+      "next": "Next: PA.10 Entity & Tax Structure Setup. Bring your lender's written answer on lending to an LLC (a limited liability company) and your insurer's answer on who can be the named insured.",
       "ref": "PA.9.11",
-      "notes": "Four things this week. Each one takes under an hour.\n\nFirst, put every contingency deadline in a calendar. Add a reminder two days before each one, so you're never deciding on the last afternoon.\n\nSecond, open the property folder. Date first in every file name. You'll thank yourself at closing.\n\nThird, fill in the Verified by and Deadline columns for all 20 rows of the tracker.\n\nFourth, look up your address on the FEMA flood map and save the result with today's date.\n\nNext comes a question people usually answer too late. Whose name goes on the deed and the loan? PA.10 Entity & Tax Structure Setup treats title owner, operator, and tax treatment as three separate choices. Before you watch it, ask your lender whether it lends to an LLC. Ask your insurer who can be the named insured. Get both answers in writing."
+      "notes": "Four things this week. Each one takes under an hour.\n\nFirst, put every contingency deadline in a calendar. Add a reminder two days before each one, so you're never deciding on the last afternoon.\n\nSecond, open the property folder. Date first in every file name. You'll thank yourself at closing.\n\nThird, fill in the Verified by and Deadline columns for all 20 rows of the tracker.\n\nFourth, look up your address on the FEMA flood map and save the result with today's date.\n\nNext comes a question people usually answer too late. Whose name goes on the deed and the loan? PA.10 Entity & Tax Structure Setup treats title owner, operator, and tax treatment as three separate choices. Before you watch it, ask your lender whether it lends to an LLC. That's a limited liability company, a common way to hold a rental. Ask your insurer who can be the named insured, the person or company the policy covers. Get both answers in writing."
     },
     {
       "type": "sources",
-      "title": "Each diligence rule here traces to a federal agency or platform page, checked 2026-09-25",
+      "title": "The agency and platform pages behind the inspection, appraisal, and title rules",
       "items": [
         {
           "title": "CFPB: Schedule a home inspection",
@@ -873,7 +907,7 @@
         }
       ],
       "ref": "PA.9 sources",
-      "notes": "These are the main sources behind this lesson. The full list, including the CPSC vacation rental tips and Airbnb's safety and AirCover pages, is in the PA.9 sources section.\n\nMost of the rules come from the CFPB: the inspection contingency, the difference between an inspector and an appraiser, your right to a copy of the appraisal, and what each title policy covers.\n\nThe water and septic guidance comes from the EPA and the CDC. The flood point comes from FEMA.\n\nEach one was checked on September 25, 2026, through a search summary of the official page, because direct fetches were blocked. Before you rely on any of them, open the page yourself. Agencies update these pages, and your state or county may add rules on top.\n\nThe Cedar Ridge findings are assumptions for teaching. The baseline figures come from the canonical example."
+      "notes": "These are the main sources behind this lesson. The full list, including the CPSC vacation rental tips and Airbnb's safety and AirCover pages, is in the PA.9 sources section.\n\nMost of the rules come from the CFPB. That covers the inspection contingency and the inspector versus appraiser split. It also covers your right to a copy of the appraisal, and what each title policy covers.\n\nThe water and septic guidance comes from the EPA and the CDC. The flood point comes from FEMA.\n\nEach one was checked on September 25, 2026. Before you rely on any of them, open the page yourself. Agencies update these pages, and your state or county may add rules on top.\n\nThe decision rules and the Cedar Ridge math come from this course, not from any agency. The findings are assumptions for teaching."
     }
   ]
 }

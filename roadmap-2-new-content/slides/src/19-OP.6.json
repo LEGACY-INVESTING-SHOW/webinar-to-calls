@@ -45,7 +45,7 @@
         "Lock one closet for the owner",
         "Only list outdoor gear you can maintain"
       ],
-      "notes": "Three areas get skipped in most furnishing budgets, then show up in reviews.\n\nThe first is the work space. If you claim a dedicated workspace, a guest expects a desk, a chair, a lamp, and outlets in reach. Test the internet at the desk itself and write the result in your PA.12 handoff packet. If it can't hold a video call, don't advertise remote work.\n\nThe second is storage. Guests need somewhere for a suitcase and clothes. The owner needs a locked closet for personal items, spares, and cleaning stock. Mix the two and you get the review about closets full of the owner's stuff.\n\nThe third is outdoor use. A lake house earns its rate on the deck and the water, and many injuries happen there. If you can't maintain an item every turnover, don't list it."
+      "notes": "Three areas get skipped in most furnishing budgets, then show up in reviews.\n\nThe first is the work space. If you claim a dedicated workspace, a guest expects a desk, a chair, a lamp, and outlets in reach. Test the internet at the desk itself and write the result in your PA.12 handoff packet. If it can't hold a video call, don't advertise remote work.\n\nThe second is storage. Guests need somewhere for a suitcase and clothes. The owner needs a locked closet for personal items, spares, and cleaning stock. Mix the two and you get the review about closets full of the owner's stuff.\n\nThe third is outdoor use. A lake house earns its rate on the deck and the water, and many injuries happen there. A grill, a fire pit, a dock, a kayak, or a hot tub each carries its own insurance question. If you can't maintain an item every turnover, don't list it."
     },
     {
       "type": "checklist",
@@ -124,7 +124,7 @@
           ""
         ]
       ],
-      "notes": "The furnishing budget is a fixed input from the underwriting. Your job is to spend it well, not to find more.\n\nI build the plan in five layers, in this order. Safety and access come first. Mattresses and encasements are second, because the beds carry the listing and the reviews. Linens are third, sized to a cycle: three sheet sets per bed and three towel sets per guest. Room furniture and decor is fourth. Delivery, assembly, spares, and owner storage are fifth.\n\nOn top of that, hold a contingency of 3 to 5% of the budget. If the draft runs over, cut layers four and five before you touch the first three. Your CPA decides how each piece is treated for tax."
+      "notes": "The furnishing budget is a fixed input from the underwriting. Your job is to spend it well, not to find more.\n\nI build the plan in five layers, in this order. Safety and access come first. Mattresses and encasements are second, because the beds carry the listing and the reviews. Linens are third, sized to a cycle: three sheet sets per bed and three towel sets per guest. Room furniture and decor is fourth. Delivery, assembly, spares, and owner storage are fifth.\n\nOn top of that, hold a contingency of 3 to 5% of the budget. That range is a planning assumption. If the draft runs over, cut layers four and five before you touch the first three. Your CPA decides how each piece is treated for tax."
     },
     {
       "type": "table",
@@ -163,7 +163,7 @@
         ]
       ],
       "total_last": true,
-      "notes": "Cedar Ridge is a three-bedroom, two-bath house in a lake market guests drive to. In a normal year, the base case, it expects 61 stays of about 3.5 nights. Maya and Chris use it themselves about 10 days a year.\n\nThe layout reaches 8 without a sofa bed. The king sleeps 2, the queen sleeps 2, and the two bunks sleep 4. The listing shows 6 beds, because each bunk counts as 2. Every bed type is listed exactly as installed.\n\nThe guest profile matches the house: two families, or two couples with kids, doing lake days and cooking dinner. Midweek in shoulder season, the months between peak and off-peak, brings remote workers and small groups. That's why the plan has a work nook. No parties, and no pets at launch."
+      "notes": "Cedar Ridge is a three-bedroom, two-bath house in a lake market guests drive to. In a normal year, the base case, it expects 61 stays of about 3.5 nights. Maya and Chris use it themselves about 10 days a year.\n\nThe layout reaches 8 without a sofa bed. The king sleeps 2, the queen sleeps 2, and the two bunks sleep 4. The listing shows 6 beds, because each bunk counts as 2. Every bed type is listed exactly as installed.\n\nThe assumed guest profile is two related families, or two couples with kids, doing lake days and cooking most dinners. Midweek bookings in shoulder season, the months between peak and off-peak, lean toward remote workers and small groups. That's why the plan has a work nook. No parties, and no pets at launch."
     },
     {
       "type": "bars",
@@ -218,7 +218,7 @@
           "value": 7428
         }
       ],
-      "notes": "Furniture doesn't fail on schedule, but it does wear out. So I give each group an assumed replacement life and divide. Linens last about two years, mattresses seven, hard furniture eight. These are planning lives, not tax lives.\n\nAt Cedar Ridge that comes to $5,982 a year, about $98 per stay. The operating budget sets aside 5% of gross for repairs, which is $3,714. Furniture wear alone is bigger than that. Add the 5% capital reserve and you have $7,428, and furniture would use about 81% of it before the roof or the furnace.\n\nTake that question to Sam's OP.10 review: do the reserves cover furnishings as well as the building? And any single replacement over $200 needs owner approval. OP.8 builds that into the cleaning SOP."
+      "notes": "Furniture doesn't fail on schedule, but it does wear out. So I give each group an assumed replacement life and divide. Linens last about two years, mattresses seven, hard furniture eight. These are planning lives, not tax lives.\n\nAt Cedar Ridge that comes to $5,982 a year, about $98 per stay. The operating budget sets aside 5% of gross for repairs, which is $3,714. Furnishing wear alone is bigger than that. Add the 5% capital reserve and you have $7,428, and furnishing wear would use about 81% of it before the roof or the furnace.\n\nTake that question to Sam's OP.10 review: do the reserves cover furnishings as well as the building? And any single replacement over $200 needs owner approval. OP.8 builds that into the cleaning SOP."
     },
     {
       "type": "table",
@@ -276,7 +276,7 @@
         "Fill in the five-layer budget"
       ],
       "next": "Next: OP.7, building your ops team.",
-      "notes": "Three actions this week.\n\nStart with the guest. Pull three comparable listings from your PA.4 package and read their reviews. Write who books, how many sleep over, what they do, and what they complain about.\n\nNext, call the licensing office. Ask for the maximum occupancy at your address and any permit condition on guest count. Then write your bed list by room and type. Ask the fire marshal about alarm placement while you're at it.\n\nThird, fill in the five-layer budget with your underwriting number. Check that contingency is at least 3%. If you're over, cut layers four and five.\n\nNow someone has to keep the house this way after every stay. OP.7 decides who cleans, restocks, and inspects, and who approves spending like the $200 replacement limit."
+      "notes": "Three actions before you buy anything.\n\nStart with the guest. Pull three comparable listings from your PA.4 package and read their reviews. Write who books, how many sleep over, what they do, and what they complain about.\n\nNext, call the licensing office. Ask for the maximum occupancy at your address and any permit condition on guest count. Then write your bed list by room and type. Ask the fire marshal about alarm placement while you're at it.\n\nThird, fill in the five-layer budget with your underwriting number. Check that contingency is at least 3%. If you're over, cut layers four and five.\n\nNow someone has to keep the house this way after every stay. OP.7 decides who cleans, restocks, and inspects, and who approves spending like the $200 replacement limit."
     }
   ]
 }

@@ -9,7 +9,7 @@
       "type": "cover",
       "ref": "0.3.0",
       "title": "Fund the full cash stack before you shop",
-      "notes": "This lesson answers one question before you look at a single listing. Can you actually afford to own?\n\nWe'll add up the full cash an ownership deal needs, not just the down payment. We'll compare it with the money you really have, after you keep your own emergency savings. We'll test a delayed opening and a weak first season. And you'll finish with a one-page readiness scorecard.\n\nThat scorecard sends you to one of four places: PA.1, where you write your buy box; better financing first; the Part One lease path; or wait.\n\nI'll run one example couple, Maya and Chris, through all of it. Hearing \"not yet\" here is much cheaper than hearing it at a closing table."
+      "notes": "Before you look at a single listing, this lesson answers one question: can you actually afford to own?\n\nWe'll add up the full cash an ownership deal needs, not just the down payment. We'll compare it with the money you really have, after you keep your own emergency savings. We'll test a delayed opening and a weak first season. And you'll finish with a one-page readiness scorecard.\n\nThat scorecard sends you to one of four places: PA.1, where you write your buy box; better financing first; the Part One lease path; or wait.\n\nI'll run one example couple, Maya and Chris, through all of it. Hearing \"not yet\" here is much cheaper than hearing it at a closing table."
     },
     {
       "type": "table",
@@ -41,7 +41,7 @@
           "$2,484 a month"
         ]
       ],
-      "notes": "Meet Maya and Chris. They're a hypothetical two-earner household with $185,000 of income and credit scores around 740. They have $210,000 in liquid savings outside retirement accounts.\n\nThey're buying Cedar Ridge, a three-bedroom lake-market house, for $385,000 with 25% down. They'll use it about 10 days a year. It isn't their main home.\n\nThey have two loan quotes. The DSCR loan qualifies mainly on the property's income, at 7.25% with one point. The conventional loan qualifies on their household income and debts, at 6.875% with no points. PITIA is the full monthly payment: principal, interest, taxes, insurance, and dues.\n\nMost buyers stop at the down payment. $96,250 against $210,000 looks easy. That math leaves out most of the bill."
+      "notes": "Meet Maya and Chris. They're a hypothetical two-earner household with $185,000 of income and credit scores around 740. They have $210,000 in liquid savings outside retirement accounts.\n\nThey're buying Cedar Ridge, a three-bedroom lake-market house, for $385,000 with 25% down. They'll use it about 10 days a year. It isn't their main home.\n\nThey have two loan quotes. The DSCR loan qualifies mainly on the property's income, at 7.25% with one point. The conventional loan qualifies mainly on their household income and debts, at 6.875% with no points. PITIA is the full monthly payment: principal, interest, taxes, insurance, and dues.\n\nMost buyers stop at the down payment. $96,250 against $210,000 looks easy. That math leaves out most of the bill."
     },
     {
       "type": "table",
@@ -105,7 +105,7 @@
           "$14,904"
         ]
       ],
-      "notes": "Lenders measure reserves in months of the new loan's payment. Fannie Mae has no minimum for a one-unit principal residence, but Cedar Ridge isn't Maya and Chris's main home. Their lender decides which category it falls in. The DSCR quote isn't a Fannie Mae loan, so that lender sets its own rule.\n\nFor teaching I assume 6 months on both quotes. That's $15,342 on the DSCR quote and $14,904 on the conventional. Get the real number from each lender in writing.\n\nThe lender will also check your credit and, on a conventional loan, your debt-to-income ratio. With no rental income counted, Maya and Chris come to about 35.6%. Ask each lender for its limit.\n\nAfter closing, the lender stops watching. That reserve becomes your cushion for the house."
+      "notes": "Fannie Mae's guide measures reserves in months of the new loan's payment. It has no minimum for a one-unit principal residence, but Cedar Ridge isn't Maya and Chris's main home. Their lender decides which category it falls in. The DSCR quote isn't a Fannie Mae loan, so that lender sets its own rule.\n\nFor teaching I assume 6 months on both quotes. That's $15,342 on the DSCR quote and $14,904 on the conventional. Get the real number from each lender in writing.\n\nThe lender will also check your credit and, on a conventional loan, your debt-to-income ratio. With no rental income counted, Maya and Chris come to about 35.6%. Ask each lender for its limit.\n\nAfter closing, the lender stops watching. That reserve becomes your cushion for the house."
     },
     {
       "type": "bars",
@@ -135,7 +135,7 @@
           "kind": "total"
         }
       ],
-      "notes": "Two things go wrong often enough that you should budget for both.\n\nThe first is a delayed opening. Permits run long, furniture arrives late. Every month before the first guest costs $3,257 on the DSCR quote, with nothing coming in. Three extra months is $9,771.\n\nThe second is a weak first season. A new listing has no reviews. The example's weak case loses $5,475 a year.\n\nPut them together. The $15,342 reserve pays for the delay, then the weak year, and $96 is left. That's the pairing that can force a sale at a bad time.\n\nSo Maya and Chris set their own reserve target to survive it: $15,246. The lender's six-month figure just covers it."
+      "notes": "Two things go wrong often enough that you should budget for both.\n\nThe first is a delayed opening. Permits run long, furniture arrives late. Every month before the first guest costs $3,257 on the DSCR quote, with nothing coming in. Three extra months is $9,771.\n\nThe second is a weak first season. A new listing has no reviews. The example's weak case loses $5,475 a year. That's the pre-diligence figure, and PA.9 revisits it.\n\nPut them together. The $15,342 reserve pays for the delay, then the weak year, and $96 is left. That's the pairing that can force a sale at a bad time.\n\nSo Maya and Chris set their own reserve target to survive it: $15,246. The lender's six-month figure just covers it."
     },
     {
       "type": "bullets",

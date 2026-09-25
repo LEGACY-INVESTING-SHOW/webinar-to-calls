@@ -31,7 +31,7 @@
           "kind": "go"
         }
       ],
-      "notes": "Most students do this in the wrong order. They find a nice apartment, run revenue numbers, pitch the landlord, and only then check whether the city allows the plan. By then they're attached, and the rules feel like an obstacle.\n\nFlip it. Look for the fastest reason to say no. If you find one, move to the next address. If you can't find one, you've earned the right to spend real time on the deal.\n\nRules attach to the exact address, not the city. Lesson 3.1 walked through the layers: address, building, zoning district, permit category, and the signed lease. This screen turns those layers into two stages and one label."
+      "notes": "It's easy to do this in the wrong order. You find a nice apartment, run revenue numbers, pitch the landlord, and only then check whether the city allows the plan. By then you're attached, and the rules feel like an obstacle.\n\nFlip it. Look for the fastest reason to say no. If you find one, move to the next address. If you can't find one, you've earned the right to spend real time on the deal.\n\nRules attach to the exact address, not the city. Lesson 3.1 walked through the layers: address, building, zoning district, permit category, and the signed lease. This screen turns those layers into two stages and one label."
     },
     {
       "type": "checklist",
@@ -57,7 +57,7 @@
         "High rent or slow setup payback",
         "Thin cash reserve or new supply"
       ],
-      "notes": "Once an address clears the hard stops, the question changes. Does the deal survive an ordinary slow stretch? Lesson 1.3 built the math. Here it becomes eight flags, C1 to C8.\n\nC1 and C2 are cushion. How far is your base case above break-even, and does the stress case lose money? This course's stress case cuts the average nightly rate (ADR) 12% and occupancy by 10 percentage points.\n\nC3 and C4 are where revenue comes from. Use comps, meaning similar active listings nearby, with a full year of data. And watch for one stadium or one employer driving your bookings.\n\nC5 to C8 are rent you owe regardless, setup cost you've sunk, your cash reserve, and new listings arriving. Sam's 4.2 and 4.3 show how to check comps and supply."
+      "notes": "Once an address clears the hard stops, you ask whether the deal survives an ordinary slow stretch. Lesson 1.3 built the math. Here it becomes eight flags, C1 to C8.\n\nC1 and C2 are cushion. How far is your base case above break-even, and does the stress case lose money? This course's stress case cuts the average nightly rate (ADR) 12% and occupancy by 10 percentage points.\n\nC3 and C4 are where revenue comes from. Use comps, meaning similar active listings nearby, with a full year of data. And watch for one stadium or one employer driving your bookings.\n\nC5 to C8 are rent you owe regardless, setup cost you've sunk, your cash reserve, and new listings arriving. Sam's 4.2 and 4.3 show how to check comps and supply."
     },
     {
       "type": "checklist",
@@ -129,7 +129,7 @@
         "label": "Stress net per month",
         "v": "$129"
       },
-      "notes": "Here's Alder Street, the course example. Unit 4B, two bedrooms, sleeps 5, a 24-month lease at $1,950. I'm assuming the city allows unhosted stays with a $250 permit, no HOA, a willing landlord, and a $1,300 insurance quote. So the hard stops pass, pending the licensing office's written answer. These figures come from lesson 1.3.\n\nC1 looks great. Base occupancy is 70% and break-even at $205 is 49.9%. That's a 20.1-point cushion, which scores 0.\n\nC2 is thin. The stress case drops the rate to $180 and occupancy to 60%. Net is $1,548 a year, or $129 a month. That scores 1.\n\nAnd break-even at $180 is 57.1%. The stress case runs at 60%, so there's only 2.9 points of room."
+      "notes": "Here's Alder Street, the course example. Unit 4B, two bedrooms, sleeps 5, a 24-month lease at $1,950. I'm assuming the city allows unhosted stays with a $250 permit, no HOA, a willing landlord, and a $1,300 insurance quote. So the hard stops pass, pending the licensing office's written answer.\n\nThe stage-two figures come from lesson 1.3. C1 looks great. Base occupancy is 70% and break-even at $205 is 49.9%. That's a 20.1-point cushion, which scores 0.\n\nC2 is thin. The stress case drops the rate to $180 and occupancy to 60%. Net is $1,548 a year, or $129 a month. That scores 1.\n\nAnd break-even at $180 is 57.1%. The stress case runs at 60%, so there's only 2.9 points of room."
     },
     {
       "type": "table",
@@ -158,7 +158,7 @@
           "9"
         ]
       ],
-      "notes": "Five commercial points, and most come from unfinished work. C3 is a 1 because nobody has pulled comps. C8 is a 1 because supply isn't checked. C4 is a 1 because hospital stays drive most bookings. C5 is a 1 because rent is 38% of gross.\n\nNow the lease. I'm assuming the draft lets either side end it on 60 days' notice without cause. That puts L1 at 2. The addendum allows short stays but says nothing about occupancy or access, so L2 is a 1. L5 is a 1 because stress-case payback is 93.4 months against a 24-month lease.\n\nNine points with a 2 in L1. The label is investigate, which means a to-do list of what has to change."
+      "notes": "Five commercial points, and two of them come from unfinished work. C3 is a 1 because nobody has pulled comps. C8 is a 1 because supply isn't checked. C4 is a 1 because I'm assuming hospital stays drive most bookings. C5 is a 1 because rent is 38% of gross.\n\nNow the lease. I'm assuming the draft lets either side end it on 60 days' notice without cause. That puts L1 at 2. The addendum allows short stays but says nothing about occupancy or access, so L2 is a 1. L5 is a 1 because stress-case payback is 93.4 months against a 24-month lease.\n\nNine points with a 2 in L1. The label is investigate, which means a to-do list of what has to change."
     },
     {
       "type": "bullets",
@@ -229,7 +229,7 @@
           "**Reject**"
         ]
       ],
-      "notes": "Now put the same unit in two real cities.\n\nIn New York City, stage one ends it. Whole-unit stays of about three nights with no host present fail H1. The city allows short stays only with the host present and up to two guests. You don't even score stage two.\n\nIn Los Angeles, you won't live in Unit 4B, so H2 fails. Home-sharing is limited to the host's primary residence. And if the building predates October 1, 1978, it's likely under the Rent Stabilization Ordinance, where home-sharing isn't allowed at all. That's H1 too.\n\nSame apartment, same rent, three answers. The address decided each one. That's why there's no city blacklist. These rules are dated 25 September 2026, so recheck the official page. Sam shows that search live in 3.2."
+      "notes": "Now put the same unit in two real cities.\n\nIn New York City, stage one ends it. Whole-unit stays of about three nights with no host present fail H1. The city allows short stays only with the host present and up to two guests. You don't even score stage two.\n\nIn Los Angeles, you won't live in Unit 4B, so H2 fails. Home-sharing is limited to the host's primary residence. And if the building predates October 1, 1978, it's likely under the Rent Stabilization Ordinance, where home-sharing isn't allowed at all. That's H1 too.\n\nSame apartment, same rent, three answers. The address decided each one. That's why there's no city blacklist. These rules were last checked on 25 September 2026, so recheck the official page. Sam shows that search live in 3.2."
     },
     {
       "type": "flow",
@@ -262,7 +262,7 @@
         "Score L1 to L5 on the draft lease"
       ],
       "next": "Next: 3.5, what written permission must say.",
-      "notes": "Here's what I'd do this week. Each takes under an hour of your time, though replies take longer.\n\nPick one real address and answer H1 to H4 and H6. Every answer gets a source and a date. If you don't know, write unknown. Don't guess.\n\nSend one email to the licensing office about unhosted stays at that address, and save the reply. A dated written answer beats an hour of forum posts.\n\nWhen the landlord sends a draft lease, score L1 to L5. For any row at 2, write the fix and who can make it.\n\nAn address that lands on investigate usually has a lease problem. Lesson 3.5, Sublease Legality and Landlord Disclosure Best Practices, shows what written permission has to say. Bring your scorecard and the draft lease."
+      "notes": "Here's what I'd do this week. The desk work takes about an hour. Replies and the lease review take longer.\n\nPick one real address and answer H1 to H4 and H6. Every answer gets a source and a date. If you don't know, write unknown. Don't guess.\n\nSend one email to the licensing office about unhosted stays at that address, and save the reply. A dated written answer beats an hour of forum posts.\n\nWhen the landlord sends a draft lease, score L1 to L5. For any row at 2, write the fix and who can make it.\n\nAn address that lands on investigate usually has a lease problem. Lesson 3.5, Sublease Legality and Landlord Disclosure Best Practices, shows what written permission has to say. Bring your scorecard and the draft lease."
     }
   ]
 }

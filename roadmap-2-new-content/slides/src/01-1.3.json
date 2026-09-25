@@ -21,7 +21,7 @@
         "AirDNA: supply growing slightly faster than demand",
         "AirDNA: occupancy down about 1%"
       ],
-      "notes": "Here are two sets of numbers that seem to disagree. In the second quarter of 2026, Airbnb's revenue rose 17% to $3.6 billion, and its bookings rose 10%. Travelers are still booking.\n\nAirDNA sells short-term rental market data. For 2026 it expected supply to grow a little faster than demand, with occupancy down about 1% and nightly rates up about 1.5%. Its midyear update said a tougher economy favored existing hosts. Listings with reviews start ahead of you.\n\nBoth can be true. When more listings open, the new demand gets spread across more units. So I read these as weather reports. They don't tell you the rent your landlord wants or whether your city lets you host. Sam's 4.1 through 4.5 show you how to pull the data for your unit."
+      "notes": "Here are two sets of numbers that seem to disagree. In the second quarter of 2026, Airbnb's revenue rose 17% to $3.6 billion, and its bookings rose 10%. Travelers are still booking.\n\nAirDNA sells short-term rental market data. For 2026 it expected supply to grow a little faster than demand, with occupancy down about 1% and nightly rates up about 1.5%. Its midyear update said a tougher economy favored existing hosts. For a new operator, that means listings with reviews start ahead of you.\n\nBoth can be true. When more listings open, the new demand gets spread across more units. So I read these as weather reports. They don't tell you the rent your landlord wants or whether your city lets you host. Sam's 4.1 through 4.5 show you how to pull the data for your unit."
     },
     {
       "type": "table",
@@ -229,7 +229,7 @@
           "hot": true
         }
       ],
-      "notes": "Here's the base case next to four what-ifs, as yearly net before income tax.\n\nIf the landlord asks for $2,150 at renewal, about 10% more, net drops to $9,818. If new listings pull you down to 64% at the same rate, net falls to $8,693. Still fine.\n\nThe stress case is the one to watch. The rate drops 12% to $180 and occupancy falls to 60%. Each stay now leaves $440.25, and the year nets $1,548, about $129 a month. Break-even at $180 is 57.1%, only about three points below you.\n\nStack the rent increase on top and net goes to minus $852. The deal survives each problem alone, but not two at once."
+      "notes": "Here's the base case next to four what-ifs, as yearly net before income tax.\n\nIf the landlord asks for $2,150 at renewal, about 10% more, net drops to $9,818. If new listings pull you down to 64% at the same rate, net falls to $8,693. Still fine.\n\nThe stress case is the one to watch. The rate drops 12% to $180 and occupancy falls to 60%. Each stay now leaves $440.25, and the year nets $1,548, about $129 a month. Break-even at $180 is 57.1%, only about three points below the 60% you'd book.\n\nStack the rent increase on top and net goes to minus $852. The deal survives each problem alone, but not the stress case plus a rent increase."
     },
     {
       "type": "calc",
@@ -324,7 +324,7 @@
           "Pass, just"
         ]
       ],
-      "notes": "Let's run Alder Street through the gates, the way you'll fill in the sheet.\n\nGates one and two are unknown. The city is unnamed on purpose, and in lesson 3.1 this same unit fails both the New York City and Los Angeles rules. The landlord has offered a lease, but it still has to allow short-term rental use in writing.\n\nOn the math, the stress case stays positive, so 3a passes. Stress plus a rent increase goes negative, so 3b fails. The cushion is about 20 points, so 3c passes. Payback is 11.8 months against a 12-month half-lease, so 3d passes, just.\n\nSo I'd investigate. Before signing I'd want a written cap on renewal rent, or a longer term, and data showing 60% at $180 is a floor.\n\n[Recording note: Preston can add a real example here if he has one.]"
+      "notes": "Let's run Alder Street through the gates, the way you'll fill in the sheet.\n\nGates one and two are unknown. The city is unnamed on purpose, and in lesson 3.1 this same unit fails both the New York City and Los Angeles rules. The landlord has offered a lease, but it still has to allow short-term rental use in writing.\n\nOn the math, the stress case stays positive, so 3a passes. Stress plus a rent increase goes negative, so 3b fails. The cushion is about 20 points, so 3c passes. Payback is 11.8 months against a 12-month half-lease, so 3d passes, just.\n\nSo I'd investigate. Before signing I'd want a written cap on renewal rent, or a longer term, and data showing 60% at $180 is a floor. If gate one fails at the real address, it's walk, no matter what the numbers say.\n\n[Recording note: Preston can add a real example here if he has one.]"
     },
     {
       "type": "dothis",

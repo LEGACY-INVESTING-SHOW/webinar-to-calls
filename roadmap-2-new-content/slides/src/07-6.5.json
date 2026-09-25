@@ -9,7 +9,7 @@
       "type": "cover",
       "ref": "6.5.0",
       "title": "Pick the lightest help that survives a bad year",
-      "notes": "This lesson answers one question. How much local help does a unit need, and what does it cost you?\n\nThere are four setups: cleaner only, cleaner plus an on-call vendor, a co-host, or a full manager. You'll compare each one against the net cash flow it leaves you, in the base case and the stress case. The base case is a normal year. The stress case is a bad one. For Alder Street, the nightly rate drops 12% to $180 and only 60% of nights get booked.\n\nWe'll run all four setups through the numbers. Laid side by side, one of them takes the whole margin."
+      "notes": "How much local help does a unit need, and what does it cost you?\n\nThere are four setups: cleaner only, cleaner plus an on-call vendor, a co-host, or a full manager. You'll compare each one against the net cash flow it leaves you, in the base case and the stress case. The base case is a normal year. The stress case is a bad one. For Alder Street, the nightly rate drops 12% to $180 and only 60% of nights get booked.\n\nWe'll run all four setups through the numbers. Laid side by side, the full manager takes the whole margin."
     },
     {
       "type": "table",
@@ -47,7 +47,7 @@
           "Co-host or manager"
         ]
       ],
-      "notes": "Most of this business is digital. Pricing, messaging, bookkeeping, and listing changes happen from anywhere. But some jobs need someone who can reach the unit.\n\nAlder Street books 255 nights at a 3-night average stay. That's 85 turnovers a year, about 7 a month, and your cleaner handles them.\n\nThe cleaner covers the scheduled work. The trouble is the unscheduled work. The 11 p.m. lockout. The leak on a Sunday. The guest who can't get the heat on. Those need someone there within an hour or two, at any time.\n\nThat's the gap local help fills. It's also what you promised the landlord in the lease addendum in lesson 5.7: a named local contact who answers day and night."
+      "notes": "Most of this business is digital. Pricing, messaging, bookkeeping, and listing changes happen from anywhere. But some jobs need someone who can reach the unit.\n\nAlder Street books 255 nights at a 3-night average stay. That's 85 turnovers a year, about 7 a month, and your cleaner handles them.\n\nThe cleaner covers the scheduled work. The trouble is the unscheduled work: the 11 p.m. lockout, the leak on a Sunday, the guest who can't get the heat on. Those need someone there within an hour or two, at any time.\n\nThat's the gap local help fills. It's also what you promised the landlord in the lease addendum in lesson 5.7: a named local contact who answers day and night."
     },
     {
       "type": "flow",
@@ -269,21 +269,21 @@
         "kind": "gold",
         "text": "Write the fee base into the contract."
       },
-      "notes": "Here's why the fee base matters.\n\nA co-host at 10% of gross booking revenue costs $6,162 a year. Airbnb figures percentage co-host payouts on host earnings instead. That's gross minus Airbnb's host fee, which is $9,552 in this example, so host earnings are $52,073. Ten percent of that is $5,207.\n\nSame 10%, and a $955 difference in yearly cost. A co-host quoting 10% of gross and one quoting 10% through Airbnb's payout tool are quoting different prices. So write the base into the contract, in words."
+      "notes": "A co-host at 10% of gross booking revenue costs $6,162 a year. Airbnb figures percentage co-host payouts on host earnings instead. That's gross minus Airbnb's host fee, which is $9,552 in this example, so host earnings are $52,073. Ten percent of that is $5,207.\n\nSame 10%, and a $955 difference in yearly cost. A co-host quoting 10% of gross and one quoting 10% through Airbnb's payout tool are quoting different prices. So write the base into the contract, in words."
     },
     {
       "type": "statement",
       "ref": "6.5.7",
       "title": "Above about 10% of gross, you keep under $500 monthly",
       "text": "Above about 10% of gross, you keep under $500 a month.",
-      "notes": "Two numbers help you negotiate. A fee of 19.8% of gross wipes out Alder Street's base-case net entirely. A fee of about 10.1% leaves you $500 a month. So any percentage deal above roughly 10% of gross leaves you under $500 a month, and that's in a good year. The $500 is just an example floor. Use your own.\n\nYou can also compare cost with the time you get back. On the hours I assumed, the co-host is the cheapest per hour saved, about $37. But it pushes the stress case negative. Cost per hour is useful. The stress case decides."
+      "notes": "Two numbers help you negotiate. A fee of 19.8% of gross wipes out Alder Street's base-case net entirely. A fee of about 10.1% leaves you $500 a month. So any percentage deal above roughly 10% of gross leaves you under $500 a month, and that's in a good year. The $500 is just an example floor. Use your own.\n\nYou can also compare cost with the time you get back. On the hours I assumed, the co-host is the cheapest per hour saved, about $37. But it pushes the stress case negative."
     },
     {
       "type": "statement",
       "ref": "6.5.7",
       "title": "A far-away operator should add an on-call vendor",
       "text": "Far from the unit? Add an on-call vendor to your cleaner.",
-      "notes": "So here's what I'd pick for Alder Street.\n\nIf you live within two hours and can answer at night yourself, setup 1 can work. If you live far away, I'd pick setup 2, the cleaner plus an on-call vendor. It covers the emergency gap you promised the landlord, and it keeps $818 a month in the base case.\n\nIn a bad year it turns a $129 monthly gain into a $71 monthly loss. That's $852 over the year. The $4,420 operating reserve from lesson 1.3 can carry that, and it uses about a fifth of it.\n\nA co-host becomes reasonable only after lower rent at renewal, or comparable listings (comps) that support a higher rate. The full manager doesn't fit this unit at 20%.\n\n[Producer note, do not read aloud: Preston can add a real example here if he has one.]"
+      "notes": "For Alder Street, if you live within two hours and can answer at night yourself, setup 1 can work. If you live far away, I'd pick setup 2, the cleaner plus an on-call vendor. It covers the emergency gap you promised the landlord, and it keeps $818 a month in the base case.\n\nIn a bad year it turns a $129 monthly gain into a $71 monthly loss. That's $852 over the year. The $4,420 operating reserve from lesson 1.3 can carry that, and it uses about a fifth of it.\n\nA co-host becomes reasonable only after lower rent at renewal, or comparable listings (comps) that support a higher rate. The full manager doesn't fit this unit at 20%.\n\n[Producer note, do not read aloud: Preston can add a real example here if he has one.]"
     },
     {
       "type": "dothis",

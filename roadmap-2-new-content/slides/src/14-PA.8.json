@@ -82,7 +82,7 @@
           "kind": "neg"
         }
       ],
-      "notes": "Test two, funded version. Weak-case NOI is $18,162. They'll carry up to $6,000 more, so the most P&I is $24,162. That supports a loan of about $295,158 and a ceiling of $393,544.\n\nTest three, found by trying prices in a spreadsheet, lands at about $409,984.\n\nThe lowest ceiling that applies to them is $393,544. Round down to $393,000 to stay on the safe side. That's their walk-away price.\n\nThe short bar is the strict version. Breakeven caps the price at $295,818, which is $103,182 under asking. More cash doesn't fix it. At $385,000, a breakeven loan would take about $208,906 of cash, and they have $180,000 after the emergency fund. If you can't fund a weak year, this house is a pass."
+      "notes": "Test two, funded version. Weak-case NOI is $18,162. They'll carry up to $6,000 more, so the most P&I is $24,162. That supports a loan of about $295,158 and a ceiling of $393,544.\n\nTest three, found by trying prices in a spreadsheet, lands at about $409,984.\n\nThe lowest ceiling that applies to them is $393,544. Round down to $393,000 to stay on the safe side. That's their walk-away price.\n\nThe short bar is the strict version. Breakeven caps the price at $295,818, which is $103,182 under asking. Putting more of their own cash in doesn't fix it. At $385,000, a breakeven loan would take about $208,906 of cash, and they have $180,000 after the emergency fund. If you can't fund a weak year, this house is a pass."
     },
     {
       "type": "table",
@@ -204,7 +204,7 @@
           "Transfer and who keeps payments"
         ]
       ],
-      "notes": "The other four are about time and scope.\n\nThe inspection period tests the business as well as the house: permits, association or deed rules, insurance, septic capacity. Make it long enough for an STR insurance quote and a written answer from the licensing office.\n\nThe closing date sets your rate lock and your launch. Closing in time to list before the lake season is worth more than a small price cut.\n\nFor furniture, check fit with your OP.6 plan, condition, and how your lender treats it. List what you want in the contract or on a bill of sale. Mark the rest excluded.\n\nFor existing bookings, ask whether they transfer, who keeps the payments, and whether the platform allows it."
+      "notes": "The other four are about time and scope.\n\nThe inspection period tests the business as well as the house: permits, association or deed rules, insurance, septic capacity. Make it long enough for an STR insurance quote and a written answer from the licensing office.\n\nThe closing date has to fit your rate lock and your launch. Closing in time to list before the lake season is worth more than a small price cut.\n\nFor furniture, check fit with your OP.6 plan, condition, and how your lender treats it. List what you want in the contract or on a bill of sale. Mark the rest excluded.\n\nFor existing bookings, ask whether they transfer, who keeps the payments, and whether the platform allows it."
     },
     {
       "type": "checklist",

@@ -54,7 +54,7 @@
           "You"
         ]
       ],
-      "notes": "Here's what changes. Read the two repair rows twice. Maintenance is routine upkeep. Capital repairs replace a big piece of the building, like the roof, the HVAC system, or the septic system.\n\nAt Alder Street, a failed water heater is usually the landlord's problem. You lose some nights and you call them. At Cedar Ridge, it's your bill and your emergency. You pick the plumber, approve the cost, and pay it the same week.\n\nThe loan row matters too. A mortgage is secured by the house. Depending on the loan, the lender may also want a personal guarantee. Then your household is on the hook, not just the property. Your entity, the company that may hold title, is a PA.10 topic."
+      "notes": "Read the two repair rows twice. Maintenance is routine upkeep. Capital repairs replace a big piece of the building, like the roof, the HVAC system, or the septic system.\n\nAt Alder Street, a failed water heater is usually the landlord's problem. You lose some nights and you call them. At Cedar Ridge, it's your bill and your emergency. You pick the plumber, approve the cost, and pay it the same week.\n\nThe loan row matters too. A mortgage is secured by the house. Depending on the loan, the lender may also want a personal guarantee. Then your household is on the hook, not just the property. Your entity, the company that may hold title, is a PA.10 topic."
     },
     {
       "type": "statement",
@@ -155,7 +155,7 @@
           "Pass or restructure"
         ]
       ],
-      "notes": "A deal moves forward only when it clears a gate. There are ten, numbered 0 to 9. Here are the first five.\n\nThe weak case is a bad-year version of your numbers: lower nightly rates and fewer booked nights. Your downside rule, from PA.1, is the most you'll accept losing in that year. Use a lender's current rate at Gate 3. The written quote comes at Gate 4.\n\nGates 0 to 3 cost only time. Gate 2 and Gate 3 are where most bad deals should die, because the city's rules are public and the underwriting is your own spreadsheet. The city or county licensing office confirms Gate 2, before any offer. A buyer who treats these gates as formalities finds the problem at Gate 6, after the inspections are paid for and earnest money is on the line."
+      "notes": "A deal moves forward only when it clears a gate. There are ten, numbered 0 to 9. Here are the first five.\n\nThe weak case is a bad-year version of your numbers: lower nightly rates and fewer booked nights. Your downside rule, from PA.1, is the most you'll accept losing in that year. Use a lender's current rate at Gate 3. The written quote comes at Gate 4.\n\nGates 0 to 3 cost only time. Gate 2 and Gate 3 are where most bad deals should die, because the city's rules are public and the underwriting is your own spreadsheet. The city or county licensing office confirms Gate 2, before any offer. A buyer who treats these gates as formalities tends to find the problem at Gate 6, after the inspections are paid for and earnest money is on the line."
     },
     {
       "type": "table",
@@ -193,7 +193,7 @@
           "Fix pricing, costs, or operations"
         ]
       ],
-      "notes": "Here are the second five. Gate 5 is the offer. If the seller won't come to your walk-away number, you walk. PA.8 shows you how to set that number.\n\nGate 6 is diligence: the inspection, insurance quote, title, appraisal, and permit. And it has a clock. Contingencies are conditions in your purchase contract that let you cancel, and they run on deadlines. Miss one, and your options can shrink. Have your agent or attorney walk you through every deadline before you sign.\n\nGate 7 is closing. Check the Closing Disclosure, the lender's final statement of costs, and the wire instructions. If anything is off, stop before money moves. At Gate 8, don't publish the listing until it's insured, safe, permitted, furnished, and staffed. Gate 9 comes after you own, in Sam's OP.10 review."
+      "notes": "Here are the second five. Gate 5 is the offer. If the seller won't come to your walk-away number, you walk. PA.8 shows you how to set that number.\n\nGate 6 is diligence: the inspection, insurance quote, title, appraisal, and permit. And it has a clock. Contingencies are conditions in your purchase contract that let you cancel, and they run on deadlines. Miss one, and depending on the contract, your options can shrink. Have your agent or attorney walk you through every deadline before you sign.\n\nGate 7 is closing. Check the Closing Disclosure, the lender's final statement of costs, and the wire instructions. If anything is off, stop before money moves. At Gate 8, don't publish the listing until it's insured, safe, permitted, furnished, and staffed. Gate 9 comes after you own, in Sam's OP.10 review."
     },
     {
       "type": "calc",
@@ -254,7 +254,7 @@
           "$2,795"
         ]
       ],
-      "notes": "Here's the rest of the comparison. Alder Street's rent is $1,950 a month. Cedar Ridge's PITIA on the DSCR quote is $2,557. That's principal, interest, taxes, insurance, and association dues, and there's no HOA. The owner also sets aside 5% of gross booking revenue for repairs and 5% for capital items. That's $7,428 a year.\n\nNow the bad year. Alder Street's stress case, at $180 a night and 60% booked, still nets $1,548. Cedar Ridge's weak case, at $265 a night and 50% booked, loses $5,475 after debt service. That's the pre-diligence figure, and PA.9 revisits it. The loss comes from reserves or the household.\n\nCedar Ridge does pay down $2,795 of loan in year one, but you can't spend that this year. Lesson 0.2 tests all four streams."
+      "notes": "Alder Street's rent is $1,950 a month. Cedar Ridge's PITIA on the DSCR quote is $2,557. That's principal, interest, taxes, insurance, and association dues, and there's no HOA. The owner also sets aside 5% of gross booking revenue for repairs and 5% for capital items. That's $7,428 a year.\n\nNow the bad year. Alder Street's stress case, at $180 a night and 60% booked, still nets $1,548. Cedar Ridge's weak case, at $265 a night and 50% booked, loses $5,475 after debt service. That's the pre-diligence figure, and PA.9 revisits it. The loss comes from reserves or the household.\n\nCedar Ridge does pay down $2,795 of loan in year one, but you can't spend that this year. Lesson 0.2 tests all four streams."
     },
     {
       "type": "bars",
@@ -287,7 +287,7 @@
           "display": "$142,688"
         }
       ],
-      "notes": "Here's why early gates matter, in dollars. These are running totals for Maya and Chris.\n\nGates 0 to 3 cost only time. Gate 4 may cost a lender fee. At Gate 5, earnest money goes in: $7,700, which is 2% of price and the figure they agree in PA.8. Whether you get it back depends on your contract. It stays at risk through Gate 6, which adds about $1,500 of inspections.\n\nThen the jump. If you close at Gate 7, $110,688 of cash to close is committed, and the earnest money counts toward it. That's also the amount a wire-fraud scam would target, which PA.11 covers. Gate 8 adds $32,000 of furnishing, plus carrying costs until the first booking.\n\nSo the work you do in PA.1 and in Sam's PA.2 to PA.4 is the cheapest protection you'll buy."
+      "notes": "Here's why early gates matter, in dollars. These are running totals for Maya and Chris.\n\nGates 0 to 3 cost only time. Gate 4 may cost a lender fee. At Gate 5, earnest money goes in: $7,700, which is 2% of price and the figure they agree in PA.8. Whether you get it back depends on your contract. It stays at risk through Gate 6, which adds about $1,500 of inspections.\n\nThen the jump. If you close at Gate 7, $110,688 of cash to close is committed, and the earnest money counts toward it. That's also the amount a wire-fraud scam would target, which PA.11 covers. Gate 8 adds $32,000 of furnishing, plus carrying costs until the first booking.\n\nSo the work you do in PA.1 and in Sam's PA.2 to PA.4 is the cheapest protection you'll buy in this program."
     },
     {
       "type": "checklist",
@@ -305,7 +305,7 @@
         "kind": "gold",
         "text": "No offer goes out until Gates 0 to 4 have written evidence."
       },
-      "notes": "This is your working tool for the whole buying phase. You don't have a property yet, so today you set up the blank log. Fill in Gate 0 after lesson 0.3. Then start a new copy for each property you seriously consider from Sam's PA.3 list.\n\nEach row gets the evidence, who confirmed it, the date, and the result. The evidence column is the one that matters. \"The agent said it's fine\" is not evidence. A city code section and the date you read it is.\n\nLeave a gate open until you have a written answer. When a property fails, write down what ended it. After a few logs, you'll start to see patterns in your buy box and your market."
+      "notes": "This is your working tool for the whole buying phase. You don't have a property yet, so today you set up the blank log. Fill in Gate 0 after lesson 0.3. Then start a new copy for each property you seriously consider from Sam's PA.3 list.\n\nEach row gets the evidence, who confirmed it, the date, and the result. The evidence column is the one that matters. \"The agent said it's fine\" is not evidence. A city code section and the date you read it is.\n\nLeave a gate open until you have a written answer. When a property fails, write down what ended it. After a few logs, look for patterns in what ended each deal."
     },
     {
       "type": "dothis",
@@ -317,7 +317,7 @@
         "List the team roles you can't name yet"
       ],
       "next": "Next: **0.2, Why Ownership Wins**, tested on Cedar Ridge.",
-      "notes": "Three things before the next lesson.\n\nFirst, set up the gate log somewhere you'll really use it, like a spreadsheet or a notebook. Fill in Gate 0 after lesson 0.3.\n\nSecond, write down which gate you expect to be hardest for you, and why. For some people it's readiness. For others it's walking away at Gate 5 when they love the house.\n\nThird, look at the team. Which roles don't you have a name for yet? Write down how you'll find one before PA.4, when you'll start needing a lender's numbers.\n\nAnd put one rule on your calendar: no offer goes out until Gates 0 to 4 have written evidence.\n\nThen go to lesson 0.2. You'll separate the money you can spend from the money locked in the house."
+      "notes": "Three things before the next lesson.\n\nFirst, set up the gate log somewhere you'll really use it, like a spreadsheet or a notebook. Fill in Gate 0 after lesson 0.3.\n\nSecond, write down which gate you expect to be hardest for you, and why. Maybe it's readiness. Maybe it's walking away at Gate 5 when you love the house.\n\nThird, look at the team. Which roles don't you have a name for yet? Write down how you'll find one before PA.4, when you'll start needing a lender's numbers.\n\nAnd put one rule on your calendar: no offer goes out until Gates 0 to 4 have written evidence.\n\nThen go to lesson 0.2. You'll separate the money you can spend from the money locked in the house."
     }
   ]
 }

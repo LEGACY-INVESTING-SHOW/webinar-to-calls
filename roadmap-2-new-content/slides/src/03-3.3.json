@@ -9,7 +9,7 @@
       "type": "cover",
       "ref": "3.3.0",
       "title": "Platforms collect some lodging taxes. You owe the rest.",
-      "notes": "A lot of new hosts believe Airbnb handles the taxes. Sometimes it handles some of them. The rest are yours, and the agency expects them whether or not you knew.\n\nBy the end of this lesson you'll be able to build a channel-by-channel tax worksheet for one address. It shows which lodging taxes apply, who collects each one on Airbnb, Vrbo, and direct bookings, and what you still owe. You'll know how to keep a registration number current on a listing. And you'll be able to reconcile a quarter of bookings against your tax filings before the agency finds the gap.\n\nWe'll use Alder Street again, in a made-up tax jurisdiction. Every rate in the example is there for teaching only."
+      "notes": "A lot of new hosts believe Airbnb handles the taxes. Sometimes it handles some of them. The rest are yours, and the agency expects them whether or not you knew.\n\nBy the end of this lesson you'll be able to build a channel-by-channel tax worksheet for one address. It shows which lodging taxes apply, who collects and remits each one on Airbnb, Vrbo, and direct bookings, and what you still owe. You'll know how to keep a registration number current on a listing. And you'll be able to reconcile a quarter of bookings against your tax filings before the agency finds the gap.\n\nWe'll use Alder Street again, in a made-up tax jurisdiction. Every rate in the example is there for teaching only."
     },
     {
       "type": "table",
@@ -62,7 +62,7 @@
         "Custom taxes still leave you filing and paying",
         "Your payout is the same either way"
       ],
-      "notes": "Airbnb collects and remits some occupancy taxes in some places, and its help center lists them. It works out which taxes apply from your listing address. So if the address is wrong, the taxes can be wrong too.\n\nHere's the part people miss. Even where Airbnb collects some taxes, you may still owe others. Its own example is collecting regional taxes but not local ones. Check the list for your address.\n\nFor the taxes Airbnb doesn't collect, you can collect them yourself, or use Airbnb's custom tax tool if your listing is eligible. Airbnb charges the guest and pays you the tax separately from your payout. You still file and pay it.\n\nYour payout doesn't change either way. It's your price minus Airbnb's service fee, and the tax sits on top of what the guest pays."
+      "notes": "Airbnb collects and remits some occupancy taxes in some places, and its help center lists them. It works out which taxes apply from your listing address. So if the address is wrong, the taxes can be wrong too.\n\nEven where Airbnb collects some taxes, you may still owe others. Its own example is collecting regional taxes but not local ones. Check the list for your address.\n\nFor the taxes Airbnb doesn't collect, you can collect them yourself, or use Airbnb's custom tax tool if your listing is eligible. Airbnb charges the guest and pays you the tax separately from your payout. You still file and pay it.\n\nYour payout doesn't change either way. It's your price minus Airbnb's service fee, and the tax sits on top of what the guest pays."
     },
     {
       "type": "table",
@@ -115,7 +115,7 @@
           "h": "Report and pay it"
         }
       ],
-      "notes": "Direct bookings are the easiest to explain and the easiest to get wrong. Nobody collects for you. You quote the tax, charge it, hold it, report it, and pay it, for every layer.\n\nYour booking engine is the checkout on your own website. Your PMS, the property management system, holds reservations and pricing. Whichever you use needs the right rate and the right base for each layer. Check those settings against your worksheet before your first direct booking.\n\nTexas spells out the split plainly. Owners collect and remit state hotel tax on bookings through their own website. And even when a platform handles state tax, owners should still check local hotel tax with the county and city.\n\nWhen you reach Sam's lessons 9.11 and 9.12, find the screen where tax rates are set and check it line by line against your worksheet."
+      "notes": "On a direct booking, nobody collects for you. You quote the tax, charge it, hold it, report it, and pay it, for every layer.\n\nYour booking engine is the checkout on your own website. Your PMS, the property management system, holds reservations and pricing. Whichever you use needs the right rate and the right base for each layer. Check those settings against your worksheet before your first direct booking.\n\nTexas spells out the split plainly. Owners collect and remit state hotel tax on bookings through their own website. And even when a platform handles state tax, owners should still check local hotel tax with the county and city.\n\nWhen you reach Sam's lessons 9.11 and 9.12, find the screen where tax rates are set and check it line by line against your worksheet."
     },
     {
       "type": "bullets",
@@ -127,7 +127,7 @@
         "NYC platforms verify it before collecting fees",
         "Calendar each expiration 60 days out"
       ],
-      "notes": "Where a city requires a permit or registration number, the platform has a field for it. On Airbnb, it's in the listing's laws and regulations section. Some cities allow \"City registration pending\" or \"Exempt.\" Only use those where the city allows them for your listing.\n\nSome cities make the platform check the number. In New York City, a booking service can't collect its fee until it has checked the city's verification system. That check matches the number, the host's legal name, and the address. So keep the name and address identical everywhere, down to the unit number.\n\nNumbers also expire. In Los Angeles, the registration lasts one year and the renewal window opens 30 days before expiration. I put every expiration on the calendar 60 days out. That's my buffer, not a rule. File when the window opens, then save a dated screenshot of the listing."
+      "notes": "Where a city requires a permit or registration number, the platform usually has a field for it. On Airbnb, it's in the listing's laws and regulations section. Some cities allow \"City registration pending\" or \"Exempt.\" Only use those where the city allows them for your listing.\n\nSome cities make the platform check the number. In New York City, a booking service can't collect its fee until it has checked the city's verification system. That check matches the number, the host's legal name, and the address. So keep the name and address identical everywhere, down to the unit number.\n\nNumbers also expire. In Los Angeles, the registration lasts one year and the renewal window opens 30 days before expiration. Put every expiration on the calendar with a reminder 60 days out. That's my suggested buffer, not a rule. File when the window opens, then save a dated screenshot of the listing."
     },
     {
       "type": "bullets",
@@ -140,7 +140,7 @@
         "Compute the tax you owe, by layer",
         "Compare with tax collected. Explain every gap."
       ],
-      "notes": "Reconciliation means proving that the tax you filed matches the stays you hosted. Do it every filing period, before you file. Taxable receipts are what guests paid for nights plus any fees the tax applies to, like cleaning.\n\nYou need three records: your PMS reservation report, each platform's earnings report, and your tax worksheet.\n\nStart from the reservations and take out full refunds. Split receipts by channel. Separate what the platforms remitted from what you owe on, and compute your tax by layer. Then add up the tax you actually collected, and compare the two.\n\nA shortfall usually means you forgot to charge something, and you owe it anyway, out of your own pocket. An overage usually means you charged tax that didn't apply. Ask the agency how to handle it."
+      "notes": "Reconciliation means proving that the tax you filed matches the stays you hosted. Do it every filing period, before you file. Taxable receipts are what guests paid for nights plus any fees the tax applies to, like cleaning.\n\nYou need three records: your PMS reservation report, each platform's earnings report, and your tax worksheet.\n\nStart from the reservations and take out full refunds. Split receipts by channel. Separate the receipts where a platform remitted the tax from the ones where you owe it, and compute your tax by layer. Then add up the tax you actually collected, and compare the two.\n\nA shortfall usually means you forgot to charge something, and you owe it anyway, out of your own pocket. An overage usually means you charged tax that didn't apply. Ask the agency how to handle it."
     },
     {
       "type": "table",
@@ -174,7 +174,7 @@
         ]
       ],
       "total_last": true,
-      "notes": "Now the worked example. Every rate here is made up. It's a hypothetical place I'm calling Alder City, not any real city. Before you use a worksheet like this, replace every rate with the official agency's rate, its link, and the date you checked it.\n\nAlder City has four layers: state tax at 6%, county at 2%, and city at 5%, all on nightly plus cleaning, plus a tourism district charge of $2 per occupied night.\n\nAlder Street's year is 85 stays and $61,625 of bookings. I've split them 64 on Airbnb, 13 on Vrbo, and 8 direct. Guests pay about $8,521 in occupancy tax on top. That's roughly 13.8%. On one $725 stay, it's $100.25.\n\nNone of this is your revenue. But somebody has to send every dollar of it to the right agency."
+      "notes": "Now the worked example. Every rate and collection arrangement here is made up. It's a hypothetical place I'm calling Alder City, not any real city. Before you use a worksheet like this, replace every rate with the official agency's rate, its link, and the date you checked it.\n\nAlder City has four layers: state tax at 6%, county at 2%, and city at 5%, all on nightly plus cleaning, plus a tourism district charge of $2 per occupied night.\n\nAlder Street's year is 85 stays and $61,625 of bookings. I've split them 64 on Airbnb, 13 on Vrbo, and 8 direct. Guests pay about $8,521 in occupancy tax on top. That's roughly 13.8%. On one $725 stay, it's $100.25.\n\nNone of this is your revenue. But somebody has to send every dollar of it to the right agency."
     },
     {
       "type": "table",
@@ -213,7 +213,7 @@
         ]
       ],
       "total_last": true,
-      "notes": "This is the table I want you to remember. Who actually sends the money in?\n\nIn Alder City, Airbnb remits state and county tax. Vrbo remits only state. On direct bookings, you handle everything. And city and district tax fall to you on every channel, even on Airbnb.\n\nSo the platforms remit $4,277.50, and you remit $4,243.75. That's half the tax, even though Airbnb carries 75% of the stays.\n\nIf you assumed Airbnb handles taxes, you'd leave $4,243.75 unfiled each year, including every dollar of city and district tax. The agency doesn't accept \"I thought the platform did it.\" Your real split could be better or worse. The only way to know is to build this table for your address."
+      "notes": "This table shows who sends the money in.\n\nIn Alder City, Airbnb remits state and county tax. Vrbo remits only state. On direct bookings, you handle everything. And city and district tax fall to you on every channel, even on Airbnb.\n\nSo the platforms remit $4,277.50, and you remit $4,243.75. That's half the tax, even though Airbnb carries 75% of the stays.\n\nIf you assumed Airbnb handles taxes, you'd leave $4,243.75 unfiled each year, including every dollar of city and district tax. Your real split could be better or worse. Build this table for your address to find out."
     },
     {
       "type": "calc",
@@ -249,7 +249,7 @@
         "D. A quarterly reconciliation",
         "E. A check of every listing's number"
       ],
-      "notes": "Here's the exercise: a channel-by-channel tax worksheet for one real address, in five parts.\n\nPart A lists your registrations: the permit, then a tax account for each layer, with the agency, the number, and the renewal date. Part B is the layers: rate, base, taxable stay length, exemptions, and whether a zero return is required. Part C is who collects each layer on Airbnb, Vrbo, and direct. Part D is the quarterly reconciliation by channel, with an explanation for every variance. Part E checks every listing's number, name, address, and expiration.\n\nEvery rate needs an official link and a date. If you can't find one, write unresolved. No bookings yet? Practice Part D with the Alder Street quarter.\n\nYour CPA confirms how the taxes land in your books, and the city licensing office confirms how the number must appear."
+      "notes": "The exercise is a channel-by-channel tax worksheet for one real address, in five parts.\n\nPart A lists your registrations: the permit, then a tax account for each layer, with the agency, the number, and the renewal date. Part B is the layers: rate, base, taxable stay length, exemptions, and whether a zero return is required. Part C is who collects each layer on Airbnb, Vrbo, and direct. Part D is the quarterly reconciliation by channel, with an explanation for every variance. Part E checks every listing's number, name, address, and expiration.\n\nEvery rate needs an official link and a date. If you can't find one, write unresolved. No bookings yet? Practice Part D with the Alder Street quarter.\n\nYour CPA confirms how the taxes land in your books, and the city licensing office confirms how the number must appear."
     },
     {
       "type": "dothis",

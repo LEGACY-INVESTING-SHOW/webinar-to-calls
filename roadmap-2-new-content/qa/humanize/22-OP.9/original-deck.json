@@ -1,0 +1,290 @@
+{
+  "nn": 22,
+  "code": "OP.9",
+  "title": "Guest Experience & Review Strategy in the AI Ranking Era",
+  "short": "Guest Experience & Reviews",
+  "section": "Part Two · Phase 2 - Operations Launch",
+  "slides": [
+    {
+      "type": "cover",
+      "ref": "OP.9.0",
+      "title": "Work on what Airbnb publishes, not on rumors",
+      "notes": "After this lesson you can tell what Airbnb actually says affects search apart from claims about \"the algorithm.\" You'll map each factor to something you control, set up guest checkpoints, write a review request that follows the rules, and start a monthly tracker.\n\nAirbnb doesn't publish whether or how AI changes its ranking. So I stick to what it does publish, and to the guest experience that shows up in reviews.\n\nThe example house is Cedar Ridge, a hypothetical lake rental owned by Maya and Chris. Maya answers guest messages, so she's the message owner. Chris is her backup and gets the repair quotes. Sam, the other instructor, covers listing setup in OP.1 and OP.2 and pricing in OP.5. This lesson covers the parts guests experience and then write about."
+    },
+    {
+      "type": "bullets",
+      "ref": "OP.9.1",
+      "title": "Airbnb names four main search factors",
+      "items": [
+        "Quality: content, reviews, communication",
+        "Popularity: saves, bookings, messages",
+        "Price: total price against nearby listings",
+        "Location: places guests like to stay"
+      ],
+      "notes": "This is what Airbnb's search page says. I checked it in September 2026, and it changes, so reread it before you rely on it.\n\nFour factors heavily influence how a listing appears. Quality covers photos and videos, ratings and reviews, host-guest communication, and listing details. Popularity is how often guests save the listing to a wishlist, book it, and message the host. Price is the total price against nearby listings. Listings priced below comparable ones tend to rank higher. And listings in places guests like to stay tend to rank higher.\n\nThe page adds two points. The system encourages variety, so guests see different hosts and prices. And availability matters. More open dates and flexible stay lengths help a listing fit more trips.\n\nNotice what's missing. No weights, and no special field for AI. If someone sells you a trick, ask for the Airbnb page that supports it."
+    },
+    {
+      "type": "bullets",
+      "ref": "OP.9.2",
+      "ordered": true,
+      "title": "Airbnb's ground rules are what guests write reviews about",
+      "items": [
+        "Accuracy: the listing matches the home",
+        "Commitment: honor bookings, reliable check-in",
+        "Communication: reachable before and during stays",
+        "Cleanliness: clean well between every stay"
+      ],
+      "notes": "Airbnb's ground rules for home hosts cover four things.\n\nAccuracy: the listing describes the home and its amenities, and you change a booking only with the guest's consent. Commitment: honor accepted reservations, give a reliable check-in, and cancel only for valid reasons outside your control. Communication: the host or co-host, someone who helps run the listing, is available before and during stays. Cleanliness: clean between every stay to a high standard.\n\nAirbnb enforces these. That can mean education, warnings, or removing content that misrepresents the listing.\n\nNow look at the list again. Those are the same things guests write about in reviews. So the ground rules are the floor, and reviews measure how far above it you land. OP.6 and OP.8 were built to clear this floor."
+    },
+    {
+      "type": "table",
+      "ref": "OP.9.3",
+      "title": "Each factor maps to a job your team already owns",
+      "columns": [
+        "Factor",
+        "Covered in"
+      ],
+      "rows": [
+        [
+          "Quality: photos and amenities",
+          "OP.6, Sam's OP.1"
+        ],
+        [
+          "Quality: reviews and communication",
+          "OP.7, OP.8, this lesson"
+        ],
+        [
+          "Popularity",
+          "Sam's OP.1 and OP.2"
+        ],
+        [
+          "Price and availability",
+          "Sam's OP.5, your permit"
+        ],
+        [
+          "Location",
+          "Fixed when you bought"
+        ]
+      ],
+      "notes": "Here's how each factor maps to work the Cedar Ridge team already does. The room inventory from OP.6 keeps photos and amenities accurate. The role map from OP.7 names Maya as message owner. The SOPs from OP.8 produce the clean, well-communicated stays that reviews come from.\n\nPopularity, price, and availability run through Sam's lessons. Bring back from OP.5 how your minimum stays are set. Don't cut price just for search; OP.5 covers that trade-off. And before you change minimum stays or open dates, confirm with your local licensing office that the change fits your permit.\n\nLocation was fixed when Maya and Chris bought the house.\n\nAccuracy runs both ways. Guests can filter by amenities, so list what you have. Remove what you don't, the same day it breaks. If the grill breaks on Tuesday, it comes off the listing on Tuesday."
+    },
+    {
+      "type": "table",
+      "ref": "OP.9.4",
+      "title": "The arrival-evening check fixes problems before they become reviews",
+      "columns": [
+        "When",
+        "Check"
+      ],
+      "rows": [
+        [
+          "7 days out",
+          "Trip prep and directions"
+        ],
+        [
+          "Day before",
+          "Check-in code, house ready"
+        ],
+        [
+          "Arrival evening",
+          "\"Anything missing?\""
+        ],
+        [
+          "Within 24 hours after",
+          "Cleaner's walk-through notes"
+        ],
+        [
+          "Day 2-3 after",
+          "Thank-you and review request"
+        ]
+      ],
+      "notes": "A guest journey is the run of moments where a guest decides whether the stay is going well. I plan a checkpoint at each one, so the team checks something instead of waiting for a complaint. Maya runs most of them.\n\nThe arrival-evening message matters most. Problems caught that night get fixed during the stay. Problems found after checkout go straight into a review.\n\nThe full table in the lesson also covers booking, mid-stay, and checkout day. Two gaps to plan for. If a booking comes in less than 7 days out, send trip prep at booking. If you see signs of an event, follow the retained lesson 9.4 on avoiding parties.\n\nAfter checkout, the owners read the cleaner's notes within 24 hours. The review request goes out on day two or three."
+    },
+    {
+      "type": "statement",
+      "ref": "OP.9.4",
+      "title": "Log every guest question and fix the repeats",
+      "text": "A question guests ask twice means the house needs a fix.",
+      "notes": "The friction log is the simplest tool in this lesson. Every time a guest asks a question, mark it.\n\n\"Where's the water shutoff?\" asked once is harmless. Asked twice, the house manual needs a line. \"How do the bunk lights work?\" asked twice means the lights need a label.\n\nMany bad reviews start as a repeated question nobody fixed. The first guest asked. The second guest asked too. The third guest didn't ask. They wrote it in the review.\n\nSo the owners read the log every week and look for repeats. A repeat gets a fix, with a name and a date. That twice rule shows up again in the tracker and in the Cedar Ridge bunk room decision."
+    },
+    {
+      "type": "bullets",
+      "ref": "OP.9.5",
+      "title": "Keep review requests free of trades, rewards, and pressure",
+      "items": [
+        "No rewards or discounts for reviews",
+        "No trading reviews for refunds or deposits",
+        "No pressure and no threats",
+        "Never name a star rating"
+      ],
+      "notes": "After checkout, Airbnb prompts guest and host to review each other. Each side has 14 days.\n\nAirbnb's reviews policy sets the limits on how you ask. Nobody may coordinate with, manipulate, extort, incentivize, or pressure another person to shape a review. Reviews can't be given or withheld for something of value: a discount, a refund, a reciprocal review, or a promise not to take negative action. And neither side may threaten a bad review to get a refund.\n\nThe last bullet is my rule, a step past the policy text. Don't ask for five stars at all. Naming the rating reads as pressure, and the policy prohibits pressure.\n\nThe same rules apply to your review of the guest. Write it on the facts."
+    },
+    {
+      "type": "text",
+      "ref": "OP.9.5",
+      "title": "Send this two or three days after checkout",
+      "text": "\"Hi [first name], thanks for staying at Cedar Ridge. If you have a few minutes, we'd appreciate an honest review on Airbnb. If anything wasn't right, please tell us directly too, so we can fix it for the next guests.\"",
+      "notes": "Here's a request that works within the rules. Send it two or three days after checkout. That gap lets the cleaner's notes come in, so you know about any problem before you ask.\n\nIt thanks the guest, invites an honest review, and asks them to tell you directly if anything was wrong. That gives an unhappy guest a place to say it, and it gives you something to fix. Private feedback comes in addition to the review, never instead of it.\n\nKeep any goodwill gesture away from the request. In OP.8, Maya's $100 internet credit went out during the stay, with no mention of reviews. Keep it that way."
+    },
+    {
+      "type": "flow",
+      "ref": "OP.9.6",
+      "title": "Answer criticism for future guests, after the fix is done",
+      "nodes": [
+        {
+          "h": "Wait a day",
+          "d": "House rule"
+        },
+        {
+          "h": "Check the facts",
+          "d": "Photos, thread, friction log"
+        },
+        {
+          "h": "Fix what you can",
+          "d": "Claim only finished fixes"
+        },
+        {
+          "h": "Respond briefly",
+          "d": "Short, for future guests"
+        }
+      ],
+      "notes": "A public response shows on the listing next to the review. So you're writing for future guests, not arguing with the past one.\n\nWait a day. That's my house rule, not Airbnb's. Check the facts: turnover photos, the message thread, the friction log. Then sort it. Fair and fixable, like a hot bunk room: say what you've fixed. Fair but a known trade-off, like being far from town: point to where the listing says so. Factually wrong: state the fact calmly.\n\nNever claim a fix that isn't done. Save disputes for reviews that break the policy, and know a dispute doesn't guarantee removal. A fair three-star about a hot bunk room doesn't qualify.\n\n[Recording note: Preston can add a real example here if he has one.]"
+    },
+    {
+      "type": "table",
+      "ref": "OP.9.7",
+      "title": "Track what you can act on, every month",
+      "columns": [
+        "Metric",
+        "Cedar Ridge target"
+      ],
+      "rows": [
+        [
+          "First response time",
+          "Median under 15 min"
+        ],
+        [
+          "Complaint reason seen twice",
+          "Fix, owner, date"
+        ],
+        [
+          "Reviews below 5 stars",
+          "Read every one"
+        ],
+        [
+          "Cleaning misses, host cancellations",
+          "Zero"
+        ],
+        [
+          "Review rate",
+          "Record only"
+        ]
+      ],
+      "notes": "Track what you can act on, monthly. Each metric gets a definition, a target, and an owner. These targets are Cedar Ridge house rules, not Airbnb thresholds. Set your own.\n\nFirst response time aims for a median under 15 minutes from 7 a.m. to 10 p.m., with every reply in those hours under 60. After 10 p.m., an auto-reply gives the after-hours number.\n\nAny complaint reason seen twice in a quarter gets a fix, an owner, and a date. Read every review below five stars. Anything below four also gets a check of the photos and thread within 48 hours.\n\nReview rate has no target, because pushing it risks pressuring guests. Record repeat-stay signals too, and thank people."
+    },
+    {
+      "type": "bars",
+      "ref": "OP.9.8",
+      "title": "A 4.6 average can hide a real problem",
+      "items": [
+        {
+          "label": "Five-star reviews",
+          "value": 7,
+          "kind": "pos",
+          "display": "7"
+        },
+        {
+          "label": "Four-star reviews",
+          "value": 2,
+          "kind": "pos",
+          "display": "2"
+        },
+        {
+          "label": "Three-star reviews",
+          "value": 1,
+          "kind": "neg",
+          "hot": true,
+          "display": "1"
+        },
+        {
+          "label": "Bunk room complaints",
+          "value": 2,
+          "kind": "neg",
+          "hot": true,
+          "display": "2"
+        },
+        {
+          "label": "Check-in complaints",
+          "value": 1,
+          "kind": "neg",
+          "display": "1"
+        },
+        {
+          "label": "Internet complaints",
+          "value": 1,
+          "kind": "neg",
+          "display": "1"
+        }
+      ],
+      "notes": "Here's the Cedar Ridge tracker at day 90. These are teaching numbers.\n\nThe base case expects 61 stays a year. In 90 days that's about 15 stays. If about 70% of guests leave a review, that's about 10 reviews. So each review is a tenth of what a new guest reads.\n\nSeven are five-star, two are four-star, and one is three-star. The average is 4.6. That looks fine.\n\nThe bottom bars are complaint mentions, from reviews and messages together. Two guests mentioned a warm bunk room, one in the three-star review and one in a message. That's a repeat. One guest found the check-in directions unclear, and one hit the internet outage from OP.8.\n\nSo skip the debate about 4.6. Ask what the complaints tell you to fix."
+    },
+    {
+      "type": "table",
+      "ref": "OP.9.8",
+      "title": "The repeat complaint goes first on the fix list",
+      "columns": [
+        "Finding",
+        "Fix",
+        "Who"
+      ],
+      "rows": [
+        [
+          "Bunk room too warm",
+          "Cooling quote for the owners",
+          "Chris"
+        ],
+        [
+          "Check-in directions",
+          "Photo of the correct turnoff",
+          "Maya"
+        ],
+        [
+          "90-minute reply after 10 p.m.",
+          "After-hours auto-reply",
+          "Maya"
+        ],
+        [
+          "Internet outage",
+          "Backup router quote",
+          "Chris"
+        ]
+      ],
+      "notes": "The bunk room comes first, because it's a repeat. Chris gets a quote for a ceiling fan or a portable unit. Either costs more than $200, the most the team spends on one item without the owners' OK. So it goes on the owner decision list. Until then, the manual gets a thermostat line and the listing gets a note.\n\nThe directions problem is a map app routing guests down a closed lake road. Maya adds a photo of the correct turnoff to the 7-day message and the manual.\n\nResponse times were good, with a median of 9 minutes. The one 90-minute reply came after 10 p.m., so they add an after-hours auto-reply. Backup internet was already queued in OP.8.\n\nOnce the cooling is in, the response to the three-star review can say so. Not before."
+    },
+    {
+      "type": "checklist",
+      "ref": "OP.9.9",
+      "title": "Run your review request through five checks",
+      "items": [
+        "Offers nothing of value",
+        "Doesn't mention a specific rating",
+        "No link to a refund, deposit, discount, or future stay",
+        "Invites private feedback about problems",
+        "Sent after checkout, not tied to a gesture"
+      ],
+      "notes": "The exercise has three parts in the written lesson. Part A maps each search factor to one monthly check and a name. Part C is the monthly tracker, with a fix list.\n\nPart B is your review request. Write it, then run it through these five checks. Every answer should be yes. If any answer is no, rewrite it.\n\nThe third check catches a lot of people. Even a friendly \"hope to see you next summer, here's a code\" in the same message reads as a trade.\n\nThe fifth keeps any goodwill gesture separate from the request."
+    },
+    {
+      "type": "dothis",
+      "ref": "OP.9.11",
+      "title": "This week, write your review request and start tracking",
+      "items": [
+        "Fill in your factor map",
+        "Write and check your review request",
+        "Start a friction log and monthly tracker"
+      ],
+      "next": "Next: Sam's OP.10. Bring your tracker and fix list.",
+      "notes": "Three things this week. Read Airbnb's search page yourself and fill in your factor map. Write your review request, run it through the five checks, and schedule it for two or three days after checkout. Then start a friction log and the monthly tracker. A shared note or spreadsheet is enough.\n\nNext in order is Sam's OP.10, The 30-Day and 90-Day Performance Review. Bring him your tracker, complaint log, and pending owner decisions. Watch how he compares actual revenue, occupancy, and expenses with the PA.4 underwriting.\n\nThen come back to OP.11, Scaling Your Portfolio. There I'll use that review to decide whether Cedar Ridge has earned a second property, or needs another season first."
+    }
+  ]
+}

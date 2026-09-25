@@ -9,7 +9,7 @@
       "type": "cover",
       "title": "Your lender often picks the entity before you do",
       "ref": "PA.10.0",
-      "notes": "Somebody has already told you to put your rental in an LLC. Somebody else probably said to run it through an S-corp. This lesson sorts those answers out.\n\nPeople blur three questions together. Who holds title? Who operates the rental? How is the activity taxed? By the end you'll know which professional answers each one, and where each name shows up in the paperwork.\n\nI won't give you a universal recommendation, because there isn't one. The right structure depends on your state, your lender, your insurer, your partners, and your tax facts. And very often your lender settles the first question before you get to choose."
+      "notes": "Somebody has already told you to put your rental in an LLC. Somebody else probably said to run it through an S-corp. This lesson sorts those answers out.\n\nPeople blur three questions together. Who holds title? Who operates the rental? How is the activity taxed? By the end you'll know which professional answers each one, and where each name shows up in the paperwork.\n\nI won't give you a universal recommendation, because there isn't one. The right structure depends on your state, your lender, your insurer, your partners, and your tax facts. And often your lender settles the first question before you get to choose."
     },
     {
       "type": "table",
@@ -116,7 +116,7 @@
         }
       ],
       "ref": "PA.10.3",
-      "notes": "Now the order of things. A mortgage or deed of trust usually has a due-on-sale clause. It lets the lender demand full payment if the property is transferred without consent.\n\nFederal law lists some transfers a lender can't treat as a trigger on certain residential loans, like some transfers to a spouse or into certain living trusts. A transfer to your own LLC isn't on that list. Some lenders will consent to it, and some won't.\n\nSo decide before closing, as early as you can, and ask your lender how late the borrower's name can change. Then the lender, title company, and insurer all draw up documents with the same names. If you've already closed in your own names, get the lender's written consent before you deed the property anywhere. And ask your title company whether it affects your title policy."
+      "notes": "A mortgage or deed of trust usually has a due-on-sale clause. It lets the lender demand full payment if the property is transferred without consent.\n\nFederal law lists some transfers a lender can't treat as a trigger on certain residential loans, like some transfers to a spouse or into certain living trusts. A transfer to your own LLC isn't on that list. Some lenders will consent to it, and some won't.\n\nSo decide before closing, as early as you can, and ask your lender how late the borrower's name can change. Then the lender, title company, and insurer all draw up documents with the same names. If you've already closed in your own names, get the lender's written consent before you deed the property anywhere. And ask your title company whether it affects your title policy."
     },
     {
       "type": "bullets",
@@ -129,7 +129,7 @@
         "Mortgagee listed, and in what exact name?"
       ],
       "ref": "PA.10.4",
-      "notes": "Your STR policy protects the named insured. Say title sits in an LLC and the policy names you personally. You may have a gap when you file a claim. The reverse is a problem too.\n\nSo ask the insurer these four questions, in writing. Who should be the named insured if an LLC holds title? Can both the LLC and the owners be named? Does the policy cover the operating company, if that's a separate entity? Does the lender need to be listed as mortgagee, and in what exact name?\n\nAirbnb tells hosts they're responsible for their own insurance, and AirCover for Hosts doesn't replace it. An umbrella liability policy is another way people handle liability. Whether an umbrella, an LLC, or both fits you is a joint call for your attorney and your insurer."
+      "notes": "Your STR policy protects the named insured. Say title sits in an LLC and the policy names you personally. You may have a gap when you file a claim. The reverse can be a problem too.\n\nSo ask the insurer these four questions, in writing. Who should be the named insured if an LLC holds title? Can both the LLC and the owners be named? Does the policy cover the operating company, if that's a separate entity? Does the lender need to be listed as mortgagee, and in what exact name?\n\nAirbnb tells hosts they're responsible for their own insurance, and AirCover for Hosts doesn't replace it. An umbrella liability policy is another way people handle liability. Whether an umbrella, an LLC, or both fits you is a joint call for your attorney and your insurer."
     },
     {
       "type": "table",
@@ -219,7 +219,7 @@
         "Does the entity limit a sale or 1031?"
       ],
       "ref": "PA.10.6",
-      "notes": "Take these questions to your CPA in writing. Written questions get written answers, and you'll want those answers later.\n\nAsk which participation tests apply and how to log your time. Ask whether your personal use means dividing expenses. Ask whether it's Schedule E or Schedule C, which depends on the services you give guests. Ask which return an LLC would file and what it costs to prepare, and whether an S-corp election helps at all. And ask whether the structure limits a future sale or 1031 exchange. OP.12 covers the exit.\n\nThe lesson list has two more. How cost segregation from PA.5 interacts with your entity and hold period. And what records the CPA wants from day one, so you set them up before your first booking."
+      "notes": "Take these questions to your CPA in writing, and ask for the answers in writing. You'll want those answers later.\n\nAsk which participation tests apply and how to log your time. Ask whether your personal use means dividing expenses. Ask whether it's Schedule E or Schedule C, which depends on the services you give guests. Ask which return an LLC would file and what it costs to prepare, and whether an S-corp election helps at all. And ask whether the structure limits a future sale or 1031 exchange. OP.12 covers the exit.\n\nThe lesson list has two more. How cost segregation from PA.5 interacts with your entity and hold period. And what records the CPA wants from day one, so you set them up before your first booking."
     },
     {
       "type": "table",
@@ -263,7 +263,7 @@
         ]
       ],
       "ref": "PA.10.8",
-      "notes": "Maya and Chris are married, both on W-2 income, and they'll self-manage with a local cleaner. Here are three structures, laid out for their professionals. I'm not recommending any of them. Each depends on answers they don't have yet.\n\nOption A keeps everything in their personal names. It fits either loan, and insurance plus an umbrella handles liability.\n\nOption B puts title in Cedar Ridge LLC on a DSCR loan. That works only if the lender lends to LLCs, and a guarantee is likely. It files a partnership return, unless a community property exception applies.\n\nOption C keeps title personal and puts the operation in a separate LLC under a written agreement. The open question is whether that holds up if challenged.\n\nA holding company can wait. For a first property it often adds cost before it solves anything. Revisit it in OP.11."
+      "notes": "Maya and Chris are married, both on W-2 income, and they'll self-manage with a local cleaner. Here are three structures, laid out for their professionals. I'm not recommending any of them. Each depends on answers they don't have yet.\n\nOption A keeps everything in their personal names. It fits either loan, and it relies on insurance plus an umbrella for liability.\n\nOption B puts title in Cedar Ridge LLC on a DSCR loan. That works only if the lender lends to LLCs, and a guarantee is likely. It files a partnership return, unless a community property exception applies.\n\nOption C keeps title personal and puts the operation in a separate LLC under a written agreement. The open questions are whether that holds up if challenged, and what it costs to maintain.\n\nA holding company can wait. For a first property it often adds cost before it solves anything. Revisit it in OP.11."
     },
     {
       "type": "calc",
@@ -355,7 +355,7 @@
       ],
       "next": "Next: PA.11, closing day.",
       "ref": "PA.10.11",
-      "notes": "Three things this week.\n\nFirst, fill in the facts section of the worksheet.\n\nSecond, email your lender the three lender questions and ask for written answers.\n\nThird, email your insurer the four named-insured questions and ask for umbrella options and a price. Send your CPA the list too, and book a call. Your attorney and the licensing office come next, once the lender answers.\n\nWith the names settled, you're ready to close. PA.11 Closing Day walks through the closing figures line by line against your loan quote. It covers how to move the money safely and what to collect when you get the keys. Bring your worksheet, because you'll use it to check every name on every document at the table."
+      "notes": "Three things to do next.\n\nFirst, fill in the facts section of the worksheet.\n\nSecond, email your lender the three lender questions and ask for written answers.\n\nThird, email your insurer the four named-insured questions and ask for umbrella options and a price. Send your CPA the list too, and book a call. Your attorney and the licensing office come next, once the lender answers.\n\nWith the names settled, you're ready to close. PA.11 Closing Day walks through the closing figures line by line against your loan quote. It covers how to move the money safely and what to collect when you get the keys. Bring your worksheet, because you'll use it to check every name on every document at the table."
     }
   ]
 }

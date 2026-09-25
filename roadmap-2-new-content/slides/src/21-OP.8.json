@@ -28,7 +28,7 @@
     {
       "type": "flow",
       "ref": "OP.8.2",
-      "title": "The turnover starts with a walk-through, before anything is touched",
+      "title": "Walk the house before touching anything",
       "nodes": [
         {
           "h": "Walk through first"
@@ -44,12 +44,12 @@
           "kind": "go"
         }
       ],
-      "notes": "The turnover runs more than any other SOP. At Cedar Ridge it runs about 61 times a year, once for each base-case stay. The trigger is the checkout in the calendar, and the SOP owner is the turnover cleaner. The window is six hours, from a 10 a.m. checkout to a 4 p.m. check-in.\n\nThe step I care about most is the walk-through. The cleaner walks the house before touching anything and photographs any damage, because after cleaning the evidence is gone.\n\nAll six beds get stripped, used or not, so nobody has to guess. Step 10 is the safety check: each alarm in place with a normal status light, logged. The full button test is monthly, and it belongs to the handyman.\n\nThe photos let Maya check the work from two hours away. They're also your evidence if a guest reports a problem. Lesson 9.3 covers using them in a damage claim."
+      "notes": "The turnover runs more than any other SOP. At Cedar Ridge it runs about 61 times a year, once for each base-case stay. The trigger is the checkout in the calendar, and the SOP owner is the turnover cleaner. The window is six hours, from a 10 a.m. checkout to a 4 p.m. check-in.\n\nThe step I care about most is the walk-through. The cleaner walks the house before touching anything and photographs any damage, because after cleaning the evidence is gone.\n\nAll six beds get stripped, used or not. Step 10 is the safety check: each alarm in place with a normal status light, logged. The monthly button test belongs to the handyman.\n\nThe photos let Maya check the work from two hours away. They're also your evidence if a guest reports a problem. Lesson 9.3 covers using them in a damage claim."
     },
     {
       "type": "table",
       "ref": "OP.8.3",
-      "title": "Keep four stays of supplies on site and reorder at two",
+      "title": "Keep four stays of supplies, reorder at two",
       "columns": [
         "Item",
         "Par",
@@ -72,12 +72,12 @@
           "6"
         ]
       ],
-      "notes": "Par level is the amount you keep on hand. The reorder point is when someone orders more. Write both on the shelf label, plus what one stay uses, so the cleaner can count in stays.\n\nAt Cedar Ridge, consumables run about $25 per stay. Four stays on site is about $100 of stock. Reorder at two, and a back-to-back weekend never needs a supply run.\n\nLinens follow the OP.6 cycle. After a turnover, one set per bed is on the bed, one is in the wash, and one is on the shelf. So the shelf holds six sheet sets and eight towel sets. For towels, seven is a flag and six is an order. Sheets have no buffer, so five is both.\n\nThe cleaner counts, Maya orders, and anything over $200 needs Maya or Chris to approve it first."
+      "notes": "Par level is the amount you keep on hand. The reorder point is when someone orders more. Write both on the shelf label, plus what one stay uses, so the cleaner can count in stays.\n\nAt Cedar Ridge, consumables run about $25 per stay. Four stays on site is about $100 of stock. Reorder at two, and that leaves room for a back-to-back weekend without a supply run.\n\nLinens follow the OP.6 cycle. After a turnover, one set per bed is on the bed, one is in the wash, and one is on the shelf. So the shelf holds six sheet sets and eight towel sets. For towels, seven is a flag and six is an order. Sheets have no buffer, so five is both.\n\nThe cleaner counts, Maya orders, and anything over $200 needs Maya or Chris to approve it first."
     },
     {
       "type": "table",
       "ref": "OP.8.4",
-      "title": "Catch a no-show cleaner by 11 a.m., not 3:30 p.m.",
+      "title": "Catch a no-show by 11 a.m., not at 3:30",
       "columns": [
         "Time",
         "If it fails"
@@ -104,7 +104,7 @@
           "Delay check-in"
         ]
       ],
-      "notes": "The most visible everyday failure is a guest arriving to a dirty house. It usually starts with a cleaner who doesn't show and a host who finds out at 3:30.\n\nThe ladder catches it early. The cleaner confirms in the task app by 8 p.m. the night before. If not, Maya calls. Still nothing by 9, and she asks the backup cleaner to hold the slot.\n\nOn the day, 11 a.m. is the deadline for the arrival photo. If it isn't in, Maya calls, and after 15 minutes with no answer the backup goes. A backup sent at 11:15 may not finish by 4, so the real job is warning the guest early. At 3:45 Maya reviews the photos.\n\nThe backup gets $200 instead of $150. Four times a year, that's $200 more. It's cheap next to a refund and a one-star review."
+      "notes": "The most visible everyday failure is a guest arriving to a dirty house. Often it starts with a cleaner who doesn't show and a host who finds out at 3:30.\n\nThe ladder catches it early. The cleaner confirms in the task app by 8 p.m. the night before. If not, Maya calls. Still nothing by 9, and she asks the backup cleaner to hold the slot.\n\nOn the day, 11 a.m. is the deadline for the arrival photo. If it isn't in, Maya calls, and after 15 minutes with no answer the backup goes. A backup sent at 11:15 may not finish by 4, so the ladder's job is to warn the guest early. At 3:45 Maya reviews the photos.\n\nThe backup gets $200 instead of $150. If that happens four times a year, that's $200 more. It's cheap next to a refund and a one-star review."
     },
     {
       "type": "table",
@@ -141,20 +141,19 @@
     {
       "type": "bullets",
       "ref": "OP.8.5",
-      "title": "No bot answers a safety, lockout, or refund message",
+      "title": "Only a person answers safety or refund messages",
       "items": [
-        "A person answers every safety message, immediately",
+        "Smoke, gas, leaks, injury, lockouts, refunds",
         "A person replies to anything within 30 minutes",
         "A person sends any changed door code",
         "AI replies stay drafts until someone approves"
       ],
-      "notes": "Automation needs limits. Write these into the SOP and into the settings of any AI messaging tool you use.\n\nThe first one matters most. No automated or AI reply goes to a message about smoke, fire, gas, alarms, leaks, injury, police, lockouts, or refunds. A person answers those right away. Airbnb's scheduled replies fire on events, so this limit is really about AI-suggested replies and outside tools that answer what a guest writes.\n\nA person replies to any guest message within 30 minutes, even after an automatic acknowledgment. The 30 minutes is my assumption. If a door code changes after the check-in message, say after a lockout, a person checks the lock and sends it. Any exception you grant, like a late checkout, goes in the booking notes so the cleaner sees it. SR.5 compares AI messaging tools on these limits."
+      "notes": "Automation needs limits. Write these into the SOP and into the settings of any AI messaging tool you use.\n\nThe first one matters most. No automated or AI reply goes to a message about smoke, fire, gas, alarms, leaks, injury, police, lockouts, or refunds. A person answers those right away. Airbnb's scheduled replies fire on events, so this limit matters most for AI-suggested replies and outside tools that answer what a guest writes.\n\nA person replies to any guest message within 30 minutes, even after an automatic acknowledgment. The 30 minutes is my assumption. An AI suggestion stays a draft until a person approves it, unless it's an approved template for a routine question. If a door code changes after the check-in message, say after a lockout, a person checks the lock and sends it. Any exception you grant, like a late checkout, goes in the booking notes so the cleaner sees it. SR.5 compares AI messaging tools on these limits."
     },
     {
       "type": "table",
       "ref": "OP.8.6",
-      "compact": true,
-      "title": "The matrix says what to do first and who responds",
+      "title": "Write down what to do first, and who comes",
       "columns": [
         "Incident",
         "First action",
@@ -196,7 +195,7 @@
     {
       "type": "checklist",
       "ref": "OP.8.7",
-      "title": "Check the devices at every turnover, like the alarms",
+      "title": "Check the devices at every turnover",
       "items": [
         "No new device indoors",
         "Noise monitor in its disclosed spot",
@@ -211,16 +210,20 @@
       "title": "A normal Sunday turnover is done by 2:20 p.m.",
       "nodes": [
         {
-          "h": "10:25 a.m. arrival photo"
+          "h": "10:25 a.m.",
+          "d": "Arrival photo"
         },
         {
-          "h": "10:40 a.m. beds stripped"
+          "h": "10:40 a.m.",
+          "d": "Beds stripped"
         },
         {
-          "h": "2:10 p.m. safety check"
+          "h": "2:10 p.m.",
+          "d": "Safety check"
         },
         {
-          "h": "2:20 p.m. photos up",
+          "h": "2:20 p.m.",
+          "d": "Photos up",
           "kind": "go"
         }
       ],
@@ -229,28 +232,32 @@
     {
       "type": "flow",
       "ref": "OP.8.8",
-      "title": "An internet outage gets facts, a $100 credit, and a fix",
+      "title": "An outage gets facts, a $100 credit, and a fix",
       "nodes": [
         {
-          "h": "9:05 a.m. \"Internet is down\""
+          "h": "9:05 a.m.",
+          "d": "\"Internet is down\""
         },
         {
-          "h": "9:15 a.m. reset steps"
+          "h": "9:15 a.m.",
+          "d": "Reset steps sent"
         },
         {
-          "h": "10:00 a.m. $100 credit"
+          "h": "10:00 a.m.",
+          "d": "$100 credit"
         },
         {
-          "h": "6:20 p.m. restored",
+          "h": "6:20 p.m.",
+          "d": "Restored",
           "kind": "go"
         }
       ],
-      "notes": "The second walk-through is a guest problem. On a Tuesday, a guest on a four-night stay messages at 9:05: \"Internet is down. I have work calls today.\" The listing advertises a dedicated workspace.\n\nNo safety words, so an automatic acknowledgment is fine, but a person still replies within 30 minutes. Maya replies at 9:15 with the reset steps from the house manual. At 9:35 it's still down, and the provider's page shows an area outage until about 6 p.m. Maya tells the guest what she knows. She doesn't guess at a time the provider hasn't given.\n\nAt 10 she offers a $100 credit, her OP.7 limit, through the platform and not tied to a review. Service returns at 6:20.\n\nThe root-cause note is the useful part. One internet line can't back up an advertised workspace, so Chris quotes a cellular backup router for the month-end review."
+      "notes": "The second walk-through is a guest problem. On a Tuesday, a guest on a four-night stay messages at 9:05: \"Internet is down. I have work calls today.\" The listing advertises a dedicated workspace.\n\nNo safety words, so an automatic acknowledgment is fine, but a person still replies within 30 minutes. Maya replies at 9:15 with the reset steps from the house manual. At 9:35 it's still down, and the provider's page shows an area outage with an estimated fix by 6 p.m. Maya tells the guest what she knows. She doesn't guess at a time the provider hasn't given.\n\nAt 10 she offers a $100 credit, her OP.7 limit, through the platform and not tied to a review. Service returns at 6:20.\n\nThe root-cause note is the useful part. One internet line can't back up an advertised workspace, so Chris gets a quote for a cellular backup router for the month-end review."
     },
     {
       "type": "table",
       "ref": "OP.8.8",
-      "title": "At a CO alarm, everyone gets out before anyone investigates",
+      "title": "In a CO alarm, everyone gets out first",
       "columns": [
         "Time",
         "What happens"
@@ -311,7 +318,7 @@
     {
       "type": "dothis",
       "ref": "OP.8.11",
-      "title": "This week, write the turnover SOP and real emergency numbers",
+      "title": "Start with the turnover SOP and real numbers",
       "items": [
         "Write your turnover SOP on one page",
         "Label the water main shutoff",

@@ -41,7 +41,7 @@
           "$142,688"
         ]
       ],
-      "notes": "Here's what Maya and Chris bring into diligence. These are the pre-diligence numbers from Sam's PA.4.\n\nCedar Ridge is a three-bedroom lake house that sleeps 8, with no HOA. In the base case it earns $74,275 a year at $300 a night and 58% occupancy. NOI, net operating income, is revenue minus operating costs before the loan. That's $29,209. In a weak year it's $18,162.\n\nThe loan is a DSCR loan, sized mainly on the property's rental income. Principal and interest run $23,637 a year. So the base case clears $5,572, and the weak case loses $5,475.\n\nTotal cash in, with the $32,000 furnishing budget, is $142,688. Every finding in diligence gets tested against these numbers."
+      "notes": "These are the pre-diligence numbers Maya and Chris bring in from Sam's PA.4.\n\nCedar Ridge is a three-bedroom lake house that sleeps 8, with no HOA. In the base case it earns $74,275 a year at $300 a night and 58% occupancy. NOI, net operating income, is revenue minus operating costs before the loan. That's $29,209. In a weak year it's $18,162.\n\nThe loan is a DSCR loan, sized mainly on the property's rental income. Principal and interest run $23,637 a year. So the base case clears $5,572, and the weak case loses $5,475.\n\nTotal cash in, with the $32,000 furnishing budget, is $142,688. Every finding in diligence gets tested against these numbers."
     },
     {
       "type": "table",
@@ -142,7 +142,7 @@
         "label": "Cash to close",
         "v": "$118,112"
       },
-      "notes": "You need an inspection and an appraisal, and neither covers the other. The inspector works for you and looks for flaws. The appraiser estimates market value for the lender. A clean appraisal doesn't mean the septic works. A clean inspection doesn't mean the house is worth your price.\n\nPA.8 already set the low-appraisal rule. Maya and Chris ask the seller to drop to value and accept up to $380,000. If the seller holds at $385,000, they walk. Your job here is to know the cash effect the day the report lands.\n\nSay it appraises at $375,000. Lenders generally size the loan on the lower of price or value, so confirm your lender's rule in writing. Cash to close becomes $118,112. That's $7,424 more than the planned $110,688."
+      "notes": "You need an inspection and an appraisal, and neither covers the other. The inspector works for you and looks for flaws. The appraiser estimates market value for the lender. A clean appraisal doesn't mean the septic works. A clean inspection doesn't mean the house is worth your price.\n\nPA.8 already set the low-appraisal rule. Maya and Chris ask the seller to drop to value and accept up to $380,000. If the seller holds at $385,000 while the appraisal contingency is open, they walk. Your job here is to know the cash effect the day the report lands.\n\nSay it appraises at $375,000. Lenders generally size the loan on the lower of price or value, so confirm your lender's rule in writing. Cash to close becomes $118,112. That's $7,424 more than the planned $110,688."
     },
     {
       "type": "table",
@@ -214,7 +214,7 @@
           "Seller pays"
         ]
       ],
-      "notes": "Here's part of Cedar Ridge's tracker. The full one has 13 rows. These decisions are the final ones, after the renegotiation I'll walk through next.\n\nLook at the Verified by column first. Every row has a named source. The permit answer came from the county in writing, not from the listing agent.\n\nEach finding gets exactly one of four decisions: accept, seller fixes, credit or price, or walk. They're alternatives, not steps. Write the decision the day you make it, with a one-sentence reason, and save the evidence in the property folder.\n\nThe insurer quoted $3,200 a year, which is already in the PA.4 budget. Its conditions are a dock railing repair and lower-level alarms within 30 days. The appraisal came in fine. Now we turn these rows into money."
+      "notes": "Here's part of Cedar Ridge's tracker. The full one has 13 rows. These decisions are the final ones, after the renegotiation I'll walk through next.\n\nLook at the Verified by column first. Every row has a named source. The permit answer came from the county in writing, not from the listing agent.\n\nEach finding gets exactly one of four decisions: accept, seller fixes, credit or price, or walk. They're alternatives, not steps. Write the decision the day you make it, with a one-sentence reason, and save the evidence in the property folder.\n\nThe insurer quoted $3,200 a year, which is already in the PA.4 budget. Its conditions are a dock railing repair and lower-level alarms within 30 days. The appraisal supported the contract price. Now we turn these rows into money."
     },
     {
       "type": "table",
@@ -247,7 +247,7 @@
           "**$3,820**"
         ]
       ],
-      "notes": "Four findings add costs that come back every year. PA.4's budget doesn't list them by name.\n\nThe roof needs replacing in about five years at $14,000. Set aside $2,800 a year for it. The septic needs a yearly inspection and more pumping because of the guest load. That's $400. The well's UV lamp and annual test are $220. The county permit renewal is $400.\n\nThat's $3,820 a year.\n\nThe first rerun is the cautious version. It stacks all four on top of the PA.4 budget and leaves the existing capital reserve untouched, free for surprises. Hold on to that choice. It matters in two slides."
+      "notes": "Four findings add costs that come back every year. PA.4's budget doesn't list them by name.\n\nThe roof needs replacing in about five years at $14,000. Set aside $2,800 a year for it. The septic needs a yearly inspection and more pumping because of the guest load. That's $400. The well's UV lamp and annual test are $220. The county permit renewal is $400.\n\nThat's $3,820 a year.\n\nThe first rerun is the cautious version. It stacks all four on top of the PA.4 budget and leaves the existing capital reserve untouched, free for surprises. The final budget, two slides on, spends that reserve on the roof."
     },
     {
       "type": "table",
@@ -308,7 +308,7 @@
           "1.22"
         ]
       ],
-      "notes": "Here's what they found. The PA.4 budget already sets aside 5% of gross as a capital reserve, $3,714. That line exists for bills like a roof. It also has a 5% repairs line for routine upkeep, which now covers the septic program and the UV lamp.\n\nThis isn't new money. The first rerun left both lines untouched. The final budget spends them on the bills they were built for, and they wrote that change down. Only the $400 permit goes on top.\n\nBase cash flow is $5,172, about $431 a month. All three rules pass, none by much: by $172, by $125, and by 0.02.\n\nThe price is a thin cushion. The capital line has $914 left after the roof. Any other capital bill, like the 14-year-old HVAC, comes from their property reserve."
+      "notes": "They found that the PA.4 budget already sets aside 5% of gross as a capital reserve, $3,714. That line exists for bills like a roof. It also has a 5% repairs line for routine upkeep, which now covers the septic program and the UV lamp.\n\nThis isn't new money. The first rerun left both lines untouched. The final budget spends them on the bills they were built for, and they wrote that change down. Only the $400 permit goes on top.\n\nBase cash flow is $5,172, about $431 a month. All three rules pass, none by much: by $172, by $125, and by 0.02.\n\nThe price is a thin cushion. The capital line has $914 left after the roof. Any other capital bill, like the 14-year-old HVAC, comes from their property reserve."
     },
     {
       "type": "table",
@@ -347,7 +347,7 @@
           "**$7,265**"
         ]
       ],
-      "notes": "Now the cash. PA.8 left Maya and Chris $11,020 unallocated. Every new diligence cost comes out of that.\n\nThe first draft had the buyers paying every repair except the septic, plus two more years of bigger weak-case losses. That needed $12,595, and it failed by $1,575.\n\nAfter the renegotiation, the seller treats the well, so the buyers pay $2,955 in repairs. On the final budget the weak case is only $400 a year worse. That leaves $7,265 unallocated.\n\nThat's still $2,735 under their $10,000 buffer from PA.8.3. They save $3,500 a month, so the 45 days to closing refill it.\n\nSo they proceeded, and wrote down why. A buyer with less cash could walk from the same file, and that's sound too. Either way, decide in writing before the deadline."
+      "notes": "Now the cash. PA.8 left Maya and Chris $11,020 unallocated. Every new diligence cost comes out of that.\n\nThe first draft had the buyers paying every repair except the septic, plus two more years of bigger weak-case losses. That needed $12,595, and it failed by $1,575.\n\nAfter the renegotiation, the seller treats the well, so the buyers pay $2,955 in repairs. On the final budget the weak case is only $400 a year worse. That leaves $7,265 unallocated.\n\nThat's still $2,735 under their $10,000 buffer from PA.8.3. They save $3,500 a month. If that holds, the 45 days to closing refill it.\n\nSo they proceeded, and wrote down why. A buyer with less cash could walk from the same file, and that's sound too. Either way, decide in writing before the deadline."
     },
     {
       "type": "gates",

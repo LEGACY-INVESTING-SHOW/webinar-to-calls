@@ -49,7 +49,7 @@
           "Safety"
         ]
       ],
-      "notes": "Before you describe a property, rank your goals. The common seven are cash flow, long-term ownership, personal use, tax planning, portfolio growth, how involved you want to be, and safety. Safety means protecting your household's savings and income if the house underperforms.\n\nThey conflict. Your own peak-season week is a week you didn't rent. A deal bought for the depreciation can lose money every month, and the deduction may not be usable for your household. In 0.2, a co-host taking 18% of booking revenue turned Cedar Ridge's $5,572 a year into minus $7,798. And stretching to buy again sooner leaves a thinner reserve for this house.\n\nRank all seven, 1 to 7. Only the top two or three shape the search. Maya and Chris put safety first and tax planning fifth. Check with your CPA before tax planning goes in your top three."
+      "notes": "Before you describe a property, rank your goals. The common seven are cash flow, long-term ownership, personal use, tax planning, portfolio growth, how involved you want to be, and safety. Safety means protecting your household's savings and income if the house underperforms.\n\nThey conflict. Your own peak-season week is a week you didn't rent. A deal bought for the depreciation can lose money every month, and the deduction may not be usable for your household. In 0.2, a co-host taking 18% of booking revenue turned Cedar Ridge's pre-diligence $5,572 a year into minus $7,798. And stretching to buy again sooner leaves a thinner reserve for this house.\n\nRank all seven, 1 to 7. Only the top two or three shape the search. Maya and Chris put safety first and tax planning fifth. Check with your CPA before tax planning goes in your top three."
     },
     {
       "type": "bullets",
@@ -86,7 +86,7 @@
         "Under both cash caps",
         "Weak case inside your downside rule"
       ],
-      "notes": "Hard requirements are lines a property must clear, every one, before it gets more of your time. They aren't preferences. Fail one, and you pass.\n\nFive belong in almost every buy box. One: legal STR use at the exact address. Unhosted means you don't live there during guest stays. Any HOA or deed restriction has to allow it too. Use the SR.1 checklist, and the city or county licensing office confirms it.\n\nTwo: a written insurance quote at a premium your numbers can carry. Three: lender fit, in writing. Four: your two cash caps. No exceptions because the house is great.\n\nFive: minimum downside performance. Set a floor on weak-case cash flow after the loan payment, and a minimum ratio of base-case net operating income (NOI) to that payment.\n\nAdd a sixth if 0.3 surfaced one. For Maya and Chris, the deal must work with self-management."
+      "notes": "Hard requirements are lines a property must clear, every one, before it gets more of your time. They aren't preferences. Fail one, and you pass.\n\nFive belong in almost every buy box. One: legal unhosted STR use at the exact address. Unhosted means you don't live there during guest stays. Any HOA or deed restriction has to allow it too. Use the SR.1 checklist, and the city or county licensing office confirms it.\n\nTwo: a written insurance quote at a premium your numbers can carry. Three: lender fit, in writing. Four: your two cash caps. No exceptions because the house is great.\n\nFive: minimum downside performance. Set a floor on weak-case cash flow after the loan payment, and a minimum ratio of base-case net operating income (NOI) to that payment.\n\nAdd a sixth if 0.3 surfaced one. For Maya and Chris, the deal must work with self-management."
     },
     {
       "type": "bullets",
@@ -130,7 +130,7 @@
         "label": "Max total cash in",
         "v": "$145,044"
       },
-      "notes": "Maya and Chris are the couple this course follows. Cedar Ridge is a hypothetical lake house listed at $399,000. In PA.8 they agree to buy it at $385,000. In real life they'd write the box first and meet the house later. I'm showing both so you can see the box work.\n\nTheir top goal is safety, so start with what stays untouched. The $51,000 emergency fund. The property reserve, six months of the full payment, $15,342. And $12,614 of other startup costs from their 0.3 stack.\n\nToday they have $210,000, which leaves only $131,044. That's the job of the 0.3 funding condition. They save $3,500 a month for four months and reach $224,000. Now the subtraction leaves $145,044. They round down to $145,000.\n\nThey also set a $115,000 cap on cash to close."
+      "notes": "Maya and Chris are the couple this course follows. Cedar Ridge is a hypothetical lake house listed at $399,000. In PA.8 they agree to buy it at $385,000. In real life they'd write the box first and meet the house later. I'm showing both so you can see the box work.\n\nTheir top goal is safety, so start with what stays untouched. The $51,000 emergency fund. The property reserve, six months of the full payment, $15,342. And $12,614 of other startup costs from their 0.3 stack.\n\nToday they have $210,000, which leaves only $131,044. That's the job of the 0.3 funding condition. They plan to save $3,500 a month for four months and reach $224,000. Now the subtraction leaves $145,044. They round down to $145,000.\n\nThey also set a $115,000 cap on cash to close."
     },
     {
       "type": "calc",
@@ -232,7 +232,7 @@
           "1.19"
         ]
       ],
-      "notes": "Now we test the box on Cedar Ridge.\n\nAt the $385,000 contract price, every number clears. Cash to close and total cash in are under both caps. The weak case loses $5,475, better than the minus $6,000 floor. And base NOI covers the $23,637 yearly loan payment 1.24 times.\n\nFour checks are still pending: a written insurance quote, the address-level legal check, a written lender answer, and a named cleaner plus backup. Pending doesn't mean it clears.\n\nAt the $399,000 asking price, the same house fails three hard requirements. Total cash in goes over $145,000. The weak case loses $6,475. Coverage drops to 1.19. Base-case cash flow is still positive, $4,572, which is how people talk themselves into houses like this.\n\nThe $14,000 negotiation is what made the deal. If the seller had refused, the pass rule says walk. PA.8 covers that."
+      "notes": "Now we test the box on Cedar Ridge. These are pre-diligence figures, and PA.9 revisits them.\n\nAt the $385,000 contract price, every number clears. Cash to close and total cash in are under both caps. The weak case loses $5,475, better than the minus $6,000 floor. And base NOI covers the $23,637 yearly loan payment 1.24 times.\n\nFour checks are still pending: a written insurance quote, the address-level legal check, a written lender answer, and a named cleaner plus backup. Pending doesn't mean it clears.\n\nAt the $399,000 asking price, the same house fails three hard requirements. Total cash in goes over $145,000. The weak case loses $6,475. Coverage drops to 1.19. Base-case cash flow is still positive, $4,572, which is how people talk themselves into houses like this.\n\nThe $14,000 negotiation is what gets the numbers to clear. If the seller had refused, the pass rule says walk. PA.8 covers that."
     },
     {
       "type": "table",
@@ -260,7 +260,7 @@
           "Yes"
         ]
       ],
-      "notes": "This third test is my favorite, because it's so short.\n\nA four-bedroom house with a pool comes up in the same market, listed at $435,000. It's hypothetical.\n\nCash to close is 28.75% of the price, $125,063. That's already over the $115,000 cap. Add $32,000 of furnishing, and total cash in is $157,063, over $145,000. And the pool is outside their complexity limit. An offer at $393,000 wouldn't fix the pool.\n\nSo they pass and log it as \"over cash cap; pool\". They don't pull comparables. They don't build a revenue model. They don't call the lender.\n\nThat's the value of the box. The $435,000 house never takes an evening of their time.\n\n[Recording note: Preston can add a real example here if he has one.]"
+      "notes": "The third test is short.\n\nA four-bedroom house with a pool comes up in the same market, listed at $435,000. It's hypothetical.\n\nCash to close is 28.75% of the price, $125,063. That's already over the $115,000 cap. Add $32,000 of furnishing, and total cash in is $157,063, over $145,000. And the pool is outside their complexity limit. An offer at $393,000 wouldn't fix the pool.\n\nSo they pass and log it as \"over cash cap; pool\". They don't pull comparables. They don't build a revenue model. They don't call the lender.\n\nThat's the value of the box. The $435,000 house never takes an evening of their time.\n\n[Recording note: Preston can add a real example here if he has one.]"
     },
     {
       "type": "worksheet",
@@ -310,7 +310,7 @@
         "Write requirements and pass rule, then sign"
       ],
       "next": "Next: Sam's PA.2 to PA.5, then my PA.6, DSCR Loans 101.",
-      "notes": "Three tasks. Most take an evening.\n\nFirst, rank your seven goals. If there are two of you, rank separately, then compare. Where you disagree is the conversation to have now, not at the offer.\n\nSecond, fill in your constraints and compute your price ceiling. Leave the downside line blank until PA.4.\n\nThird, describe the property, write your hard requirements and pass rule, and have every owner sign. A signature is what makes the box hard to change in a driveway. Then start the pass log with the first listing that fails.\n\nTake the page into Sam's lessons. In PA.2, check which markets allow unhosted STR use at all. In PA.3, your pass rule is the filter. In PA.4, test your downside rule on a real listing. PA.5 covers the tax timing from 0.2. Then I pick up at PA.6, where your financing line becomes a written lender quote."
+      "notes": "Three tasks.\n\nFirst, rank your seven goals. If there are two of you, rank separately, then compare. Where you disagree is the conversation to have now, not at the offer.\n\nSecond, fill in your constraints and compute your price ceiling. Leave the downside line blank until PA.4.\n\nThird, describe the property, write your hard requirements and pass rule, and have every owner sign. A signature is what makes the box hard to change in a driveway. Then start the pass log with the first listing that fails.\n\nTake the page into Sam's lessons. In PA.2, check which markets allow unhosted STR use at all. In PA.3, your pass rule is the filter. In PA.4, test your downside rule on a real listing. PA.5 covers the tax timing from 0.2. Then I pick up at PA.6, where your financing line becomes a written lender quote."
     }
   ]
 }

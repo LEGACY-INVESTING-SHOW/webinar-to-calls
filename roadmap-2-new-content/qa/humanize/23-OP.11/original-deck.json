@@ -1,0 +1,318 @@
+{
+  "nn": 23,
+  "code": "OP.11",
+  "title": "Scaling Your Portfolio: Refinancing, HELOCs & Property #2",
+  "short": "Refinancing, HELOCs & Property #2",
+  "section": "Part Two · Phase 2 - Operations Launch",
+  "slides": [
+    {
+      "type": "cover",
+      "title": "Property two starts with proof from property one",
+      "ref": "OP.11.0",
+      "notes": "This lesson is about buying a second property. But we're not going to open a single listing. We're going to open the books on the first one.\n\nIf property one earned about what you forecast, a second similar house repeats a plan you've already tested. If it didn't, a second house doubles a plan that hasn't worked yet, and it adds a second loan.\n\nSo there are two jobs. Proof: what property one actually earned. And liquidity: where the cash for property two comes from, whether that's savings, a refinance, or a line of credit on your home. Borrowed money needs a wider margin than savings.\n\nWe'll use Cedar Ridge at the end of year 2, and you'll leave with a dated yes, not yet, or no."
+    },
+    {
+      "type": "bullets",
+      "title": "Check four gaps between your forecast and the actual year",
+      "items": [
+        "Revenue miss: rate or occupancy?",
+        "Which costs grew?",
+        "Was the capital reserve funded?",
+        "Debt service: principal and interest only"
+      ],
+      "ref": "OP.11.2",
+      "notes": "Start with Sam's OP.10 review and stretch it to a full year. That's your trailing 12 months. Build it from records, not memory: payouts and fees from each platform's earnings reports, expenses from the property's own bank account and card, nights and rate from your property management software.\n\nSet it up in three columns: the underwriting you bought on, the actual year, and the variance. Then look for four things. Split any revenue miss into rate and occupancy, because they point to different fixes. Find the costs that grew. Check that the capital reserve actually left the operating account. And keep debt service as principal and interest only, with tax and insurance in operating costs.\n\nThe number that matters most is net operating income, or NOI. If it's well under your forecast, property two waits until you know why."
+    },
+    {
+      "type": "table",
+      "title": "Cedar Ridge's year 2 came in $6,594 under plan",
+      "total_last": true,
+      "columns": [
+        "",
+        "Plan",
+        "Actual",
+        "Variance"
+      ],
+      "rows": [
+        [
+          "Gross revenue",
+          "$74,275",
+          "$68,064",
+          "-$6,211"
+        ],
+        [
+          "Operating costs",
+          "-$45,066",
+          "-$45,449",
+          "-$383"
+        ],
+        [
+          "NOI",
+          "$29,209",
+          "$22,615",
+          "-$6,594"
+        ],
+        [
+          "Loan payment",
+          "-$23,637",
+          "-$23,637",
+          "$0"
+        ],
+        [
+          "**Cash flow**",
+          "**$5,572**",
+          "**-$1,022**",
+          "**-$6,594**"
+        ]
+      ],
+      "box": {
+        "kind": "gold",
+        "text": "An 8.4% revenue miss became a 22.6% NOI miss."
+      },
+      "ref": "OP.11.6",
+      "notes": "Here's Cedar Ridge at the end of year 2. Maya and Chris bought it for $385,000 with a DSCR loan at 7.25%. The actual year is one I built for teaching.\n\nThe average nightly rate (ADR) came in at $289, $11 under plan, with 55% occupancy, 3 points under. Revenue landed at 91.6% of plan. Costs rose only $383 net, even with a water heater in repairs. But NOI came in at 77.4% of plan. Most costs stay put when you book fewer nights, so the miss grows on the way down.\n\nThey funded the capital reserve, so minus $1,022 is an honest number. These are the pre-diligence figures. The $400 yearly permit renewal from PA.9 takes cash flow to minus $1,422, and no test result changes."
+    },
+    {
+      "type": "calc",
+      "title": "A cash-out refinance nets them $15,725",
+      "lines": [
+        {
+          "op": "",
+          "label": "Value after 2 years at +3%",
+          "v": "$408,446"
+        },
+        {
+          "op": "×",
+          "label": "Lender's maximum LTV",
+          "v": "75%"
+        },
+        {
+          "op": "=",
+          "label": "New loan",
+          "v": "$306,334"
+        },
+        {
+          "op": "-",
+          "label": "Current loan balance",
+          "v": "$282,951"
+        },
+        {
+          "op": "-",
+          "label": "Refinance costs",
+          "v": "$7,658"
+        }
+      ],
+      "result": {
+        "label": "Cash out",
+        "v": "$15,725"
+      },
+      "ref": "OP.11.6",
+      "notes": "A cash-out refinance replaces your loan with a bigger one and hands you the difference, minus costs. It feels like free money. It's a new loan with a new payment and a new 30-year clock.\n\nFor Cedar Ridge, I assumed the value grew 3% a year to $408,446. At 75% loan-to-value, the new loan is $306,334. Paying off the $282,951 balance removes $23,383 of equity. Costs of $7,658 come out, and they keep $15,725.\n\nThose costs eat 32.8% of the equity they pulled out. That's what happens when the equity is small. Every input here comes from a written lender quote in real life: the appraisal, the maximum loan-to-value for a short-term rental, and the rate."
+    },
+    {
+      "type": "table",
+      "title": "Refinancing drops their actual year to -$1,842",
+      "columns": [
+        "Case",
+        "NOI",
+        "New payment",
+        "Cash flow"
+      ],
+      "rows": [
+        [
+          "Original plan",
+          "$29,209",
+          "-$24,457",
+          "$4,752"
+        ],
+        [
+          "Original weak case",
+          "$18,162",
+          "-$24,457",
+          "-$6,295"
+        ],
+        [
+          "Actual year",
+          "$22,615",
+          "-$24,457",
+          "-$1,842"
+        ]
+      ],
+      "ref": "OP.11.6",
+      "notes": "The new loan is 7.0% for 30 years, a bit under the original 7.25%. So the payment only rises $820 a year, to $24,457. That sounds mild, but the loan is bigger and the payoff schedule starts over.\n\nRun it against three cases. On the original plan, cash flow drops from $5,572 to $4,752. On the weak case they planned for, it's minus $6,295. On the year they actually had, it's minus $1,842, worse than the minus $1,022 before.\n\nAnd the $15,725 covers about 11% of the $142,688 it took to buy and launch Cedar Ridge. Some cash now, a bigger loan for 30 years. Always run the new payment against your weak case and your actual year."
+    },
+    {
+      "type": "bullets",
+      "title": "A HELOC puts your own home on the line",
+      "items": [
+        "Your home is the collateral",
+        "The rate is usually variable",
+        "A value drop can freeze the line",
+        "Undrawn credit is not a reserve"
+      ],
+      "ref": "OP.11.4",
+      "notes": "A home equity line of credit, or HELOC, is a revolving line secured by a home you already own. For most people, that's the house they live in.\n\nThe CFPB describes a draw period, when you can borrow up to your limit, and then repayment. Depending on the plan, you may repay over time or owe the whole balance at once. The rate is usually variable, so price it at today's rate and at a higher stress rate.\n\nTwo risks. If you can't repay, you could lose your home. And the lender can generally freeze or cut the line if your home's value drops significantly or your finances change. So don't count an undrawn line as your emergency reserve. Your CPA also needs to tell you how the interest is treated."
+    },
+    {
+      "type": "table",
+      "title": "Borrowing the down payment turns property two negative",
+      "text": "A Cedar Ridge twin, with $100,000 drawn on a HELOC, interest only.",
+      "columns": [
+        "Twin's cash flow",
+        "Before HELOC",
+        "At 8.0%",
+        "At 10.0%"
+      ],
+      "rows": [
+        [
+          "Base case",
+          "$5,572",
+          "-$2,428",
+          "-$4,428"
+        ],
+        [
+          "Weak case",
+          "-$5,475",
+          "-$13,475",
+          "-$15,475"
+        ]
+      ],
+      "ref": "OP.11.6",
+      "notes": "Maya and Chris's home is worth $520,000 with a $260,000 mortgage. If a lender allows 80% combined loan-to-value, the line could go up to $156,000. Say they draw $100,000 toward a twin of Cedar Ridge, using Cedar Ridge's original, pre-diligence base and weak cases.\n\nI priced the interest at 8% and 10%, both assumptions. That's $8,000 or $10,000 a year. I charge it to property two, because property two is why they borrowed.\n\nA thin base case goes negative. The weak case becomes a five-figure gap every year, with their home securing part of the money. And if the home's value drops 10%, the room left on the line falls from $56,000 to $14,400, and the drop itself can trigger a freeze. If the plan only works at today's rate, it doesn't work."
+    },
+    {
+      "type": "calc",
+      "title": "A HELOC-funded twin leaves them $43,900.50 short of reserves",
+      "lines": [
+        {
+          "op": "",
+          "label": "Savings after Cedar Ridge",
+          "v": "$80,471.50"
+        },
+        {
+          "op": "-",
+          "label": "Twin cash from savings",
+          "v": "$42,688"
+        },
+        {
+          "op": "-",
+          "label": "6 months PITIA, two houses",
+          "v": "$30,684"
+        },
+        {
+          "op": "-",
+          "label": "Emergency fund",
+          "v": "$51,000"
+        }
+      ],
+      "result": {
+        "label": "Short by",
+        "v": "$43,900.50"
+      },
+      "ref": "OP.11.6",
+      "notes": "This is the test that decides the case: cash reserves.\n\nAfter buying and launching Cedar Ridge, Maya and Chris had $80,471.50 left. I hold that flat to keep it simple. In your worksheet, use today's balance.\n\nA twin costs $142,688 all in. With $100,000 from the HELOC, savings cover $42,688. Then they need six months of PITIA on both houses. That's principal, interest, property tax, insurance, and association dues. It comes to $30,684. Add their $51,000 emergency fund, none of it borrowed, and they come up $43,900.50 short.\n\nAdding the refinance cash still leaves them short, and it raises Cedar Ridge's payment."
+    },
+    {
+      "type": "checklist",
+      "cols2": true,
+      "title": "Name a primary and a backup for every role",
+      "items": [
+        "Cleaner and backup cleaner",
+        "Handyman",
+        "Emergency contact",
+        "Guest messaging",
+        "Inspections",
+        "Bookkeeping and supplies"
+      ],
+      "ref": "OP.11.5",
+      "notes": "Once the numbers work, the operating question starts. Can your team run two houses as well as it runs one?\n\nA second house in the same market shares your cleaner, your handyman, and what you know about permits and seasons. But one bad season, ordinance, or storm hits both. A new market spreads that risk, and the learning curve starts over with a new market check and a new local team.\n\nEither way, go through the OP.7 roles and write who covers each one at property two and who backs them up. If one cleaner has two Saturday turnovers, you likely need a second cleaner before you buy.\n\nKeep one bookkeeping file tagged by property, one calendar, and one reserve policy."
+    },
+    {
+      "type": "table",
+      "title": "Four go tests fail, so the answer is not yet",
+      "columns": [
+        "Go test",
+        "Their threshold",
+        "Result",
+        "Pass?"
+      ],
+      "rows": [
+        [
+          "NOI vs plan",
+          "At least 90%",
+          "77.4%",
+          "No"
+        ],
+        [
+          "Property one cash flow",
+          "$0 or more",
+          "-$1,022",
+          "No"
+        ],
+        [
+          "Reserves after buying",
+          "None borrowed",
+          "$43,900.50 short",
+          "No"
+        ],
+        [
+          "Weak case at 10%",
+          "Covered by W-2 pay",
+          "-$15,475",
+          "Not scored"
+        ],
+        [
+          "Team backups",
+          "Every role",
+          "One cleaner",
+          "No"
+        ]
+      ],
+      "ref": "OP.11.6",
+      "notes": "Maya and Chris wrote these go tests before they looked at a single listing. All of them must pass to go. The thresholds are their choices, not industry standards.\n\nNOI is at 77.4% of plan. Property one is at minus $1,022. Reserves are $43,900.50 short. The weak case depends on their household budget, so it isn't scored. And the team has one cleaner with no backup.\n\nCheck the No rule first. No means property one can't cover its loan even in its base case, or the household can't carry the weak case. Cedar Ridge's base case covers its loan, and the household test is open. So it's not No. Four tests fail, so it's not yet. A fail in the first three rows always means at least not yet."
+    },
+    {
+      "type": "bullets",
+      "title": "Not yet comes with a fix list and a date",
+      "items": [
+        "Find why rate and occupancy slipped",
+        "Confirm the water heater was a one-off",
+        "Hire a backup cleaner",
+        "Rerun after the next 90-day review"
+      ],
+      "box": {
+        "kind": "gold",
+        "text": "Borrowing capacity is not a reason to borrow."
+      },
+      "ref": "OP.11.6",
+      "notes": "Not yet isn't vague. It comes with specific steps and a date.\n\nMaya and Chris find out why rate and occupancy slipped, starting with the pricing tools from Sam's OP.5 lesson. They confirm the water heater was a one-off and not the first of several repairs. They hire a backup cleaner. Then they rerun this worksheet after their next 90-day review.\n\nThey don't need a new property right now. They need a better year from the one they have.\n\nAnd notice what did not drive the answer. The refinance was available. The HELOC was available. The money was there. Borrowing capacity is not the same as a reason to borrow.\n\n[Recording note: Preston can add a real example here if he has one.]"
+    },
+    {
+      "type": "checklist",
+      "cols2": true,
+      "title": "Write your go tests before you look at listings",
+      "items": [
+        "Trailing NOI vs plan",
+        "Property one cash flow",
+        "Reserves, excluding undrawn credit",
+        "Weak case at a stress rate",
+        "Market risk and one stop condition",
+        "Team and systems for both houses"
+      ],
+      "ref": "OP.11.7",
+      "notes": "Now it's your turn. The worksheet has three parts. Part A is your trailing 12 against your underwriting, with a source, a date, and a one-line cause on every row. Part B puts savings, a refinance, and a HELOC side by side, with the net cash, the payment at today's rate and a stress rate, and what's at risk as collateral.\n\nPart C is your go tests. Write the thresholds before you look at listings. If you write them after you've fallen for a house, they'll bend.\n\nThen fill in your results and circle one answer: proceed to a property-two buy box in PA.1, not yet with a recheck date, or no and hold one property. Date it and have each owner sign it."
+    },
+    {
+      "type": "dothis",
+      "title": "Three steps this week turn records into a dated answer",
+      "items": [
+        "Export 12 months of earnings and statements",
+        "Write and date your go tests",
+        "Get one written refinance or HELOC quote"
+      ],
+      "next": "Next: OP.12, Cedar Ridge's exit options at year 5.",
+      "ref": "OP.11.9",
+      "notes": "Three things to do this week.\n\nPull the last 12 months of platform earnings and the property's bank and card statements, and fill in Part A. Write your go test thresholds and date them before you browse anything. And ask one lender for a written refinance or HELOC quote, including the terms that let them freeze or cut a line. Your lender confirms those terms in writing, and your CPA confirms how the interest is treated.\n\nNext is OP.12, Exit Strategy: Hold, Refinance, Sell, or 1031 Exchange. Scaling is one way to change the investment. Refinancing, selling, and exchanging are the others. OP.12 takes Cedar Ridge to year 5. Bring your trailing-12 report. It's the starting point for your hold-or-exit worksheet."
+    }
+  ]
+}

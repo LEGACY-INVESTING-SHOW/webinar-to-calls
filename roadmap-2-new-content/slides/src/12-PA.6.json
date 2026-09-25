@@ -123,7 +123,7 @@
           "0.82"
         ]
       ],
-      "notes": "Now the weak case. The course example drops ADR from $300 to $265 and occupancy from about 58% to 50%. Gross revenue falls to $57,330, and NOI falls to $18,162.\n\nOn the gross definition, the weak case still shows 1.87. On the haircut version, 1.49. On the NOI version, 0.82. That last one means the income the lender counts doesn't cover the payment.\n\nSo one weak year can look strong to one lender and fail with another. That's why I keep saying: get the definition in writing. And a high gross number can hide a real problem for you as the owner. That's next."
+      "notes": "Now the weak case. The course example drops ADR from $300 to $265 and occupancy from about 58% to 50%. Gross revenue falls to $57,330, and NOI falls to $18,162.\n\nOn the gross definition, the weak case still shows 1.87. On the haircut version, 1.49. On the NOI version, 0.82. That last one means the income the lender counts doesn't cover the payment.\n\nSo one weak year can look strong to one lender and fail with another. That's why I keep saying: get the definition in writing. Next, you'll see how a high gross number can hide a loss for you as the owner."
     },
     {
       "type": "calc",
@@ -145,7 +145,7 @@
         "label": "Weak-case cash flow",
         "v": "-$5,475 a year"
       },
-      "notes": "Look at the weak case on the gross definition: 1.87. It sounds like the house brings in almost twice its payment.\n\nHere's what Maya and Chris keep. Weak-case NOI is $18,162. Principal and interest is $23,637 a year. Tax and insurance are already out of NOI. So cash flow is minus $5,475 a year, about minus $456 a month. Even the base case is thin, $5,572 a year. Both are pre-diligence figures; PA.9 adjusts them.\n\nA gross ratio never sees the $45,066 of operating costs. The NOI ratio does, so it drops below 1.0 exactly when you lose money.\n\nSo use the lender's ratio for one question: will they lend? Use your own NOI and cash flow from PA.4 for the other: should you buy?"
+      "notes": "Look at the weak case on the gross definition: 1.87. It sounds like the house brings in almost twice its payment.\n\nNow look at what Maya and Chris keep. Weak-case NOI is $18,162. Principal and interest is $23,637 a year. Tax and insurance are already out of NOI. So cash flow is minus $5,475 a year, about minus $456 a month. Even the base case is thin, $5,572 a year. Both are pre-diligence figures; PA.9 adjusts them.\n\nA gross ratio never sees the $45,066 of operating costs. The NOI ratio does, so it drops below 1.0 exactly when you lose money.\n\nSo use the lender's ratio for one question: will they lend? Use your own NOI and cash flow from PA.4 for the other: should you buy?"
     },
     {
       "type": "calc",
@@ -177,7 +177,7 @@
         "label": "Most loan it supports",
         "v": "about $282,989"
       },
-      "notes": "The definition does more than pass or fail you. It can shrink the loan.\n\nSay a lender uses the NOI definition with a 1.20 minimum. That minimum is my assumption. $36,259 divided by 1.20 is $30,216 of PITIA. Take out $7,050 of tax and insurance, and it allows $23,166 a year of principal and interest. At 7.25% over 30 years, that supports about $282,989.\n\nMaya and Chris asked for $288,750. They'd bring about $5,761 more cash to closing.\n\nFlip it. The 80% gross definition with a 1.25 minimum supports roughly $494,600, more than the house is worth. So that lender's 75% LTV cap sets the loan, not the ratio.\n\nAsk each lender for the maximum loan its definition supports on your numbers."
+      "notes": "The definition does more than pass or fail you. It can shrink the loan.\n\nSay a lender uses the NOI definition with a 1.20 minimum. That minimum is my assumption. $36,259 divided by 1.20 is $30,216 of PITIA. Take out $7,050 of tax and insurance, and it allows $23,166 a year of principal and interest. At 7.25% over 30 years, that supports about $282,989.\n\nMaya and Chris asked for $288,750. They'd bring about $5,761 more cash to closing.\n\nNow take the 80% gross definition with a 1.25 minimum. It supports roughly $494,600, more than the house is worth. If that lender caps LTV at 75%, the cap sets the loan, not the ratio.\n\nAsk each lender for the maximum loan its definition supports on your numbers."
     },
     {
       "type": "bullets",
@@ -211,7 +211,7 @@
         "label": "Cash out after the penalty",
         "v": "$10,066"
       },
-      "notes": "The rate gets the attention, but other terms decide the real cost. Down payment is often 20% to 25%. A point is 1% of the loan, paid upfront to lower the rate. Reserves, entity rules, a personal guarantee, and permit proof all vary by lender.\n\nThe prepayment penalty is the one I want you to see. Many DSCR loans charge a fee to pay off early, including a refinance. A common shape is a step-down, like 3-2-1: 3% in year one, 2% in year two, 1% in year three.\n\nThe course example refinances at month 24, which is still year two. That's a what-if. On a $282,951 balance, 2% is $5,659. The $15,725 cash out drops to $10,066. One more month and it falls to 1%. State law can limit these, so ask the lender how its penalty applies in your state."
+      "notes": "The rate gets the attention, but other terms decide the real cost. Kiavi's guide says down payment is often 20% to 25%. A point is 1% of the loan, paid upfront to lower the rate. Reserves, entity rules, a personal guarantee, and permit proof all vary by lender.\n\nThe prepayment penalty is the one I want you to see. Many DSCR loans charge a fee to pay off early, including a refinance. A common shape is a step-down, like 3-2-1: 3% in year one, 2% in year two, 1% in year three.\n\nThe course example refinances at month 24, which is still year two. The Cedar Ridge quote doesn't state a penalty, so this is a what-if. On a $282,951 balance, 2% is $5,659. The $15,725 cash out drops to $10,066. One more month and it falls to 1%. State law can limit these, so ask the lender how its penalty applies in your state."
     },
     {
       "type": "table",
@@ -296,7 +296,7 @@
           "1.20"
         ]
       ],
-      "notes": "Put the written answers side by side. Lender A is our course example's quote. Lender B is invented for this exercise, so its numbers are assumptions.\n\nLender B looks cheaper upfront, with no points. But it uses the NOI definition with a 1.20 minimum. At 7.50% over 30 years, that supports about $276,094. Maya and Chris need $288,750, so they'd bring about $12,656 more cash.\n\nRead offers in this order. First, loan size. Second, full upfront cost, points and fees. Third, what it costs to leave early. Rate comes last. A lower rate with a longer penalty can cost more if you plan the year-two refinance in OP.11.\n\nA DSCR lender may send a term sheet instead of a Loan Estimate, because it's business-purpose credit. Ask for every fee in writing either way."
+      "notes": "Put the written answers side by side. Lender A is our course example's quote. Lender B is invented for this exercise, so its numbers are assumptions.\n\nLender B looks cheaper upfront, with no points. But it uses the NOI definition with a 1.20 minimum. At 7.50% over 30 years, that supports about $276,094. Maya and Chris need $288,750, so they'd bring about $12,656 more cash.\n\nRead offers in this order. First, loan size. Second, full upfront cost, points and fees. Third, what it costs to leave early. Rate comes last. A lower rate with a longer penalty can cost more if you plan the year-two refinance in OP.11.\n\nFederal rules treat a loan to buy a rental you won't live in as business-purpose credit. So a DSCR lender may send a term sheet instead of a Loan Estimate. Ask for every fee in writing either way."
     },
     {
       "type": "dothis",
@@ -308,7 +308,7 @@
         "Plan how you'd cover weak-case losses"
       ],
       "next": "Next: PA.7, DSCR vs. conventional on the same house.",
-      "notes": "Three things this week.\n\nFirst, send the 12 questions to two DSCR lenders, same day, same address. Pull your base-case and weak-case NOI from your PA.4 package before you do. No property yet? Use a live listing, or Cedar Ridge as practice.\n\nSecond, fill in the worksheet in the lesson as answers come back. Your math in one column, each lender's written answers next to it.\n\nThird, apply the decision rule. If the lender's ratio passes but your weak-case cash flow is negative, write down how you'll cover the shortfall and for how long. If you can't answer that, you're not ready to make the offer in PA.8.\n\nPA.7 puts this DSCR quote next to a conventional quote on the same house. Bring your filled worksheet."
+      "notes": "Three things this week.\n\nFirst, send the 12 questions to two DSCR lenders, same address, same day if you can. Pull your base-case and weak-case NOI from your PA.4 package before you do. No property yet? Use a live listing, or Cedar Ridge as practice.\n\nSecond, fill in the worksheet in the lesson as answers come back. Your math in one column, each lender's written answers next to it.\n\nThird, apply the decision rule. If the lender's ratio passes but your weak-case cash flow is negative, write down how you'll cover the shortfall and for how long. If you can't answer that, you're not ready to make the offer in PA.8.\n\nPA.7 puts this DSCR quote next to a conventional quote on the same house. Bring your filled worksheet."
     }
   ]
 }

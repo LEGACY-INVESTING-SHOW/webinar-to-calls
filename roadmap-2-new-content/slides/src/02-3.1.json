@@ -9,7 +9,7 @@
       "type": "cover",
       "ref": "3.1.0",
       "title": "Permission attaches to one address, use, and person",
-      "notes": "Before any numbers matter, you need permission to run a short-term rental at one exact address. It's the check most students skip, and it can end a deal outright.\n\nTwo terms. A short-term rental, or STR, is a furnished stay of less than about a month, the kind booked on Airbnb or Vrbo. Rental arbitrage means you lease a unit, you don't live in it, and you rent it to short-stay guests. This lesson asks whether that model is allowed at one address.\n\nBy the end you'll have a permission ladder for one address with a result: permitted, prohibited, or unresolved. We'll test a hypothetical unit, Alder Street, against two real rulebooks, New York City and Los Angeles. Rules change often, so check the official pages on the day you research."
+      "notes": "Before any numbers matter, you need permission to run a short-term rental at one exact address. It's an easy check to skip, and it can end a deal outright.\n\nTwo terms. A short-term rental, or STR, is a furnished stay of less than about a month, the kind booked on Airbnb or Vrbo. Rental arbitrage means you lease a unit, you don't live in it, and you rent it to short-stay guests. This lesson asks whether that model is allowed at one address.\n\nBy the end you'll have a permission ladder for one address with a result: permitted, prohibited, or unresolved. We'll test a hypothetical unit, Alder Street, against two real rulebooks, New York City and Los Angeles. Rules change often, so check the official pages on the day you research."
     },
     {
       "type": "checklist",
@@ -23,7 +23,7 @@
         "HOA, condo, or co-op rules",
         "Your lease and landlord"
       ],
-      "notes": "Students ask me whether a city is Airbnb-friendly. That label doesn't help you. A city can allow short stays in general while something else blocks your unit.\n\nPicture a ladder. Each rung is a separate question, and one no anywhere ends the deal. Work from the widest authority down. The state may set rules everywhere. Zoning decides what a parcel may be used for. Many cities run a permit program on top of zoning, with categories, caps, and fees. Building and fire codes set occupancy and alarm rules. An HOA, condo, or co-op can ban short rentals in its recorded rules even where the city allows them.\n\nAnd for arbitrage, the lease is the layer you control least. Lessons 3.5 and 5.3 cover those documents."
+      "notes": "Students often ask whether a city is Airbnb-friendly. That label doesn't help you. A city can allow short stays in general while something else blocks your unit.\n\nPicture a ladder. Each rung is a separate question, and one no anywhere ends the deal. Work from the widest authority down. The state may set rules everywhere. Zoning decides what a parcel may be used for. Many cities run a permit program on top of zoning, with categories, caps, and fees. Building and fire codes set occupancy and alarm rules. An HOA, condo, or co-op can ban short rentals in its recorded rules even where the city allows them.\n\nAnd for arbitrage, the lease is the layer you control least. Lessons 3.5 and 5.3 cover the lease documents."
     },
     {
       "type": "table",
@@ -67,7 +67,7 @@
         "Some cities allow one hosting property only",
         "Signing a lease doesn't make it home"
       ],
-      "notes": "A primary-residence rule says you may only host in the home where you actually live. Cities usually define that by time, like more than half the year. Los Angeles uses more than six months. Some add that it has to be the only property where you host.\n\nFor an arbitrage operator, this is usually a hard stop. You can't make a unit your primary residence by signing a lease on it while you live across town. Cities that use this rule often check, with a driver's license, voter registration, or tax records at that address.\n\nSo look for this test right after the hosted clause. If it's there and you don't live in the unit, the plan fails at this rung."
+      "notes": "A primary-residence rule says you may only host in the home where you actually live. Cities usually define that by time, like more than half the year. Los Angeles uses more than six months. Some add that it has to be the only property where you host.\n\nFor an arbitrage operator, this is usually a hard stop. You can't make a unit your primary residence by signing a lease on it while you live across town. Cities that use this rule often ask for proof, like a driver's license, voter registration, or tax records at that address.\n\nSo look for this test right after the hosted clause. If it's there and you don't live in the unit, the plan fails at this rung."
     },
     {
       "type": "table",
@@ -114,7 +114,7 @@
         "The landlord sells the building",
         "You add a partner or an LLC"
       ],
-      "notes": "Here's a question students rarely ask: who does the permit belong to? Some cities issue it to the owner, some to the host, and some tie it to both.\n\nThat matters in three situations. A landlord says the unit already has a permit. If it belongs to the previous host, it may not cover you. The landlord sells the building. A permit issued to the owner may end with the sale. You bring in a partner or form an LLC. Some programs require the host to be a natural person, meaning an individual, so an LLC may not qualify.\n\nAsk the licensing office in writing, and keep the reply in your deal folder."
+      "notes": "Ask who the permit belongs to. Some cities issue it to the owner, some to the host, and some tie it to both.\n\nThat matters in three situations. A landlord says the unit already has a permit. If it belongs to the previous host, it may not cover you. The landlord sells the building. A permit issued to the owner may end with the sale. You bring in a partner or form an LLC. Some programs require the host to be a natural person, meaning an individual, so an LLC may not qualify.\n\nAsk the licensing office in writing, and keep the reply in your deal folder."
     },
     {
       "type": "table",
@@ -146,7 +146,7 @@
           "255"
         ]
       ],
-      "notes": "Now the worked example. Alder Street is the course example, the same unit other lessons use. It's Unit 4B at 218 Alder Street, a hypothetical two-bedroom that sleeps five, in a four-unit building.\n\nThe student leases it and lives somewhere else. That's the arbitrage model. The plan is unhosted, whole-unit stays averaging three nights, at 70% occupancy, which works out to 255 nights a year.\n\nThe real city is left unnamed on purpose, because rules attach to an exact address. So we'll drop the same unit into two real rulebooks, New York City and Los Angeles, and watch how the answer changes."
+      "notes": "Now the worked example. Alder Street is the course example, the same unit other lessons use. It's Unit 4B at 218 Alder Street, a hypothetical two-bedroom that sleeps five, in a four-unit building.\n\nThe student leases it and lives somewhere else. That's the arbitrage model. The plan is unhosted, whole-unit stays averaging three nights, at 70% occupancy, which works out to 255 nights a year.\n\nThe real city is left unnamed on purpose. Here we'll drop the same unit into two real rulebooks, New York City and Los Angeles, and watch how the answer changes."
     },
     {
       "type": "table",
@@ -222,7 +222,7 @@
           "Open"
         ]
       ],
-      "notes": "Los Angeles runs a Home-Sharing Ordinance. Home-sharing is limited to your primary residence, where you live more than six months a year, and it must be your only home-share. The standard limit is 120 days a year unless you qualify for Extended Home-Sharing. Rent-stabilized units are excluded, which is most multifamily built before October 1, 1978. Renters need the landlord's notarized approval, and hosts register for the city's hotel tax.\n\nAlder Street fails primary residence, fails the only-property rule, and 255 nights blows past 120. RSO status is a check in the city's ZIMAS tool.\n\nResult: prohibited. Same unit, same lease, two different no answers for two different reasons."
+      "notes": "Los Angeles runs a Home-Sharing Ordinance. Home-sharing is limited to your primary residence, where you live more than six months a year, and it must be your only home-share. The standard limit is 120 days a year unless you qualify for Extended Home-Sharing. Units under the Rent Stabilization Ordinance, or RSO, are excluded. That covers most multifamily units built before October 1, 1978. Renters need the landlord's notarized approval, and hosts register for the city's hotel tax.\n\nAlder Street fails primary residence, fails the only-property rule, and 255 nights blows past 120. You check RSO status in the city's ZIMAS tool.\n\nResult: prohibited. Same unit, same lease, two different no answers for two different reasons."
     },
     {
       "type": "calc",
@@ -281,7 +281,7 @@
           "kind": "go"
         }
       ],
-      "notes": "Here's the flow I want you to follow for every address.\n\nWrite down the exact plan: address, parcel number, hosted or unhosted, guests, stay length, nights a year. Use the city or county parcel lookup, because many students check the wrong city from a mailing address.\n\nFind the official ordinance and the program's own page. A blog or a Facebook group is not a source. If the ordinance bans your model, stop.\n\nThen check zoning, building type, the HOA, the lease, and the permit mechanics. Each can stop you.\n\nIf anything is unclear, ask the licensing office a yes-or-no question in writing. Save dated copies of every page and reply. Sam runs this flow live in 3.2."
+      "notes": "Here's the flow I want you to follow for every address.\n\nWrite down the exact plan: address, parcel number, hosted or unhosted, guests, stay length, nights a year. Use the city or county parcel lookup, because a mailing address can name a different city than the one whose rules apply.\n\nFind the official ordinance and the program's own page. A blog or a Facebook group is not a source. If the ordinance bans your model, stop.\n\nThen check zoning, building type, the HOA, the lease, and the permit mechanics. Each can stop you.\n\nIf anything is unclear, ask the licensing office a yes-or-no question in writing. Save dated copies of every page and reply. Sam runs this flow live in 3.2."
     },
     {
       "type": "table",
@@ -317,7 +317,7 @@
         "Send the licensing office one yes-or-no question"
       ],
       "next": "Next: 3.2, Sam's live regulation search.",
-      "notes": "Three things to do this week.\n\nWrite the plan facts for one real address, with the parcel number from the city or county lookup.\n\nFind the official ordinance and the permit program's own page, and save dated PDFs of both. Search them for the host-present, primary-residence, and night-cap clauses.\n\nThen send the licensing office one specific yes-or-no question about your plan, in writing.\n\nNext is Sam's 3.2, How to Research Regulations Before You Sign Anything. He runs this flow live on a real address. Watch how he finds the official source. Then come back for 3.3, where we cover tax registration and how your permit number gets verified on the listing."
+      "notes": "Three things to do before you watch 3.2.\n\nWrite the plan facts for one real address, with the parcel number from the city or county lookup.\n\nFind the official ordinance and the permit program's own page, and save dated PDFs of both. Search them for the host-present, primary-residence, and night-cap clauses.\n\nThen send the licensing office one specific yes-or-no question about your plan, in writing.\n\nNext is Sam's 3.2, How to Research Regulations Before You Sign Anything. He runs this flow live on a real address. Watch how he finds the official source. Then come back for 3.3, where we cover tax registration and how your permit number gets verified on the listing."
     }
   ]
 }

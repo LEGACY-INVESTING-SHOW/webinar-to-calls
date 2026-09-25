@@ -68,7 +68,7 @@
         "Local contact sheet",
         "Complaint and damage process"
       ],
-      "notes": "Owners respond to paper more than to reassurance. Your evidence packet is a folder of seven documents.\n\nPermit status comes from your 3.4 scorecard and SR.1 research, with official links. The declarations page is the summary page of your policy: who's covered, the limits, the dates. The draft addendum carries the ten topics from 3.5, reviewed by your attorney. Then an operating summary, house rules, a local contact sheet with a 24-hour number, and a short complaint and damage process.\n\nMissing something? Say so and give a date. \"The insurer quoted $1,300 a year; I'll send the declarations page when the policy binds, before the first guest.\" That's honest and specific."
+      "notes": "Owners respond to paper more than to reassurance. Your evidence packet is a folder of seven documents.\n\nPermit status comes from your 3.4 scorecard and SR.1 research, with official links. The declarations page is the summary page of your policy: who's covered, the limits, the dates. The draft addendum carries the ten topics from 3.5, reviewed by your attorney. Then an operating summary, house rules, a local contact sheet with a 24-hour number, and a written complaint and damage process.\n\nMissing something? Say so and give a date. \"The insurer quoted $1,300 a year; I'll send the declarations page when the policy binds, before the first guest.\" That's honest and specific."
     },
     {
       "type": "table",
@@ -100,7 +100,7 @@
           "The owner's call. If no, log a pass."
         ]
       ],
-      "notes": "Every objection has a real worry behind it. Answer it with evidence, then write the answer into the addendum so it outlasts the phone call.\n\nLegality gets the ordinance link, the permit category, the date you checked, and the licensing office's written answer. Parties get house rules and a guest cap. Damage gets your declarations page, your damage process, and the lease deposit. Noise gets quiet hours and a response time. Vacancy gets your stress case and cash reserve. A worry about guest injury gets your policy, with the owner as an additional insured if the insurer allows.\n\nThe last row is honest about limits. You can't answer for the owner's insurer or mortgage. Offer to wait while they check. If the answer is no, log the pass."
+      "notes": "Every objection has a real worry behind it. Answer it with evidence, then write the answer into the addendum so it outlasts the phone call.\n\nLegality gets the ordinance link, the permit category, the date you checked, and any written answer from the licensing office. Parties get house rules and a guest cap. Damage gets your declarations page, your damage process, and the lease deposit. Noise gets quiet hours and a response time. Vacancy gets your stress case and cash reserve. A worry about guest injury gets your policy, with the owner as an additional insured if the insurer allows.\n\nThe last row is honest about limits. You can't answer for the owner's insurer or mortgage. Offer to wait while they check. If the answer is no, log the pass."
     },
     {
       "type": "bullets",
@@ -170,7 +170,7 @@
           "A named 24-hour local contact"
         ]
       ],
-      "notes": "Dana is a fictional landlord. You deliver the opening, and Dana starts asking.\n\nOn legality, you don't argue. You show the ordinance link, the permit page, the date you checked, and the licensing office's written reply. The $250 permit is yours to pay. On the permit itself, you don't have it yet, because the application needs Dana's signed consent. That's clause 4. No guest checks in before the permit is issued and your policy is bound.\n\nInsurance gets the $1,300 quote and proof at every renewal. Damage gets about 85 cleans a year and a monthly inspection. Then Dana says, \"Put all of that in writing.\" It already is. You hand over the addendum and a one-page summary, and ask Dana to check with their own insurer and lender."
+      "notes": "Dana is a fictional landlord. You deliver the opening, and Dana starts asking.\n\nOn legality, you show the ordinance link, the permit page, the date you checked, and the licensing office's written reply. The $250 permit is yours to pay. On the permit itself, you don't have it yet, because the application needs Dana's signed consent. That's clause 4. No guest checks in before the permit is issued and your policy is bound.\n\nInsurance gets the $1,300 quote and proof at every renewal. Damage gets about 85 cleans a year and a monthly inspection. Then Dana says, \"Put all of that in writing.\" It already is. You hand over the addendum and a one-page summary, and ask Dana to check with their own insurer and lender."
     },
     {
       "type": "table",
@@ -210,7 +210,7 @@
         "No guests before permit and policy",
         "For a pass: log reason and date"
       ],
-      "notes": "A yes on the phone isn't approval. Close every conversation with an email the same day.\n\nFor approval, list the signed documents and their dates. Then list what you still owe, like the declarations page, the permit number, and the local contact, with a date next to each. And state the condition plainly: no guest checks in before the permit is issued and the policy is bound.\n\nFor a pass, thank the owner and state their reason in neutral words. Ask whether you can check back if things change. Then log it: date, address, owner, outcome, reason given, and a follow-up date. If three owners in a row cite their building insurer, that's a market-level fact worth knowing before your next pitch."
+      "notes": "A yes on the phone isn't approval. Close every conversation with an email the same day.\n\nFor approval, list the signed documents and their dates. Then list what you still owe, like the declarations page, the permit number, and the local contact, with a date next to each. And state the condition plainly: no guest checks in before the permit is issued and the policy is bound.\n\nFor a pass, thank the owner and state their reason in neutral words. Ask whether you can check back if things change. Then log it: date, address, owner, outcome, reason given, and a follow-up date. If three owners in a row cite their building insurer, that's a pattern worth knowing before your next pitch."
     },
     {
       "type": "checklist",
@@ -236,7 +236,7 @@
         "Build the evidence packet and pass log"
       ],
       "next": "Next: 6.1, Cleaners.",
-      "notes": "Three things this week.\n\nWrite your 60-second opening for one real address, then say it out loud with a timer. Cut anything that sounds like a promise you can't keep.\n\nEmail your broker two questions: which channels does my quote cover, and can the landlord be named as an additional insured? Get the answers in writing.\n\nBuild the evidence packet as a folder, all seven documents, with a date on anything missing. And set up your pass log before you need it.\n\nA signed addendum promises the owner a clean unit after every stay and a local person who answers. Module 6 is where you build that team, starting with 6.1, Cleaners. Bring your local contact commitments. They set the standard your cleaner has to meet."
+      "notes": "Three things this week.\n\nWrite your 60-second opening for one real address, then say it out loud with a timer. Cut anything that sounds like a promise you can't keep.\n\nEmail your broker two questions: which channels does my quote cover, and can the landlord be named as an additional insured? Get the answers in writing.\n\nBuild the evidence packet as a folder, all seven documents, with a date on anything missing. And set up your pass log before you need it.\n\nA signed addendum promises the owner a clean unit after every stay and a local person who answers. Module 6 is where you build that team, starting with 6.1, Cleaners. Bring your local contact commitments. They set the minimum standard your cleaner and on-call help have to meet."
     }
   ]
 }

@@ -90,7 +90,7 @@
           "hot": true
         }
       ],
-      "notes": "This is annual cash flow. These are the pre-diligence Cedar Ridge numbers; PA.9 updates them later.\n\nThe base case assumes a $300 average nightly rate (ADR) and 58% occupancy. DSCR leaves $5,572 a year and conventional leaves $6,446. That's $874 better on conventional.\n\nIn the weak case, ADR drops to $265 and occupancy to 50%. DSCR loses $5,475 a year and conventional loses $4,601. Both lose money.\n\nNow hand the house to a full-service co-host at 18% of booking revenue. Even the base case goes negative on both loans. If you plan to use a co-host, run that case before you buy. OP.7 covers that choice.\n\nFinancing changes the size of the loss. It doesn't change the house."
+      "notes": "This is annual cash flow. These are the pre-diligence Cedar Ridge numbers; PA.9 updates them later.\n\nThe base case assumes a $300 average nightly rate (ADR) and 58% occupancy. DSCR leaves $5,572 a year and conventional leaves $6,446. That's $874 better on conventional.\n\nIn the weak case, ADR drops to $265 and occupancy to 50%. DSCR loses $5,475 a year and conventional loses $4,601. Both lose money. The financing choice only changes the size of the loss.\n\nNow hand the house to a full-service co-host at 18% of booking revenue. Even the base case goes negative on both loans. If you plan to use a co-host, run that case before you buy. OP.7 covers that choice."
     },
     {
       "type": "bullets",
@@ -149,7 +149,7 @@
         "Second home: rental income generally can't count",
         "Your lender confirms whether your deal fits"
       ],
-      "notes": "You'll hear people say conventional loans can't use Airbnb income. That's out of date.\n\nOn September 2, 2026, Fannie Mae added a section on short-term rental income from the property being financed. Lenders are encouraged to use it now and must use it for applications dated November 1, 2026 or later. Before that date, ask your loan officer whether they've adopted it.\n\nI'll be straight with you. The exact conditions in that section weren't confirmed for this lesson. If the lender says your deal fits, it may count documented STR income. If the house is classified as a second home, rental income generally can't be used. And if it doesn't fit, the lender may still approve you on W-2 income alone.\n\nAsk the lender whether the section applies to your transaction and which documents it accepts, in writing."
+      "notes": "You'll hear people say conventional loans can't use Airbnb income. That's out of date.\n\nOn September 2, 2026, Fannie Mae added a section on short-term rental income from the property being financed. Lenders are encouraged to use it now and must use it for applications dated November 1, 2026 or later. Before that date, ask your loan officer whether they've adopted it.\n\nThe exact conditions in that section weren't confirmed for this lesson. If the lender says your deal fits, it may count documented STR income. If the house is classified as a second home, rental income generally can't be used. And if it doesn't fit, the lender may still approve you on W-2 income alone.\n\nAsk the lender whether the section applies to your transaction and which documents it accepts, in writing."
     },
     {
       "type": "table",
@@ -210,7 +210,7 @@
         "label": "Penalty at the sale",
         "v": "$2,725"
       },
-      "notes": "Now the exit. In the Cedar Ridge example, Maya and Chris sell at the end of year five.\n\nSay the DSCR loan has a 5-4-3-2-1 step-down penalty. That's an example structure, not a standard. You'd pay 5% of the balance if you paid off in year one, stepping down to 1% in year five. Month 60 is still year five, so it's 1% of $272,519. That's $2,725, on top of the $8,342, or about $11,067 in total.\n\nWith a 3-2-1 schedule, there'd be no penalty at year five. So the schedule matters as much as the rate. Ask the conventional lender to confirm in writing whether any prepayment penalty applies to its loan too."
+      "notes": "Now the exit. In the Cedar Ridge example, Maya and Chris sell at the end of year five.\n\nSay the DSCR loan has a 5-4-3-2-1 step-down penalty. That's an example structure, not a standard. You'd pay 5% of the balance if you paid off in year one, stepping down to 1% in year five. Month 60 is still year five, so it's 1% of $272,519. That's $2,725, on top of the $8,342, or about $11,067 in total.\n\nWith a 3-2-1 schedule, there'd be no penalty at year five. Ask the conventional lender to confirm in writing whether any prepayment penalty applies to its loan too."
     },
     {
       "type": "checklist",
@@ -224,7 +224,7 @@
         "Prepayment penalty by year",
         "Refinance terms"
       ],
-      "notes": "Rates change daily, so get both quotes on the same day if you can. Then compare these lines.\n\nThe APR includes the rate plus points and certain other charges, so it's useful when two loans have different fees. PITIA is the full payment: principal, interest, taxes, insurance, and association dues.\n\nThe last line is the one people forget: what the lender will require at refinance. How long you must own the property first. How much cash you can pull out. And how it will count STR income then.\n\nOne wrinkle. A loan on a rental you won't live in counts as business-purpose credit, so a lender may send a short term sheet instead of a standard Loan Estimate. Either way, ask for every rate, fee, and penalty in writing, in the same layout."
+      "notes": "Rates change daily, so get both quotes on the same day if you can. Then compare these lines.\n\nThe APR includes the rate plus points and certain other charges, so it's useful when two loans have different fees. PITIA is the full payment: principal, interest, taxes, insurance, and association dues.\n\nThe last line is what the lender will require at refinance. How long you must own the property first. How much cash you can pull out. And how it will count STR income then.\n\nOne wrinkle. Federal rules treat a loan on a rental you won't live in as business-purpose credit, so a lender may send a short term sheet instead of a standard Loan Estimate. Either way, ask for every rate, fee, and penalty in writing, in the same layout."
     },
     {
       "type": "table",
@@ -262,7 +262,7 @@
           "Usually lower"
         ]
       ],
-      "notes": "Price isn't the only difference. Here's what each route tends to give and take. Every line varies by lender, so confirm it with the one you're talking to.\n\nDSCR lenders often let you close in an LLC, and the paperwork is shorter. Conventional usually means full income and asset documents, and often personal names on title.\n\nOne thing people get wrong: a DSCR loan doesn't keep the property off your record. A future conventional lender will count Cedar Ridge under its own rules when Maya and Chris go for property two.\n\nSo keep clean records from day one. Booking statements, the loan payment history, and the Schedule E your CPA files, which is the tax form that reports rental income and expenses. OP.11 picks this up."
+      "notes": "Price isn't the only difference. Here's what each route tends to give and take. Every line varies by lender, so confirm it with the one you're talking to.\n\nDSCR lenders often let you close in an LLC, and the paperwork is shorter. Conventional usually means full income and asset documents, and often personal names on title.\n\nA DSCR loan doesn't keep the property off your record. A future conventional lender will count Cedar Ridge under its own rules when Maya and Chris go for property two.\n\nSo keep clean records from day one. Booking statements, the loan payment history, and the Schedule E your CPA files, which is the tax form that reports rental income and expenses. OP.11 picks this up."
     },
     {
       "type": "gates",
@@ -311,7 +311,7 @@
           "kind": "go"
         }
       ],
-      "notes": "Let's run Maya and Chris through Branch A.\n\nTheir DTI is 35.6% with no STR income, so they get a conventional quote first. On a hand-underwritten file that's only 0.4 points under 36%, so they also ask for a pre-underwrite. They tell the lender they plan about 10 personal-use days a year and ask for the occupancy classification in writing. They ask whether an LLC can hold title and note the answer, since the PA.10 entity work isn't done yet.\n\nConventional saves $2,888 at closing and about $8,342 over five years, plus up to $2,725 if the DSCR loan has that penalty. They keep the DSCR quote live in case underwriting stalls.\n\nThen the key choice. They set the offer on the DSCR numbers until the conventional approval is in writing. You set your ceiling on the more expensive loan you might end up with."
+      "notes": "Let's run Maya and Chris through Branch A.\n\nTheir DTI is 35.6% with no STR income, so they get a conventional quote first. On a hand-underwritten file that's only 0.4 points under 36%, so they also ask for a pre-underwrite. They tell the lender they plan about 10 personal-use days a year and ask for the occupancy classification in writing. They ask whether an LLC can hold title and note the answer, since the PA.10 entity work isn't done yet.\n\nConventional saves $2,888 at closing and about $8,342 over five years, plus up to $2,725 if the DSCR loan has that penalty. They keep the DSCR quote live in case underwriting stalls.\n\nLast, they set the offer on the DSCR numbers until the conventional approval is in writing. You set your ceiling on the more expensive loan you might end up with."
     },
     {
       "type": "dothis",

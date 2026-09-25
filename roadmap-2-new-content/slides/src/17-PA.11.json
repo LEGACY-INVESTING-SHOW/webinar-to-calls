@@ -9,7 +9,7 @@
       "type": "cover",
       "title": "Check the figures, verify the wire, collect the keys",
       "ref": "PA.11.0",
-      "notes": "This is closing day. It's the day you move the most money you'll move in this whole program, so we're going to slow it down.\n\nBy the end you'll be able to check your final closing figures line by line against your accepted offer and your latest loan terms. You'll know what each document does. You'll know how to send your closing funds without handing them to a scammer. And you'll know what to collect when the keys change hands.\n\nCedar Ridge is our example again. The line-item fees I show you are made up to add up to the example's totals."
+      "notes": "This is closing day. It's the day you move the most money in the whole purchase, so we're going to slow it down.\n\nBy the end you'll be able to check your final closing figures line by line against your accepted offer and your latest loan terms. You'll know what each document does. You'll know how to send your closing funds without handing them to a scammer. And you'll know what to collect when the keys change hands.\n\nCedar Ridge is our example again. The line-item fees I show you are made up to add up to the example's totals."
     },
     {
       "type": "flow",
@@ -109,7 +109,7 @@
         "v": "+$659"
       },
       "ref": "PA.11.4",
-      "notes": "For this example, Maya and Chris closed on their backup DSCR loan. $385,000 price, a $288,750 loan at 7.25% with 1 point, $96,250 down. Total closing costs came to $14,438 against a $13,779 estimate. Cash to close is $110,688.\n\nNow read the changes the way you would at your kitchen table. Insurance went up $600 and its escrow line $100, because the estimate used a generic homeowners premium and the final uses the real $3,200 STR quote from PA.9. That's the right policy. Just count that premium once in your year-one cash.\n\nThe appraisal, title, settlement, and survey lines added $245. Ask the lender and title company to explain each one. Prepaid interest dropped $286 because the closing moved later in the month.\n\nThe full line-by-line table is in the written lesson. Every dollar of change should have a reason."
+      "notes": "For this example, assume Maya and Chris closed on their backup DSCR loan. $385,000 price, a $288,750 loan at 7.25% with 1 point, $96,250 down. Total closing costs came to $14,438 against a $13,779 estimate. Cash to close is $110,688.\n\nNow read the changes the way you would at your kitchen table. Insurance went up $600 and its escrow line $100, because the estimate used a generic homeowners premium and the final uses the real $3,200 STR quote from PA.9. That's the right policy. Just count that premium once in your year-one cash.\n\nThe appraisal, title, settlement, and survey lines added $245. Ask the lender and title company to explain each one. Prepaid interest dropped $286 because the closing moved later in the month.\n\nThe full line-by-line table is in the written lesson. Every dollar of change should have a reason."
     },
     {
       "type": "calc",
@@ -305,7 +305,7 @@
         ]
       ],
       "ref": "PA.11.9",
-      "notes": "The third part is the unresolved items log. It's the bridge to PA.12.\n\nFor Cedar Ridge, three rows start it. The recorded deed copy, which arrives after the county records the deed. The new STR permit application, because the seller's permit doesn't transfer. And the well retest, because the new UV system needs a clean result before the first guest. Those rows are made up for teaching.\n\nYour log will have its own rows. Anything you didn't collect at possession goes here. So does anything the walkthrough turned up that's being fixed after closing.\n\nEvery row gets one owner and one due date. Not 'we.' One name."
+      "notes": "The third part is the unresolved items log. It's the bridge to PA.12.\n\nFor Cedar Ridge, three rows start it. The recorded deed copy, which arrives after the county records the deed. The new STR permit application, because the seller's permit doesn't transfer. And the well retest, because the water needs a clean result before the first guest. Those rows are made up for teaching.\n\nYour log will have its own rows. Anything you didn't collect at possession goes here. So does anything the walkthrough turned up that's being fixed after closing.\n\nEvery row gets one named owner and one due date."
     },
     {
       "type": "dothis",

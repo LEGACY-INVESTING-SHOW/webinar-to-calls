@@ -8,7 +8,7 @@ This folder is a standalone project. It holds the teaching content and slide dec
 |---|---|
 | `roadmap-2-complete-new-content.md` | Step 1. The complete teaching content for all 27 items in one file. |
 | `slides/index.html` | Step 2. Index of the 27 HTML decks. Open any deck in a browser. |
-| `slides/<NN>-<CODE>.html` | One deck per lesson or resource. Arrow keys move, **N** shows speaker notes, **O** shows an overview, **P** prints slides with notes pages. |
+| `slides/<NN>-<CODE>.html` | One deck per lesson or resource, in the minimal style (see `reference/deck-minimal-rules.md`). Arrow keys move, **N** shows speaker notes, **O** shows an overview, **P** prints slides with notes pages. |
 | `slides/src/*.json` | The deck sources. Each slide's `ref` names the Markdown section it maps to. |
 | `slides/assets/` | Shared stylesheet, viewer script, and bundled fonts (Newsreader, Instrument Sans; SIL Open Font License). |
 | `reference/` | The production brief, the design guide, the writing guide, and the canonical recurring examples. |
@@ -17,7 +17,8 @@ This folder is a standalone project. It holds the teaching content and slide dec
 | `tools/qa_check.py` | Checks codes, slide-to-section mapping, voice rules, links, and canonical figures. |
 | `tools/shoot.py`, `tools/contact.py` | Screenshots slides and builds contact sheets for visual review. |
 | `parts/` | The per-lesson source files and research logs that were assembled into the complete Markdown file. |
-| `qa/` | QA report, URL list, and unresolved facts. |
+| `qa/` | Final report (`final-report.md`), automated QA report, calculation audit, unresolved facts, per-deck reviews (`reviews/`), and humanize logs (`humanize/`). |
+| `tools/bundle_deck.py` | Writes a single-file copy of a deck (fonts, CSS, and script inlined) to `dist/`. |
 
 ## Rebuild
 

@@ -1,0 +1,369 @@
+{
+  "nn": 24,
+  "code": "OP.12",
+  "title": "Exit Strategy: Hold, Refinance, Sell, or 1031 Exchange",
+  "short": "Exit Strategy: Hold, Refi, Sell, 1031",
+  "section": "Part Two · Phase 2 - Operations Launch",
+  "slides": [
+    {
+      "type": "cover",
+      "title": "Price all four exits before you pick one",
+      "ref": "OP.12.0",
+      "notes": "This is the last lesson in the STR Concierge track. It's about a turning point for a property you own.\n\nYou have four options. You can hold it, refinance it, sell it, or sell it through a 1031 exchange. By the end of this lesson you'll put those four side by side on after-tax cash, time, future debt, ongoing work, and opportunity cost.\n\nI'm not going to calculate your tax. I'm going to show you how the gain is built, so you can collect the right records and read your CPA's answer. We'll use Cedar Ridge at the end of year 5."
+    },
+    {
+      "type": "table",
+      "title": "Every exit asks where your equity does the most",
+      "columns": [
+        "Option",
+        "What happens to the equity"
+      ],
+      "rows": [
+        [
+          "Hold",
+          "It stays in the house"
+        ],
+        [
+          "Refinance",
+          "Some comes out as a bigger loan"
+        ],
+        [
+          "Sell",
+          "It becomes cash, minus taxes"
+        ],
+        [
+          "1031 exchange",
+          "It moves to another property, tax may be deferred"
+        ]
+      ],
+      "ref": "OP.12.1",
+      "notes": "Every exit decision comes down to one question. Is the equity in this property doing more for you here than it would somewhere else?\n\nEquity is market value minus the loan balance, minus the costs of getting it out. Holding keeps it in the house. Refinancing pulls some out as a new loan. Selling turns it into cash, minus taxes. A 1031 exchange moves it into another investment property and may defer the tax.\n\nNo option wins on after-tax cash, time, debt, work, and opportunity cost all at once. You're choosing a trade-off you can live with. Rerun this whenever your 90-day or annual review from Sam's OP.10 shows a real change."
+    },
+    {
+      "type": "table",
+      "title": "Hold, refinance, and sell fit different situations",
+      "columns": [
+        "Option",
+        "Makes sense when"
+      ],
+      "rows": [
+        [
+          "Hold",
+          "It covers its costs in a weak season"
+        ],
+        [
+          "Refinance",
+          "You have a specific use for the cash"
+        ],
+        [
+          "Sell",
+          "It no longer fits your goals"
+        ]
+      ],
+      "ref": "OP.12.3",
+      "notes": "Holding is the default. It needs no transaction, but it has a cost you don't see on a statement. That's opportunity cost: what the same equity could earn somewhere safer.\n\nHold when the property still covers its costs in a weak season, the capital repairs are funded, and the work is manageable. It also makes sense when a sale would trigger a big tax bill you'd rather defer.\n\nRefinance when you have a specific, better use for the cash and the property can carry the bigger loan in a weak year. It adds debt, but nothing is sold, so there's no tax on a gain.\n\nSell when the property no longer fits your PA.1 goals, local rules have tightened, a big repair won't pay back, or the equity has a clearly better use."
+    },
+    {
+      "type": "flow",
+      "title": "Depreciation shrinks your basis, and that grows your gain",
+      "nodes": [
+        {
+          "h": "Amount realized",
+          "d": "Price minus selling costs"
+        },
+        {
+          "h": "Adjusted basis",
+          "d": "Cost, improvements, minus depreciation"
+        },
+        {
+          "h": "Gain",
+          "d": "Realized minus basis"
+        },
+        {
+          "h": "CPA splits it",
+          "d": "Taxed in three pieces"
+        }
+      ],
+      "box": {
+        "kind": "gold",
+        "text": "Depreciation you skipped still reduces your basis."
+      },
+      "ref": "OP.12.4",
+      "notes": "You don't need to calculate your own tax. You need to know how it's built.\n\nGain is the amount realized minus your adjusted basis. Amount realized is roughly the sale price minus selling costs. Adjusted basis starts with what you paid, goes up with improvements, and goes down with depreciation.\n\nHere's what surprises people. If you didn't claim all the depreciation you were entitled to, the IRS still reduces your basis by the full amount. The phrase is allowed or allowable. Skipping it only loses you the deduction.\n\nThen your CPA splits the gain. Furniture and fast-depreciated parts are section 1245 recapture, taxed as ordinary income. Gain from straight-line depreciation on the building is unrecaptured section 1250 gain, taxed at a maximum 25%. The rest is section 1231 gain."
+    },
+    {
+      "type": "gates",
+      "title": "Four gates decide whether an exchange can work",
+      "gates": [
+        {
+          "q": "Are both properties held for business or investment?",
+          "no": "Not a 1031"
+        },
+        {
+          "q": "Has your CPA checked your personal-use days?",
+          "no": "CPA decides first"
+        },
+        {
+          "q": "Is your qualified intermediary independent of you?",
+          "no": "Pick another QI"
+        },
+        {
+          "q": "Identify by day 45 and receive by day 180?",
+          "no": "Strict IRS deadline"
+        }
+      ],
+      "end": "All four pass: the gain on the real property may be deferred.",
+      "ref": "OP.12.5",
+      "notes": "A 1031 exchange lets you sell one investment property, buy another, and defer the gain. Deferred means the tax waits.\n\nGate one: both properties are real property held for business or investment. Furniture generally doesn't qualify, so it sits outside the exchange.\n\nGate two: personal use. If you stay there too, Rev. Proc. 2008-16 has a safe harbor. I couldn't confirm its exact day counts from the IRS text, so your CPA checks them.\n\nGate three: the qualified intermediary, who holds your sale money. Your own agent, broker, accountant, attorney, or employee can't serve. Ask how funds are held and who signs withdrawals.\n\nGate four is the clock. Identify in writing by day 45. Receive the replacement by day 180 or your return due date, whichever comes first."
+    },
+    {
+      "type": "calc",
+      "title": "At year 5, Cedar Ridge holds $142,560 of equity",
+      "lines": [
+        {
+          "op": "",
+          "label": "Value",
+          "v": "$446,321"
+        },
+        {
+          "op": "-",
+          "label": "Loan balance",
+          "v": "$272,519"
+        },
+        {
+          "op": "-",
+          "label": "Selling costs at 7%",
+          "v": "$31,242"
+        }
+      ],
+      "result": {
+        "label": "Before income tax",
+        "v": "$142,560"
+      },
+      "box": {
+        "kind": "gold",
+        "text": "Holding earns $5,172 a year, 3.6% on that equity."
+      },
+      "ref": "OP.12.6",
+      "notes": "Here's the course example, Cedar Ridge, at the end of year 5. Maya and Chris bought it for $385,000 and put about $142,688 in at closing. They never refinanced. Every figure here is an assumption.\n\nValue is $446,321, from 3% a year growth. Take yours from a broker, comps, or an appraisal, not the price you'd like. The loan balance is $272,519. Use the servicer's statement or a payoff quote. Selling costs at 7% are $31,242. That leaves $142,560 before income tax, almost exactly what they put in.\n\nHolding earns $5,172 a year in the base case, 3.6% on that equity. The weak case is minus $5,875. Appreciation isn't spendable unless you sell or borrow against it."
+    },
+    {
+      "type": "calc",
+      "title": "A refinance pulls out $53,853 but cuts cash flow to $2,085",
+      "lines": [
+        {
+          "op": "",
+          "label": "Value",
+          "v": "$446,321"
+        },
+        {
+          "op": "×",
+          "label": "Loan-to-value",
+          "v": "75%"
+        },
+        {
+          "op": "=",
+          "label": "New loan",
+          "v": "$334,741"
+        },
+        {
+          "op": "-",
+          "label": "Current loan balance",
+          "v": "$272,519"
+        },
+        {
+          "op": "-",
+          "label": "Refinance costs",
+          "v": "$8,369"
+        }
+      ],
+      "result": {
+        "label": "Cash out",
+        "v": "$53,853"
+      },
+      "ref": "OP.12.6",
+      "notes": "Now suppose they refinance at year 5 instead. Same terms as earlier in the course: 75% loan-to-value, 2.5% costs, and a 7.0% rate. All assumptions.\n\nThe new loan is $334,741. Pay off the $272,519 balance and $8,369 of costs, and they walk away with $53,853. They keep the house, and nothing is sold, so there's no tax on a gain.\n\nThe new payment is $26,724 a year. Base cash flow drops from $5,172 to $2,085. A weak year now costs them $8,962 instead of $5,875.\n\nSo the refinance trades a thinner margin for cash now. If they don't have a specific, better use for the $53,853, they've just taken on more debt."
+    },
+    {
+      "type": "table",
+      "title": "A cost-segregation study nearly doubles the gain at sale",
+      "total_last": true,
+      "columns": [
+        "",
+        "No study",
+        "Cost-seg study"
+      ],
+      "rows": [
+        [
+          "Total depreciation",
+          "-$72,105",
+          "-$132,096"
+        ],
+        [
+          "Adjusted basis",
+          "$350,895",
+          "$290,904"
+        ],
+        [
+          "Amount realized",
+          "$415,079",
+          "$415,079"
+        ],
+        [
+          "**Gain**",
+          "**$64,184**",
+          "**$124,175**"
+        ]
+      ],
+      "ref": "OP.12.6",
+      "notes": "Now the sale, built two ways. The amount realized is the same in both: $446,321 minus $31,242 of selling costs, or $415,079. What changes is the adjusted basis.\n\nIn the first case there's no study. They took bonus depreciation on the $32,000 of furniture and straight-line on the building. Total depreciation is $72,105, and the gain is $64,184.\n\nIn the second, a cost-segregation study moved $68,816 of building parts into faster property, deducted in year one. Total depreciation is $132,096, and the gain is $124,175.\n\nSame house, same sale price. The depreciation choice nearly doubles the gain. I simplified the building to a 39-year life. Your CPA decides the real life and timing."
+    },
+    {
+      "type": "table",
+      "title": "The study moves tax earlier but doesn't erase it",
+      "total_last": true,
+      "columns": [
+        "",
+        "No study",
+        "Cost-seg study",
+        "Rate"
+      ],
+      "rows": [
+        [
+          "Section 1245 recapture",
+          "$6,000",
+          "$36,000",
+          "32%"
+        ],
+        [
+          "Unrecaptured 1250 gain",
+          "$40,105",
+          "$31,280",
+          "25% max"
+        ],
+        [
+          "Section 1231 gain",
+          "$18,079",
+          "$56,895",
+          "15%"
+        ],
+        [
+          "Federal tax",
+          "$14,658",
+          "$27,874",
+          ""
+        ],
+        [
+          "**Cash after tax**",
+          "**$127,902**",
+          "**$114,686**",
+          ""
+        ]
+      ],
+      "ref": "OP.12.6",
+      "notes": "Now the split. I assumed $6,000 of the price goes to the used furniture in both cases, plus $30,000 to the reclassified parts with the study. The allocations and rates are placeholders your CPA replaces.\n\nFederal tax comes to $14,658 without the study and $27,874 with it. After tax, they'd walk away with $127,902 or $114,686.\n\nThe study took $59,991 more depreciation over five years. At 32%, that's up to $19,197 of earlier savings, if the losses were usable. At sale it pays $13,216 more. Net, it's up to about $5,981 ahead, plus five years' use of the money. If the losses weren't usable, it's $13,216 behind."
+    },
+    {
+      "type": "flow",
+      "title": "An October 20, 2031 sale starts a 180-day clock",
+      "nodes": [
+        {
+          "h": "Oct 20, 2031",
+          "d": "Day 0: sale closes"
+        },
+        {
+          "h": "Dec 4, 2031",
+          "d": "Day 45: identify in writing"
+        },
+        {
+          "h": "Apr 17, 2032",
+          "d": "Day 180: receive replacement",
+          "kind": "stop"
+        }
+      ],
+      "ref": "OP.12.6",
+      "notes": "Now the 1031 path. Suppose they sell on October 20, 2031. The dates are assumptions.\n\nDay 45 is December 4, 2031. That's the written identification deadline. Day 180 is April 17, 2032. If their 2031 return is due before that, the earlier date is the real deadline unless they file an extension. Their CPA confirms which applies.\n\nIf it qualifies, the gain on the real property is deferred. The furniture sits outside the exchange, so the CPA handles that $6,000 separately. Their 10 personal-use days a year go to the CPA too.\n\nThe replacement needs its own SR.1 permission check, underwriting, financing, and team, all inside 180 days. Have the shortlist ready before the sale closes.",
+      "box": {
+        "kind": "gold",
+        "text": "Have the replacement shortlist ready before the sale closes."
+      }
+    },
+    {
+      "type": "table",
+      "title": "The numbers show the trade-offs but don't pick for you",
+      "columns": [
+        "Option",
+        "Cash now",
+        "Future debt",
+        "Cash flow, base / weak"
+      ],
+      "rows": [
+        [
+          "Hold",
+          "$0",
+          "$272,519",
+          "$5,172 / -$5,875"
+        ],
+        [
+          "Refinance",
+          "$53,853",
+          "$334,741",
+          "$2,085 / -$8,962"
+        ],
+        [
+          "Sell",
+          "$127,902 or $114,686",
+          "$0",
+          "n/a"
+        ],
+        [
+          "1031 exchange",
+          "About $142,560 rolled over",
+          "New loan",
+          "Depends on replacement"
+        ]
+      ],
+      "ref": "OP.12.6",
+      "notes": "Here's how the four options line up for Maya and Chris.\n\nHold gives them no cash now, keeps $272,519 of debt, and keeps the $5,172 base and minus $5,875 weak case. Refinance gives them $53,853 now on $334,741 of debt, with $2,085 base and minus $8,962 weak.\n\nNotice that both lose money in a weak year. Holding only works with reserves for about $5,875 of losses. A refinance needs about $8,962.\n\nSell gives them $127,902 or $114,686 after tax, depending on how they depreciated. No debt, no work. The exchange rolls about $142,560 into a new property with a new loan, and the work restarts.\n\nWhich is right depends on their PA.1 goals and their worksheet.\n\n[Recording note: Preston can add a real example here if he has one.]"
+    },
+    {
+      "type": "checklist",
+      "cols2": true,
+      "title": "Fill one column per option, and date every figure",
+      "items": [
+        "Cash now, before and after tax",
+        "Debt after the transaction",
+        "Cash flow, base and weak",
+        "Months to complete",
+        "Your hours a month afterward",
+        "What the cash would do instead"
+      ],
+      "ref": "OP.12.7",
+      "notes": "Your worksheet has three parts. Part A is your starting facts: value, loan balance or payoff quote, repairs due, selling costs, trailing-12 NOI, personal-use days, and depreciation to date from your returns.\n\nPart B is this slide. One column for each option: hold, refinance, sell, and exchange. Fill in each line, and write the source and date next to every figure. Then divide annual base cash flow by the Sell column's cash after tax. That's your return on the equity you're choosing to leave in.\n\nPart C is the 1031 checklist, only if you pick the exchange. Start it before you list, because it runs to day 180.\n\nEnd with one decision, a one-sentence reason, a recheck date, and who approved it."
+    },
+    {
+      "type": "bullets",
+      "title": "An exit is only as good as four records",
+      "items": [
+        "Closing documents",
+        "Every depreciation schedule your CPA files",
+        "Receipts for improvements and repairs",
+        "A calendar of rental and personal-use days"
+      ],
+      "ref": "OP.12.8",
+      "notes": "This is the last lesson in STR Concierge, so look at where the worksheet's inputs came from. Every one comes from work you've already done. That's your buy box, your weak-season test, your depreciation choices with your CPA, your maintenance log, and your monthly and quarterly reviews.\n\nSo keep four things from day one. Closing documents. Every depreciation schedule your CPA files. Receipts for improvements and repairs. And a calendar of rental and personal-use days.\n\nWith those, any of the four options is a short conversation. Without them, even a good sale turns into a reconstruction project."
+    },
+    {
+      "type": "dothis",
+      "title": "Three requests this week replace your guesses",
+      "items": [
+        "Get a broker's value and seller net sheet",
+        "Request a written payoff quote",
+        "Pull depreciation to date from your returns"
+      ],
+      "next": "Next: PA.1, your buy box, when you buy again.",
+      "ref": "OP.12.10",
+      "notes": "Three things to do this week. Ask a broker for an opinion of value, and ask your agent for a line-by-line seller net sheet. Request a written payoff quote from your servicer. And pull the depreciation you've taken to date, by asset class, from your filed returns. While you're there, count your personal-use days for the last two years.\n\nThat closes STR Concierge.\n\nIf you hold, go back to Sam's OP.10 review each quarter and rerun this worksheet at least once a year. If you're buying again, by exchange or with sale proceeds, start at PA.1, Discovery: Defining Your Buy Box. For the tax side, fill in resource SR.3 before you meet your CPA."
+    }
+  ]
+}

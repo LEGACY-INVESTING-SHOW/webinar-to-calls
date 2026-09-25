@@ -65,7 +65,7 @@
         "v": "$5,572"
       },
       "side": "Weak case: **-$5,475**",
-      "notes": "Cash flow is the only stream you can spend this year.\n\nCedar Ridge books 212 nights at $300, plus 61 cleaning fees, for $74,275. Operating costs are $45,066. That includes a 5% repairs reserve and a 5% capital reserve for things like a roof. The loan payment is $23,637 a year. That leaves $5,572, about $464 a month.\n\nDon't drop those reserves to make the number look bigger. You'd be borrowing from the next roof.\n\nAgainst $142,688 of cash in, that's a 3.9% cash-on-cash return. In the weak case, at $265 a night and 50% occupancy, the same house loses $5,475 a year. Small in a good year. Negative in a bad one."
+      "notes": "Cash flow is the only stream you can spend this year.\n\nCedar Ridge books 212 nights at $300, plus 61 cleaning fees, for $74,275. Operating costs are $45,066. That includes a 5% repairs reserve and a 5% capital reserve for things like a roof. The loan payment is $23,637 a year. That leaves $5,572, about $464 a month.\n\nDon't drop those reserves to make the number look bigger. You'd be borrowing from the next roof.\n\nAgainst $142,688 of cash in, that's a 3.9% cash-on-cash return. In the weak case, at $265 a night and 50% occupancy, the same house loses $5,475 a year. Small in a good year. Negative in a bad one. Both are pre-diligence figures, and PA.9 revisits them."
     },
     {
       "type": "bullets",
@@ -76,7 +76,7 @@
         "Back only when you sell or refinance",
         "If the value falls, equity can shrink"
       ],
-      "notes": "Each month, part of the loan payment reduces the balance. That part becomes equity, the share of the house you own outright. On Cedar Ridge it's $2,795 in year one, and it grows a little each year.\n\nHere's the catch. You already paid that $2,795 out of your cash flow. It's inside the $23,637 loan payment. You can't spend it. You get it back when you sell or refinance.\n\nA refinance can turn some of it into cash. In the course example, one at the end of year two frees $15,725. But the bigger loan cuts base-case cash flow from $5,572 to $4,752.\n\nAnd if the value falls, you can pay the loan down every month and still have less equity than you started with."
+      "notes": "Each month, part of the loan payment reduces the balance. That part becomes equity, the share of the house you own outright. On Cedar Ridge it's $2,795 in year one, and it grows a little each year.\n\nHere's the catch. You already paid that $2,795 out of your cash flow. It's inside the $23,637 loan payment. You can't spend it. You get it back when you sell or refinance.\n\nA refinance can turn some of it into cash. In the course example, one at the end of year two frees $15,725 after costs. But the bigger loan cuts base-case cash flow from $5,572 to $4,752.\n\nAnd if the value falls, you can pay the loan down every month and still have less equity than you started with."
     },
     {
       "type": "calc",
@@ -132,7 +132,7 @@
         "v": "$107,072"
       },
       "side": "Could cut tax by **$34,263** at 32%",
-      "notes": "Tax timing comes from depreciation, a paper write-off for wear on the building. Your CPA sets every input: how much of the price is land, the date the house was ready to rent, and whether it's on the 27.5-year or 39-year schedule.\n\nIn the course example, a cost segregation study moves $68,816 of the building into short-life property. Add $32,000 of furnishings, and that $100,816 may qualify for 100% bonus depreciation. Add a full year on the rest of the building, $6,256. That's about $107,072. At an assumed 32% tax rate, that could cut tax by about $34,263.\n\nRead the word could. Some of it comes back as taxable gain when you sell. That's why I call it timing."
+      "notes": "Tax timing comes from depreciation, a paper write-off for wear on the building. Your CPA sets every input: how much of the price is land, the date the house was ready to rent, and whether it's on the 27.5-year or 39-year schedule.\n\nIn the course example, a cost segregation study moves $68,816 of the building into short-life property. Add $32,000 of furnishings, and that $100,816 may qualify for 100% bonus depreciation. Add a full year on the rest of the building, $6,256. That's about $107,072. At an assumed 32% tax rate, that could cut tax by about $34,263.\n\nRead the word could. Some of it can come back as taxable gain when you sell. That's why I call it timing."
     },
     {
       "type": "gates",
@@ -165,7 +165,7 @@
         "Keep a real log of your hours",
         "The $25,000 allowance is gone at $150,000"
       ],
-      "notes": "Two traps catch high-earning households.\n\nFirst, one participation test compares your hours with everyone else's, owner or not. A cleaner who turns the house over 61 times a year may log more hours than you. A full-service co-host's hours may exceed yours by a wide margin. Keep a real log of your hours. Your CPA will ask.\n\nSecond, the $25,000 allowance for rental real estate. It shrinks by 50% of modified adjusted gross income above $100,000 and is gone at $150,000. Maya and Chris earn $185,000 combined. If their modified AGI is near that, it gives them nothing. At a short average stay it may not apply at all.\n\nSo for this household, participation is the test that matters."
+      "notes": "Two traps catch high-earning households.\n\nFirst, one participation test compares your hours with everyone else's, owner or not. A cleaner who turns the house over 61 times a year may log more hours than you. A full-service co-host's hours may exceed yours by a wide margin. Keep a real log of your hours. Your CPA will ask.\n\nSecond, the $25,000 allowance for rental real estate. It shrinks by 50% of modified adjusted gross income above $100,000 and is gone at $150,000. Maya and Chris earn $185,000 combined. If their modified AGI is near that, it gives them nothing. At a short average stay it may not apply at all."
     },
     {
       "type": "table",
@@ -203,7 +203,7 @@
           "None"
         ]
       ],
-      "notes": "Part One is about leasing a place and renting it to guests. So why not lease a house like Cedar Ridge instead of buying it?\n\nI kept the operations identical: same revenue, same cleaner, same utilities. The lease is hypothetical, $2,900 a month with written permission to host. The landlord carries property tax, insurance, and capital repairs.\n\nBase-case cash flow comes out almost even. Leasing is $315 a year higher. In the weak case the lease loses more, because rent is fixed. But owning takes $98,188 more cash. That extra cash buys streams two, three, and four.\n\nFor some households, $44,500 in a lease beats $142,688 in a house. For others, the long hold and the equity matter more. And in some lake markets, owners may not lease for short-term rental at all."
+      "notes": "Part One is about leasing a place and renting it to guests. So why not lease a house like Cedar Ridge instead of buying it?\n\nI kept the operations identical: same revenue, same cleaner, same utilities. The lease is hypothetical, $2,900 a month with written permission to host. The landlord carries property tax, insurance, and capital repairs.\n\nBase-case cash flow comes out almost even. Leasing is $315 a year higher. In the weak case the lease loses more, because rent is fixed. If you own, though, you carry capital repairs the reserve may not fully cover. And owning takes $98,188 more cash. That extra cash buys streams two, three, and four.\n\nFor some households, $44,500 in a lease beats $142,688 in a house. For others, the long hold and the equity matter more. And in some lake markets, owners may not lease for short-term rental at all."
     },
     {
       "type": "bars",

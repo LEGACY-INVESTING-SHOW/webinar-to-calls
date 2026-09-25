@@ -189,7 +189,7 @@
       "type": "bullets",
       "ref": "3.1.8",
       "eyebrow": "New York City · Local Law 18 registration",
-      "title": "New York City requires the host to live there, be present, and take two guests at most",
+      "title": "New York City requires the host to live there, be present, and take two guests",
       "items": [
         "Hosts must register with the city. The application fee is $145, non-refundable.",
         "The host must be a natural person and the permanent occupant, and certify the lease allows STRs",
@@ -462,7 +462,7 @@
     {
       "type": "worksheet",
       "ref": "3.1.11",
-      "title": "The last seven rungs cover stay length, the building, private rules, and the permit holder",
+      "title": "The last seven rungs cover stay length, building, private rules, and permit holder",
       "compact": true,
       "columns": [
         "Rung",

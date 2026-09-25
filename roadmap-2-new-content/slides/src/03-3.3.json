@@ -163,7 +163,7 @@
     {
       "type": "bullets",
       "ref": "3.3.6",
-      "title": "The registration number goes on the listing, and some cities make the platform verify it",
+      "title": "The number goes on the listing, and some cities make the platform verify it",
       "items": [
         "On Airbnb, add it in the listing's laws and regulations section",
         "\"City registration pending\" and \"Exempt\" exist, but use them only where the city allows them for your listing",
@@ -387,7 +387,7 @@
       "type": "table",
       "ref": "3.3.8",
       "assumption": true,
-      "title": "The operator remits $4,243.75, half the tax, including every dollar of city and district",
+      "title": "The operator remits $4,243.75, half the tax, including all city and district tax",
       "columns": [
         "Layer",
         "Remitted by platforms",

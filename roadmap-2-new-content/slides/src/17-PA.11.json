@@ -1,0 +1,774 @@
+{
+  "nn": 17,
+  "code": "PA.11",
+  "title": "Closing Day: Documents, Wire Fraud Prevention & Possession",
+  "short": "Closing Day",
+  "section": "Part Two · Phase 1 - Property Acquisition",
+  "slides": [
+    {
+      "type": "cover",
+      "kicker": "Phase 1 · Property Acquisition",
+      "title": "Check every figure, verify every wire by voice, and collect every key before you leave",
+      "subtitle": "Lesson PA.11. Closing Day: Documents, Wire Fraud Prevention & Possession",
+      "meta": [
+        [
+          "Teacher",
+          "Preston"
+        ],
+        [
+          "Example",
+          "Cedar Ridge house (hypothetical)"
+        ],
+        [
+          "Use",
+          "Education only. Not legal, lending, or insurance advice."
+        ]
+      ],
+      "ref": "PA.11.0",
+      "notes": "This is closing day. It's the day you move the most money you'll move in this whole program, so we're going to slow it down.\n\nAfter this lesson you can check your final closing figures line by line against your accepted offer and your latest loan terms. You'll know which document does what. You'll know how to send your closing funds without handing them to a scammer. And you'll know what to collect when the keys change hands.\n\nYou'll leave with three tools: a closing-figures comparison, a closing-day checklist, and an unresolved items log that carries into PA.12.\n\nCedar Ridge is our example again. Every line-item fee I show you is an assumption built to add up to the canonical totals. None of this is legal, lending, or insurance advice."
+    },
+    {
+      "type": "flow",
+      "eyebrow": "What moves",
+      "title": "Money, documents, and control change hands at closing, and they have to move in order",
+      "nodes": [
+        {
+          "k": "Money",
+          "h": "From you and your lender",
+          "d": "To the seller, the seller's lender, the title company, and service providers."
+        },
+        {
+          "k": "Documents",
+          "h": "Ownership and a claim",
+          "d": "The deed moves ownership to you. The lender gets a claim on the house."
+        },
+        {
+          "k": "Control",
+          "h": "Keys, codes, records",
+          "d": "Accounts, records, and the right to occupy.",
+          "kind": "go"
+        }
+      ],
+      "box": {
+        "kind": "warn",
+        "label": "This fails if",
+        "text": "You wire before you check the figures, sign before the walkthrough, or get the deed without the lock codes."
+      },
+      "ref": "PA.11.1",
+      "notes": "Closing looks like a pile of signatures. Underneath, three things move.\n\nMoney moves from you and your lender to the seller, the seller's lender, the title company, and a list of service providers.\n\nDocuments move ownership to you and give your lender a claim on the house.\n\nControl moves too. Keys, codes, accounts, records, and the right to occupy.\n\nMost closing problems come from one of those three getting ahead of the others. You wire money before you've checked the figures. You sign before the walkthrough. You get the deed but not the lock codes.\n\nThis lesson puts them in order. Check the figures first. Walk the house. Sign what matches. Verify the wire by voice. Then collect control before you leave."
+    },
+    {
+      "type": "two",
+      "eyebrow": "Which document",
+      "title": "A DSCR loan may not come with a Closing Disclosure, so ask which document you'll get",
+      "left": {
+        "head": "Most consumer mortgages",
+        "note": "CFPB rules apply.",
+        "items": [
+          "A Closing Disclosure at least 3 business days before closing",
+          "Compare it with your Loan Estimate",
+          "Don't close until you've received and reviewed it"
+        ]
+      },
+      "right": {
+        "head": "Business-purpose credit",
+        "note": "Such as a non-owner-occupied rental.",
+        "items": [
+          "Falls outside many consumer disclosure rules",
+          "You may get a title company settlement statement instead",
+          "Over 14 personal days in the coming year changes the treatment"
+        ]
+      },
+      "box": {
+        "kind": "gold",
+        "label": "Ask in writing, early",
+        "text": "Which closing document will I receive? When will final figures arrive? Ask the lender and title company for them 3 business days ahead anyway."
+      },
+      "ref": "PA.11.2",
+      "notes": "For most consumer mortgages, the lender must give you a Closing Disclosure. The CFPB says you must receive it at least three business days before closing. That window lets you compare final terms and costs with your Loan Estimate. The CFPB also says not to close until you've received and reviewed it.\n\nInvestment property adds a wrinkle. The CFPB's Regulation Z commentary treats credit to buy a non-owner-occupied rental as business-purpose credit. That falls outside many of the consumer disclosure rules. So a DSCR lender may give you a settlement statement from the title company instead.\n\nThe same commentary says a vacation home the owner occupies more than 14 days in the coming year doesn't get that treatment.\n\nSo ask your lender two questions early, in writing. Which document will I get, and when? Then ask for final figures three business days ahead anyway. On your loan it may not be a legal right. You're asking for time to check."
+    },
+    {
+      "type": "table",
+      "eyebrow": "Line by line",
+      "title": "Compare the final figures in four groups, plus the names, against what you agreed",
+      "columns": [
+        "Group",
+        "Check",
+        "Compare against"
+      ],
+      "rows": [
+        [
+          "**Deal terms**",
+          "Price, earnest money credit, seller credit, repair escrow, items left",
+          "Contract and PA.9 amendment"
+        ],
+        [
+          "**Loan terms**",
+          "Loan amount, rate, points, P&I, term, prepayment penalty",
+          "Written quote from PA.7"
+        ],
+        [
+          "**Closing costs**",
+          "Each fee, by section; title charges; owner's policy if chosen",
+          "Loan estimate, title quote"
+        ],
+        [
+          "**Prepaids and escrow**",
+          "Insurance premium, prepaid interest, starting escrow balance",
+          "STR quote from PA.9"
+        ],
+        [
+          "**Names**",
+          "Buyer, borrower, and insured",
+          "PA.10 worksheet"
+        ]
+      ],
+      "box": {
+        "kind": "info",
+        "label": "The CFPB's test",
+        "text": "Cash to close should match your latest Loan Estimate. If it doesn't, ask the lender why. Some costs can change within legal limits that depend on the loan and the fee."
+      },
+      "ref": "PA.11.3",
+      "notes": "Work through four groups, then the names.\n\nThe first group is deal terms from your contract. Price, earnest money credit, any seller credit, any repair escrow, and anything the seller agreed to leave. For Cedar Ridge, the PA.9 amendment has the seller fixing the septic and treating the well before closing. The seller also pays the $3,100 lien. That payoff belongs on the seller's side, not yours.\n\nThe second group is loan terms. Compare each one against the written quote you accepted in PA.7. A rate or point change needs an explanation. The CFPB notes a rate can change if something important changes, like a low appraisal.\n\nThe third group is closing costs, fee by fee. Your title charges should match the title company's quote.\n\nThe fourth is prepaids and escrow. Check that the insurance premium is the STR policy from PA.9, not a generic homeowners estimate.\n\nFinally, the names must match your PA.10 worksheet exactly."
+    },
+    {
+      "type": "table",
+      "eyebrow": "Cedar Ridge · closing figures, part 1",
+      "title": "Most of Cedar Ridge's lender and title fees matched the estimate, and four moved",
+      "assumption": true,
+      "columns": [
+        "Line",
+        "Loan Estimate",
+        "Final figures",
+        "Change"
+      ],
+      "rows": [
+        [
+          "A. Origination and underwriting fee",
+          "$995",
+          "$995",
+          "$0"
+        ],
+        [
+          "A. Discount points (1% of $288,750)",
+          "$2,888",
+          "$2,888",
+          "$0"
+        ],
+        [
+          "B. Appraisal with STR rent analysis",
+          "$750",
+          "$850",
+          "+$100"
+        ],
+        [
+          "B. Credit report",
+          "$65",
+          "$65",
+          "$0"
+        ],
+        [
+          "B. Flood certification",
+          "$16",
+          "$16",
+          "$0"
+        ],
+        [
+          "C. Title: lender's title policy",
+          "$1,100",
+          "$1,150",
+          "+$50"
+        ],
+        [
+          "C. Title: search and examination",
+          "$425",
+          "$425",
+          "$0"
+        ],
+        [
+          "C. Title: settlement fee",
+          "$850",
+          "$895",
+          "+$45"
+        ],
+        [
+          "C. Survey",
+          "$600",
+          "$650",
+          "+$50"
+        ],
+        [
+          "E. Recording fees",
+          "$185",
+          "$185",
+          "$0"
+        ]
+      ],
+      "compact": true,
+      "caption": "A = origination, B = services you couldn't shop for, C = services you shopped for, E = government fees.",
+      "ref": "PA.11.4",
+      "notes": "Maya and Chris are closing on the DSCR quote from the canonical example. $385,000 price. $288,750 loan at 7.25% with 1 point, 30-year fixed. Down payment $96,250. Total closing costs including points, $14,438. Cash to close, $110,688.\n\nThe canonical file only gives the total: 3% of price plus 1 point. This table is one plausible way that total breaks down. Every line item is an assumption. Real fees vary by state, lender, and title company. I've left out transfer taxes and property tax prorations to keep it simple, and in this example the seller pays any transfer tax.\n\nOn a Closing Disclosure, services you couldn't shop for, services you did shop for, and other costs sit in separate sections. The letters match those sections.\n\nFour lines moved here. The appraisal, the lender's title policy, the settlement fee, and the survey. Next slide, the rest."
+    },
+    {
+      "type": "table",
+      "eyebrow": "Cedar Ridge · closing figures, part 2",
+      "title": "Final closing costs total $14,438, so cash to close lands on the canonical $110,688",
+      "assumption": true,
+      "columns": [
+        "Line",
+        "Loan Estimate",
+        "Final figures",
+        "Change"
+      ],
+      "rows": [
+        [
+          "F. STR insurance premium, 12 months",
+          "$2,600",
+          "$3,200",
+          "+$600"
+        ],
+        [
+          "F. Prepaid interest",
+          "$860 (15 days)",
+          "$574 (10 days)",
+          "-$286"
+        ],
+        [
+          "G. Property tax escrow, 3 months",
+          "$962",
+          "$962",
+          "$0"
+        ],
+        [
+          "G. Insurance escrow, 2 months",
+          "$433",
+          "$533",
+          "+$100"
+        ],
+        [
+          "H. Owner's title policy (optional)",
+          "$1,050",
+          "$1,050",
+          "$0"
+        ],
+        [
+          "**Total closing costs**",
+          "**$13,779**",
+          "**$14,438**",
+          "**+$659**"
+        ],
+        [
+          "Down payment",
+          "$96,250",
+          "$96,250",
+          "$0"
+        ],
+        [
+          "**Cash to close**",
+          "**$110,029**",
+          "**$110,688**",
+          "**+$659**"
+        ]
+      ],
+      "total_last": true,
+      "caption": "Check: $2,888 points + $11,550 other costs (3% of $385,000) = $14,438. Plus $96,250 down = $110,688.",
+      "ref": "PA.11.4",
+      "notes": "Here's the second half. F is prepaids, G is the initial escrow deposit, and H is other costs, including the owner's title policy they chose in PA.9.\n\nThe final column adds to the canonical figures. Points of $2,888 plus $11,550 of other costs equals $14,438. The $11,550 is 3% of $385,000. Add the $96,250 down payment and you get $110,688.\n\nThe prepaid interest line uses the daily rate. $288,750 times 7.25%, divided by 365, is about $57.35 a day. Ten days is about $574. Fifteen days is about $860. The amount depends on the day of the month you close. That's why it moved.\n\nAlways do this addition yourself. If your own sum doesn't match the bottom line on the statement, that's your first question for the closing agent."
+    },
+    {
+      "type": "bars",
+      "eyebrow": "Cedar Ridge · what changed",
+      "title": "The real STR insurance policy explains most of the $659 increase",
+      "assumption": true,
+      "items": [
+        {
+          "label": "STR insurance premium",
+          "value": 600,
+          "kind": "neg",
+          "display": "+$600"
+        },
+        {
+          "label": "Insurance escrow",
+          "value": 100,
+          "kind": "neg",
+          "display": "+$100"
+        },
+        {
+          "label": "Appraisal add-on",
+          "value": 100,
+          "kind": "neg",
+          "display": "+$100"
+        },
+        {
+          "label": "Lender's title policy",
+          "value": 50,
+          "kind": "neg",
+          "display": "+$50"
+        },
+        {
+          "label": "Settlement fee",
+          "value": 45,
+          "kind": "neg",
+          "display": "+$45"
+        },
+        {
+          "label": "Survey",
+          "value": 50,
+          "kind": "neg",
+          "display": "+$50"
+        },
+        {
+          "label": "Prepaid interest",
+          "value": -286,
+          "kind": "pos",
+          "display": "-$286"
+        },
+        {
+          "label": "Net change",
+          "value": 659,
+          "kind": "total",
+          "hot": true,
+          "display": "+$659"
+        }
+      ],
+      "caption": "$600 + $100 + $100 + $50 + $45 + $50 - $286 = $659, which matches the difference between the two totals.",
+      "ref": "PA.11.4",
+      "notes": "Now read the changes the way you would at your kitchen table.\n\nInsurance went up $600, and its escrow line up $100. The estimate used a generic homeowners premium of $2,600. The final figures use the actual STR quote of $3,200 from PA.9. That's expected, and it's the right policy. Two months at $3,200 a year is $533.\n\nThe appraisal went up $100. The STR rent analysis add-on cost more than estimated. Ask the lender whether that increase is allowed under the rules for your loan.\n\nThe lender's title policy and settlement fee went up $95 combined, and the survey $50. They shopped for these, so ask the title company and surveyor to explain each one.\n\nPrepaid interest went down $286, because the closing date moved later in the month.\n\nAdd it up and you get $659. Every dollar of change has a reason. That's what you're after."
+    },
+    {
+      "type": "calc",
+      "eyebrow": "Cedar Ridge · the wire",
+      "title": "After the $7,700 earnest money credit, Cedar Ridge's wire is $102,988",
+      "assumption": true,
+      "lines": [
+        {
+          "op": "",
+          "label": "Cash to close",
+          "v": "$110,688"
+        },
+        {
+          "op": "-",
+          "label": "Earnest money paid at contract (2% of price)",
+          "v": "$7,700"
+        }
+      ],
+      "result": {
+        "label": "Funds to wire",
+        "v": "$102,988"
+      },
+      "side": "Other checks outside the fee table: the seller's septic and well invoices are in the file. The $3,100 lien payoff sits on the seller's side. Names match PA.10.\n\nMonthly payment: $1,970 P&I, about $2,557 with escrow. ($3,850 tax + $3,200 insurance) / 12 = $587.50 a month.",
+      "side_box": {
+        "kind": "warn",
+        "label": "Guard this number",
+        "text": "$102,988 is the number a scammer would love to redirect."
+      },
+      "ref": "PA.11.4",
+      "notes": "Next, the wire amount. Suppose Maya and Chris paid $7,700 of earnest money at contract. That's 2% of price, and it's an assumption. The deposit is credited at closing.\n\nSo the funds they still owe are $110,688 minus $7,700. That's $102,988. That's the number they'll wire, and it's the number a scammer would love to redirect. We'll deal with that in a minute.\n\nFirst, a few checks that aren't in the fee table. The seller's septic and well invoices should be in the file, per PA.9. The seller's side of the statement should show the $3,100 lien payoff. The borrower names should match the PA.10 decision.\n\nAnd the monthly payment should read $1,970 principal and interest, about $2,557 with escrow. Tax of $3,850 plus insurance of $3,200, divided by 12, is $587.50 a month."
+    },
+    {
+      "type": "checklist",
+      "eyebrow": "Final walkthrough",
+      "title": "Walk the house against your PA.9 tracker before you sign anything",
+      "items": [
+        "Seller repairs: see the septic work and the new well UV system, and get both invoices.",
+        "Included items: furniture, appliances, dock equipment, anything else in the contract.",
+        "New damage: water stains, broken windows, storm damage that wasn't there at inspection.",
+        "Systems: run every tap, flush toilets, test HVAC in both modes, check the water heater.",
+        "Photos and meters: photograph each room; write down utility meter readings with the time."
+      ],
+      "box": {
+        "kind": "warn",
+        "label": "If you find a real problem",
+        "text": "Don't sign and hope. Call your agent and attorney. Common fixes are a repair escrow, a credit, or a short delay."
+      },
+      "ref": "PA.11.5",
+      "notes": "The CFPB says to use the final walkthrough to confirm agreed repairs were made and that items the seller agreed to leave are still there. If something's wrong, contact the seller right away.\n\nFor an STR, the walkthrough is also your first look at the house as an operator. So bring the PA.9 tracker and walk it row by row.\n\nLook at the seller's repairs, and get the invoices. Check the included items. Look for new damage. Run the systems. Then photograph every room and write down the meter readings with the time. You'll use those for the final bills and in the PA.12 handoff.\n\nIf you find a real problem, don't sign and hope. Call your agent and attorney. The CFPB notes you can walk away at closing, but you might lose your deposit and face other consequences under your contract. Let your attorney use that lever. Don't try it alone at the table."
+    },
+    {
+      "type": "table",
+      "eyebrow": "What you sign",
+      "title": "Know what each closing document does before you initial a single page",
+      "columns": [
+        "Document",
+        "What it does",
+        "What to check"
+      ],
+      "rows": [
+        [
+          "**Deed**",
+          "Transfers ownership to the title owner you chose. Gets recorded.",
+          "When you'll get the recorded copy"
+        ],
+        [
+          "**Promissory note**",
+          "The borrower's promise to repay on its terms",
+          "Rate, payment, maturity, prepayment"
+        ],
+        [
+          "**Mortgage or deed of trust**",
+          "Gives the lender a claim on the house",
+          "Due-on-sale clause (PA.10)"
+        ],
+        [
+          "**Personal guaranty**",
+          "Appears if the lender requires one on an entity loan",
+          "Read it with your attorney before closing day"
+        ],
+        [
+          "**Final figures / settlement statement**",
+          "Shows every dollar in and out",
+          "Initial only after it matches your comparison"
+        ],
+        [
+          "**Insurance binder or declarations**",
+          "Not signed, but the lender needs it",
+          "Effective on or before closing; names match"
+        ]
+      ],
+      "compact": true,
+      "ref": "PA.11.6",
+      "notes": "You'll sign a stack. Know what the main pieces do, and read the names on each one against your PA.10 worksheet.\n\nThe deed transfers ownership from the seller to the title owner you chose. The seller signs it and it's recorded with the county. Ask the title company when you'll get the recorded copy.\n\nThe promissory note is the promise to repay. Read the rate, payment, maturity, and any prepayment section.\n\nThe mortgage or deed of trust gives the lender a claim on the house. It holds the due-on-sale clause we covered in PA.10.\n\nIf there's a personal guaranty, read it with your attorney before closing day, not at the table.\n\nThe CFPB says to request your closing documents in advance. If what's at the table differs from what you reviewed, don't sign until you're comfortable."
+    },
+    {
+      "type": "flow",
+      "eyebrow": "Wire fraud · the protocol",
+      "title": "Set up trusted contacts at contract, then verify every wire by voice at a saved number",
+      "nodes": [
+        {
+          "k": "At contract",
+          "h": "Two trusted contacts",
+          "d": "Save their numbers from a card in hand or a site you typed yourself."
+        },
+        {
+          "k": "At contract",
+          "h": "Code phrase",
+          "d": "One only your trusted contacts know."
+        },
+        {
+          "k": "Before sending",
+          "h": "Voice readback",
+          "d": "Call the saved number. Read back bank, account name, number, and amount."
+        },
+        {
+          "k": "After sending",
+          "h": "Confirm receipt",
+          "d": "Call the saved number again. Confirm the exact amount.",
+          "kind": "go"
+        }
+      ],
+      "box": {
+        "kind": "info",
+        "label": "Cedar Ridge",
+        "text": "Maya and Chris saved the settlement agent's number from the title company's website at contract and agreed on a code phrase. Their bank's wire form gets filled in only after the voice readback."
+      },
+      "ref": "PA.11.7",
+      "notes": "Closing-day wire fraud targets exactly your situation. A known closing date, a large transfer, and several parties emailing each other. The CFPB warns that scammers send emails posing as your agent or settlement agent with last-minute changes to wiring instructions.\n\nHere's how I'd turn the CFPB's guidance into a protocol.\n\nSet it up early. At contract, identify two trusted people who can confirm payment instructions. Write down their numbers from a source you trust: a card handed to you, or a company website you typed in yourself.\n\nAgree on a code phrase only they know.\n\nBefore you send anything, call the settlement agent at the saved number and read back the bank name, account name, account number, and amount. The CFPB says to avoid phone numbers or links in an email.\n\nAfter the wire, call the saved number again and confirm they received the exact amount."
+    },
+    {
+      "type": "bullets",
+      "eyebrow": "Wire fraud · red flags",
+      "title": "Treat any change to wiring instructions as fraud until a saved number proves otherwise",
+      "items": [
+        "A 'new account' email is the classic move. Stop and call the saved number.",
+        "Don't email financial information. The CFPB says email is never a secure way to send it.",
+        "Don't trust caller ID. Scammers can spoof numbers. Hang up and call the saved number.",
+        "If a wire goes wrong, act in minutes. Call your bank or wire service right away to try to stop or reverse it.",
+        "File a complaint with the FBI's Internet Crime Complaint Center (IC3)."
+      ],
+      "ref": "PA.11.7",
+      "notes": "The last four steps of the protocol are about what to do when something feels off.\n\nTreat any change as fraud until proven otherwise. A 'new account' email is the classic move. Don't reply to it. Stop and call the saved number.\n\nDon't email financial information. The CFPB says email is never a secure way to send it.\n\nDon't trust caller ID. The CFPB notes scammers can spoof phone numbers. If a call feels wrong, hang up and call the saved number yourself.\n\nAnd if something does go wrong, minutes matter. The CFPB says to contact your bank or wire service immediately to try to stop or reverse the transfer, and to file a complaint with the FBI's Internet Crime Complaint Center.\n\nFor Cedar Ridge, the wire is $102,988. Ask your bank this week who to call, and what their cutoff times are, so you aren't looking it up in a panic."
+    },
+    {
+      "type": "checklist",
+      "eyebrow": "Possession",
+      "title": "Collect six kinds of control before you leave the closing or the house",
+      "items": [
+        "Physical keys, garage remotes, mailbox keys, gate or boat-launch passes",
+        "Door and alarm codes, and admin logins for smart locks, cameras, thermostat, Wi-Fi. Seller removes their accounts; you reset every code.",
+        "Warranties and manuals: roof, HVAC, water heater, appliances, septic parts, well UV system",
+        "Vendor records: septic and well invoices, water tests, pest and HVAC service, plow and trash services",
+        "Permits: STR permit status for your new application, septic permit record, past building permits",
+        "Proof of payment: final figures, wire confirmation, title commitments, insurance declarations"
+      ],
+      "box": {
+        "kind": "gold",
+        "label": "Anything missing",
+        "text": "Goes on the unresolved items log, with an owner and a date. That log is the bridge to PA.12."
+      },
+      "ref": "PA.11.8",
+      "notes": "Ownership transfers when the deed records. Control transfers when you have every way into the house and every record about it. Your contract says when possession passes.\n\nCollect six kinds of things before you leave the closing or the house that day.\n\nPhysical keys and passes. Codes and admin logins for every smart device. Ask the seller to remove their accounts from each device, and then reset every code yourself.\n\nWarranties and manuals, including the well UV system the seller installed. Vendor records, like the septic invoices, water tests, and the names of the seller's plow and trash services. Permit records. And proof of payment.\n\nAnything you don't get goes on the unresolved items log. Every row needs an owner and a date.\n\n[Recording note: Preston can add a real example here if he has one.]"
+    },
+    {
+      "type": "worksheet",
+      "eyebrow": "Exercise · A",
+      "title": "Fill in the closing-figures comparison before you send a single dollar",
+      "columns": [
+        "Line",
+        "Offer / amendment",
+        "Loan quote",
+        "Final figures",
+        "Match?"
+      ],
+      "rows": [
+        [
+          "Purchase price",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "Earnest money credit",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "Loan amount",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "Rate and points",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "Monthly P&I",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "Insurance premium (STR policy?)",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "Total closing costs",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "Cash to close",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "Funds due after earnest money",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "Names: buyer, borrower, insured",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ],
+      "compact": true,
+      "caption": "Selected rows. The full 18-line table is in PA.11.9.",
+      "ref": "PA.11.9",
+      "notes": "The exercise has three parts. This is part A, the closing-figures comparison.\n\nThe full table in the lesson has 18 lines. I've pulled the ones that matter most onto the slide. For each line, you fill in what the accepted offer or PA.9 amendment says, what your latest loan quote says, and what the final figures say. Then mark whether they match.\n\nThe full version also has a column for the question you asked, the answer, and the date. Use it. If the appraisal fee went up $100, write down who explained it and when.\n\nDon't send the wire until every row either matches or has a written answer. The funds-due line, after earnest money, is the number you'll read back on the phone to the settlement agent."
+    },
+    {
+      "type": "checklist",
+      "eyebrow": "Exercise · B",
+      "title": "Tick the eleven closing-day steps in order, with a date and time for each",
+      "cols2": true,
+      "items": [
+        "Asked lender which closing document and when final figures arrive",
+        "Received final figures at least 3 business days ahead",
+        "Completed comparison table A; all questions answered",
+        "Insurance binder effective on or before closing; names match",
+        "Trusted contacts and code phrase set up at contract",
+        "Wire instructions verified by voice at the saved number",
+        "Wire sent; receipt confirmed by voice at the saved number",
+        "Final walkthrough against PA.9 tracker; photos and meter readings",
+        "Reviewed deed, note, mortgage, any guaranty before signing",
+        "Collected keys, codes, remotes, warranties, records, permits",
+        "Reset all codes and removed seller device accounts"
+      ],
+      "ref": "PA.11.9",
+      "notes": "Part B is the closing-day checklist. Eleven steps, roughly in the order they happen.\n\nThe first three are about the figures: which document you'll get, receiving it three business days ahead, and finishing table A.\n\nThe next four are about insurance and money. The binder's effective date and names. Trusted contacts and code phrase. The voice readback. And the voice confirmation after the wire.\n\nThe last four are the walkthrough, reviewing the documents before signing, collecting control, and resetting every code.\n\nIn the lesson's version each step has a date and time column and a notes column. Fill them in as you go. If anything goes sideways later, you'll have a record of exactly what you checked and when."
+    },
+    {
+      "type": "worksheet",
+      "eyebrow": "Exercise · C",
+      "title": "Start the unresolved items log at closing, because it carries straight into PA.12",
+      "assumption": true,
+      "text": "Cedar Ridge starts with three rows. Fill in why each is open, one owner, and one due date.",
+      "columns": [
+        "#",
+        "Item",
+        "Why it's open",
+        "Owner",
+        "Due date",
+        "Status"
+      ],
+      "rows": [
+        [
+          "1",
+          "Recorded deed copy",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "2",
+          "New STR permit application",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "3",
+          "Well retest after treatment",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "4",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "5",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ],
+      "box": {
+        "kind": "gold",
+        "label": "The rule",
+        "text": "Every row gets one owner and one due date. The log goes with you into PA.12's handoff packet."
+      },
+      "ref": "PA.11.9",
+      "notes": "Part C is the unresolved items log. This is the bridge to PA.12.\n\nFor Cedar Ridge, three rows start the log. The recorded deed copy, which arrives after the deed records. The new STR permit application, because the seller's permit didn't transfer. And the well retest after treatment, because the seller's UV system needs a clean result before the first guest. All three are assumptions for teaching.\n\nYour log will have its own rows. Anything you didn't collect at possession goes here. Anything the walkthrough turned up that's being fixed after closing goes here.\n\nEvery row gets one owner and one due date. Not 'we.' One name. Then take this log, and the PA.9 tracker, into the next lesson."
+    },
+    {
+      "type": "table",
+      "eyebrow": "Who confirms what",
+      "title": "Five parties confirm the figures, the wire, the documents, and the coverage",
+      "columns": [
+        "Confirm with",
+        "What they confirm"
+      ],
+      "rows": [
+        [
+          "**Lender**",
+          "Which closing document you'll get and when, why any rate, point, or fee changed, the exact wire amount"
+        ],
+        [
+          "**Title company or closing attorney**",
+          "Settlement figures, lien payoffs, recording, title policies, wire instructions verified by voice at a saved number"
+        ],
+        [
+          "**Real estate attorney or agent**",
+          "Possession terms, walkthrough remedies, anything in the documents that differs from your contract"
+        ],
+        [
+          "**Insurer**",
+          "Policy effective date, named insured, mortgagee clause"
+        ],
+        [
+          "**Your bank**",
+          "Its wire process, cutoff times, and who to call immediately if a wire must be stopped"
+        ]
+      ],
+      "ref": "PA.11.10",
+      "notes": "Here's who confirms what on closing day.\n\nYour lender confirms which closing document you'll get and when. It explains any change to the rate, points, or fees, and it confirms the exact wire amount.\n\nThe title company or closing attorney confirms the settlement figures, the lien payoffs, recording, the title policies, and the wire instructions. Always by voice, at the number you saved.\n\nYour attorney or agent confirms possession terms, what you can do if the walkthrough turns something up, and anything in the documents that differs from your contract.\n\nYour insurer confirms the effective date, the named insured, and the mortgagee clause.\n\nAnd your bank confirms how its wires work, its cutoff times, and who you call right away if a wire has to be stopped."
+    },
+    {
+      "type": "dothis",
+      "title": "Set up your wire protection and your comparison table before closing week",
+      "items": [
+        "Email your lender: which closing document will I get, and when will final figures arrive?",
+        "Save the settlement agent's number from a source you trust, and agree on a code phrase.",
+        "Call your bank and write down its wire cutoff time and its fraud line.",
+        "Copy table A and fill in the offer, amendment, and loan-quote columns now."
+      ],
+      "next": "Next: PA.12 Your Post-Close Checklist: Insurance, Utilities & Handoff to Operations. Bring your unresolved items log and the PA.9 tracker.",
+      "ref": "PA.11.11",
+      "notes": "Four things this week. Each one takes under an hour.\n\nFirst, email your lender and ask which closing document you'll get and when the final figures will arrive.\n\nSecond, save the settlement agent's number from a source you trust, and agree on a code phrase.\n\nThird, call your bank. Write down its wire cutoff time and the number to call if a wire needs to be stopped.\n\nFourth, copy table A and fill in the first two columns now, from your offer, your PA.9 amendment, and your loan quote. When the final figures arrive, you only have one column left.\n\nAfter closing, you own the house. It isn't a rental yet. PA.12 Your Post-Close Checklist covers the insurance, utilities, safety work, and a dated handoff packet. Bring your unresolved items log and the PA.9 tracker. Most of what's still open lands there."
+    },
+    {
+      "type": "sources",
+      "title": "The closing and wire rules here come from CFPB pages, checked 2026-09-25",
+      "items": [
+        {
+          "title": "CFPB: Review documents before closing",
+          "url": "https://www.consumerfinance.gov/owning-a-home/close/review-documents-before-closing/",
+          "note": "Closing Disclosure 3 business days before closing; compare with Loan Estimate"
+        },
+        {
+          "title": "CFPB: No Closing Disclosure three days before closing",
+          "url": "https://www.consumerfinance.gov/ask-cfpb/what-should-i-do-if-i-do-not-get-a-closing-disclosure-three-days-before-my-mortgage-closing-en-1911/",
+          "note": "don't close until reviewed"
+        },
+        {
+          "title": "CFPB: Closing Disclosure explainer",
+          "url": "https://www.consumerfinance.gov/owning-a-home/closing-disclosure/",
+          "note": "cash to close comparison; escrow"
+        },
+        {
+          "title": "CFPB: Rate or fees changed",
+          "url": "https://www.consumerfinance.gov/ask-cfpb/my-rate-or-the-fees-changed-between-my-loan-estimate-and-my-closing-disclosure-what-do-i-do-en-184/",
+          "note": "some costs may change within legal limits"
+        },
+        {
+          "title": "CFPB: Comment for 1026.3",
+          "url": "https://www.consumerfinance.gov/rules-policy/regulations/1026/interp-3/",
+          "note": "non-owner-occupied rental credit is business purpose; over-14-days example"
+        },
+        {
+          "title": "CFPB: Before, during, and after closing",
+          "url": "https://www.consumerfinance.gov/ask-cfpb/what-should-i-do-before-during-and-after-the-mortgage-closing-process-en-1907/",
+          "note": "walkthrough, documents in advance, walking away"
+        },
+        {
+          "title": "CFPB: Beware of mortgage closing scams (one-pager)",
+          "url": "https://files.consumerfinance.gov/f/documents/cfpb_mortgages-scams_one-pager.pdf",
+          "note": "verify by agreed number; two trusted people; no financial info by email"
+        },
+        {
+          "title": "CFPB: Beware of mortgage closing scams",
+          "url": "https://www.consumerfinance.gov/owning-a-home/beware-mortgage-closing-scams/",
+          "note": "code phrase"
+        },
+        {
+          "title": "CFPB blog: Mortgage closing scams",
+          "url": "https://www.consumerfinance.gov/archive/blog/mortgage-closing-scams-how-protect-yourself-and-your-closing-funds/",
+          "note": "spoofed caller ID; call your bank; file with IC3"
+        }
+      ],
+      "ref": "PA.11 sources",
+      "notes": "Every rule in this lesson comes from the CFPB. That includes the three-business-day Closing Disclosure rule, the business-purpose treatment of rental loans, the walkthrough guidance, and the wire fraud protocol.\n\nEach page was checked on September 25, 2026, through a search summary of the official page, because direct fetches were blocked. One note from the source log: the summary for the before, during, and after closing page drew on several CFPB closing pages. So confirm the wording on that page yourself before you quote it.\n\nThe Cedar Ridge financing figures come from the canonical example. The line-item breakdown, the Loan Estimate figures, and the earnest money are assumptions, built to add up to the canonical totals. Your closing will have different fees, a different order, and possibly a different document. The comparison method stays the same."
+    }
+  ]
+}

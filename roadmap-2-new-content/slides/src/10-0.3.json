@@ -393,7 +393,7 @@
    "box": {
     "kind": "info",
     "label": "Two readings of the same table",
-    "text": "**The lender's view:** after spending $155,302 they still hold $54,698, about 21 months of PITIA. A lender may say yes. **Their own plan:** they can't fund both reserves at once."
+    "text": "**Lender's view:** $54,698 left after spending, about 21 months of PITIA. **Their plan:** they can't fund both reserves at once."
    },
    "notes": "Now add the two held layers.\n\nTheir household's essential spending is $8,500 a month, an assumption. They want to keep six months of it as their own emergency savings, $51,000. The property reserve is $15,342 on the DSCR quote.\n\nSo the full stack on the DSCR quote is $155,302 plus $15,342 plus $51,000. That's $221,644. They have $210,000. The gap is $11,644. On the conventional quote the gap is $8,172.\n\nHere's the part I want you to notice. There are two ways to read this table.\n\nThe lender's view: after spending $155,302, Maya and Chris would still hold $54,698. That's about 21 months of the DSCR payment, well above a six-month rule. On paper, a lender may say yes.\n\nTheir own plan: they can't fund the house's reserve and their own emergency savings at the same time. They're short.\n\nThis is exactly the gap the down payment check hides. The lender's approval doesn't mean the household is ready."
   },
@@ -432,22 +432,22 @@
    "rows": [
     [
      "1",
-     "Full cash stack from liquid savings",
+     "Cash stack from savings",
      "Surplus of $0 or more",
-     "Gap closable by saving within 6 months",
-     "Bigger gap, or borrowed money"
+     "Gap closed in 6 months",
+     "Bigger gap, or borrowed"
     ],
     [
      "2",
-     "Emergency savings kept after closing",
+     "Emergency savings kept",
      "6+ months",
      "3 to 6 months",
      "Under 3 months"
     ],
     [
      "3",
-     "Property reserve after closing",
-     "At lender rule and your target",
+     "Property reserve",
+     "Lender rule and your target",
      "At lender rule only",
      "Below lender rule"
     ],
@@ -461,23 +461,23 @@
     [
      "5",
      "Lender fit",
-     "Written pre-qual or term sheet",
+     "Written quote",
      "Verbal only",
      "None, or declined"
     ],
     [
      "6",
-     "DTI (conventional) or coverage (DSCR)",
+     "DTI or DSCR coverage",
      "Inside the lender limit",
      "Near the limit",
      "Outside it"
     ],
     [
      "7",
-     "3 extra months of delay absorbed",
+     "3-month delay absorbed",
      "From property reserve",
      "Needs emergency fund",
-     "Can't be absorbed"
+     "Can't absorb it"
     ]
    ],
    "bands": [

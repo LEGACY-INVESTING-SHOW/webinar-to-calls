@@ -1,0 +1,625 @@
+{
+ "nn": 9,
+ "code": "0.2",
+ "title": "Why Ownership Wins: Cash Flow + Tax Savings + Equity",
+ "short": "Why Ownership Wins",
+ "section": "Part Two · Module 0 - Ownership vs. Arbitrage",
+ "slides": [
+  {
+   "type": "cover",
+   "ref": "0.2.0",
+   "kicker": "Part Two · Module 0 · Ownership vs. Arbitrage",
+   "title": "Ownership wins only on specific facts, so test it on each deal",
+   "subtitle": "Lesson 0.2. Why Ownership Wins: Cash Flow + Tax Savings + Equity",
+   "meta": [
+    [
+     "Teacher",
+     "Preston"
+    ],
+    [
+     "Example",
+     "Cedar Ridge house (hypothetical)"
+    ],
+    [
+     "Use",
+     "Education only. Not tax, legal, or lending advice. Your CPA confirms every tax input."
+    ]
+   ],
+   "notes": "The title of this lesson makes a claim: ownership wins. Sometimes it does. Sometimes it loses badly. So I'm going to treat that title as a question. You answer it for one property, one loan, and one household.\n\nBy the end of this lesson you'll be able to split an ownership return into four streams. You'll know which of the four you can actually spend this year. You'll compare owning a house with leasing a similar one, using the same assumptions. And you'll have a simple test that tells you whether \"ownership wins\" is true for a specific deal, or only true on a slide.\n\nWe'll use Cedar Ridge the whole way through. That's the three-bedroom lake house Maya and Chris are buying at $385,000 on a DSCR quote. Every figure is an assumption from the course example file. None of this is tax advice. Where the answer depends on your household, I'll tell you, and your CPA makes the call."
+  },
+  {
+   "type": "flow",
+   "ref": "0.2.1",
+   "eyebrow": "Four streams",
+   "title": "An ownership return has four streams, and only one lands in your bank account",
+   "nodes": [
+    {
+     "k": "Stream 1",
+     "h": "Operating cash flow",
+     "d": "Left after costs and the loan payment. Spendable.",
+     "kind": "go"
+    },
+    {
+     "k": "Stream 2",
+     "h": "Principal paydown",
+     "d": "Locked in the house until you sell or refinance"
+    },
+    {
+     "k": "Stream 3",
+     "h": "Change in value",
+     "d": "Assumed, not known. It may be negative."
+    },
+    {
+     "k": "Stream 4",
+     "h": "Tax timing",
+     "d": "Depends on CPA facts. Partly taken back at sale."
+    }
+   ],
+   "text": "The mistake to avoid: adding all four together and calling the total income.",
+   "notes": "The usual pitch for owning lists three benefits: cash flow, tax savings, and equity. I split equity into two parts, because they behave differently. That gives four possible streams.\n\nStream one is operating cash flow. It's what's left after operating costs and the loan payment.\n\nStream two is principal paydown. It's the part of each loan payment that reduces what you owe.\n\nStream three is change in value. It's what the house is worth later compared with what you paid.\n\nStream four is tax timing. That's deductions, mainly depreciation, that may lower your tax now and may be partly taken back when you sell.\n\nEvery stream has a cost or a risk attached. And only one of them lands in your bank account in a normal month. The other three are either locked inside the house or depend on facts you won't know for years.\n\nSo when someone adds all four and calls the total \"income\", stop them. It isn't income."
+  },
+  {
+   "type": "calc",
+   "ref": "0.2.2",
+   "eyebrow": "Stream one · Operating cash flow",
+   "assumption": true,
+   "title": "Base-case cash flow is $5,572 a year, and the weak case loses $5,475",
+   "lines": [
+    {
+     "op": "",
+     "label": "Gross booking revenue (212 nights at $300, 61 cleaning fees)",
+     "v": "$74,275"
+    },
+    {
+     "op": "-",
+     "label": "Operating costs, including both 5% reserves",
+     "v": "$45,066"
+    },
+    {
+     "op": "=",
+     "label": "Net operating income (NOI)",
+     "v": "$29,209"
+    },
+    {
+     "op": "-",
+     "label": "Principal and interest, DSCR quote",
+     "v": "$23,637"
+    }
+   ],
+   "result": {
+    "label": "Base-case cash flow",
+    "v": "$5,572"
+   },
+   "side": "About **$464 a month**. On $142,688 of cash in, that's **3.9%** cash-on-cash.\n\nWeak case (ADR $265, 50% occupancy): **-$5,475** a year.",
+   "side_box": {
+    "kind": "warn",
+    "label": "Don't do this",
+    "text": "Dropping the repairs and capital reserves to grow this number borrows from the next roof."
+   },
+   "notes": "Stream one is the only stream you can spend this year. It's the money left after the house pays for itself.\n\nHere's the Cedar Ridge base case. 212 booked nights at $300, plus 61 cleaning fees of $175, gives $74,275 of gross booking revenue. Operating costs are $45,066. That covers platform fees, the cleaner, utilities, property tax, insurance, and two reserves: 5% for repairs and 5% for capital items. So net operating income is $29,209.\n\nThen the loan. Principal and interest on the DSCR quote is $23,637 a year. That leaves $5,572, or about $464 a month.\n\nThat's real money, if the base case happens. Notice what it already pays for. If you drop those reserves to make the number look bigger, you're borrowing from the next roof.\n\nNow the cost side. Against $142,688 of cash in, $5,572 is a 3.9% cash-on-cash return. And in the weak case, the same house loses $5,475 a year after debt service. Small in a good year. Negative in a bad one."
+  },
+  {
+   "type": "bullets",
+   "ref": "0.2.3",
+   "eyebrow": "Stream two · Principal paydown",
+   "assumption": true,
+   "title": "Principal paydown of $2,795 is equity you already paid for and can't spend",
+   "items": [
+    "The $2,795 of year-one paydown sits inside the $23,637 of debt service. It came out of your cash flow already.",
+    "It grows a little each year as more of each payment goes to principal.",
+    "You get it back only by selling or refinancing.",
+    "Refinancing at the end of year two frees $15,725 after costs, and brings a larger loan payment.",
+    "After that refinance, base-case cash flow falls from $5,572 to $4,752 a year.",
+    "If the value falls, you can pay down the loan and still have less equity than you started with."
+   ],
+   "notes": "Stream two is principal paydown. Each month, part of the loan payment reduces the balance. Economically, that part isn't an expense. It turns into equity.\n\nOn the Cedar Ridge DSCR quote, the balance falls by $2,795 in year one. That grows a little each year.\n\nHere's the catch. You already paid that $2,795 out of your cash flow. It's inside the $23,637 of debt service. You can't spend it. You only get it back when you sell or refinance.\n\nThe example file has a refinance at the end of year two. It frees $15,725 after costs. That's how locked equity turns into cash. But it comes with a new, larger loan payment. Base-case cash flow drops from $5,572 to $4,752 a year after that refinance.\n\nAnd paydown depends on the house holding its value. If the value falls, you can pay the loan down every month and still end up with less equity than you started with. So this stream is real, but it's slow, and you can't reach it without a cost."
+  },
+  {
+   "type": "calc",
+   "ref": "0.2.4",
+   "eyebrow": "Stream three · Change in value",
+   "assumption": true,
+   "title": "If the value stays flat for five years, a sale returns $85,531 on $142,688 in",
+   "lines": [
+    {
+     "op": "",
+     "label": "Sale at the purchase price, end of year five",
+     "v": "$385,000"
+    },
+    {
+     "op": "-",
+     "label": "Selling costs at 7%",
+     "v": "$26,950"
+    },
+    {
+     "op": "-",
+     "label": "Loan balance, end of year five",
+     "v": "$272,519"
+    }
+   ],
+   "result": {
+    "label": "Net proceeds before tax",
+    "v": "$85,531"
+   },
+   "side": "The example assumes **3% growth a year**. Year one: 3% of $385,000 = **$11,550**. That's an assumption, not a forecast.\n\nNever add it to spendable income. $11,550 is not $960 a month you can use.",
+   "side_box": {
+    "kind": "info",
+    "label": "To collect it",
+    "text": "You sell or borrow against it. Both cost money. At 7%, selling costs on $446,321 are $31,242."
+   },
+   "notes": "Stream three is change in value. People talk about it most and control it least.\n\nFor teaching, the example assumes Cedar Ridge grows 3% a year. In year one that's 3% of $385,000, or $11,550. That's an assumption. Values can fall. Lake markets can see new supply, rule changes, or a slow year.\n\nThree rules for this stream. First, never add modeled appreciation to spendable monthly income. $11,550 of assumed growth isn't $960 a month you can use. Second, you only collect it by selling or borrowing against it, and both cost money. Third, selling costs are large. The model uses 7%. On an assumed $446,321 value after five years, that's $31,242.\n\nNow the test I want you to run on every deal. What if the value is flat for five years? Cedar Ridge sells at $385,000. Take off $26,950 of selling costs and the $272,519 loan balance. Net proceeds before tax are $85,531. You put in $142,688. Only cash flow and tax timing can cover that gap. We'll run the full version shortly."
+  },
+  {
+   "type": "calc",
+   "ref": "0.2.5",
+   "eyebrow": "Stream four · Tax timing",
+   "assumption": true,
+   "title": "Year-one deductions could reach $107,072, but only if every eligibility fact holds",
+   "lines": [
+    {
+     "op": "",
+     "label": "Cost-seg reclass, 22% of the $312,800 building",
+     "v": "$68,816"
+    },
+    {
+     "op": "+",
+     "label": "Furnishings, 5-year property",
+     "v": "$32,000"
+    },
+    {
+     "op": "=",
+     "label": "Year-one bonus amount, if eligible at 100%",
+     "v": "$100,816"
+    },
+    {
+     "op": "+",
+     "label": "Remaining building, one full year at 39 years",
+     "v": "$6,256"
+    }
+   ],
+   "result": {
+    "label": "Year-one deductions, illustrative",
+    "v": "$107,072"
+   },
+   "side": "Building = $391,000 basis less 20% land ($78,200) = **$312,800**.\n\nAt an assumed 32% rate, tax **could** fall by about **$34,263**.",
+   "side_box": {
+    "kind": "warn",
+    "label": "Read the word could",
+    "text": "It can be zero in year one if the loss is suspended. Your CPA confirms every input."
+   },
+   "notes": "Stream four is tax timing. Depreciation is a paper write-off for wear on the building. You don't write a check for it, but it can reduce taxable income. Whether it reduces your tax bill depends on facts your CPA confirms.\n\nHere's the illustration from the example file. The basis is $391,000. That's the price plus $6,000 of capitalized closing costs, an assumption. Land gets 20%, also an assumption, so the building is $312,800.\n\nA cost segregation study might move 22% of the building, $68,816, into short-life property. Add $32,000 of furnishings and the year-one bonus amount is $100,816, if eligible. Add a full year of 39-year depreciation on the rest of the building, $6,256. Year-one deductions come to about $107,072.\n\nAt an assumed 32% marginal rate, that could lower tax by about $34,263. Read the word \"could\" carefully. The next two slides show what has to be true first. Sam's PA.5 walks through the cost segregation study itself."
+  },
+  {
+   "type": "bullets",
+   "ref": "0.2.5",
+   "eyebrow": "Stream four · The inputs",
+   "title": "Depreciation starts when the house is ready for guests, and your CPA sets the schedule",
+   "items": [
+    "You depreciate the building, never the land ([IRS Pub 527](https://www.irs.gov/publications/p527)). The land split is your first input.",
+    "Depreciation starts when the house is ready and available for rent. Ready in July, first rented in September: it starts in July.",
+    "A late-year launch gives a small first-year deduction on the building.",
+    "Per full year: $11,375 at 27.5 years, or $8,021 at 39 years. Short average stays can change the classification.",
+    "100% first-year (bonus) depreciation is permanent for eligible property acquired after January 19, 2025 ([IRS, Notice 2026-11](https://www.irs.gov/newsroom/treasury-irs-issue-guidance-on-the-additional-first-year-depreciation-deduction-amended-as-part-of-the-one-big-beautiful-bill)).",
+    "Bonus applies to eligible property, not to land and not to the whole building."
+   ],
+   "notes": "Each input here is a question for your CPA, not a number to assume.\n\nBasis and land come first. IRS Publication 527 says you can never depreciate land. So how much of the price belongs to the land matters a lot.\n\nThen the placed-in-service date. Depreciation starts when the property is ready and available for rent, not when the first guest arrives. Publication 527 gives an example: a house ready in July and first rented in September starts depreciating in July. For Cedar Ridge, the month the house is furnished, safe, and listed matters. A late-year launch means a small first-year deduction on the building.\n\nThen the recovery period. The example shows the building on two schedules: $11,375 a year at 27.5 years, or $8,021 at 39 years. Short average stays can change how the property is classified. Your CPA decides which applies.\n\nFinally, bonus depreciation. IRS guidance describes a permanent 100% first-year deduction for eligible property acquired after January 19, 2025. It covers eligible property. It doesn't cover land, and it doesn't cover the whole building."
+  },
+  {
+   "type": "gates",
+   "ref": "0.2.5",
+   "eyebrow": "Is the loss usable this year?",
+   "title": "Three tax tests decide whether the loss can offset your other income this year",
+   "gates": [
+    {
+     "q": "Is the average stay 7 days or less?",
+     "sub": "Total rental days / number of rentals. Cedar Ridge: 212 / 61 = 3.5 nights ([Pub 925](https://www.irs.gov/publications/p925))",
+     "no": "Rental activity: loss generally passive"
+    },
+    {
+     "q": "Do you materially participate?",
+     "sub": "More than 500 hours; or substantially all the participation; or more than 100 hours and not less than any other individual",
+     "no": "Loss stays passive and may be suspended"
+    },
+    {
+     "q": "Is personal use at or under the threshold?",
+     "sub": "Greater of 14 days or 10% of rented days. At 212 nights: 21.2 days. They plan 10 ([Pub 527](https://www.irs.gov/publications/p527)).",
+     "no": "Treated as a home; split expenses by days"
+    }
+   ],
+   "end": "Clear all three and the loss may be usable. Your CPA confirms each one for your household.",
+   "notes": "Here's what has to be true before that deduction lowers your tax this year.\n\nIRS Publication 925 covers passive activity rules. Losses from passive activities generally offset only other passive activity income.\n\nTest one. An activity isn't a \"rental activity\" under these rules if the average period of customer use is 7 days or less. You divide total rental days by the number of rentals. Cedar Ridge is 212 nights over 61 stays, 3.5 nights. But that exception doesn't make the loss non-passive by itself. It means the activity gets tested like a business.\n\nTest two. The loss is non-passive only if you materially participate. Three tests matter most here: more than 500 hours, or substantially all the participation, or more than 100 hours and at least as much as any other individual.\n\nTest three is personal use, from Publication 527. The house counts as a home if personal use exceeds the greater of 14 days or 10% of fair-rental days. At 212 rented nights, that's 21.2 days. Maya and Chris plan 10. More personal use would change the picture."
+  },
+  {
+   "type": "two",
+   "ref": "0.2.5",
+   "eyebrow": "Two traps",
+   "title": "A busy cleaner can out-log you, and the $25,000 allowance won't help at $185,000",
+   "left": {
+    "head": "Other people's hours count",
+    "note": "Material participation compares your hours with other individuals'.",
+    "items": [
+     "A cleaner who turns the house 61 times a year may log more hours than you.",
+     "A full-service co-host's hours may exceed yours by a wide margin."
+    ]
+   },
+   "right": {
+    "head": "The $25,000 allowance phases out",
+    "note": "Rental real estate with active participation ([Pub 925](https://www.irs.gov/publications/p925)).",
+    "items": [
+     "Reduced by 50% of modified AGI above $100,000. Gone at $150,000.",
+     "Maya and Chris earn $185,000 combined. Near that figure, it gives them nothing.",
+     "Depreciation lowers your basis. Some of it can come back as taxable gain at sale (OP.12)."
+    ]
+   },
+   "notes": "Two traps that catch high-earning households.\n\nFirst, the \"more than 100 hours and not less than any other individual\" test. That means other people's hours matter, owner or not. A cleaner who turns Cedar Ridge over 61 times a year may log more hours than Maya and Chris. If they hire a full-service co-host, the co-host's hours may beat theirs by a wide margin. Keep a real log of your hours. Your CPA will ask.\n\nSecond, the $25,000 special allowance. Publication 925 describes it for rental real estate with active participation. It's reduced by 50% of modified adjusted gross income above $100,000, and it's gone at $150,000. Maya and Chris have $185,000 of combined W-2 income. If their modified AGI is near that, the allowance gives them nothing, even if it applied to this activity at all.\n\nAnd remember why I call this stream tax timing. Depreciation lowers your basis. When you sell, some of the deduction can come back as taxable gain. Lesson OP.12 treats the tax on a sale as a CPA input."
+  },
+  {
+   "type": "table",
+   "ref": "0.2.6",
+   "eyebrow": "Own vs. lease, same operations",
+   "assumption": true,
+   "title": "Leasing a comparable house nets about the same: $5,887 against $5,572",
+   "text": "Hypothetical lease: $2,900 a month, 12 months, written STR permission. The tenant carries $1,200 of minor repairs and an $1,800 renter's STR policy.",
+   "columns": [
+    "Line (annual)",
+    "Own Cedar Ridge (DSCR)",
+    "Lease comparable house"
+   ],
+   "rows": [
+    [
+     "Gross booking revenue (base)",
+     "$74,275",
+     "$74,275"
+    ],
+    [
+     "Platform fee, cleaner, utilities, supplies, software, handyman",
+     "-$30,588",
+     "-$30,588"
+    ],
+    [
+     "Repairs and capital reserve",
+     "-$7,428",
+     "-$1,200"
+    ],
+    [
+     "Property tax and building insurance / renter's policy",
+     "-$7,050",
+     "-$1,800"
+    ],
+    [
+     "Principal and interest / rent",
+     "-$23,637",
+     "-$34,800"
+    ],
+    [
+     "Base-case cash flow",
+     "$5,572",
+     "$5,887"
+    ]
+   ],
+   "total_last": true,
+   "notes": "Part One of this course is about leasing. So here's a fair question. Why not lease a house like Cedar Ridge instead of buying it?\n\nTo compare fairly, I keep the operating assumptions identical. Same revenue, same cleaner, same utilities. I change only what differs between owning and leasing.\n\nThe lease is hypothetical. $2,900 a month, a 12-month lease, with written permission to host. The tenant pays $1,200 a year of minor repairs and an $1,800 renter's liability policy. The landlord pays property tax, building insurance, and capital repairs.\n\nWalk down the rows. Revenue matches at $74,275. The shared operating costs match at $30,588. The owner carries $7,428 of repairs and capital reserve, and $7,050 of tax and insurance. The tenant carries $1,200 and $1,800. Then the owner's loan payment is $23,637, and the tenant's rent is $34,800.\n\nBase-case cash flow comes out almost even. Leasing is $315 a year higher. So the cash flow isn't the difference. The next slide shows what is."
+  },
+  {
+   "type": "table",
+   "ref": "0.2.6",
+   "eyebrow": "Own vs. lease, what differs",
+   "assumption": true,
+   "title": "Owning takes $98,188 more cash, and that cash buys streams two to four",
+   "columns": [
+    "",
+    "Own Cedar Ridge",
+    "Lease comparable house"
+   ],
+   "rows": [
+    [
+     "Weak case (ADR $265, 50%)",
+     "-$5,475",
+     "-$6,856"
+    ],
+    [
+     "Base case with 18% co-host",
+     "-$7,798",
+     "-$7,483"
+    ],
+    [
+     "Cash in",
+     "$142,688",
+     "$44,500"
+    ],
+    [
+     "Cash-on-cash, base",
+     "3.9%",
+     "13.2%"
+    ],
+    [
+     "Principal paydown, year 1",
+     "$2,795",
+     "None"
+    ]
+   ],
+   "box": {
+    "kind": "info",
+    "label": "What else differs",
+    "text": "Owner: value exposure both ways; may depreciate building, improvements, furnishings; exits by sale (7% costs) or refinance. Tenant: no value exposure; furnishings and own improvements only; exits when the lease ends."
+   },
+   "caption": "Lease cash in: $32,000 furnishing + $2,900 deposit + $2,900 first month + $6,700 two-month reserve (rent plus $450 utilities) = $44,500.",
+   "notes": "Here's where the two paths split.\n\nOwning needs $98,188 more cash: $142,688 against $44,500. That extra cash is the price of streams two, three, and four. The lease cash in is $32,000 of furnishing, a $2,900 deposit, $2,900 of first month's rent, and a two-month reserve of $6,700.\n\nIn the weak case, the lease loses more, $6,856 against $5,475, because rent is fixed and higher than the loan payment. But the owner also carries capital repairs, and in a bad year the reserve may not cover them all.\n\nThe owner builds equity and may get tax timing. The tenant gets neither. The tenant's exposure ends with the lease. The owner's lasts until a sale.\n\nSo the lease path isn't a fantasy. For some households, $44,500 in a lease beats $142,688 in a house. For others, the long hold and the equity matter more.\n\nOne caveat. In many drive-to lake markets, owners of three-bedroom houses may not lease them for short-term rental at all. Whether a real lease exists is a market question for Sam's PA.2."
+  },
+  {
+   "type": "table",
+   "ref": "0.2.7",
+   "eyebrow": "Worked example · Year one",
+   "assumption": true,
+   "title": "Keep the four streams in separate rows, and label which ones you can spend",
+   "columns": [
+    "Stream",
+    "Year 1",
+    "Spend it this year?",
+    "What it depends on"
+   ],
+   "rows": [
+    [
+     "Operating cash flow",
+     "$5,572",
+     "Yes",
+     "Base case revenue; the weak case is -$5,475"
+    ],
+    [
+     "Principal paydown",
+     "$2,795",
+     "No, locked until sale or refinance",
+     "Paying the loan every month"
+    ],
+    [
+     "Change in value (3%)",
+     "$11,550",
+     "No, and it may be negative",
+     "The market; realized only by selling or borrowing"
+    ],
+    [
+     "Tax timing (illustrative)",
+     "up to about $34,263",
+     "Only if the loss is usable this year",
+     "Land split, in-service date, classification, passive rules, participation, personal use, tax rate; partly recaptured"
+    ]
+   ],
+   "notes": "Here's the honest way to present Cedar Ridge's year one on the DSCR quote. Each stream gets its own row. Each row says whether you can spend it.\n\nOperating cash flow is $5,572, and yes, you can spend it, if the base case happens. In the weak case it's minus $5,475.\n\nPrincipal paydown is $2,795. You can't spend it. It's locked until you sell or refinance.\n\nChange in value, at the assumed 3%, is $11,550. You can't spend it, and it may be negative. It depends on the market, and you only realize it by selling or borrowing.\n\nTax timing is up to about $34,263 in this illustration. It's usable only if the loss can offset other income this year. And look at the list of things it depends on. That column is long on purpose.\n\nWhen someone shows you a deal as one \"total return\" number, ask them for this table instead. It takes five minutes to build, and it tells you what you'll actually have in the bank."
+  },
+  {
+   "type": "bars",
+   "ref": "0.2.7",
+   "eyebrow": "Return on cash in, layer by layer",
+   "assumption": true,
+   "title": "Return on cash climbs from 3.9% to 14.0% only by adding money you can't spend",
+   "items": [
+    {
+     "label": "Cash flow alone ($5,572)",
+     "value": 3.9,
+     "kind": "pos",
+     "hot": true,
+     "display": "3.9%"
+    },
+    {
+     "label": "Plus principal paydown ($8,367)",
+     "value": 5.9,
+     "kind": "pos",
+     "display": "5.9%"
+    },
+    {
+     "label": "Plus assumed appreciation ($19,917)",
+     "value": 14.0,
+     "kind": "pos",
+     "display": "14.0%"
+    }
+   ],
+   "box": {
+    "kind": "gold",
+    "label": "When you see one total return number",
+    "text": "Ask which layer it is, whether it includes appreciation, and whether it includes tax savings. Then ask for the four-stream table."
+   },
+   "caption": "Each amount divided by $142,688 of cash in. Tax timing is left out on purpose: it depends on your CPA's answers and can be zero in year one.",
+   "notes": "Now the same numbers as a return on cash in, one layer at a time.\n\nCash flow alone: $5,572 divided by $142,688 is 3.9%.\n\nAdd principal paydown: $8,367 divided by $142,688 is 5.9%.\n\nAdd the assumed appreciation: $19,917 divided by $142,688 is 14.0%.\n\nThose three percentages describe three very different things. Only the first one pays a bill. The second includes money you already paid and can't get back without selling or refinancing. The third includes an assumption you can't check until you sell.\n\nSo when a seller's agent or a course or a spreadsheet shows you 14%, ask which layer it is. Ask whether they included appreciation. Ask whether they included tax savings.\n\nI left tax timing out of all three on purpose. It depends on your CPA's answers, and it can be zero in year one if the loss is suspended. If you want to add it, add it as a fourth line, labeled, after your CPA gives you a number."
+  },
+  {
+   "type": "table",
+   "ref": "0.2.8",
+   "eyebrow": "Five-year test, before income tax",
+   "assumption": true,
+   "title": "Over five years Cedar Ridge comes out ahead in one case and behind in three",
+   "columns": [
+    "Case",
+    "5 years of cash flow",
+    "Net sale proceeds",
+    "Ahead / behind"
+   ],
+   "rows": [
+    [
+     "A. Self-managed, base case, value +3% a year",
+     "$27,860",
+     "$142,560",
+     "+$27,732"
+    ],
+    [
+     "B. Full-service co-host at 18%, base case, +3%",
+     "-$38,990",
+     "$142,560",
+     "-$39,118"
+    ],
+    [
+     "Self-managed, weak case, +3%",
+     "-$27,375",
+     "$142,560",
+     "-$27,503"
+    ],
+    [
+     "Self-managed, base case, value flat",
+     "$27,860",
+     "$85,531",
+     "-$29,297"
+    ]
+   ],
+   "box": {
+    "kind": "warn",
+    "label": "Case B",
+    "text": "A full-service co-host at 18% costs $13,370 a year. Maya and Chris would pay about $650 a month to own the house."
+   },
+   "caption": "Ahead / behind = cash flow + proceeds - $142,688 cash in. Cash flow held flat; original DSCR loan; 7% selling costs; before tax on the sale and depreciation recapture.",
+   "notes": "Now a five-year view, using the example's sale model. Cash flow stays flat for five years, the original DSCR loan stays in place, and the house sells at the end of year five with 7% selling costs. Everything is before income tax.\n\nCase A works. Self-managed, base case, 3% growth. Five years of cash flow is $27,860. Net sale proceeds are $142,560. Together that's $170,420, which is $27,732 ahead of the $142,688 they put in. Modest for five years, but positive, and they keep control.\n\nCase B doesn't. They hire a full-service co-host at 18%. That's $13,370 a year, and cash flow becomes minus $7,798. They're paying about $650 a month to own the house. Five years later they're $39,118 behind. If revenue is also weak, the co-host case loses $15,794 a year.\n\nThe last two rows: a weak case with growth ends $27,503 behind. A base case with flat value ends $29,297 behind.\n\nSo Cedar Ridge wins only if revenue hits the base case, the owners manage with local help, and the house holds or gains value. Change any one, and it loses. That's what testing it means."
+  },
+  {
+   "type": "worksheet",
+   "ref": "0.2.9",
+   "eyebrow": "Exercise · Part B",
+   "title": "Run the five-year test three ways on your deal before you believe it wins",
+   "columns": [
+    "Line",
+    "Base, value +__%",
+    "Weak, value +__%",
+    "Base, value flat"
+   ],
+   "rows": [
+    [
+     "Five years of cash flow",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Sale value, year 5",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Less loan balance, year 5",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Less selling costs (__%)",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Net proceeds before tax",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Total back (cash flow + proceeds)",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Less total cash in",
+     "",
+     "",
+     ""
+    ],
+    [
+     "**Ahead / behind**",
+     "",
+     "",
+     ""
+    ]
+   ],
+   "text": "Part A splits year one into the four streams. Part C compares owning with a lease, if one is realistic. Leave the tax row blank until your CPA answers.",
+   "notes": "Here's your version of the test. Fill it in for any property that reaches Sam's PA.4 underwriting. Use your own lender quote, not the example's.\n\nThe worksheet has three parts. Part A is the four-stream table for year one, with base and weak columns, and whether each is spendable. Take principal paydown from the lender's amortization schedule, not from a guess.\n\nPart B is on this slide. It's the five-year test before income tax, run three ways: base case with your growth assumption, weak case with the same growth, and base case with flat value. Write down your growth percentage. It's your assumption, nobody else's.\n\nPart C compares owning with leasing the same house, if a lease is realistic in that market. Cash in, base and weak cash flow, cash-on-cash, and the worst realistic exit cost.\n\nDon't fill in anything tax-related until your CPA answers the questions from the tax slides. Blank is better than hopeful.\n\nWhen you watch Sam's PA.4, bring back the NOI, the weak case, and the loan payment. Those three numbers drive this whole sheet."
+  },
+  {
+   "type": "gates",
+   "ref": "0.2.9",
+   "eyebrow": "Decision rule",
+   "title": "Ownership wins for your deal only if all three of these tests pass",
+   "gates": [
+    {
+     "q": "Is the Part B base case ahead?",
+     "no": "Doesn't win: note it"
+    },
+    {
+     "q": "Is the Part B weak case behind by no more than you could accept losing?",
+     "no": "Doesn't win: note it"
+    },
+    {
+     "q": "In Part C, does the extra cash for owning buy something you want?",
+     "sub": "A long hold, personal use, or equity",
+     "no": "Doesn't win: note it"
+    }
+   ],
+   "end": "If any one fails, write down which one, and bring it to lesson 0.3.",
+   "notes": "Here's the decision rule. Ownership wins for this deal only if all three are true.\n\nOne. The Part B base case is ahead after five years. If owning doesn't come out ahead when things go as planned, it isn't going to win when they don't.\n\nTwo. The weak case is behind by no more than you could accept losing. Put a real number on that before you look at listings. For Cedar Ridge, the weak case with 3% growth ends $27,503 behind. Some households can live with that. Some can't. Neither answer is wrong.\n\nThree. In Part C, the extra cash for owning buys something you actually want. That could be a long hold, personal use, or equity. If a lease gets you the same cash flow for a third of the money, you should be able to say why you're buying anyway.\n\nIf any one fails, write down which one. Don't argue with it. Bring it to lesson 0.3, where we check whether your household can fund the full stack and get through a bad first year."
+  },
+  {
+   "type": "table",
+   "ref": "0.2.10",
+   "eyebrow": "Who confirms what",
+   "title": "Your CPA confirms every tax input, and your lender confirms the paydown",
+   "columns": [
+    "Confirm with",
+    "What they confirm"
+   ],
+   "rows": [
+    [
+     "CPA",
+     "Land split, placed-in-service date, recovery period, bonus eligibility, passive treatment, your hours, personal-use days, tax on a future sale"
+    ],
+    [
+     "Lender",
+     "The amortization schedule and the actual payment, so principal paydown uses real numbers"
+    ],
+    [
+     "Local agent or appraiser",
+     "The value inputs for the five-year test. Any growth rate stays your assumption, not theirs."
+    ],
+    [
+     "Cost segregation provider and CPA",
+     "Whether a study makes sense for this property, before you count accelerated depreciation (Sam's PA.5, SR.3)"
+    ]
+   ],
+   "notes": "Here's who confirms what for this lesson.\n\nYour CPA owns every tax input. The land allocation, the placed-in-service date, the recovery period, and bonus eligibility. Also the passive-rule treatment, your participation hours, personal-use days, and the tax on a future sale. That's a long list, so bring it as a written list to one meeting.\n\nYour lender confirms the amortization schedule and the actual payment. Then your principal paydown line uses real numbers instead of my example.\n\nA local agent or an appraiser can help with value inputs for the five-year test. But any growth rate you use is your assumption. Don't let anyone hand you a growth rate as if it were a fact.\n\nAnd a cost segregation provider, with your CPA, tells you whether a study even makes sense for this property. Do that before you count any accelerated depreciation. Sam's PA.5 covers the study, and resource SR.3 has an estimator you can use to prepare for that conversation."
+  },
+  {
+   "type": "dothis",
+   "ref": "0.2.9",
+   "title": "Four short tasks turn the ownership pitch into numbers you can check",
+   "items": [
+    "Rebuild the four-stream table for Cedar Ridge from these slides, labeling each row spendable or not.",
+    "Write your own downside limit: the most you'd accept being behind after five years, before tax.",
+    "List the CPA questions from the tax slides and book a first meeting.",
+    "Ask one lender for a sample amortization schedule at a quote you might use."
+   ],
+   "next": "Next: **0.3, Is Ownership Right for You? A Capital & Readiness Checklist.** Can Maya and Chris fund the full cash stack, including reserves and their own emergency savings?",
+   "notes": "Four tasks for this week, each under an hour.\n\nFirst, rebuild the four-stream table for Cedar Ridge from these slides. Do it by hand. Label each row spendable or not. Doing it once makes the difference between the streams stick.\n\nSecond, write your own downside limit. How far behind after five years, before tax, could you accept? Write the number down. If you have a partner, both of you write it separately and compare.\n\nThird, list the CPA questions. Land split, placed-in-service date, recovery period, bonus eligibility, passive rules, hours, personal use, tax on sale. Book a first meeting.\n\nFourth, ask a lender for a sample amortization schedule at a quote you might use. Then your paydown line is real.\n\nNext is lesson 0.3. Ownership can win or lose on the same house depending on revenue, management, and value. Now we ask whether Maya and Chris can fund the full cash stack, including reserves and their own emergency savings, and whether they can get through a weak first season."
+  },
+  {
+   "type": "sources",
+   "ref": "0.2 sources",
+   "eyebrow": "Sources",
+   "title": "The tax rules on these slides come from IRS publications you can read yourself",
+   "items": [
+    {
+     "title": "IRS Publication 527, Residential Rental Property",
+     "url": "https://www.irs.gov/publications/p527",
+     "note": "land isn't depreciable; start when ready and available for rent; 14-day or 10% personal-use test; splitting expenses"
+    },
+    {
+     "title": "IRS Publication 925, Passive Activity and At-Risk Rules",
+     "url": "https://www.irs.gov/publications/p925",
+     "note": "7-day average stay exception; material participation tests; $25,000 allowance and its $100,000 to $150,000 phase-out"
+    },
+    {
+     "title": "IRS newsroom, additional first-year depreciation guidance (Notice 2026-11)",
+     "url": "https://www.irs.gov/newsroom/treasury-irs-issue-guidance-on-the-additional-first-year-depreciation-deduction-amended-as-part-of-the-one-big-beautiful-bill",
+     "note": "permanent 100% bonus for eligible property acquired after January 19, 2025"
+    }
+   ],
+   "text": "Cedar Ridge figures come from the course example file and are all assumptions. New assumptions for this lesson: the $11,550 year-one value change, the flat-value sale, the five-year totals, and the lease comparison ($2,900 rent, $1,200 repairs, $1,800 policy, $44,500 cash in).",
+   "notes": "Here are the sources.\n\nIRS Publication 527 backs the land rule, the placed-in-service rule with its July and September example, the personal-use day test, and the rule for splitting expenses between rental and personal days.\n\nIRS Publication 925 backs the 7-day average stay exception, the material participation tests, and the $25,000 allowance with its phase-out between $100,000 and $150,000 of modified AGI.\n\nThe IRS newsroom page on Notice 2026-11 backs the permanent 100% first-year depreciation for eligible property acquired after January 19, 2025.\n\nEvery Cedar Ridge number comes from the course example file, and every one is an assumption. The new ones in this lesson are also assumptions: the $11,550 year-one value change, the flat-value sale, the five-year totals, and the entire lease comparison.\n\nTax rules change and depend on your household. Read the publication yourself, then take your questions to a CPA. Don't take a tax number from a slide, including mine."
+  }
+ ]
+}

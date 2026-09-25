@@ -1,0 +1,716 @@
+{
+ "nn": 8,
+ "code": "0.1",
+ "title": "Welcome to STR Concierge: What's Different About Owning",
+ "short": "Welcome to STR Concierge",
+ "section": "Part Two · Module 0 - Ownership vs. Arbitrage",
+ "slides": [
+  {
+   "type": "cover",
+   "ref": "0.1.0",
+   "kicker": "Part Two · Module 0 · Ownership vs. Arbitrage",
+   "title": "Owning trades a capped lease for a bigger, open-ended bet, so you move through gates",
+   "subtitle": "Lesson 0.1. Welcome to STR Concierge: What's Different About Owning",
+   "meta": [
+    [
+     "Teacher",
+     "Preston"
+    ],
+    [
+     "Example",
+     "Cedar Ridge house, with Alder Street for contrast (hypothetical)"
+    ],
+    [
+     "Use",
+     "Education only. Not legal, tax, lending, or insurance advice."
+    ]
+   ],
+   "notes": "Welcome to Part Two. This is STR Concierge, the ownership side of the course.\n\nIn Part One you learned to lease a unit and run it. Here you buy the house. That sounds like the same business with a bigger check. It isn't quite. The check is bigger, the loan runs for decades, and a lot more people have to sign off before you commit.\n\nSo this first lesson is a map. I'm not teaching any single step in depth today. Each later lesson does that. By the end of this one, you should be able to say who holds title, who carries the loan, who pays for a new roof, and who makes the final call. You'll see the course as a series of gates. And you'll know which gates can end a deal, and roughly how much money is on the line when you reach each one.\n\nI'll use Cedar Ridge, the lake house Maya and Chris are looking at. I'll hold it next to Alder Street, the Part One apartment, so you can see the difference in real numbers."
+  },
+  {
+   "type": "statement",
+   "ref": "0.1.1",
+   "eyebrow": "Why Part Two exists",
+   "title": "A lease has edges; owning removes them",
+   "text": "A lease has edges. Owning removes them: you buy the building, the land under it, and every problem inside the walls.",
+   "support": "Pricing, cleaning, guest messages, and local rules still apply. What's new is the size of the commitment and the number of people who must sign off.",
+   "notes": "Think about what capped your downside at Alder Street. The lease had a term. The furniture had a price. The rent was a known monthly number. If things went badly, you knew roughly where the bottom was.\n\nOwning takes those edges away. You buy the building and the land under it. You sign a loan that runs for decades. Your cash goes in as a down payment and closing costs, and it doesn't come back out unless you refinance or sell.\n\nThat's the whole reason STR Concierge is its own program. Your Part One skills still work here. Pricing, cleaning, guest communication, and local rules all carry over. What changes is how much you commit, and how many professionals you need before you commit it.\n\nKeep that frame for the rest of Module 0. Every table I show you is really asking one question: how big is the commitment, and who has to say yes first."
+  },
+  {
+   "type": "table",
+   "ref": "0.1.2",
+   "eyebrow": "Owner vs. operator",
+   "title": "As an owner you hold title, carry the loan, and pay for the roof",
+   "columns": [
+    "Item",
+    "Arbitrage operator (Part One)",
+    "Owner (Part Two)"
+   ],
+   "rows": [
+    [
+     "Title",
+     "Landlord owns it. You hold a lease.",
+     "You, or your entity, hold title"
+    ],
+    [
+     "Loan",
+     "None on the property",
+     "A mortgage on the house; the lender may want a personal guarantee"
+    ],
+    [
+     "Up-front cash",
+     "Deposit, first month, furniture, setup, reserve",
+     "Down payment, closing costs, furniture, repairs, reserves"
+    ],
+    [
+     "Monthly fixed cost",
+     "Rent set by the lease",
+     "Principal and interest, property tax, insurance, any HOA"
+    ],
+    [
+     "Maintenance",
+     "Usually the landlord's for structure and systems",
+     "Yours, all of it"
+    ],
+    [
+     "Capital repairs",
+     "Usually the landlord's, per the lease",
+     "Yours, in large amounts at irregular times"
+    ]
+   ],
+   "compact": true,
+   "notes": "Here's the side-by-side. I want you to read two rows twice: maintenance and capital repairs.\n\nAt Alder Street, if the water heater fails, it's usually the landlord's problem. You lose a few nights, you call them, and they fix it. Check your lease, but that's the normal split.\n\nAt Cedar Ridge, it's your bill and your emergency. You pick the plumber. You approve the cost. You pay it that same week. Roofs, HVAC, septic, and water heaters don't break on a schedule. They come in big amounts at odd times.\n\nThe loan row matters too. A mortgage is secured by the house. Depending on the loan, the lender may also want a personal guarantee. That means your household can be on the hook, and not just the property.\n\nAnd look at up-front cash. The operator's list is deposit, first month, and furniture. The owner's list starts with a down payment and closing costs, and it still needs furniture and reserves on top."
+  },
+  {
+   "type": "table",
+   "ref": "0.1.2",
+   "eyebrow": "Owner vs. operator",
+   "title": "Owning the deed does not give you the right to host; only local rules do",
+   "columns": [
+    "Item",
+    "Arbitrage operator",
+    "Owner"
+   ],
+   "rows": [
+    [
+     "Local approvals",
+     "The city, plus the landlord's written permission",
+     "The city and any HOA. No landlord to ask."
+    ],
+    [
+     "Insurance",
+     "Your STR liability policy; landlord insures the building",
+     "You insure the building and liability; the lender requires coverage"
+    ],
+    [
+     "Final decisions",
+     "The landlord can refuse, end, or not renew",
+     "You decide, and you carry the result"
+    ],
+    [
+     "Exit",
+     "Lease ends, or you negotiate an early exit",
+     "Sell, refinance, change use, or hold. Each costs time and money."
+    ],
+    [
+     "What you build",
+     "Cash flow and an operating skill",
+     "Cash flow, loan paydown, possible value change, possible tax timing"
+    ]
+   ],
+   "compact": true,
+   "box": {
+    "kind": "warn",
+    "label": "Before you host",
+    "text": "Airbnb tells hosts to check HOA or co-op rules and local laws first ([Airbnb Help, article 1397](https://www.airbnb.com/help/article/1397))."
+   },
+   "notes": "The approvals row changes shape when you own. In arbitrage, a landlord can say no, and many do. As an owner, there's no landlord gate. That feels like freedom. But the city, the county, and any homeowners association still apply.\n\nAirbnb's own help center tells hosts to check HOA or co-op rules and local laws before hosting. Owning the deed doesn't give you the right to run a short-term rental at that address. Only the local rules do. We'll turn that into a hard gate in a minute.\n\nNow the last row. An owner can earn from four places at once: cash flow, loan paydown, a change in value, and tax timing. An operator earns mainly from one. Four streams sound better, and sometimes they are. But each one carries its own cost. Some of them never reach your bank account until you sell.\n\nThat's exactly what lesson 0.2 tests with numbers. For now, just notice that \"what you build\" is a longer list with longer strings attached."
+  },
+  {
+   "type": "table",
+   "ref": "0.1.3",
+   "eyebrow": "The course path",
+   "title": "The course runs one way: from what to buy to whether it performs as underwritten",
+   "columns": [
+    "Stage",
+    "What you decide",
+    "Lessons"
+   ],
+   "rows": [
+    [
+     "Readiness",
+     "Should I own, and can I fund the full cash stack?",
+     "0.1, 0.2, 0.3"
+    ],
+    [
+     "Buy box",
+     "What am I shopping for, and when do I pass?",
+     "PA.1"
+    ],
+    [
+     "Market and deal review",
+     "Which market, which properties, does it pencil?",
+     "PA.2 to PA.5 (Sam)"
+    ],
+    [
+     "Financing and offer",
+     "Which loan, and what is my walk-away price?",
+     "PA.6, PA.7, PA.8"
+    ],
+    [
+     "Diligence",
+     "Does the house and the STR business survive inspection?",
+     "PA.9"
+    ],
+    [
+     "Structure",
+     "Who holds title, who operates, how is it taxed?",
+     "PA.10"
+    ],
+    [
+     "Closing",
+     "Verify documents, move money safely, take possession",
+     "PA.11"
+    ],
+    [
+     "Handoff to operations",
+     "Insurance, utilities, safety, launch packet",
+     "PA.12"
+    ],
+    [
+     "Furnishing and launch",
+     "Listings, tech, pricing, furnishing, team, SOPs",
+     "OP.1 to OP.5 (Sam); OP.6 to OP.9"
+    ],
+    [
+     "30/90-day review",
+     "Compare actual results to the underwriting",
+     "OP.10 (Sam)"
+    ],
+    [
+     "Growth and exit",
+     "Property two, refinancing, selling, or exchanging",
+     "OP.11, OP.12"
+    ]
+   ],
+   "compact": true,
+   "notes": "This is the whole program on one slide. It runs in one direction. You start with \"what should I buy\" and you end with \"is it performing the way I underwrote it\".\n\nMy lessons teach the decisions. Sam's lessons are the live demos. So after PA.1, Sam takes you through market choice, deal sourcing, underwriting, and cost segregation in PA.2 to PA.5. Then I pick up with financing in PA.6.\n\nThe tracker is the course. There's an older STR Concierge Program Outline V1 floating around. It's fine background reading, but it doesn't add lessons to this list.\n\nLook at where readiness sits. It comes before the buy box, and the buy box comes before any market research. That order is on purpose. If you can't fund the full cash stack, the best market in the country doesn't help you.\n\nDon't try to memorize this table. Come back to it when you're lost in the middle of the program and want to know where you are."
+  },
+  {
+   "type": "flow",
+   "ref": "0.1.3",
+   "eyebrow": "Why order matters",
+   "title": "Each stage hands the next one a document, so a skipped stage leaves a gap",
+   "nodes": [
+    {
+     "k": "PA.1",
+     "h": "Buy box",
+     "d": "What you'll buy and when you pass"
+    },
+    {
+     "k": "PA.2, PA.3",
+     "h": "Market and property list",
+     "d": "Built from the buy box"
+    },
+    {
+     "k": "PA.4",
+     "h": "Underwriting package",
+     "d": "Does this one pencil?"
+    },
+    {
+     "k": "PA.8",
+     "h": "Offer ceiling",
+     "d": "Set from the package"
+    },
+    {
+     "k": "PA.9",
+     "h": "Diligence check",
+     "d": "Package vs. inspector and city",
+     "kind": "go"
+    }
+   ],
+   "text": "If you skip a stage, the next one has nothing reliable to work from.",
+   "notes": "Here's why the order matters. Each stage produces a document, and the next stage uses it.\n\nPA.1 produces your buy box. Sam's PA.2 and PA.3 use that buy box to pick a market and build a list of properties. PA.4 produces an underwriting package for one property. PA.8 uses that package to set your offer ceiling. Then PA.9 checks the package against what the inspector and the city actually say.\n\nSo picture someone who skips the buy box and goes straight to touring houses. What does Sam's pipeline filter on? Nothing. What does the underwriting test against? Their mood that day.\n\nOr picture someone who skips underwriting and makes an offer. There's no ceiling. The offer price is whatever feels right in the moment, and the diligence check has no numbers to compare against.\n\nThat's what I mean by a gap. Each document is the input to the next decision. When you're tempted to jump ahead, ask which document you're missing."
+  },
+  {
+   "type": "table",
+   "ref": "0.1.4",
+   "eyebrow": "Your working team",
+   "title": "Each professional answers inside one lane, and you combine the answers",
+   "columns": [
+    "Role",
+    "What they answer",
+    "What they do not answer"
+   ],
+   "rows": [
+    [
+     "Buyer's agent",
+     "Comparable sales, offer terms, contingency timing, local practice",
+     "Whether STR use is legal at the address; your tax result"
+    ],
+    [
+     "Lender",
+     "Whether you qualify, rate and points, reserves, what income counts",
+     "Whether the deal is a good investment for you"
+    ],
+    [
+     "Home inspector",
+     "The physical condition of the house and its systems",
+     "Market value (that's the appraiser)"
+    ],
+    [
+     "Appraiser",
+     "Market value for the lender",
+     "Condition problems an inspection would find"
+    ],
+    [
+     "Insurance agent",
+     "Whether they'll write an STR policy, the cost, the exclusions",
+     "Whether platform protection replaces a policy (it doesn't)"
+    ]
+   ],
+   "compact": true,
+   "notes": "Owning brings more people into the deal. Each one has a narrow job. Trouble starts when you ask someone a question that belongs to someone else.\n\nYour agent knows comparable sales and offer terms. Your agent does not know whether short-term rental use is legal at that address, and shouldn't be guessing about your taxes.\n\nYour lender tells you whether you qualify and what income they'll count. The lender does not tell you whether this is a good investment. A lender approval means they expect to be repaid. It says nothing about whether you'll be happy.\n\nThe inspector and the appraiser get mixed up all the time. The inspector looks at condition. The appraiser estimates value for the lender. Neither does the other's job.\n\nAnd the insurance agent tells you whether they'll write a short-term rental policy on this specific house. Platform protection doesn't replace that policy. We'll come back to that in PA.12.\n\nYou make the final call on every gate. These people each hand you one fact."
+  },
+  {
+   "type": "table",
+   "ref": "0.1.4",
+   "eyebrow": "Your working team",
+   "title": "Title, tax, and local help each answer a narrow question, never your whole deal",
+   "columns": [
+    "Role",
+    "What they answer",
+    "What they do not answer"
+   ],
+   "rows": [
+    [
+     "Title / escrow",
+     "Who owns it now, liens, easements, how money moves at closing",
+     "Zoning or STR permission"
+    ],
+    [
+     "CPA",
+     "Depreciation, losses, personal use, and sale tax for your household",
+     "Whether the lender will approve you"
+    ],
+    [
+     "Real estate attorney (as needed)",
+     "Contract terms, HOA documents, entity and title, local STR law",
+     "Market rents"
+    ],
+    [
+     "Local operators",
+     "Turnovers, access, repairs, guest issues on the ground",
+     "Pricing, compliance, your finances"
+    ],
+    [
+     "STR Concierge team",
+     "The course process and worksheets",
+     "Legal, tax, lending, or insurance advice"
+    ]
+   ],
+   "compact": true,
+   "notes": "Here's the rest of the team.\n\nTitle and escrow tell you who owns the property now, what liens and easements sit on it, and how money moves at closing. They don't tell you whether the city allows short-term rentals there. A clean title says nothing about zoning.\n\nYour CPA handles depreciation, losses, personal-use days, and tax on a future sale, for your household. Your CPA can't tell you whether a lender will approve you.\n\nBring in a real estate attorney as needed. Contract terms, HOA documents, entity and title questions, and local short-term rental law are their lane.\n\nYour local cleaner, handyman, and maybe a co-host run the ground game. Turnovers, access, repairs, guest problems. They don't set pricing strategy or make compliance calls.\n\nAnd the STR Concierge team helps with the course process and the worksheets. We don't give legal, tax, lending, or insurance advice. Ask the team what support your membership includes."
+  },
+  {
+   "type": "bullets",
+   "ref": "0.1.4",
+   "eyebrow": "Where buyers get caught",
+   "title": "You can hand off tasks to others, but the accountability stays with you",
+   "items": [
+    "The appraiser estimates market value for the lender. You, the buyer, hire the inspector ([CFPB](https://www.consumerfinance.gov/owning-a-home/close/schedule-a-home-inspection/)).",
+    "A lender's title policy protects the lender. An owner's policy protects your equity ([CFPB](https://www.consumerfinance.gov/ask-cfpb/what-is-owners-title-insurance-en-164/)).",
+    "On Airbnb, you set each co-host's permissions. You stay responsible for co-hosts, even ones a full-access co-host adds ([article 1534](https://www.airbnb.com/help/article/1534)).",
+    "Each professional gives you a fact or an opinion inside their lane. You make the final decision at every gate."
+   ],
+   "notes": "Three places where responsibility splits in a way new owners miss.\n\nFirst, inspection. The Consumer Financial Protection Bureau is direct about this. The appraiser works for the lender's question, which is value. You, the buyer, are responsible for hiring the inspector. If you skip it, nobody else is checking the roof on your behalf.\n\nSecond, title insurance. The lender will require a lender's policy. That one protects the lender. If you want your own equity protected, that's an owner's policy. Ask about it at closing. PA.11 covers this.\n\nThird, co-hosts. If you add a co-host on Airbnb later, you choose their permission level. But Airbnb says the listing owner remains responsible for co-hosts. That includes ones added by a full-access co-host. You can hand off tasks. You can't hand off accountability. OP.7 goes deeper on this.\n\nThe pattern across all three is the same. Other people do parts of the work. You carry the result."
+  },
+  {
+   "type": "gates",
+   "ref": "0.1.5",
+   "eyebrow": "Decision gates 0 to 4",
+   "title": "Gates 0 to 4 cost almost nothing to fail, so most deals should die here",
+   "gates": [
+    {
+     "q": "Readiness: can we fund the full stack and keep our emergency savings?",
+     "sub": "Gate 0 · lesson 0.3",
+     "no": "Wait, build cash, or lease (Part One)"
+    },
+    {
+     "q": "Buy box: does it meet every hard requirement?",
+     "sub": "Gate 1 · PA.1",
+     "no": "Pass"
+    },
+    {
+     "q": "Is unhosted STR use allowed at this exact address, including HOA rules?",
+     "sub": "Gate 2 · PA.2, SR.1",
+     "no": "Pass, or get it in writing first"
+    },
+    {
+     "q": "Underwriting: is the weak case inside our downside limit at a real quote?",
+     "sub": "Gate 3 · PA.4",
+     "no": "Pass, or lower the price"
+    },
+    {
+     "q": "Financing: a written quote we qualify for, with reserves we can meet?",
+     "sub": "Gate 4 · PA.6, PA.7",
+     "no": "Pass or restructure"
+    }
+   ],
+   "notes": "A deal moves forward only when it clears a gate. At each gate, one answer ends it. I've numbered them 0 to 9 in the lesson, and this slide shows the first five.\n\nGate 0 is readiness, from lesson 0.3. Gate 1 is your buy box. Gate 2 is permission at the exact address. Gate 3 is underwriting. Gate 4 is a written loan quote.\n\nGates 2 and 3 are where most deals should die. They cost almost nothing to run. The city's rules are public. Sam's PA.4 underwriting runs in your own spreadsheet.\n\nHere's the trap. A buyer who treats these gates as formalities tends to find the problem later, at Gate 6. By then the inspections are paid for and earnest money is on the line.\n\nSo when a house fails Gate 2, don't argue with it. Pass, or get a written answer before you spend another dollar. The rejection is the gate doing its job."
+  },
+  {
+   "type": "gates",
+   "ref": "0.1.5",
+   "eyebrow": "Decision gates 5 to 9",
+   "title": "Gates 5 to 9 put real money at stake, and Gate 6 runs on a contract clock",
+   "gates": [
+    {
+     "q": "Offer: will the seller accept a price at or below our walk-away number?",
+     "sub": "Gate 5 · PA.8",
+     "no": "Walk"
+    },
+    {
+     "q": "Diligence: do inspection, insurance, title, appraisal, and permit all hold up?",
+     "sub": "Gate 6 · PA.9 · inside the contingency window",
+     "no": "Renegotiate or cancel"
+    },
+    {
+     "q": "Closing: do the Closing Disclosure and wire instructions match what we agreed?",
+     "sub": "Gate 7 · PA.11",
+     "no": "Stop and verify before money moves"
+    },
+    {
+     "q": "Launch: insured, safe, permitted, furnished, team in place?",
+     "sub": "Gate 8 · PA.12, OP.6 to OP.8",
+     "no": "Don't publish the listing yet"
+    },
+    {
+     "q": "Review: are actual results inside the range we underwrote?",
+     "sub": "Gate 9 · OP.10 (Sam)",
+     "no": "Fix pricing, costs, or operations"
+    }
+   ],
+   "notes": "Here are the second five gates. Notice the money changes here.\n\nGate 5 is the offer. If the seller won't come to your walk-away number, you walk. PA.8 shows you how to set that number.\n\nGate 6 is diligence: inspection, insurance quote, title, appraisal, and permit. I phrased it so a No means a finding broke the numbers or the plan. Then you renegotiate or cancel. And this gate has a clock. Your inspection and financing contingencies run on deadlines in the purchase contract. Miss one, and your options can shrink, depending on the contract. PA.8 and PA.9 cover how to set those windows.\n\nGate 7 is closing. You check the Closing Disclosure and the wire instructions against what you agreed. If anything is off, stop before money moves.\n\nGate 8 is launch. Don't publish the listing until it's insured, safe, permitted, furnished, and staffed.\n\nGate 9 is the first time your underwriting meets reality. Sam walks through that review in OP.10."
+  },
+  {
+   "type": "calc",
+   "ref": "0.1.6",
+   "eyebrow": "Worked example · Cash on day one",
+   "assumption": true,
+   "title": "Cedar Ridge needs $142,688 on day one, 7 times Alder Street's $20,370",
+   "lines": [
+    {
+     "op": "",
+     "label": "Down payment, 25% of $385,000",
+     "v": "$96,250"
+    },
+    {
+     "op": "+",
+     "label": "Closing costs, 3% of price",
+     "v": "$11,550"
+    },
+    {
+     "op": "+",
+     "label": "1 point on the $288,750 loan",
+     "v": "$2,888"
+    },
+    {
+     "op": "+",
+     "label": "Furnishing budget",
+     "v": "$32,000"
+    }
+   ],
+   "result": {
+    "label": "Cash in before owner reserves",
+    "v": "$142,688"
+   },
+   "side": "Cash to close on the DSCR quote is $96,250 + $14,438 = **$110,688**.\n\nAlder Street needed **$20,370**: $12,050 of setup plus $8,320 of deposit, first month, and reserve.\n\n$142,688 / $20,370 = **7.0**.",
+   "side_box": {
+    "kind": "gold",
+    "label": "Still missing",
+    "text": "No lender reserves or personal emergency savings yet. Lesson 0.3 adds them."
+   },
+   "notes": "Let's make it concrete. Maya and Chris have a $385,000 contract price on Cedar Ridge, against a $399,000 asking price. All of these figures are assumptions from the course example file.\n\nStep by step. The down payment is 25% of $385,000, which is $96,250. Closing costs are 3% of price, $11,550. The DSCR quote carries one point on a $288,750 loan. That's another $2,888. So closing costs total $14,438, and cash to close is $110,688.\n\nThen furnishing. The budget is $32,000. That brings cash in to $142,688.\n\nNow hold that next to Alder Street. The apartment needed $20,370 on day one. That was $12,050 of sunk setup, plus $8,320 tied up in the deposit, first month, and an operating reserve.\n\n$142,688 divided by $20,370 is 7.0. Seven times the cash. And the Cedar Ridge number still doesn't include lender reserves or the family's own emergency fund. Lesson 0.3 adds both, and the total gets bigger."
+  },
+  {
+   "type": "table",
+   "ref": "0.1.6",
+   "eyebrow": "Worked example · Side by side",
+   "assumption": true,
+   "title": "In a bad year Alder Street still nets $1,548, while Cedar Ridge loses $5,475",
+   "columns": [
+    "",
+    "Alder Street (lease)",
+    "Cedar Ridge (own, DSCR quote)"
+   ],
+   "rows": [
+    [
+     "Monthly fixed obligation",
+     "$1,950 rent",
+     "$2,557 PITIA"
+    ],
+    [
+     "Repairs and capital reserve",
+     "Usually the landlord's",
+     "$7,428 a year (5% + 5% of gross)"
+    ],
+    [
+     "Bad year, after rent or debt service",
+     "+$1,548 (stress case)",
+     "-$5,475 (weak case)"
+    ],
+    [
+     "Way out",
+     "Up to $46,800 (24 months of rent), per lease terms",
+     "Sale: $31,242 of costs at 7% of $446,321"
+    ],
+    [
+     "Principal paydown, year 1",
+     "None",
+     "$2,795"
+    ]
+   ],
+   "text": "The weak-case loss comes from reserves or from the household. Values, sale price, and tax effects are assumptions.",
+   "notes": "Here's the rest of the comparison.\n\nMonthly fixed cost first. Alder Street's rent is $1,950. Cedar Ridge's principal, interest, taxes, and insurance on the DSCR quote is $2,557. On top of that, the owner sets aside 5% of gross for repairs and 5% for capital items. At base-case revenue, that's $3,714 each, $7,428 a year together. A tenant usually doesn't carry those.\n\nNow the bad year. In Alder Street's stress case, the unit still nets $1,548. In Cedar Ridge's weak case, the owners lose $5,475 after debt service. That money comes out of reserves or out of the household.\n\nThe way out is different too. At Alder Street, the worst case is usually the rest of the lease plus the furniture. Twenty-four months of rent is $46,800, and the real exposure depends on the early-termination terms. At Cedar Ridge, the way out is a sale. The five-year model shows $31,242 of selling costs, before any tax.\n\nWhat Cedar Ridge offers back is $2,795 of loan paydown in year one, possible value change, and possible tax timing. Lesson 0.2 tests all of it."
+  },
+  {
+   "type": "bars",
+   "ref": "0.1.7",
+   "eyebrow": "Money at risk by gate",
+   "assumption": true,
+   "title": "Failing Gates 0 to 3 costs time, while failing Gate 7 puts $110,688 at stake",
+   "items": [
+    {
+     "label": "Gates 0 to 3",
+     "value": 0,
+     "kind": "pos",
+     "display": "Time"
+    },
+    {
+     "label": "Gate 4 · financing",
+     "value": 0,
+     "kind": "pos",
+     "display": "Maybe a fee"
+    },
+    {
+     "label": "Gate 5 · offer accepted",
+     "value": 3850,
+     "kind": "neg",
+     "display": "$3,850"
+    },
+    {
+     "label": "Gate 6 · diligence",
+     "value": 5350,
+     "kind": "neg",
+     "display": "+ $1,500"
+    },
+    {
+     "label": "Gate 7 · closing",
+     "value": 110688,
+     "kind": "neg",
+     "hot": true,
+     "display": "$110,688"
+    },
+    {
+     "label": "Gate 8 · launch",
+     "value": 142688,
+     "kind": "neg",
+     "display": "+ $32,000"
+    }
+   ],
+   "caption": "Earnest money of $3,850 is 1% of price (assumption); whether it's refundable depends on the contract. Inspection fees of about $1,500 (assumption). Gate 8 adds $32,000 of furnishing plus carrying costs until the first booking.",
+   "notes": "Here's why early gates matter, in dollars. This shows what Maya and Chris would have committed or spent by the time each gate is decided.\n\nGates 0 to 3: readiness, buy box, permission, underwriting. They cost time, and maybe a data subscription. No deposit yet.\n\nGate 4, financing, might cost an application or credit report fee, depending on the lender.\n\nAt Gate 5, once the offer is accepted, earnest money goes in. I've assumed 1% of price, $3,850. Whether you get it back depends on your contract and its contingencies.\n\nAt Gate 6, add inspection fees. I've assumed about $1,500 for general, septic, and other specialist checks.\n\nThen the jump. Gate 7 is closing, and that's $110,688 of cash to close on the DSCR quote. Gate 8 adds the $32,000 of furnishing, plus carrying costs until the first guest books.\n\nSo the first four gates cost almost nothing to fail. The last three cost thousands, then tens of thousands. The work you do in PA.1 and in Sam's PA.2 to PA.4 is the cheapest protection you'll buy in this program."
+  },
+  {
+   "type": "worksheet",
+   "ref": "0.1.8",
+   "eyebrow": "Exercise · Your gate log",
+   "title": "Log every serious property gate by gate, and leave a gate blank until it's in writing",
+   "columns": [
+    "Gate",
+    "Evidence",
+    "Who confirms",
+    "Date",
+    "Pass / fail / open",
+    "If fail, why"
+   ],
+   "rows": [
+    [
+     "0 Readiness",
+     "0.3 scorecard",
+     "You",
+     "",
+     "",
+     ""
+    ],
+    [
+     "1 Buy box",
+     "PA.1 buy box",
+     "You",
+     "",
+     "",
+     ""
+    ],
+    [
+     "2 STR permission",
+     "Official source URL, city email",
+     "City or county",
+     "",
+     "",
+     ""
+    ],
+    [
+     "3 Underwriting",
+     "PA.4 package",
+     "You",
+     "",
+     "",
+     ""
+    ],
+    [
+     "4 Financing",
+     "Loan Estimate or term sheet",
+     "Lender",
+     "",
+     "",
+     ""
+    ],
+    [
+     "5 Offer",
+     "Signed contract",
+     "You and agent",
+     "",
+     "",
+     ""
+    ],
+    [
+     "6 Diligence",
+     "Reports, insurance quote, title, appraisal",
+     "Inspector, insurer, title",
+     "",
+     "",
+     ""
+    ],
+    [
+     "7 Closing",
+     "Closing Disclosure; verified call log",
+     "Title, lender",
+     "",
+     "",
+     ""
+    ],
+    [
+     "8 Launch",
+     "Policy, permit, PA.12 packet",
+     "Insurer, city, you",
+     "",
+     "",
+     ""
+    ],
+    [
+     "9 Review",
+     "OP.10 review",
+     "You",
+     "",
+     "",
+     ""
+    ]
+   ],
+   "compact": true,
+   "notes": "This is your working tool for the whole acquisition phase. Use one log for every property you seriously consider. Start with the first one Sam's PA.3 pipeline produces.\n\nFill in one row per gate as you reach it. The evidence column is the important one. It's a document, a link, or an email. \"The agent said it's fine\" is not evidence. \"City code section and the date I read it\" is.\n\nLeave a gate blank until you have a written answer. An open gate is honest. A gate marked pass on a hunch is how people end up at Gate 6 with a problem they could have found for free at Gate 2.\n\nWhen a property fails, write down what ended it. After a few logs, you'll see patterns. Maybe every lake house in your range fails insurance. Maybe every one with an HOA fails permission. That tells you something about your buy box and your market.\n\nThe log also makes the calls with your agent and lender faster. You're asking specific questions with the evidence in front of you."
+  },
+  {
+   "type": "table",
+   "ref": "0.1.9",
+   "eyebrow": "Who confirms what",
+   "title": "Five professionals confirm the facts, and each one confirms before a set point",
+   "columns": [
+    "Confirm with",
+    "What they confirm",
+    "When"
+   ],
+   "rows": [
+    [
+     "City or county licensing office",
+     "STR use is allowed at the exact address and under HOA rules; STR attorney if unclear",
+     "Before an offer"
+    ],
+    [
+     "Lender",
+     "Reserves, credit, down payment, and guarantees, in writing",
+     "Before you rely on the quote"
+    ],
+    [
+     "Insurance agent",
+     "They'll write an STR policy on this house, and what it excludes",
+     "Before diligence closes"
+    ],
+    [
+     "Agent or attorney",
+     "How earnest money, inspection, and financing contingencies work, every deadline",
+     "Before you sign"
+    ],
+    [
+     "CPA",
+     "How ownership, depreciation, and personal use affect your household's taxes",
+     "Before counting any tax benefit"
+    ]
+   ],
+   "notes": "Here's who confirms what, and when.\n\nThe city or county licensing office confirms that short-term rental use is allowed at the exact address, and under any HOA rules. Do that before an offer. If the answer is unclear, get an STR attorney.\n\nYour lender confirms reserves, credit, down payment, and any guarantee, in writing. A verbal \"you should be fine\" doesn't count.\n\nYour insurance agent confirms they'll write a short-term rental policy on this specific house, and what it excludes. Get that before your diligence window closes. If you can't insure it, you can't run it.\n\nYour agent or attorney explains how earnest money and the inspection and financing contingencies work in your contract. That includes every deadline. Put those dates on a calendar the day you sign.\n\nAnd your CPA confirms how ownership, depreciation, and personal use affect your household's taxes. Do that before you count any tax benefit in a decision. Until then, the tax benefit is zero in your math."
+  },
+  {
+   "type": "dothis",
+   "ref": "0.1.8",
+   "title": "Four short tasks get your gate log and team ready before PA.1",
+   "items": [
+    "Copy the gate log into a sheet or notebook you'll actually keep open during the search.",
+    "Write one paragraph: which gate you expect to be hardest for you, and why.",
+    "List the team roles you don't yet have a name for. Next to each, write how you'll find one before PA.4.",
+    "Mark on your calendar that no offer goes out until Gates 0 to 4 have written evidence."
+   ],
+   "next": "Next: **0.2, Why Ownership Wins: Cash Flow + Tax Savings + Equity.** It tests the four possible streams on Cedar Ridge, one case where owning works and one where it doesn't.",
+   "notes": "Four things before the next lesson. None of them should take more than an hour.\n\nFirst, set up the gate log somewhere you'll really use it. A spreadsheet, a notebook, whatever you'll keep open.\n\nSecond, answer the first exercise question in writing. Which gate do you expect to be hardest for you, and why? Be honest. For some people it's readiness. For others it's walking away at Gate 5 when they love the house.\n\nThird, answer the second question. Look at the team list. Who don't you have a name for yet? Write down how you'll find one before you reach PA.4. A lender and an insurance agent who writes short-term rental policies are the two people most students are missing.\n\nFourth, put a rule on your calendar: no offer until Gates 0 to 4 have written evidence.\n\nThen go to lesson 0.2. You'll separate the money you can spend from the money locked in the house. And you'll see one case where owning Cedar Ridge works and one where it doesn't."
+  },
+  {
+   "type": "sources",
+   "ref": "0.1 sources",
+   "eyebrow": "Sources",
+   "title": "Every rule on these slides traces to an official page you can check",
+   "items": [
+    {
+     "title": "Airbnb Help Center, article 1397",
+     "url": "https://www.airbnb.com/help/article/1397",
+     "note": "check HOA or co-op rules and local laws before hosting"
+    },
+    {
+     "title": "Airbnb Help Center, article 1534",
+     "url": "https://www.airbnb.com/help/article/1534",
+     "note": "listing owners stay responsible for co-hosts; permission levels"
+    },
+    {
+     "title": "CFPB, Schedule a home inspection",
+     "url": "https://www.consumerfinance.gov/owning-a-home/close/schedule-a-home-inspection/",
+     "note": "inspector vs. appraiser; the buyer arranges the inspection"
+    },
+    {
+     "title": "CFPB, What is owner's title insurance?",
+     "url": "https://www.consumerfinance.gov/ask-cfpb/what-is-owners-title-insurance-en-164/",
+     "note": "the owner's policy protects your equity"
+    },
+    {
+     "title": "CFPB, What is lender's title insurance?",
+     "url": "https://www.consumerfinance.gov/ask-cfpb/what-is-lenders-title-insurance-en-163/",
+     "note": "the lender's policy protects the lender"
+    },
+    {
+     "title": "STR Concierge Program Outline V1",
+     "url": "https://docs.google.com/document/d/13h0c_qqbJTJjEhQTYohPnzh0fcqGdmW9WjGye5KCXfo/edit",
+     "note": "background only; the production tracker is the course map"
+    }
+   ],
+   "text": "Cedar Ridge and Alder Street figures come from the course example file and are all assumptions. Earnest money (1%) and inspection fees ($1,500) are new assumptions for this lesson.",
+   "notes": "Here are the sources behind this lesson.\n\nThe two Airbnb help articles back the points about checking HOA and local rules before hosting, and about staying responsible for your co-hosts. The CFPB pages back the inspector versus appraiser split, and the difference between a lender's and an owner's title policy.\n\nThe STR Concierge Program Outline V1 is listed as background only. The production tracker is the course map.\n\nEvery Cedar Ridge and Alder Street number in this deck comes from the course's example file. They are assumptions for teaching, not a real deal. The two new figures in the money-at-risk slide, 1% earnest money and about $1,500 of inspection fees, are also assumptions.\n\nRules change. When you're looking at a real address, go back to the official page and check the date. Don't rely on my slide, or anyone's slide, for a rule that decides whether you can host."
+  }
+ ]
+}

@@ -1,0 +1,598 @@
+{
+  "nn": 1,
+  "code": "1.3",
+  "title": "Is Arbitrage Still Viable in 2026? A Market Reality Check",
+  "short": "Arbitrage market reality check",
+  "section": "Part One · Module 1 - Foundations & the 2026 Market Reality",
+  "slides": [
+    {
+      "type": "cover",
+      "ref": "1.3.0",
+      "kicker": "Module 1 · Foundations & the 2026 Market Reality",
+      "title": "Arbitrage works when one lease survives an ordinary bad month",
+      "subtitle": "Lesson 1.3. Is Arbitrage Still Viable in 2026? A Market Reality Check",
+      "meta": [
+        [
+          "Teacher",
+          "Preston"
+        ],
+        [
+          "Example",
+          "Alder Street unit (hypothetical)"
+        ],
+        [
+          "Use",
+          "Education only. Not legal, tax, lending, or insurance advice."
+        ]
+      ],
+      "notes": "People keep asking me whether arbitrage still works in 2026. I understand why. You read that Airbnb is growing, and then you read that the average listing is flat.\n\nIn this lesson I'm going to change the question. We won't judge the whole market. We'll judge one apartment, at one rent, under one city's rules.\n\nBy the end you'll be able to take a real unit and work out four numbers. What each stay leaves behind. The occupancy where you break even. What happens in a stress case. And how many months it takes to earn back your setup cash. Then you'll run the unit through three gates and write down a decision: sign, investigate, or walk.\n\nOur example the whole way through is Alder Street, a hypothetical two-bedroom. Every figure on it is an assumption from the course's canonical example. None of this is legal, tax, lending, or insurance advice."
+    },
+    {
+      "type": "two",
+      "ref": "1.3.1",
+      "eyebrow": "Read the market like a weather report",
+      "title": "Platform growth and a softer average listing can both be true in 2026",
+      "left": {
+        "head": "Airbnb, Q2 2026",
+        "note": "Travelers are still booking",
+        "items": [
+          "Revenue up 17% to $3.6 billion",
+          "Nights and seats booked up 10% year over year",
+          "Gross booking value $27.2 billion, up 16%"
+        ]
+      },
+      "right": {
+        "head": "AirDNA 2026 outlook",
+        "note": "The average listing",
+        "items": [
+          "Supply growing slightly faster than demand",
+          "Occupancy down about 1%, nightly rate up about 1.5%",
+          "Midyear update: \"A Better Year to Own Than to Buy\""
+        ]
+      },
+      "box": {
+        "kind": "gold",
+        "label": "The only question that matters",
+        "text": "At this rent, in this building, under this city's rules, does the unit earn more than it costs in an ordinary bad month?"
+      },
+      "notes": "Here are two sets of numbers that seem to disagree. Airbnb reported that in the second quarter of 2026, revenue rose 17% to $3.6 billion, and nights and seats booked rose 10%. AirDNA, looking at the average listing, expected supply to grow a little faster than demand. It projected occupancy down about 1% and rates up about 1.5%.\n\nBoth can be true at once. When the platform grows but more listings open, the new demand gets spread across more units.\n\nSo I read both as weather reports. They tell you the climate. They don't tell you the rent your landlord wants, what's opening in your building, or whether your city lets you host at all.\n\nA lease is a promise to pay a fixed rent at one address for a fixed term. So the question is always about this unit. Can it win its share of demand, and does the rent leave a margin? Sam's 4.1 through 4.5 show you how to pull the market data. This lesson is what you do with it."
+    },
+    {
+      "type": "two",
+      "ref": "1.3.2",
+      "title": "Rent arrives every month, so a travel boom can't rescue a weak lease",
+      "left": {
+        "head": "Costs that move with bookings",
+        "items": [
+          "Platform service fee",
+          "Cleaner pay",
+          "Supplies used by each stay",
+          "A percentage manager fee, if you hire one"
+        ]
+      },
+      "right": {
+        "head": "Costs that arrive anyway",
+        "items": [
+          "Rent, usually the largest line on the page",
+          "Utilities and internet",
+          "Insurance and software",
+          "Repair reserve and permit fee"
+        ]
+      },
+      "box": {
+        "kind": "info",
+        "label": "Why this matters",
+        "text": "More tourists can lift your nightly rate a little. They can't lower your rent. They book the better-located, better-reviewed, or cheaper listings first."
+      },
+      "notes": "Every arbitrage deal has two kinds of cost. Some rise and fall with bookings. The platform fee, the cleaner, supplies. If nobody books, you don't pay them.\n\nThe others show up every month whether anyone books or not. Rent, utilities, insurance, software, a repair reserve, your permit fee. On most leased units, rent is the largest line on the page.\n\nHere's why that matters. A strong travel season can nudge your nightly rate up. It can't touch your rent. So if the fixed costs are too high for what the unit can realistically earn, more visitors in the city won't close the gap. Those visitors book the listings with better locations, better reviews, or lower prices first.\n\nThat's why I want you thinking in contribution margin. It's the idea on the next slide, and it's the lens for the rest of this lesson."
+    },
+    {
+      "type": "flow",
+      "ref": "1.3.3",
+      "title": "Each stay leaves a contribution, and contributions must cover fixed costs first",
+      "nodes": [
+        {
+          "k": "Step 1",
+          "h": "Nightly revenue",
+          "d": "Booked nights x nightly rate"
+        },
+        {
+          "k": "Step 2",
+          "h": "Add cleaning fee",
+          "d": "The stay's gross revenue"
+        },
+        {
+          "k": "Step 3",
+          "h": "Less platform fee",
+          "d": "15.5% single fee on nightly plus cleaning"
+        },
+        {
+          "k": "Step 4",
+          "h": "Less cleaner and supplies",
+          "d": "Costs that come with the stay"
+        },
+        {
+          "k": "Result",
+          "h": "Contribution",
+          "d": "Piles up to cover fixed costs",
+          "kind": "go"
+        }
+      ],
+      "box": {
+        "kind": "info",
+        "label": "In or out",
+        "text": "A 20% manager fee is a variable cost. On Alder Street it turns the year into a $107 loss (canonical what-if A3). Occupancy taxes pass through to the tax agency, so they are not your revenue."
+      },
+      "notes": "Contribution is what one stay leaves behind after the costs that come with that stay. Here's the chain.\n\nBooked nights times the nightly rate gives nightly revenue. Add the cleaning fee the guest pays, and that's the stay's gross revenue. Take off the platform fee. Airbnb's service fee page describes a single fee where most hosts pay 15.5%, and a split fee where the host pays 3% and the guest pays a separate fee. Our example uses the 15.5% single fee on nightly plus cleaning. Then take off the cleaner and the supplies. What's left is the contribution.\n\nAdd up every stay's contribution for the year, subtract fixed costs, and you have net before income tax.\n\nTwo notes. A manager's percentage fee moves with bookings, so it's a variable cost. On Alder Street a 20% manager fee turns a positive year into a $107 loss. Lesson 6.5 covers when a manager makes sense. And occupancy taxes aren't your money. Lesson 3.3 covers who collects them."
+    },
+    {
+      "type": "bullets",
+      "ref": "1.3.4",
+      "title": "Break-even occupancy is where contributions exactly cover fixed costs",
+      "items": [
+        "Break-even stays = annual fixed costs / contribution per stay",
+        "Break-even nights = break-even stays x average stay length",
+        "Break-even occupancy = break-even nights / 365",
+        "Your cushion is the gap between break-even and expected occupancy",
+        "Expect 70%, break even at 50%: you can lose a lot of bookings. Expect 62%, break even at 57%: one soft quarter wipes you out."
+      ],
+      "box": {
+        "kind": "gold",
+        "label": "Price moves it",
+        "text": "Cut your rate to fill nights and each stay contributes less, so you need more stays. Check break-even at your slow-month rate, not only your average."
+      },
+      "notes": "Break-even occupancy is the share of nights you have to book, at a given rate, for contributions to exactly cover fixed costs. Below it you lose money. Above it you keep something.\n\nThe formula has three steps. Divide annual fixed costs by the contribution per stay. That's how many stays you need. Multiply by your average stay length to get nights. Divide by 365 to get occupancy.\n\nThe number on its own isn't what I care about. I care about the gap between break-even and what you expect to book. That gap is your cushion. Seventy percent expected against a 50% break-even is a lot of room. Sixty-two against 57 is almost none.\n\nOne more thing. Break-even moves with price. When you drop your rate in a slow month, each stay leaves less behind, so you need more of them to cover the same rent. So run the break-even at the rate you'd actually charge in a slow month."
+    },
+    {
+      "type": "bullets",
+      "ref": "1.3.5",
+      "assumption": true,
+      "title": "A deal can make money over a year and still run out of cash in February",
+      "items": [
+        "Fixed costs stay put while bookings and rates both drop",
+        "Rent is due on the first; the platform pays you after guests check in",
+        "Sketch the weakest two or three months on their own",
+        "Confirm your operating reserve covers the shortfall"
+      ],
+      "box": {
+        "kind": "info",
+        "label": "Alder Street, weakest month",
+        "text": "12 of 30 nights at $180 (40%), so 4 stays. 4 x $440.25 = $1,761 against about $2,549 of monthly fixed costs: about -$788. The $4,420 reserve covers about 5.6 months like this."
+      },
+      "notes": "An annual average hides the months when you lose money. Most markets have a slow season. In that season your fixed costs don't move, while bookings and rates both fall.\n\nThis is a cash problem, not only a profit problem. You pay rent on the first of the month. The platform pays you after guests check in, on its payout schedule. If you walk into a slow stretch with no reserve, you end up paying rent out of your personal account.\n\nOn Alder Street, say the weakest month books 12 of 30 nights at $180. That's 4 stays at $440.25 each, about $1,761, against roughly $2,549 of fixed costs. You're down about $788 that month. The canonical reserve is $4,420, two months of rent plus utilities. It covers about 5.6 months like that. Three in a row use about $2,365 of it.\n\nSam's 4.3 AirDNA tutorial shows where to find monthly history for comparable listings. Bring those monthly figures back to your worksheet."
+    },
+    {
+      "type": "bullets",
+      "ref": "1.3.6",
+      "title": "New listings nearby take occupancy, so put a number on that loss before you sign",
+      "items": [
+        "Count comparable listings near the address today",
+        "Check their occupancy and rates across the last 12 months",
+        "Look for new apartment buildings and listings opened in the last few months",
+        "Flag demand that depends on one employer or one event",
+        "Ask how much occupancy new competition could take before you hit break-even"
+      ],
+      "notes": "Your unit competes with every similar listing a guest sees in the same search. If five new two-bedrooms open a few blocks away, some guests who would have booked yours will book theirs. You feel that as lower occupancy, lower rates, or both.\n\nSo before you sign, check two things. First, how many comparable listings sit near the address today, and how their occupancy and rates look over the last 12 months. Second, whether new supply is coming. Look for new apartment buildings, listings that opened in the last few months, and demand that hangs on a single employer or a single event.\n\nAirDNA's outlook has supply growing a bit faster than demand in 2026. Whether that happens on your block is what Sam's 4.2 lesson on supply, revenue, and oversupply screening teaches you to check. For this lesson, I want you to turn it into one number: how much occupancy can new competition take from you before you reach break-even?"
+    },
+    {
+      "type": "table",
+      "ref": "1.3.7",
+      "title": "A base case is what you expect, and a stress case is what you can survive",
+      "text": "Change the two inputs you control least: nightly rate and occupancy. Add a rent increase to test the landlord's renewal. Keep every other line the same.",
+      "columns": [
+        "If the stress case is",
+        "What it tells you"
+      ],
+      "rows": [
+        [
+          "Still positive",
+          "The deal has room"
+        ],
+        [
+          "Barely positive",
+          "You're betting on the base case"
+        ],
+        [
+          "Negative",
+          "The lease has no margin for a normal slow year"
+        ]
+      ],
+      "notes": "I want you to build two versions of every deal before you sign anything. The base case is what you expect. The stress case is what you can survive.\n\nA useful stress case changes the two inputs you control least. That's the nightly rate and the occupancy. You can also raise the rent to test what happens if the landlord asks for more at renewal. Keep every other line exactly the same. That way the only thing you're looking at is the effect of the stress.\n\nThen read the result. If the stress case is still positive, the deal has room. If it's barely positive, you're betting that the base case comes true. If it's negative, the lease has no margin for an ordinary slow year.\n\nIn a few slides you'll see Alder Street land in the middle row. That's a common place to land, and it's why the decision there isn't a clean yes.",
+      "box": {
+        "kind": "info",
+        "label": "Alder Street's stress case",
+        "text": "Nightly rate down 12% to $180 and occupancy down to 60%. Every other input stays at the canonical base case."
+      },
+      "assumption": true
+    },
+    {
+      "type": "two",
+      "ref": "1.3.8",
+      "title": "Payback is sunk setup divided by monthly net, and it has to fit inside the lease",
+      "left": {
+        "head": "Sunk setup: spent",
+        "note": "You don't get this back",
+        "items": [
+          "Furniture and linens",
+          "Safety gear",
+          "Photos",
+          "Permit application"
+        ]
+      },
+      "right": {
+        "head": "Tied up: not spent",
+        "note": "Held while you operate",
+        "items": [
+          "Security deposit",
+          "Prepaid rent",
+          "Operating reserve"
+        ]
+      },
+      "box": {
+        "kind": "warn",
+        "label": "This fails if",
+        "text": "Payback takes longer than the lease term. A landlord who declines to renew leaves you with used furniture and a loss."
+      },
+      "notes": "Setting up a unit costs money you don't get back. Furniture, linens, safety gear, photos, the permit application. That's sunk setup cost.\n\nOther cash is tied up but not spent. The security deposit, prepaid rent, and an operating reserve. You need that cash on day one, but it isn't gone in the same way.\n\nPayback is sunk setup divided by monthly net. It tells you how many months until the business returns the money you put in.\n\nThen compare payback with the lease term. This is the step people skip. If payback takes longer than the lease, you're relying on a renewal you don't control. A landlord who declines to renew leaves you holding used furniture and a loss. So the question is simple: does payback fit inside the lease with room to spare?"
+    },
+    {
+      "type": "gates",
+      "ref": "1.3.9",
+      "title": "Three gates must pass before you sign, and permission comes first",
+      "gates": [
+        {
+          "q": "Address-level permission",
+          "sub": "City, county, state, zoning, building, and HOA rules allow unhosted, whole-unit short stays at this exact address. Module 3.",
+          "no": "Fails: walk"
+        },
+        {
+          "q": "Written landlord permission",
+          "sub": "A lease clause or signed addendum. A verbal \"sure, that's fine\" is not permission. Lessons 3.5, 5.3, 5.7.",
+          "no": "Fails: walk"
+        },
+        {
+          "q": "Conservative deal math",
+          "sub": "Stress case survives. Break-even sits well below expected occupancy. Payback fits inside the lease.",
+          "no": "Marginal: investigate. Negative with no fix: walk"
+        }
+      ],
+      "end": "All three pass with evidence: **sign**",
+      "notes": "I use three gates, and a deal has to pass all three before you sign a lease.\n\nGate one is address-level permission. The city, county, and state rules for this exact address have to allow what you plan: unhosted, whole unit, short stays. So do the zoning, the building, and any HOA or condo rules. Module 3 teaches this gate.\n\nGate two is written landlord permission. In the lease or a signed addendum. A verbal okay isn't permission. Airbnb's own hosting guidance tells hosts to check their lease and talk to their landlord and HOA before hosting. Lessons 3.5, 5.3, and 5.7 cover the documents and the conversation.\n\nGate three is the math. The stress case survives, break-even sits well below expected occupancy, and payback fits the lease.\n\nThe order matters. Permission is the cheapest thing to check and the most absolute. Great math on a unit you can't legally operate is worth nothing."
+    },
+    {
+      "type": "calc",
+      "ref": "1.3.10",
+      "assumption": true,
+      "eyebrow": "Worked example · Alder Street",
+      "title": "Alder Street keeps $503.63 from every 3-night stay at $205",
+      "lines": [
+        {
+          "op": "",
+          "label": "Nightly revenue: 3 nights x $205",
+          "v": "$615.00"
+        },
+        {
+          "op": "+",
+          "label": "Cleaning fee charged",
+          "v": "$110.00"
+        },
+        {
+          "op": "-",
+          "label": "Platform fee: 15.5% x $725",
+          "v": "$112.38"
+        },
+        {
+          "op": "-",
+          "label": "Cleaner pay",
+          "v": "$95.00"
+        },
+        {
+          "op": "-",
+          "label": "Supplies",
+          "v": "$14.00"
+        }
+      ],
+      "result": {
+        "label": "Contribution per stay",
+        "v": "$503.63"
+      },
+      "side": "Unit 4B, 218 Alder Street. Two bedrooms, two baths, sleeps 5. Ten minutes from a hospital campus and downtown. The landlord owns the four-unit building and offered a 24-month lease.\n\nThat's about 69% of stay revenue, or $167.88 per booked night.",
+      "notes": "Now let's put real numbers on it. Alder Street is Unit 4B at 218 Alder Street. It's a hypothetical two-bedroom, two-bath apartment that sleeps five, about ten minutes from a hospital campus and downtown. The city isn't named on purpose. The landlord owns the four-unit building and has offered a 24-month lease. Every figure here is an assumption from the canonical example.\n\nOne typical stay is three nights at $205. That's $615 of nightly revenue. The guest pays a $110 cleaning fee, so the stay brings in $725.\n\nThe platform fee at 15.5% of $725 is $112.38. The cleaner gets $95. Supplies are $14.\n\nThat leaves $503.63 of contribution per stay. That's about 69% of what the stay brought in, or about $167.88 for every booked night. Self-management is built into this base case. Keep that $503.63 in mind. It's the number every other calculation leans on."
+    },
+    {
+      "type": "table",
+      "ref": "1.3.10",
+      "assumption": true,
+      "title": "Alder Street owes $30,590 a year before the first guest arrives",
+      "columns": [
+        "Fixed cost",
+        "Annual"
+      ],
+      "rows": [
+        [
+          "Rent ($1,950 x 12)",
+          "$23,400"
+        ],
+        [
+          "Utilities and internet ($260 x 12)",
+          "$3,120"
+        ],
+        [
+          "STR liability insurance",
+          "$1,300"
+        ],
+        [
+          "Software ($90 x 12)",
+          "$1,080"
+        ],
+        [
+          "Repairs and replacement reserve ($120 x 12)",
+          "$1,440"
+        ],
+        [
+          "Permit / registration",
+          "$250"
+        ],
+        [
+          "Total fixed",
+          "$30,590"
+        ]
+      ],
+      "total_last": true,
+      "caption": "About $2,549 a month, owed whether or not anyone books.",
+      "notes": "Here's the other side of the ledger. These are the costs that arrive whether anyone books or not.\n\nRent is $1,950 a month, so $23,400 a year. It's more than three quarters of the total, which is normal for a leased unit. Utilities and internet run $260 a month, $3,120 a year. STR liability insurance is $1,300. Software is $90 a month, $1,080 a year. The repairs and replacement reserve is $120 a month, $1,440 a year. The permit or registration is $250.\n\nAdd it up and Alder Street owes $30,590 a year. That's about $2,549 every month before the first guest walks in.\n\nWhen you fill this in for your own unit, the rent comes from the lease draft and the insurance from a real quote. Don't guess at those two. They're the lines that decide whether the deal works."
+    },
+    {
+      "type": "calc",
+      "ref": "1.3.10",
+      "assumption": true,
+      "title": "At 70% occupancy Alder Street nets $12,218, and it breaks even at 49.9%",
+      "lines": [
+        {
+          "op": "",
+          "label": "255 nights = 85 stays x $503.63",
+          "v": "$42,808"
+        },
+        {
+          "op": "-",
+          "label": "Annual fixed costs",
+          "v": "$30,590"
+        }
+      ],
+      "result": {
+        "label": "Net before income tax (canonical A1)",
+        "v": "$12,218"
+      },
+      "side": "About $1,018 a month. Gross booking revenue is $61,625, which is 2.63x annual rent. Lesson 1.5 explains how to use that multiple.",
+      "side_box": {
+        "kind": "gold",
+        "label": "Break-even at $205",
+        "text": "$30,590 / $503.63 = 60.7 stays. 60.7 x 3 = 182.2 nights. 182.2 / 365 = **49.9%**. Expected is 70%, so the cushion is about 20 points."
+      },
+      "notes": "Now the base case. At 70% occupancy you book 255 nights. At three nights a stay, that's 85 stays. Eighty-five times $503.63 is about $42,808 of contribution. Take off the $30,590 of fixed costs and you have $12,218 a year before income tax. That's about $1,018 a month, and it matches the canonical table.\n\nGross booking revenue is $61,625. That's 2.63 times annual rent. Lesson 1.5 explains what to do with that multiple, so I'll leave it there.\n\nNow break-even. Divide $30,590 by $503.63 and you need 60.7 stays. Times three is 182.2 nights. Divided by 365, that's 49.9%.\n\nSo you expect 70% and break even just under 50%. The cushion is about 20 points of occupancy. That's a healthy base case. The next slide shows what happens when we push on it."
+    },
+    {
+      "type": "bars",
+      "ref": "1.3.10",
+      "assumption": true,
+      "title": "The stress case survives by $1,548, and a rent increase on top turns it negative",
+      "items": [
+        {
+          "label": "Base case: 70% at $205",
+          "value": 12218
+        },
+        {
+          "label": "Rent raised to $2,150",
+          "value": 9818
+        },
+        {
+          "label": "New competition: 64% at $205",
+          "value": 8693
+        },
+        {
+          "label": "Stress: 60% at $180",
+          "value": 1548,
+          "hot": true
+        },
+        {
+          "label": "Stress plus $2,150 rent",
+          "value": -852,
+          "hot": true
+        }
+      ],
+      "caption": "Annual net before income tax. Stress contribution: 3 x $180 + $110 = $650, less $100.75 fee, $95, and $14 = $440.25 per stay. Break-even occupancy: 49.9% base, 53.8% with $2,150 rent, 57.1% stress, 61.6% stress plus rent.",
+      "notes": "Here's the base case next to four what-ifs.\n\nIf the landlord asks for $2,150 at renewal, net drops to $9,818 and break-even rises to 53.8%. If new listings nearby pull you from 70% down to 64% at the same rate, you book 78 stays and net falls to $8,693. Still fine.\n\nThe stress case is the one to watch. Rate drops 12% to $180 and occupancy falls to 60%. Each stay now brings in $650 and leaves $440.25. You book 73 stays, about $32,138 of contribution, and net is $1,548 a year. About $129 a month. Break-even at $180 is 57.1%, so you're only about three points above it.\n\nNow stack the rent increase on the stress case. Net goes to minus $852 a year, and break-even climbs to 61.6%. That's the bar in red. The deal survives each problem alone. It doesn't survive two at once."
+    },
+    {
+      "type": "table",
+      "ref": "1.3.10",
+      "assumption": true,
+      "title": "Base-case payback is 11.8 months, while the stress case needs about 93",
+      "text": "Cash on day one: $12,050 sunk setup plus $8,320 tied up (deposit, first month's rent, operating reserve) = **$20,370**. The lease runs 24 months.",
+      "columns": [
+        "Measure",
+        "Base case",
+        "Stress case"
+      ],
+      "rows": [
+        [
+          "Monthly net",
+          "$1,018",
+          "$129"
+        ],
+        [
+          "Payback on $12,050 sunk setup",
+          "11.8 months",
+          "About 93 months"
+        ],
+        [
+          "Net over the 24-month lease",
+          "About $24,432",
+          "About $3,096"
+        ],
+        [
+          "After recovering setup",
+          "About $12,382 left",
+          "About $8,954 short"
+        ]
+      ],
+      "notes": "Now the cash. To open Alder Street you need $20,370 on day one. Of that, $12,050 is sunk setup: furniture, linens, safety gear, photos, the permit application. The other $8,320 is tied up in the deposit, first month's rent, and the operating reserve.\n\nIn the base case you net about $1,018 a month. Divide $12,050 by that and payback is 11.8 months. The lease is 24 months, so you earn your setup back in under half the term. Over the full 24 months you'd net about $24,432, leaving about $12,382 after you recover setup.\n\nIn the stress case you net about $129 a month. Payback stretches to about 93 months. That's almost four times the lease. Over 24 months you'd net about $3,096 and still be about $8,954 short of your setup cost.\n\nSo payback fits the lease only in the base case. Remember that for the gate check."
+    },
+    {
+      "type": "table",
+      "ref": "1.3.10",
+      "assumption": true,
+      "title": "Alder Street is an investigate: the math is good but leans on the 70% base case",
+      "columns": [
+        "Gate",
+        "Status",
+        "Why"
+      ],
+      "rows": [
+        [
+          "1. Address-level permission",
+          "Unknown",
+          "City unnamed on purpose. Lesson 3.1 tests this unit against NYC and LA rules. It fails both."
+        ],
+        [
+          "2. Written landlord permission",
+          "Open",
+          "Lease offered. A clause or addendum still has to allow STR use, channels, and conditions."
+        ],
+        [
+          "3. Conservative math",
+          "Mixed",
+          "Base passes. Stress survives by $1,548. Stress plus rent fails. Payback fits only in the base case."
+        ]
+      ],
+      "box": {
+        "kind": "gold",
+        "label": "Before signing, I'd want",
+        "text": "A written cap on renewal rent, or a longer term. Market data from Sam's 4.1 to 4.5 showing 60% at $180 is a floor, not a typical month. If Gate 1 fails, the answer is walk."
+      },
+      "notes": "Let's run Alder Street through the gates.\n\nGate one is unknown. The city is unnamed on purpose. In lesson 3.1 I drop this same unit into the official New York City and Los Angeles rules, and it fails both, for different reasons. Until Gate 1 passes at the real address, all the math we just did is worth nothing.\n\nGate two is open. The landlord has offered a lease. But the lease or a signed addendum still has to say short-term rental use is allowed, on which channels, and with what conditions.\n\nGate three is mixed. The base case passes easily. The stress case survives by $1,548. Stress plus a rent increase fails. Payback only fits the lease in the base case.\n\nSo my decision is investigate. Before signing I'd want two things: a written cap on the renewal rent, or a longer term, and market data showing that 60% at $180 is a floor.\n\n[Recording note: Preston can add a real example here if he has one.]"
+    },
+    {
+      "type": "worksheet",
+      "ref": "1.3.11",
+      "title": "Mark each gate pass, fail, or unknown, and attach the evidence",
+      "columns": [
+        "Gate",
+        "Pass / fail / unknown",
+        "Evidence (link, document, date)"
+      ],
+      "rows": [
+        [
+          "1. Address-level permission (city, county, state, zoning, building, HOA)",
+          "",
+          ""
+        ],
+        [
+          "2. Written landlord permission (lease clause or signed addendum)",
+          "",
+          ""
+        ],
+        [
+          "3a. Stress case net is positive",
+          "",
+          ""
+        ],
+        [
+          "3b. Expected occupancy is at least 10 points above break-even",
+          "",
+          ""
+        ],
+        [
+          "3c. Base payback is under half the lease term",
+          "",
+          ""
+        ]
+      ],
+      "caption": "The 10-point and half-the-lease screens are my suggested thresholds (assumption), not industry rules. Tighten them if demand depends on one employer or one event.",
+      "box": {
+        "kind": "gold",
+        "label": "Decision",
+        "text": "**Sign:** all gates pass with evidence. **Investigate:** Gates 1 and 2 pass or are in progress, and one part of Gate 3 is marginal. **Walk:** Gate 1 or 2 fails, or the stress case is negative with no way to fix rent or term."
+      },
+      "notes": "This is Part C of your viability decision sheet. The full sheet has four parts. Part A is your inputs, each with a source and a date. Part B is the calculations: contribution, break-even, the stress case, the stress case with rent up 10%, the weakest month, and payback. Part C is this table. Part D is the decision.\n\nFill in one row per gate for one real address. Write pass, fail, or unknown, and link the evidence. A lease clause. A city page. A saved email from the licensing office.\n\nThe 10-point cushion and the half-the-lease payback are my suggested screens. They're assumptions, not industry rules. If the unit depends on one employer or one event, tighten them.\n\nThen write the decision, the date, and what would change your mind. Use Sam's 4.1 to 4.5 lessons for the market inputs, and the SR.2 underwriting spreadsheet if you want the formulas done for you. Every number is an estimate until you can cite a source."
+    },
+    {
+      "type": "table",
+      "ref": "1.3.12",
+      "title": "Every input needs written confirmation from the person who controls it",
+      "columns": [
+        "Who confirms",
+        "What they confirm, in writing"
+      ],
+      "rows": [
+        [
+          "City or county licensing office",
+          "The planned use (unhosted, whole unit, short stays) is allowed at this exact address, and which permit it needs"
+        ],
+        [
+          "Landlord, with an attorney reviewing",
+          "A signed clause or addendum: STR use permitted, on which channels, and that you may use the address on a permit application"
+        ],
+        [
+          "Insurer",
+          "A written quote covering short-term rental guests at this address, at the premium you modeled"
+        ],
+        [
+          "CPA",
+          "Anything after tax. Every net figure in this lesson is before income tax"
+        ],
+        [
+          "Platform fee page",
+          "Which fee structure applies to your account, checked on the day you model the deal"
+        ]
+      ],
+      "notes": "None of the numbers we built count as real until the right person confirms them.\n\nThe city or county licensing office confirms, in writing, that your planned use is allowed at this exact address and which permit it needs. Unhosted, whole unit, short stays. Say it in those words.\n\nThe landlord confirms in a signed lease clause or addendum that short-term rental use is permitted, on which channels, and that you can use the address on a permit application. Have an attorney review that addendum.\n\nAn insurer gives you a written quote that covers short-term rental guests at this address, at the premium you put in the model.\n\nA CPA confirms anything after tax. Every net number in this lesson is before income tax.\n\nAnd the platform's own fee page tells you which fee structure applies to your account. Check it on the day you model the deal, because it can change."
+    },
+    {
+      "type": "dothis",
+      "ref": "1.3.13",
+      "title": "One real address, run through the sheet this week, gives you a first decision",
+      "items": [
+        "Fill in Part A of the sheet for one real address, with a source for each input.",
+        "Pull 12 months of comparable rates and occupancy (Sam's 4.1 to 4.5) and note the weakest three months.",
+        "Compute contribution per stay, break-even, and the stress case (rate -12%, occupancy -10 points).",
+        "Ask the city licensing office by email whether unhosted, whole-unit short stays are allowed at the address."
+      ],
+      "next": "Next: 1.4, Mindset & My Personal Journey. Then 1.5 and the 2.5x rule, and 3.1 opens Gate 1.",
+      "notes": "Here's what to do this week. Each of these takes under an hour.\n\nPick one real address you're considering. Fill in the inputs part of the sheet, with the quoted rent and the lease term from the draft, and a source and date beside each number.\n\nThen pull 12 months of comparable rates and occupancy. Sam's 4.1 through 4.5 lessons show you how. Write down your three weakest months separately.\n\nNext, run the math: contribution per stay, break-even occupancy, and the stress case with rate down 12% and occupancy down 10 points.\n\nLast, send one email to the city licensing office. Ask whether unhosted, whole-unit short-stay use is allowed at that exact address.\n\nNext in the course is 1.4, Mindset and My Personal Journey. After that, 1.5 rebuilds the income math around the 2.5x rule, using the gross-to-rent multiple you just computed. Then Module 3 teaches Gate 1, starting with 3.1."
+    },
+    {
+      "type": "sources",
+      "ref": "1.3 sources",
+      "title": "Every market and platform claim in this lesson traces to a primary source",
+      "items": [
+        {
+          "title": "Airbnb Q2 2026 financial results",
+          "url": "https://news.airbnb.com/airbnb-q2-2026-financial-results/",
+          "note": "Revenue $3.6 billion (+17%), nights and seats +10%, gross booking value $27.2 billion (+16%). Context only."
+        },
+        {
+          "title": "AirDNA US 2026 Short-Term Rental Outlook",
+          "url": "https://www.airdna.co/outlook-report",
+          "note": "Supply slightly outpacing demand; occupancy about -1%, ADR about +1.5%, RevPAR about +0.5%."
+        },
+        {
+          "title": "AirDNA 2026 and 2027 Outlook Midyear Update",
+          "url": "https://www.airdna.co/blog/u.s.-mid-year-outlook-report-2026",
+          "note": "\"A Better Year to Own Than to Buy\"; a tougher economy favored existing hosts."
+        },
+        {
+          "title": "Airbnb service fees (help article 1857)",
+          "url": "https://www.airbnb.com/help/article/1857",
+          "note": "Single 15.5% host-only fee for most hosts; split-fee alternative."
+        },
+        {
+          "title": "Airbnb general info about hosting (help article 1397)",
+          "url": "https://www.airbnb.com/help/article/1397",
+          "note": "Check the lease, landlord, and HOA rules before hosting."
+        }
+      ],
+      "notes": "Here are the sources behind this lesson. All were checked on September 25, 2026.\n\nThe Airbnb Q2 2026 results and the two AirDNA reports are context. They tell you the climate, not the answer for your unit. I don't want you quoting them to a landlord as proof a deal works.\n\nThe Airbnb service fee page is where the 15.5% single fee comes from. It also describes the split-fee option. Check it for your own account when you model a deal.\n\nThe Airbnb hosting guidance page is the one that tells hosts to read their lease and check with their landlord and HOA before hosting. That's Gate 2, in the platform's own words.\n\nThe Alder Street figures come from the course's canonical example, and the derived ones, like the slow month and the 64% case, were computed from those same inputs. They're all assumptions for teaching."
+    }
+  ]
+}

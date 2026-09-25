@@ -1,0 +1,745 @@
+{
+  "nn": 4,
+  "code": "3.4",
+  "title": "Red Flags: Markets, Cities & Leases to Avoid in 2026",
+  "short": "Red Flags to Avoid in 2026",
+  "section": "Part One · Module 3 - STR Regulations & Compliance",
+  "slides": [
+    {
+      "type": "cover",
+      "kicker": "Module 3 · STR Regulations & Compliance",
+      "title": "Look for the fastest reason to say no before you research a deal",
+      "subtitle": "Lesson 3.4. Red Flags: Markets, Cities & Leases to Avoid in 2026",
+      "meta": [
+        [
+          "Teacher",
+          "Preston"
+        ],
+        [
+          "Example",
+          "Alder Street unit (hypothetical)"
+        ],
+        [
+          "Use",
+          "Education only. Not legal, insurance, or lending advice."
+        ]
+      ],
+      "ref": "3.4.0",
+      "notes": "This lesson gives you a screen you can run on any address in about an hour of desk work. At the end, every address gets one of three labels: reject, investigate, or advance.\n\nThe screen has two stages. Stage one is six hard stops. Any one of them ends the deal by itself, and no amount of revenue fixes it. Stage two is thirteen commercial and lease red flags. You score each one with fixed point rules, so two people looking at the same address land on the same answer.\n\nBy the end you'll have a filled scorecard for one real address. You'll also have a written list of what someone must confirm before you spend more time on it. We'll run Alder Street through the whole thing, and then we'll drop the same apartment into New York City and Los Angeles to see what changes."
+    },
+    {
+      "type": "flow",
+      "title": "Screen for a reason to reject before you get attached to the deal",
+      "keyline": "Rules attach to the exact address, building, zoning district, permit category, and signed lease.",
+      "nodes": [
+        {
+          "k": "Start",
+          "h": "One address",
+          "d": "Before revenue math, before the landlord pitch"
+        },
+        {
+          "k": "Stage one",
+          "h": "Six hard stops",
+          "d": "Any yes means reject. Any unknown caps you at investigate.",
+          "kind": "stop"
+        },
+        {
+          "k": "Stage two",
+          "h": "Thirteen flags",
+          "d": "Eight commercial, five lease. Each scores 0, 1, or 2."
+        },
+        {
+          "k": "Result",
+          "h": "One label",
+          "d": "Reject, investigate, or advance, with a to-do list",
+          "kind": "go"
+        }
+      ],
+      "box": {
+        "kind": "gold",
+        "label": "Why no city blacklist",
+        "text": "A permanent list of cities to avoid goes stale within months and is wrong at many addresses on day one. Conditions travel. When a condition is true at your address, the deal is dead or in trouble, wherever the city is."
+      },
+      "ref": "3.4.1",
+      "notes": "Most students do this in the wrong order. They find a nice apartment, run revenue numbers, pitch the landlord, and only then check whether the city allows the plan. By then they're attached. The rules feel like an obstacle instead of an answer.\n\nI want you to flip that. Look for the fastest reason to say no. If you find one, stop and move to the next address. If you can't find one, you've earned the right to spend real time on the deal.\n\nLesson 3.1 walked through the layers: address, building, zoning district, permit category, and the signed lease. This lesson turns those layers into a quick screen.\n\nYou'll notice I'm not handing you a list of cities to avoid. A list like that would be out of date within months, and it would be wrong at plenty of addresses on the day I made it. What you get instead is a set of conditions. If a condition is true at your address, the deal is dead or in trouble, no matter which city it's in."
+    },
+    {
+      "type": "table",
+      "title": "H1 to H3: the city can end an arbitrage deal before the landlord says a word",
+      "keyline": "Any hard stop answered yes means reject. Any unknown caps the label at investigate.",
+      "columns": [
+        "Hard stop",
+        "What it looks like",
+        "Official example"
+      ],
+      "rows": [
+        [
+          "**H1** Planned use prohibited",
+          "City bans unhosted stays under a set number of nights. Arbitrage is almost always unhosted.",
+          "NYC: no whole-unit stays under 30 days; host must stay with no more than two guests ([NYC OSE](https://www.nyc.gov/site/specialenforcement/registration-law/tips-for-hosts.page))"
+        ],
+        [
+          "**H2** Primary-residence rule you can't meet",
+          "Short stays only in the host's own home. An operator who lives elsewhere can't truthfully meet it.",
+          "Los Angeles: primary residence only, lived in more than six months a year ([LAHD](https://housing.lacity.gov/articles/home-sharing-ordinance))"
+        ],
+        [
+          "**H3** Permit unavailable, capped, or tied to someone else",
+          "Cap or waitlist blocks new applicants, or the permit can't move to a new operator.",
+          "LA registration can't be transferred ([LA FAQ](https://planning.lacity.gov/ordinances/docs/HomeSharing/adopted/faq.pdf)). NYC denies units on its [Prohibited Buildings List](https://www.nyc.gov/site/specialenforcement/registration-law/pbl.page)."
+        ]
+      ],
+      "ref": "3.4.2",
+      "notes": "A hard stop is a condition that ends the deal by itself. The first three come from the city.\n\nH1 is the big one. Many cities separate hosted stays, where you live there and rent part of it, from unhosted stays, where the whole unit goes to guests. Arbitrage is almost always unhosted. New York City is the clearest example. The Office of Special Enforcement says you can't rent an entire apartment for fewer than 30 days, and short stays need the host present with no more than two guests.\n\nH2 is the primary-residence rule. Los Angeles limits home-sharing to the host's primary residence, and the host has to live there more than six months a year. If you won't live in the unit, that address is a reject for arbitrage.\n\nH3 is the permit itself. Does the city issue it, is there a cap or a waitlist, and can it move to you? LA says a registration can't be transferred. NYC must deny registration in buildings on its Prohibited Buildings List. A previous tenant's permit is not your permit."
+    },
+    {
+      "type": "table",
+      "title": "H4 to H6: the building, the lease, or the insurer can end the deal too",
+      "columns": [
+        "Hard stop",
+        "What it looks like",
+        "Why it stops you"
+      ],
+      "rows": [
+        [
+          "**H4** HOA, condo, or co-op ban",
+          "Governing documents ban rentals under a set number of days",
+          "Building rules can block a use the city allows. Airbnb tells hosts to check HOA and co-op rules first ([article 1397](https://www.airbnb.com/help/article/1397))."
+        ],
+        [
+          "**H5** No explicit written permission in the lease",
+          "Lease bans subletting or transient use, or says nothing. Landlord won't sign an addendum.",
+          "A text saying \"Airbnb is fine\" is not permission. NYC and LA both tie registration to the lease or landlord approval."
+        ],
+        [
+          "**H6** No insurer will cover the planned use",
+          "Every insurer you asked declines STR liability coverage",
+          "Platform programs don't fill the gap. Airbnb says Host damage protection isn't an insurance policy ([article 3733](https://www.airbnb.com/help/article/3733))."
+        ]
+      ],
+      "box": {
+        "kind": "info",
+        "label": "Confirm with",
+        "text": "The licensing or planning office for H1 to H3, in writing and dated. The HOA or building manager for H4. The landlord and your attorney for H5. Your insurance broker for H6."
+      },
+      "ref": "3.4.2",
+      "notes": "The last three hard stops come from the building, the lease, and the insurer.\n\nH4 is an HOA, condo, or co-op ban. The city might allow your use and the building can still block it. Airbnb itself tells hosts to check HOA and co-op rules before they start. If the governing documents ban rentals under a set number of days, stop there.\n\nH5 is the one people talk themselves past. A lease that bans subletting, bans transient use, or just says nothing about short stays is not permission. A friendly text from the landlord isn't permission either. If the landlord won't sign a written short-term-rental addendum, the answer is reject. Some cities tie this to the permit too. NYC makes applicants certify the lease doesn't prohibit short-term renting, and Los Angeles requires written landlord approval for renters.\n\nH6 is insurance. If nobody will write an STR liability policy for this unit and this use, you can't meet any sensible lease. Lesson 2.4 covers insurance in detail."
+    },
+    {
+      "type": "two",
+      "title": "The same apartment fails in both New York City and Los Angeles, for different reasons",
+      "left": {
+        "head": "New York City: fails H1",
+        "note": "Whole unit, three-night stays, no host present",
+        "items": [
+          "Short stays only with the host present and up to two guests",
+          "Whole-unit stays under 30 days are out",
+          "New York State counts check-in as day zero, so a 29-night rental is still short-term",
+          "Source: [NYC OSE tips for hosts](https://www.nyc.gov/site/specialenforcement/registration-law/tips-for-hosts.page)"
+        ]
+      },
+      "right": {
+        "head": "Los Angeles: fails H2 and H3",
+        "note": "Operator doesn't live in the unit",
+        "items": [
+          "Home-sharing limited to the host's primary residence",
+          "Registration doesn't transfer",
+          "Not allowed in RSO units; the RSO covers most multi-family units built before October 1, 1978",
+          "Sources: [LA FAQ](https://planning.lacity.gov/ordinances/docs/HomeSharing/adopted/faq.pdf), [LAHD](https://housing.lacity.gov/articles/home-sharing-ordinance)"
+        ]
+      },
+      "box": {
+        "kind": "warn",
+        "label": "Dated rules",
+        "text": "Treat every example as dated to 25 September 2026. Recheck the official page before you rely on it. Sam's 3.2 lesson shows the live search."
+      },
+      "ref": "3.4.3",
+      "notes": "Here's why friendliness rankings fail. Take one apartment and drop it into two big travel markets.\n\nIn New York City, an operator renting the whole unit for three-night stays hits H1 straight away. Short stays are allowed only when the host is present with up to two guests. Whole-unit stays under 30 days are out. One detail catches people: the OSE says New York State counts the check-in date as day zero, so a 29-night rental is still short-term.\n\nIn Los Angeles, the same operator hits H2 and H3. Home-sharing is limited to the host's primary residence, and the registration doesn't transfer. Then there's a second layer. The Housing Department says home-sharing isn't allowed in units under the Rent Stabilization Ordinance. That covers most multi-family units built before October 1, 1978. So the age of the building can end the deal before you even get to the residence rule.\n\nThese rules can change. I've dated them to 25 September 2026. Recheck the official page, and watch Sam's 3.2 for the live search process."
+    },
+    {
+      "type": "table",
+      "title": "Eight commercial flags ask whether the deal survives an ordinary slow stretch",
+      "columns": [
+        "Flag",
+        "What you check"
+      ],
+      "rows": [
+        [
+          "**C1** Thin break-even cushion",
+          "Gap between base-case occupancy and break-even occupancy (all costs covered, rent included)"
+        ],
+        [
+          "**C2** Weak stress case",
+          "Lower nightly rates and lower occupancy. Does it lose money every month?"
+        ],
+        [
+          "**C3** Weak comparable revenue",
+          "Active comps with a full year of data support your rate and occupancy, not the best listing nearby"
+        ],
+        [
+          "**C4** Demand from one source",
+          "One festival, stadium, university calendar, or employer drives the bookings"
+        ],
+        [
+          "**C5** High fixed rent",
+          "Rent as a share of gross revenue. You pay it whether guests show up or not."
+        ],
+        [
+          "**C6** Slow furnishing payback",
+          "Furniture, supplies, photos, and permit fees are sunk. How long to earn them back?"
+        ],
+        [
+          "**C7** Thin cash reserves",
+          "Cash after setup to cover a slow month or two without missing rent"
+        ],
+        [
+          "**C8** New supply arriving",
+          "New listings or new buildings pulling rates down in your comp set"
+        ]
+      ],
+      "ref": "3.4.4",
+      "notes": "Once an address clears the hard stops, the question changes. Does the deal survive an ordinary slow stretch? Lesson 1.3 built the math. Here I turn that math into eight flags.\n\nC1 and C2 are about cushion. Break-even occupancy is where revenue exactly covers every cost, rent included. Compare it with your base case. Then run a stress case with lower rates and lower occupancy and see if it bleeds every month.\n\nC3 is where your numbers come from. Use active comps with a full year of data, not the best listing in the neighborhood. Sam's 4.2 and 4.3 show you how to pull them.\n\nC4 is concentration. If one stadium or one employer drives your bookings, your occupancy moves when they move.\n\nC5, C6, and C7 are about money you've committed: rent you owe regardless, setup cost you've sunk, and the reserve that keeps one bad month from becoming a default. C8 is new supply, and Sam's 4.2 covers the oversupply screen.\n\nNo single flag here kills a deal. Together they tell you how fragile it is."
+    },
+    {
+      "type": "table",
+      "title": "Five lease flags decide whether you get to keep the business you build",
+      "columns": [
+        "Flag",
+        "The problem",
+        "What you want instead"
+      ],
+      "rows": [
+        [
+          "**L1** Unilateral termination",
+          "Landlord can end the lease without cause on short notice",
+          "Termination only for a defined breach, with written notice and a cure period"
+        ],
+        [
+          "**L2** Unclear guest rights",
+          "Lease or addendum is silent on guests",
+          "Guests permitted, how many, how they get in, which areas they use"
+        ],
+        [
+          "**L3** Conflicting insurance terms",
+          "Lease requires a renter's policy that excludes business use, or an additional insured you haven't quoted",
+          "Lease terms and your actual policy match"
+        ],
+        [
+          "**L4** Reliance on a verbal promise",
+          "\"I'll renew you\" or \"parking comes with it\"",
+          "Every term you count on is written into the lease"
+        ],
+        [
+          "**L5** Lease shorter than payback",
+          "Stress-case payback on setup runs past the lease term",
+          "Payback that fits inside the term"
+        ]
+      ],
+      "caption": "Lesson 3.5 covers what written permission must say. Lesson 5.3 walks through the addendum itself.",
+      "ref": "3.4.5",
+      "notes": "The lease decides whether you get to keep what you build. These are the five terms I'd look for first.\n\nL1 is termination. If the landlord can end the lease without cause on short notice, your setup money is at risk every month. You want termination only for a defined breach, with written notice and a chance to fix it. That chance to fix it is called a cure period.\n\nL2 is guest rights. The lease or addendum should say guests are allowed, how many, how they get in, and which building areas they can use. Silence invites a fight later.\n\nL3 is insurance. Some leases demand a standard renter's policy that excludes business use. Others want the landlord named on a policy you haven't even quoted. If the lease and your policy don't match, flag it.\n\nL4 is anything verbal. If you're counting on it, it has to be on paper.\n\nL5 ties back to the math. If your stress-case payback runs past the lease term, you could hand back the keys before you've earned your setup cost back."
+    },
+    {
+      "type": "table",
+      "title": "Commercial rows score on fixed thresholds, starting with a 15-point cushion",
+      "keyline": "Score each flag 0, 1, or 2. Use the rules as written.",
+      "compact": true,
+      "columns": [
+        "Flag",
+        "0 points",
+        "1 point",
+        "2 points"
+      ],
+      "rows": [
+        [
+          "**C1** Break-even cushion",
+          "15 points or more",
+          "8 to 14.9 points",
+          "Under 8 points"
+        ],
+        [
+          "**C2** Stress-case monthly net",
+          "$300 or more",
+          "$0 to $299",
+          "Below $0"
+        ],
+        [
+          "**C3** Comparable revenue",
+          "12 months of comps support ADR and occupancy",
+          "Comps thin or not yet pulled",
+          "Comps contradict your numbers"
+        ],
+        [
+          "**C4** Demand concentration",
+          "Three or more sources",
+          "One source drives most stays",
+          "One event or season drives most revenue"
+        ],
+        [
+          "**C5** Annual rent share of base gross",
+          "Under 35%",
+          "35% to 45%",
+          "Over 45%"
+        ],
+        [
+          "**C6** Setup payback at base net",
+          "12 months or less",
+          "12 to 18 months",
+          "Over 18 months"
+        ],
+        [
+          "**C7** Cash reserve after setup",
+          "2+ months of rent plus utilities",
+          "1 to 2 months",
+          "Under 1 month"
+        ],
+        [
+          "**C8** New supply in comp set",
+          "No meaningful growth",
+          "Growth noted or not yet checked",
+          "Rapid growth, falling rates"
+        ]
+      ],
+      "ref": "3.4.6",
+      "notes": "Here are the point rules for the commercial side. The reason they're fixed is simple. If you and a partner score the same address, you should get the same answer. Nobody gets to round up because they like the apartment.\n\nA few of these need a word. C1 is measured in percentage points. If your base case is 70% and break-even is 60%, the cushion is 10 points, which scores a 1. C2 looks at the stress case per month. Anything below zero is a 2.\n\nC3 and C8 have a rule I want you to keep: if you haven't done the work yet, it's a 1, not a 0. Comps not pulled scores 1. Supply not checked scores 1. You score the numbers you have, not the ones you hope for.\n\nC5 is annual rent divided by base-case gross. Under 35% scores zero. Over 45% scores 2.\n\nC7 counts months of rent plus utilities you can cover from cash after setup. Two months or more scores zero."
+    },
+    {
+      "type": "scorecard",
+      "title": "Lease rows can force investigate on their own: any 2 blocks an advance",
+      "columns": [
+        "Flag",
+        "0 points",
+        "1 point",
+        "2 points"
+      ],
+      "rows": [
+        [
+          "**L1** Termination",
+          "For cause only, with cure period",
+          "Cause defined loosely",
+          "Landlord can end without cause"
+        ],
+        [
+          "**L2** Guest rights",
+          "Addendum names guests, occupancy, access",
+          "Partly covered",
+          "Silent"
+        ],
+        [
+          "**L3** Insurance terms",
+          "Lease and policy match",
+          "Not yet compared",
+          "Conflict"
+        ],
+        [
+          "**L4** Verbal promises",
+          "None relied on",
+          "Minor item verbal only",
+          "Key item verbal only"
+        ],
+        [
+          "**L5** Lease term vs stress payback",
+          "Payback inside the term",
+          "Base inside, stress outside",
+          "Base payback outside the term"
+        ]
+      ],
+      "bands": [
+        {
+          "kind": "",
+          "h": "Advance: 0 to 4",
+          "d": "No 2 in any L row. Go to the landlord pitch (5.7) and full underwriting."
+        },
+        {
+          "kind": "i",
+          "h": "Investigate: 5 to 9",
+          "d": "Or any L row scored 2. Write which rows must change and who can change them."
+        },
+        {
+          "kind": "r",
+          "h": "Reject: 10 or more",
+          "d": "Even with no hard stop."
+        }
+      ],
+      "ref": "3.4.6",
+      "notes": "The lease rows use the same 0, 1, 2 scale, with one extra rule. Any lease row scored 2 means the label can't be advance, even if the total is low. A lease that lets the landlord walk away without cause is a problem no revenue number fixes.\n\nNow the labels. Zero to four points with no 2 in a lease row is advance. That sends you to the landlord pitch in lesson 5.7 and full underwriting. Five to nine points, or any lease row at 2, is investigate. Ten or more is reject, even when every hard stop passed.\n\nAnd remember stage one sits above all of this. Any hard stop answered yes is reject before you score a single row. Any hard stop still unknown caps you at investigate.\n\nTreat investigate as a to-do list, not a maybe. Every row scored 1 or 2 gets an owner and a date. That's what we'll build for Alder Street next."
+    },
+    {
+      "type": "calc",
+      "title": "Alder Street clears C1 by 20.1 points but its stress case nets only $129 a month",
+      "assumption": true,
+      "lines": [
+        {
+          "op": "",
+          "label": "Stress gross booking revenue ($180 ADR, 60%)",
+          "v": "$47,450"
+        },
+        {
+          "op": "−",
+          "label": "Stress total costs",
+          "v": "$45,902"
+        },
+        {
+          "op": "=",
+          "label": "Stress net per year",
+          "v": "$1,548"
+        },
+        {
+          "op": "÷",
+          "label": "12 months",
+          "v": "12"
+        }
+      ],
+      "result": {
+        "label": "Stress net per month: C2 scores 1",
+        "v": "$129"
+      },
+      "side": "**C1:** base occupancy 70% minus break-even 49.9% at $205 ADR = 20.1 points. Score **0**.\n\n**Stress cushion:** break-even at $180 ADR is 57.1%. The stress case runs at 60%. That's 2.9 points.",
+      "side_box": {
+        "kind": "warn",
+        "label": "Why it matters",
+        "text": "A slightly worse year than the stress case pushes this deal underwater."
+      },
+      "ref": "3.4.7",
+      "notes": "Let's run Alder Street. Unit 4B, 218 Alder Street, two bedrooms, two baths, sleeps 5, in a four-unit building near a hospital campus and downtown. The landlord offered 24 months at $1,950. The city is unnamed on purpose. I'm assuming it allows unhosted stays with a $250 annual permit, no cap, no residence rule, no HOA, a landlord willing to sign, and an insurer quote of $1,300 a year. So all six hard stops pass, as long as the licensing office confirms H1 to H3 in writing.\n\nC1 looks great. Base occupancy is 70%, break-even at $205 is 49.9%, so the cushion is 20.1 points. That's a zero.\n\nC2 is where it gets thin. The stress case drops the rate 12% to $180 and occupancy to 60%. Gross is $47,450, costs are $45,902, and the net is $1,548 a year. That's $129 a month, which scores a 1.\n\nLook at the stress cushion too. Break-even at $180 is 57.1%, and the stress case runs at 60%. That's 2.9 points of room."
+    },
+    {
+      "type": "table",
+      "title": "Alder Street's commercial rows add up to 5 points, mostly from unfinished work",
+      "assumption": true,
+      "compact": true,
+      "total_last": true,
+      "columns": [
+        "Row",
+        "Alder Street finding",
+        "Score"
+      ],
+      "rows": [
+        [
+          "C1 Break-even cushion",
+          "70% minus 49.9% = 20.1 points",
+          "0"
+        ],
+        [
+          "C2 Stress-case monthly net",
+          "$1,548 a year = $129 a month",
+          "1"
+        ],
+        [
+          "C3 Comparable revenue",
+          "$205 and 70% are teaching assumptions; comps not pulled",
+          "1"
+        ],
+        [
+          "C4 Demand concentration",
+          "Hospital-related stays drive most bookings (assumption)",
+          "1"
+        ],
+        [
+          "C5 Rent share of gross",
+          "$23,400 ÷ $61,625 = 38% (49.3% in the stress case)",
+          "1"
+        ],
+        [
+          "C6 Setup payback",
+          "$12,050 ÷ $1,018 = 11.8 months",
+          "0"
+        ],
+        [
+          "C7 Cash reserve",
+          "$4,420 = 2 × ($1,950 + $260)",
+          "0"
+        ],
+        [
+          "C8 New supply",
+          "Not yet checked",
+          "1"
+        ],
+        [
+          "Commercial subtotal",
+          "",
+          "5"
+        ]
+      ],
+      "ref": "3.4.7",
+      "notes": "Here's the rest of the commercial side.\n\nC3 scores 1 because nobody has pulled real comps yet. The $205 rate and 70% occupancy are teaching assumptions. That stays a 1 until you do Sam's 4.3 pull.\n\nC4 is a 1 because I'm assuming hospital-related stays drive most bookings. One employer is a single point of failure.\n\nC5: annual rent is $1,950 times 12, which is $23,400. Divide by base gross of $61,625 and you get 38%. That's in the 35 to 45 band, so a 1. In the stress case the same rent is 49.3% of gross, which is why C2 is weak.\n\nC6: sunk setup is $12,050. At $1,018 a month of base net, payback is 11.8 months. Zero.\n\nC7: the plan holds a $4,420 reserve, two months of rent plus utilities. Zero. A slow 30-day month at 40% occupancy and $180 brings in about $2,600 and loses about $788. The reserve could absorb five of those, but not a season of them.\n\nC8 isn't checked yet, so it's a 1 until Sam's 4.2 screen."
+    },
+    {
+      "type": "table",
+      "title": "A no-cause termination clause pushes Alder Street to 9 points and investigate",
+      "assumption": true,
+      "total_last": true,
+      "columns": [
+        "Row",
+        "Alder Street finding",
+        "Score"
+      ],
+      "rows": [
+        [
+          "Commercial subtotal",
+          "C1 to C8, previous slide",
+          "5"
+        ],
+        [
+          "L1 Termination",
+          "Either side can end on 60 days' notice without cause",
+          "2"
+        ],
+        [
+          "L2 Guest rights",
+          "Addendum permits short stays, silent on occupancy and access",
+          "1"
+        ],
+        [
+          "L3 Insurance terms",
+          "Quote covers STR use; lease requires only general liability",
+          "0"
+        ],
+        [
+          "L4 Verbal promises",
+          "None relied on",
+          "0"
+        ],
+        [
+          "L5 Lease term vs payback",
+          "Base 11.8 months fits in 24. Stress: $12,050 ÷ $129 = 93.4 months.",
+          "1"
+        ],
+        [
+          "Total: investigate (9 points, with a 2 in L1)",
+          "",
+          "9"
+        ]
+      ],
+      "ref": "3.4.7",
+      "notes": "Now the lease. I'm assuming the landlord's draft lets either side end the lease on 60 days' notice without cause. I'm also assuming the draft addendum permits short stays but says nothing about occupancy or guest access.\n\nL1 is a 2. No-cause termination is exactly the clause that puts setup money at risk.\n\nL2 is a 1, partly covered.\n\nL3 is a zero. The insurer's quote covers STR use, and the lease only requires general liability, which is an assumption for this walkthrough.\n\nL4 is zero. Nothing verbal is holding up the deal.\n\nL5 is a 1, and the number is worth saying out loud. Base payback is 11.8 months, well inside 24. Stress payback is $12,050 divided by $129, which is 93.4 months. That's far outside the lease.\n\nAdd it up and you get 9 points with a 2 in L1. The label is investigate. It isn't reject. It's a list of things that have to change before this address earns a pitch."
+    },
+    {
+      "type": "bullets",
+      "ordered": true,
+      "title": "Four specific fixes could take Alder Street from 9 points to a thin advance at 4",
+      "items": [
+        "Landlord replaces no-cause termination with termination for a defined breach, written notice, and a cure period. L1 drops to 0.",
+        "Addendum names a maximum of 5 guests, key-code access, and which common areas guests may use. L2 drops to 0.",
+        "Pull comps with Sam's 4.3 method. If they support $205 and 70%, C3 drops to 0.",
+        "Run Sam's 4.2 supply screen. If there's no meaningful growth, C8 drops to 0."
+      ],
+      "box": {
+        "kind": "gold",
+        "label": "Advance is not strong",
+        "text": "At 4 points, C2, C4, C5, and L5 still sit at 1. Advance earns a landlord pitch and full underwriting. Lower rent or some free rent would improve three of those rows at once (lesson 5.4)."
+      },
+      "ref": "3.4.7",
+      "notes": "Investigate means you write the to-do list, and this one mostly writes itself.\n\nFirst, ask the landlord to swap no-cause termination for termination on a defined breach, with written notice and a cure period. If they agree, L1 goes to zero. Second, ask for addendum language naming a maximum of 5 guests, key-code access, and which common areas guests can use. L2 goes to zero. Third, pull comps with Sam's 4.3 method. Fourth, run Sam's 4.2 supply screen. If both come back clean, C3 and C8 drop to zero.\n\nIf all four clear, the score falls to 4. Four points with no 2 in a lease row is advance, but only just.\n\nI want to be clear about what advance means. The address has earned a landlord pitch and full underwriting. It doesn't mean the deal is strong. Each remaining point is a risk you're choosing to carry: a thin stress case, one main demand driver, a heavy rent share, and a stress payback longer than the lease. Lower rent or some free rent would help three of those rows at once. Lesson 5.4 covers negotiating free rent."
+    },
+    {
+      "type": "calc",
+      "title": "If rent rises to $2,150, the stress case loses $71 a month and C2 becomes a 2",
+      "assumption": true,
+      "lines": [
+        {
+          "op": "",
+          "label": "Rent per month (canonical what-if)",
+          "v": "$2,150"
+        },
+        {
+          "op": "",
+          "label": "Stress-case net per year",
+          "v": "-$852"
+        },
+        {
+          "op": "÷",
+          "label": "12 months",
+          "v": "12"
+        }
+      ],
+      "result": {
+        "label": "Stress net per month",
+        "v": "-$71"
+      },
+      "side": "Break-even occupancy rises to **53.8%** at $205 ADR and **61.6%** at $180 ADR.\n\nThe stress case runs at 60%, so it now sits below break-even.",
+      "side_box": {
+        "kind": "warn",
+        "label": "Result",
+        "text": "C2 goes to 2. The score climbs and the deal starts to look like a reject."
+      },
+      "ref": "3.4.7",
+      "notes": "Now test the other direction, because landlords push back. Suppose the landlord asks for $2,150 a month instead of $1,950. That's the canonical what-if from our example set.\n\nRun the stress case again at the higher rent. Annual net becomes negative $852. Divide by 12 and you're losing $71 a month. That flips C2 from a 1 to a 2.\n\nBreak-even moves too. At $205 it rises to 53.8% occupancy. At $180 it rises to 61.6%. The stress case runs at 60%, so it now sits below break-even. A bad year doesn't just squeeze you. It loses money every month.\n\nThis is why I score before I negotiate. A $200 difference in rent sounds small on a phone call. On the scorecard it moves the deal from a thin advance toward a reject. Know which rows a rent change will touch before you agree to it."
+    },
+    {
+      "type": "table",
+      "title": "Same apartment, same rent, three cities: the address decided each answer",
+      "assumption": true,
+      "columns": [
+        "Where Unit 4B sits",
+        "Stage one",
+        "Stage two",
+        "Label"
+      ],
+      "rows": [
+        [
+          "Unnamed city (assumed rules)",
+          "All six pass, pending written confirmation of H1 to H3",
+          "9 points, L1 scored 2",
+          "**Investigate**"
+        ],
+        [
+          "New York City",
+          "H1 fails: whole-unit stays of about three nights, no host present",
+          "Not scored",
+          "**Reject**"
+        ],
+        [
+          "Los Angeles",
+          "H2 fails: you won't live in 4B. If built before October 1, 1978, likely RSO-covered.",
+          "Not scored",
+          "**Reject**"
+        ]
+      ],
+      "caption": "Sources: [NYC OSE tips for hosts](https://www.nyc.gov/site/specialenforcement/registration-law/tips-for-hosts.page); [LAHD Home-Sharing Ordinance](https://housing.lacity.gov/articles/home-sharing-ordinance). Rules dated 25 September 2026.",
+      "ref": "3.4.7",
+      "notes": "Now put the exact same unit in the other two cities.\n\nIn New York City, stage one ends the review. The plan is whole-unit stays of about three nights with no host present. That fails H1 under the rule we covered earlier. The label is reject, and you don't score stage two at all. There's no point scoring cushion on a use the city prohibits.\n\nIn Los Angeles, stage one ends it again. You won't live in Unit 4B, so H2 fails. And if the four-unit building predates October 1, 1978, it's likely covered by the Rent Stabilization Ordinance, where home-sharing isn't allowed at all. Reject.\n\nSame apartment. Same rent. Same revenue model. Three different answers, and the address decided each one. That's why the screen runs on conditions and not on a city's reputation. It's also why stage one comes first. It's the cheapest hour you'll spend on any deal."
+    },
+    {
+      "type": "worksheet",
+      "title": "Answer the six hard stops for one real address, with a source for each answer",
+      "columns": [
+        "#",
+        "Question",
+        "Yes / No / Unknown",
+        "Official source URL",
+        "Date checked"
+      ],
+      "rows": [
+        [
+          "H1",
+          "Is unhosted short-stay use prohibited at this address?",
+          "",
+          "",
+          ""
+        ],
+        [
+          "H2",
+          "Is there a primary-residence rule I can't meet?",
+          "",
+          "",
+          ""
+        ],
+        [
+          "H3",
+          "Is the permit unavailable, capped, listed, or nontransferable to me?",
+          "",
+          "",
+          ""
+        ],
+        [
+          "H4",
+          "Do HOA, condo, or co-op rules ban it?",
+          "",
+          "",
+          ""
+        ],
+        [
+          "H5",
+          "Does the lease lack written permission, with no addendum offered?",
+          "",
+          "",
+          ""
+        ],
+        [
+          "H6",
+          "Has every insurer I asked declined STR liability coverage?",
+          "",
+          "",
+          ""
+        ]
+      ],
+      "ref": "3.4.8",
+      "notes": "Your exercise is to score one address you're actually considering, before you contact the landlord.\n\nStart with this stage-one sheet. For every answer, attach the official source URL and the date you checked it, and note whether you have a written answer saved. Use the regulatory research template in resource SR.1 to keep those sources in one place.\n\nThen fill in the stage-two sheet in the lesson. For each of the thirteen rows, write your figure or finding, the score, what would change it, who can change it, and a due date. Circle the label at the bottom and set a recheck date. Rules and rents change, so I'd recheck any address you haven't signed within 60 days.\n\nTwo rules make this tool work. First, score what you have. If comps aren't pulled, C3 is a 1. Second, when a row scores 2, write the specific fix and the person who can make it. \"Talk to landlord\" is too vague. \"Landlord to replace clause 14 with termination for breach plus a 30-day cure period\" is a to-do someone can act on.",
+      "keyline": "Fill it in before you contact the landlord. Score what you have: unknown stays unknown."
+    },
+    {
+      "type": "table",
+      "title": "Five people confirm the answers you can't confirm from a desk",
+      "columns": [
+        "Who",
+        "What they confirm"
+      ],
+      "rows": [
+        [
+          "Local licensing or planning office",
+          "In writing: unhosted stays allowed at this exact address, whether a primary-residence test applies, whether a non-owner operator can get a permit"
+        ],
+        [
+          "HOA, condo board, or building manager",
+          "Whether governing documents restrict short stays"
+        ],
+        [
+          "Attorney licensed in the property's state",
+          "Whether the lease and addendum give explicit permission, and whether termination and cure terms are enforceable as written"
+        ],
+        [
+          "Insurance broker",
+          "The STR liability policy covers the planned use at this address and matches the lease's insurance terms"
+        ],
+        [
+          "Sam's 4.2 and 4.3 methods (or your own data)",
+          "Comparable revenue and supply support the figures you scored"
+        ]
+      ],
+      "ref": "3.4.9",
+      "notes": "The scorecard is desk work. Some answers you can't give yourself, and I want you to know exactly who gives them.\n\nThe local licensing or planning office confirms the stage-one city questions, in writing. Is unhosted use allowed at this exact address? Does a primary-residence test apply? Can a non-owner operator get the permit?\n\nThe HOA, condo board, or building manager confirms whether the governing documents restrict short stays.\n\nAn attorney licensed in the property's state confirms whether the lease and addendum give you explicit permission. They also tell you whether the termination and cure terms are enforceable as written. That's the L1 fix from Alder Street.\n\nYour insurance broker confirms the policy covers this use at this address and matches what the lease requires.\n\nAnd for C3 and C8, Sam's 4.2 and 4.3 methods, or your own market data, confirm the revenue and supply numbers. Until then, those rows stay at 1."
+    },
+    {
+      "type": "dothis",
+      "title": "Run one address through both stages this week",
+      "items": [
+        "Pick one address and answer H1 to H6, with an official URL and date for each answer.",
+        "Email the licensing office one question about unhosted stays at that address and save the reply.",
+        "Score the eight commercial rows using the numbers you have today, not the ones you hope for.",
+        "Read the lease draft for L1 to L5 and write one specific fix, with an owner and a date, for every row scored 2."
+      ],
+      "next": "Next: lesson 3.5, Sublease Legality & Landlord Disclosure Best Practices. It shows what written permission must say. Bring your scorecard and the landlord's draft lease.",
+      "ref": "3.4.10",
+      "notes": "Here's what I'd do this week. Each of these takes under an hour.\n\nPick one real address and answer the six hard stops. Every answer gets an official URL and a date. If an answer is unknown, write unknown. Don't guess.\n\nSend one email to the licensing office about unhosted stays at that address, and save whatever comes back. A dated written answer is worth more than an hour of reading forum posts.\n\nScore the eight commercial rows with the numbers you actually have. Comps not pulled is a 1.\n\nThen read the lease draft against L1 through L5. For any row scoring 2, write the specific fix and who can make it.\n\nAn address that lands on investigate usually has a lease problem on the list. Lesson 3.5, Sublease Legality and Landlord Disclosure Best Practices, shows what written permission has to say and how to tell a vague clause from an explicit one. Bring your scorecard and the landlord's draft lease."
+    },
+    {
+      "type": "sources",
+      "title": "Every rule in this lesson traces to an official page, checked 25 September 2026",
+      "items": [
+        {
+          "title": "NYC Office of Special Enforcement: Tips for Hosting a Legal Short-term Rental",
+          "url": "https://www.nyc.gov/site/specialenforcement/registration-law/tips-for-hosts.page",
+          "note": "Host-present rule, two-guest limit, no whole-unit stays under 30 days, day-zero counting, lease certification"
+        },
+        {
+          "title": "NYC OSE: Prohibited Buildings List",
+          "url": "https://www.nyc.gov/site/specialenforcement/registration-law/pbl.page",
+          "note": "OSE must deny registration for units in listed buildings"
+        },
+        {
+          "title": "LAHD: Home Sharing Ordinance",
+          "url": "https://housing.lacity.gov/articles/home-sharing-ordinance",
+          "note": "Primary-residence limit; no home-sharing in RSO units; RSO covers most multi-family units built before October 1, 1978"
+        },
+        {
+          "title": "LA City Planning: Home-Sharing Ordinance FAQ",
+          "url": "https://planning.lacity.gov/ordinances/docs/HomeSharing/adopted/faq.pdf",
+          "note": "Six-month residency, registration not transferable, written landlord approval for renters"
+        },
+        {
+          "title": "Airbnb Help, article 1397: General info about hosting places to stay",
+          "url": "https://www.airbnb.com/help/article/1397",
+          "note": "Check lease, landlord, HOA or co-op rules before hosting"
+        },
+        {
+          "title": "Airbnb Help, article 3733: AirCover for hosts",
+          "url": "https://www.airbnb.com/help/article/3733",
+          "note": "Host damage protection is not an insurance policy"
+        }
+      ],
+      "ref": "3.4 sources",
+      "notes": "These are the primary sources behind every rule in this lesson. I checked each one on 25 September 2026.\n\nThe New York examples come from the city's Office of Special Enforcement: the host-present rule, the two-guest limit, the 30-day line for whole units, the day-zero counting, and the lease certification. The Prohibited Buildings List page is where the city says it must deny registration in listed buildings.\n\nThe Los Angeles examples come from the Housing Department's home-sharing page and the City Planning FAQ. Those cover the primary-residence rule, the six-month residency test, the RSO restriction, the fact that registrations don't transfer, and the written landlord approval for renters.\n\nThe two Airbnb help articles support the HOA and lease check and the point that Host damage protection isn't insurance.\n\nThe Alder Street figures come from our canonical example set. Rules change, so open the official page again before you rely on any of this for a real address."
+    }
+  ]
+}

@@ -1,0 +1,737 @@
+{
+ "nn": 10,
+ "code": "0.3",
+ "title": "Is Ownership Right for You? A Capital & Readiness Checklist",
+ "short": "Capital & Readiness Checklist",
+ "section": "Part Two · Module 0 - Ownership vs. Arbitrage",
+ "slides": [
+  {
+   "type": "cover",
+   "ref": "0.3.0",
+   "kicker": "Part Two · Module 0 · Ownership vs. Arbitrage",
+   "title": "The down payment is the smallest question; fund the full stack before you shop",
+   "subtitle": "Lesson 0.3. Is Ownership Right for You? A Capital & Readiness Checklist",
+   "meta": [
+    [
+     "Teacher",
+     "Preston"
+    ],
+    [
+     "Example",
+     "Cedar Ridge house (hypothetical)"
+    ],
+    [
+     "Use",
+     "Education only. Not legal, tax, lending, or financial advice."
+    ]
+   ],
+   "notes": "This lesson answers one question before you look at a single listing. Can you actually afford to own?\n\nBy the end, you'll be able to add up the full cash an ownership deal needs, not just the down payment. You'll compare it with the money you really have, after you keep your own emergency savings. You'll test whether you'd survive a delayed opening or a weak first season. And you'll finish with a one-page readiness scorecard.\n\nThat scorecard sends you to one of four places. PA.1, where you write your buy box. Better financing or liquidity first. The Part One lease path. Or wait.\n\nI'll run Maya and Chris through all of it. They have $210,000 in liquid savings, and on the surface they look very ready. You'll see where that changes. Every Cedar Ridge figure is an assumption from the course example file, and new ones are marked.\n\nHearing \"not yet\" here is much cheaper than hearing it at a closing table."
+  },
+  {
+   "type": "statement",
+   "ref": "0.3.1",
+   "eyebrow": "The first number most buyers check",
+   "title": "A $96,250 down payment against $210,000 saved looks ready twice over",
+   "text": "$96,250 down against $210,000 saved looks ready twice over. The full bill says otherwise.",
+   "support": "Closing, furnishing, repairs, permits, the months before the first guest, a reserve for the house, and a reserve for your own household.",
+   "notes": "Most buyers start with one number: the down payment. For Cedar Ridge, 25% of $385,000 is $96,250. Maya and Chris have $210,000 in liquid savings outside retirement accounts. On that math alone, they could make the down payment twice.\n\nThat math leaves out most of the bill.\n\nAn owned short-term rental needs money for closing, furnishing, repairs, and permits. It needs money for the months before the first guest arrives. It needs reserves, for the lender and for you. And your own household has to stay safe if the house has a bad year.\n\nSo in this lesson I lay out every layer, one at a time. Then we run Maya and Chris through it and see what's left.\n\nKeep the $210,000 in your head. We'll come back to it, and by the end the answer won't be \"twice over\". It'll be a gap."
+  },
+  {
+   "type": "table",
+   "ref": "0.3.2",
+   "eyebrow": "The full cash stack",
+   "title": "The cash stack has eight layers: six you spend and two you must still hold",
+   "keyline": "The most common failure is counting the same dollars as the house reserve and the family's emergency fund.",
+   "columns": [
+    "Layer",
+    "What it covers",
+    "Spent or held?"
+   ],
+   "rows": [
+    [
+     "1. Down payment",
+     "Your share of the price",
+     "Spent (becomes equity)"
+    ],
+    [
+     "2. Closing costs and points",
+     "Lender fees, title, escrow, prepaid items, discount points",
+     "Spent"
+    ],
+    [
+     "3. Furnishing and setup",
+     "Furniture, linens, kitchen, safety equipment, photos",
+     "Spent"
+    ],
+    [
+     "4. Repairs and safety punch list",
+     "Inspection items you accept, plus work needed before guests",
+     "Spent"
+    ],
+    [
+     "5. Permit, registration, inspections",
+     "Local fees and specialist inspections",
+     "Spent"
+    ],
+    [
+     "6. Launch carrying costs",
+     "Loan payment, utilities, software, retainers before the first booking",
+     "Spent"
+    ],
+    [
+     "7. Property reserves",
+     "The lender's required reserves, then your operating cushion",
+     "Held"
+    ],
+    [
+     "8. Personal emergency savings",
+     "Your household's own safety net, separate from the house",
+     "Held"
+    ]
+   ],
+   "compact": true,
+   "notes": "Think of the cash requirement as a stack. Each layer sits on the one below it. You need all of them funded. If you don't, you're counting on the house to perform from day one.\n\nLayers 1 to 6 are money you'll spend. The down payment, closing costs and points, furnishing, the repair and safety punch list, permits and inspections, and the carrying costs before the first booking. That last one catches people. The loan payment starts whether or not a guest has booked.\n\nLayers 7 and 8 are money you must still have after spending all that. Layer 7 is the property reserve. The lender may require it to make the loan, and after closing it becomes your cushion for the house. Layer 8 is your household's own emergency savings.\n\nThe most common failure is merging 7 and 8. A buyer counts the same dollars twice, once for the house and once for the family. Then the water heater fails in the same month a paycheck is late. And there's one pile of cash for two problems."
+  },
+  {
+   "type": "two",
+   "ref": "0.3.3",
+   "eyebrow": "Where the money comes from",
+   "title": "Count only liquid savings, because a HELOC is borrowed money secured by your home",
+   "left": {
+    "head": "Counts in this lesson",
+    "note": "Checking, savings, and taxable brokerage accounts.",
+    "items": [
+     "The cleanest source. Lenders usually want to see where it came from and how long it's been there.",
+     "Ask your lender what documentation they need for large recent deposits."
+    ]
+   },
+   "right": {
+    "head": "Borrowed or conditional",
+    "note": "Ask your lender and CPA before you count any of these.",
+    "items": [
+     "Retirement: some lenders may count part toward reserves; withdrawals can carry tax and penalties.",
+     "HELOC: usually a variable rate, and your home is the collateral ([CFPB](https://www.consumerfinance.gov/ask-cfpb/what-is-a-home-equity-line-of-credit-heloc-en-107/)).",
+     "Gifts or partners: lender rules apply; ownership and loan papers must match (PA.10).",
+     "Seller concessions: a PA.8 negotiation item, not money to count now."
+    ]
+   },
+   "notes": "Money for the stack can come from several places. Each one has limits, and your lender may treat them differently.\n\nLiquid savings are the cleanest. That's checking, savings, and taxable brokerage. Lenders usually want to see where it came from and how long it's been there.\n\nRetirement accounts are different. Maya and Chris's $210,000 leaves retirement out. Some lenders may count part of a retirement balance toward reserves. But withdrawals can carry taxes and penalties. That's a lender and CPA question, not spendable cash.\n\nHome equity looks tempting. Their home is worth $520,000 with a $260,000 mortgage, so they have $260,000 of equity on paper. A HELOC lets them borrow against it. The CFPB notes that HELOCs usually carry a variable rate, and your home is the collateral. If you can't repay, you could lose your home. A HELOC is borrowed money, not savings, and it adds a payment. OP.11 covers HELOCs for scaling.\n\nSo in this lesson, we count only liquid savings. If the stack only works with borrowed money, write that down as a finding."
+  },
+  {
+   "type": "bullets",
+   "ref": "0.3.4",
+   "eyebrow": "Reserves",
+   "title": "The lender's reserve rule is a floor to get the loan, not a plan for a bad season",
+   "items": [
+    "Fannie Mae measures reserves in months of the new loan's PITIA ([Selling Guide B3-4.1-01](https://selling-guide.fanniemae.com/sel/b3-4.1-01/minimum-reserve-requirements)).",
+    "No minimum for a one-unit principal residence. Second homes and investment properties do have one.",
+    "Desktop Underwriter sets reserves for DU loans. The Eligibility Matrix sets them for manual loans.",
+    "More financed properties add 2%, 4%, or 6% of the other balances. For Maya and Chris that's likely zero.",
+    "DSCR lenders set their own rule. Get each lender's number in writing (PA.6, PA.7)."
+   ],
+   "box": {
+    "kind": "info",
+    "label": "For teaching: 6 months of PITIA (assumption)",
+    "text": "DSCR quote: 6 x $2,557 = **$15,342**. Conventional quote: 6 x $2,484 = **$14,904**."
+   },
+   "notes": "Lenders measure reserves in months of the new loan's payment. That payment is principal, interest, taxes, insurance, and association dues. People shorten it to PITIA.\n\nFannie Mae's Selling Guide, section B3-4.1-01, lays out the rules for loans it buys. There's no minimum for a one-unit principal residence. Second homes and investment properties do have requirements. For loans run through Fannie Mae's automated system, Desktop Underwriter, that system sets the number. For manually underwritten loans, it's in the Eligibility Matrix.\n\nIf you have other financed properties, more reserves apply, as a percentage of those balances. The add-on excludes the house you're buying and your principal residence. Maya and Chris would have two financed properties, their home and Cedar Ridge. So the add-on would likely be zero. Their lender confirms it.\n\nThe DSCR quote isn't a Fannie Mae loan. Each DSCR lender sets its own rule. For teaching I assume 6 months: $15,342 on the DSCR quote, $14,904 on the conventional.\n\nAfter closing, the lender stops watching. That reserve becomes your cushion. The lender's number is a floor, not a plan."
+  },
+  {
+   "type": "table",
+   "ref": "0.3.5",
+   "eyebrow": "Debt capacity",
+   "assumption": true,
+   "title": "With no STR income counted, Maya and Chris's illustrative DTI is 35.6%",
+   "text": "A DSCR loan qualifies mainly on the property's income against its payment. A conventional loan qualifies mainly on your household income and debts.",
+   "columns": [
+    "Line",
+    "Monthly"
+   ],
+   "rows": [
+    [
+     "Gross income ($185,000 / 12)",
+     "$15,417"
+    ],
+    [
+     "Primary home payment (assumption)",
+     "$2,400"
+    ],
+    [
+     "Other debts: cars, cards (assumption)",
+     "$600"
+    ],
+    [
+     "Cedar Ridge PITIA, conventional quote",
+     "$2,484"
+    ],
+    [
+     "Total debts",
+     "$5,484"
+    ],
+    [
+     "DTI with no STR income counted",
+     "35.6%"
+    ]
+   ],
+   "total_last": true,
+   "caption": "With the DSCR quote's $2,557, the same check gives 36.0%. The lender sets the maximum and decides how much rental income, if any, to credit.",
+   "notes": "Three questions shape whether a lender will lend, before you even pick a house.\n\nCredit first. Maya and Chris have scores around 740. Each lender sets its own minimum and prices its rate by score. Kiavi's DSCR guide, for example, says it looks at credit score and down payment, not only the property's coverage. That's one lender, not a market standard.\n\nThen the loan type. A DSCR loan qualifies mainly on the property's income against its payment. A conventional loan qualifies mainly on your household income and debts. Fannie Mae updated its rental income guidance in September 2026, including a section on short-term rental income. Whether a lender counts projected or actual STR income for you is their call. PA.7 compares the paths.\n\nThen debt capacity. Here's a rough check. Monthly income is $15,417. Their home payment and other debts are assumptions, $2,400 and $600. Add the $2,484 conventional PITIA, and debts total $5,484. That's 35.6% of income, with no rental income counted. On the DSCR quote, it's 36.0%.\n\nThis check only tells you whether a conventional path is worth asking about."
+  },
+  {
+   "type": "calc",
+   "ref": "0.3.6",
+   "eyebrow": "Delayed opening",
+   "assumption": true,
+   "title": "Each month between closing and the first guest costs $3,257 with nothing coming in",
+   "lines": [
+    {
+     "op": "",
+     "label": "PITIA, DSCR quote",
+     "v": "$2,557"
+    },
+    {
+     "op": "+",
+     "label": "Utilities, internet, trash",
+     "v": "$450"
+    },
+    {
+     "op": "+",
+     "label": "Software",
+     "v": "$100"
+    },
+    {
+     "op": "+",
+     "label": "On-call handyman retainer",
+     "v": "$150"
+    }
+   ],
+   "result": {
+    "label": "Carrying cost per month",
+    "v": "$3,257"
+   },
+   "side": "The base stack already includes **2 months** (assumption): $6,514.\n\nA **3-month delay** beyond that adds 3 x $3,257 = **$9,771**.",
+   "side_box": {
+    "kind": "warn",
+    "label": "What causes it",
+    "text": "Permits take longer. Furniture arrives late. A contractor misses a week."
+   },
+   "notes": "Two things go wrong often enough that you should budget for both. The first is a delayed opening.\n\nPermits take longer than expected. Furniture arrives late. A contractor misses a week. Every month between closing and the first guest costs the full carrying cost, with no revenue.\n\nFor Cedar Ridge on the DSCR quote, that's $3,257 a month. It's the $2,557 PITIA, plus the example's $450 of utilities, $100 of software, and $150 for the handyman retainer.\n\nThe base stack already includes two months of carrying costs as an assumption. That's $6,514. Now suppose you get three more months of delay on top of that. That's another $9,771.\n\nWhere does that money come from? Not from the house. The house isn't earning yet. It comes from the property reserve, and if that's not enough, from your household.\n\nWhen you build your own stack, don't use the fastest timeline anyone's quoted you. Ask the permit office for real processing times. Ask the furniture vendor for realistic delivery dates."
+  },
+  {
+   "type": "bars",
+   "ref": "0.3.6",
+   "eyebrow": "Delay plus a weak year",
+   "assumption": true,
+   "title": "A delay followed by a weak first year uses most of the $15,342 property reserve",
+   "items": [
+    {
+     "label": "Property reserve, 6 months PITIA",
+     "value": 15342,
+     "kind": "pos"
+    },
+    {
+     "label": "3-month delay beyond plan",
+     "value": -9771,
+     "kind": "neg",
+     "hot": true
+    },
+    {
+     "label": "Reserve left after the delay",
+     "value": 5571,
+     "kind": "total"
+    },
+    {
+     "label": "Weak-case loss, one year",
+     "value": -5475,
+     "kind": "neg"
+    }
+   ],
+   "caption": "The weak case (ADR $265, 50% occupancy) loses $5,475 a year on the DSCR quote, about $456 a month. On its own, the reserve covers about 2.8 years of it.",
+   "box": {
+    "kind": "gold",
+    "label": "Plan for the pair",
+    "text": "A delay followed by a weak year is the combination that forces sales at bad times."
+   },
+   "notes": "The second thing is a weak first season. A new listing has no reviews. It may book below its long-run potential for a while.\n\nThe example's weak case is $265 ADR at 50% occupancy. On the DSCR quote it loses $5,475 a year, about $456 a month. On its own, the $15,342 reserve covers about 2.8 years of that, if nothing else goes wrong.\n\nBut look at what happens when both hit. Start with the $15,342 reserve. A three-month delay takes $9,771. That leaves $5,571. Then a weak first year loses $5,475. The reserve is almost gone.\n\nThat's the pairing I want you to plan for. It's the one that forces owners to sell at bad times, because the cushion runs out right when the house is weakest.\n\nThis is also why the lender's reserve rule isn't a plan. The lender got its six months. Your plan has to survive this chart. Maya and Chris will set their own target, and you'll see it on the scorecard."
+  },
+  {
+   "type": "bullets",
+   "ref": "0.3.7",
+   "eyebrow": "Time and involvement",
+   "assumption": true,
+   "title": "Self-managing Cedar Ridge takes about 140 hours a year, and the cleaner may log more",
+   "items": [
+    "1.5 hours per stay x 61 stays = 91.5 hours on messages, scheduling, and turnover checks.",
+    "4 hours a month x 12 = 48 hours on bookkeeping, pricing, and vendor calls.",
+    "About 140 hours a year, or 2.7 hours a week. Some weeks bring an 11 p.m. lockout.",
+    "A cleaner at 4 hours x 61 turnovers logs 244 hours. That can matter for the participation tests ([Pub 925](https://www.irs.gov/publications/p925)).",
+    "Handing it to an 18% co-host turned base-case cash flow from $5,572 to -$7,798 in 0.2."
+   ],
+   "notes": "Cash isn't the only resource. Owning also takes time, and a stomach for ups and downs.\n\nIn the base case, Maya and Chris self-manage with a local cleaner and an on-call handyman. Assume 1.5 hours per stay on messages, scheduling, and turnover checks. With 61 stays, that's 91.5 hours. Add 4 hours a month on bookkeeping, pricing, and vendor calls. That's 48 more. Together, about 140 hours a year, or 2.7 hours a week. Some weeks take much more: a lockout at 11 p.m., a broken water heater on a Saturday.\n\nThat hour count matters for taxes too. As 0.2 explained, whether losses are usable can depend on material participation. Publication 925's tests compare your hours with other people's, like the cleaner's. If the cleaner spends 4 hours on each of 61 turnovers, that's 244 hours. That's more than the owners' 140. Your CPA confirms how your hours count.\n\nIf you don't want to spend those hours, the alternative is a co-host. In 0.2, an 18% co-host sank the base case to minus $7,798. Decide now which kind of owner you'll be."
+  },
+  {
+   "type": "two",
+   "ref": "0.3.7",
+   "eyebrow": "Personal use and risk tolerance",
+   "assumption": true,
+   "title": "Both owners should say out loud whether they could live with being $27,503 behind",
+   "left": {
+    "head": "Personal use",
+    "note": "Maya and Chris plan about 10 days a year.",
+    "items": [
+     "Pub 527: used as a home if personal days exceed the greater of 14 days or 10% of rented days ([IRS](https://www.irs.gov/publications/p527)).",
+     "At 212 rented nights the threshold is 21.2 days. Ten days is below it.",
+     "Ten nights at the $300 base ADR are worth up to $3,000 of revenue. Stay in slow weeks."
+    ]
+   },
+   "right": {
+    "head": "Risk tolerance",
+    "note": "The five-year test from 0.2, before tax.",
+    "items": [
+     "Base case: $27,732 ahead.",
+     "Weak case: $27,503 behind.",
+     "If either owner's honest answer is no, that's a readiness result, and a useful one."
+    ]
+   },
+   "notes": "Two more resources: your own calendar, and your nerves.\n\nPersonal use first. Maya and Chris plan about 10 personal days a year. IRS Publication 527 treats a dwelling as used as a home if personal use exceeds the greater of 14 days or 10% of fair-rental days. It also requires dividing expenses by days. At 212 rented nights, the threshold is 21.2 days, so 10 days is below it.\n\nThere's also a revenue cost. If those 10 nights would have booked at the $300 base rate, they're worth up to $3,000 of nightly revenue. So plan your own stays for slower weeks.\n\nNow risk tolerance. In 0.2, the five-year test showed Cedar Ridge $27,732 ahead before tax in the base case. In the weak case it was $27,503 behind. I want both owners to look at that second number and say out loud whether they could live with it.\n\nIf the honest answer is no, that's a readiness result. It isn't a failure. It's the scorecard doing its job before any money is at risk."
+  },
+  {
+   "type": "table",
+   "ref": "0.3.8",
+   "eyebrow": "Worked example · Layers 1 to 6",
+   "assumption": true,
+   "title": "Maya and Chris would spend $155,302 before their first guest on the DSCR quote",
+   "columns": [
+    "Layer",
+    "DSCR quote",
+    "Conventional quote"
+   ],
+   "rows": [
+    [
+     "Cash to close (25% down, closing costs, points)",
+     "$110,688",
+     "$107,800"
+    ],
+    [
+     "Furnishing and setup",
+     "$32,000",
+     "$32,000"
+    ],
+    [
+     "Repairs and safety punch list (assumption)",
+     "$4,000",
+     "$4,000"
+    ],
+    [
+     "Inspections: general, septic, specialist (assumption)",
+     "$1,500",
+     "$1,500"
+    ],
+    [
+     "Permit and registration fees (assumption)",
+     "$600",
+     "$600"
+    ],
+    [
+     "Launch carrying costs, 2 months (assumption)",
+     "$6,514",
+     "$6,368"
+    ],
+    [
+     "Total spent",
+     "$155,302",
+     "$152,268"
+    ]
+   ],
+   "total_last": true,
+   "notes": "Now the full stack for Maya and Chris. Canonical figures come from the course file. The new ones are marked as assumptions.\n\nStart with cash to close. On the DSCR quote that's $110,688: the $96,250 down payment plus $14,438 of closing costs including the point. On the conventional quote it's $107,800, because there's no point.\n\nThen furnishing and setup, $32,000. A repair and safety punch list, $4,000. Inspections, including septic and specialists, $1,500. Permit and registration fees, $600. And two months of launch carrying costs. That's $6,514 on the DSCR quote and $6,368 on the conventional, because the payment is lower.\n\nAdd it up on the DSCR side: $110,688 plus $32,000, plus $4,000, plus $1,500, plus $600, plus $6,514. That's $155,302 spent before a single guest checks in. On the conventional side, $152,268.\n\nCompare that with the $96,250 down payment we started with. And we haven't added either reserve yet. That's the next slide."
+  },
+  {
+   "type": "table",
+   "ref": "0.3.8",
+   "eyebrow": "Worked example · The full stack",
+   "assumption": true,
+   "title": "Holding both reserves leaves them $11,644 short on DSCR and $8,172 on conventional",
+   "columns": [
+    "Line",
+    "DSCR quote",
+    "Conventional quote"
+   ],
+   "rows": [
+    [
+     "Total spent (layers 1 to 6)",
+     "$155,302",
+     "$152,268"
+    ],
+    [
+     "Property reserve, 6 months PITIA (assumption)",
+     "$15,342",
+     "$14,904"
+    ],
+    [
+     "Personal emergency savings, 6 x $8,500 (assumption)",
+     "$51,000",
+     "$51,000"
+    ],
+    [
+     "Full stack",
+     "$221,644",
+     "$218,172"
+    ],
+    [
+     "Liquid savings",
+     "$210,000",
+     "$210,000"
+    ],
+    [
+     "Surplus / gap",
+     "-$11,644",
+     "-$8,172"
+    ]
+   ],
+   "total_last": true,
+   "box": {
+    "kind": "info",
+    "label": "Two readings of the same table",
+    "text": "**The lender's view:** after spending $155,302 they still hold $54,698, about 21 months of PITIA. A lender may say yes. **Their own plan:** they can't fund both reserves at once."
+   },
+   "notes": "Now add the two held layers.\n\nTheir household's essential spending is $8,500 a month, an assumption. They want to keep six months of it as their own emergency savings, $51,000. The property reserve is $15,342 on the DSCR quote.\n\nSo the full stack on the DSCR quote is $155,302 plus $15,342 plus $51,000. That's $221,644. They have $210,000. The gap is $11,644. On the conventional quote the gap is $8,172.\n\nHere's the part I want you to notice. There are two ways to read this table.\n\nThe lender's view: after spending $155,302, Maya and Chris would still hold $54,698. That's about 21 months of the DSCR payment, well above a six-month rule. On paper, a lender may say yes.\n\nTheir own plan: they can't fund the house's reserve and their own emergency savings at the same time. They're short.\n\nThis is exactly the gap the down payment check hides. The lender's approval doesn't mean the household is ready."
+  },
+  {
+   "type": "bullets",
+   "ref": "0.3.8",
+   "eyebrow": "Closing the gap",
+   "assumption": true,
+   "ordered": true,
+   "title": "Close the gap with time first, then financing, price, and a phased furnishing plan",
+   "items": [
+    "**Time.** Saving $3,500 a month closes the DSCR gap in about 3.3 months, the conventional gap in about 2.3.",
+    "**Financing.** The conventional quote needs $2,888 less at closing and has a lower payment, if they qualify (PA.7).",
+    "**Price.** A lower price cuts the down payment and closing costs. PA.1 turns this into a hard cap.",
+    "**Furnishing plan.** A phased plan may cut the up-front budget, without cutting safety or listing accuracy (OP.6)."
+   ],
+   "box": {
+    "kind": "warn",
+    "label": "Don't do this",
+    "text": "Shrink the emergency fund to make the table balance, or count a HELOC as savings."
+   },
+   "notes": "So what can close the gap? Here are the options in the order I'd look at them.\n\nTime first. If Maya and Chris save $3,500 a month, which is an assumption, the DSCR gap closes in about 3.3 months. The conventional gap closes in about 2.3 months. Searching, underwriting, and closing take a while anyway, so time is often the cheapest fix.\n\nFinancing second. The conventional quote needs $2,888 less at closing, and the payment is lower, if they qualify. That's a PA.7 comparison.\n\nPrice third. A lower price reduces the down payment and closing costs. In PA.1 we turn this into a hard price cap.\n\nFurnishing fourth. A phased furnishing plan may cut the up-front budget. OP.6 covers how to do that without cutting safety or listing accuracy.\n\nAnd two things they should not do. Don't shrink the emergency fund to make the table balance. And don't count a HELOC as savings. Both of those make the table look fine and leave the household exposed."
+  },
+  {
+   "type": "scorecard",
+   "ref": "0.3.9",
+   "eyebrow": "Readiness scorecard · Lines 1 to 7",
+   "title": "Score every line Green, Yellow, or Red before you shop, starting with cash",
+   "columns": [
+    "#",
+    "Check",
+    "Green",
+    "Yellow",
+    "Red"
+   ],
+   "rows": [
+    [
+     "1",
+     "Full cash stack from liquid savings",
+     "Surplus of $0 or more",
+     "Gap closable by saving within 6 months",
+     "Bigger gap, or borrowed money"
+    ],
+    [
+     "2",
+     "Emergency savings kept after closing",
+     "6+ months",
+     "3 to 6 months",
+     "Under 3 months"
+    ],
+    [
+     "3",
+     "Property reserve after closing",
+     "At lender rule and your target",
+     "At lender rule only",
+     "Below lender rule"
+    ],
+    [
+     "4",
+     "Credit",
+     "Above the lender minimum",
+     "At the minimum",
+     "Below it"
+    ],
+    [
+     "5",
+     "Lender fit",
+     "Written pre-qual or term sheet",
+     "Verbal only",
+     "None, or declined"
+    ],
+    [
+     "6",
+     "DTI (conventional) or coverage (DSCR)",
+     "Inside the lender limit",
+     "Near the limit",
+     "Outside it"
+    ],
+    [
+     "7",
+     "3 extra months of delay absorbed",
+     "From property reserve",
+     "Needs emergency fund",
+     "Can't be absorbed"
+    ]
+   ],
+   "bands": [
+    {
+     "kind": "",
+     "h": "Green",
+     "d": "Clears the line with room"
+    },
+    {
+     "kind": "i",
+     "h": "Yellow",
+     "d": "Clears it only with a plan or a date"
+    },
+    {
+     "kind": "r",
+     "h": "Red",
+     "d": "Doesn't clear it now"
+    }
+   ],
+   "notes": "Here's the one-page readiness scorecard. Fill it in before you shop. Score each line Green, Yellow, or Red. There are 13 lines. This slide shows the first seven.\n\nLine 1 is the full cash stack from liquid savings. Green is a surplus. Yellow is a gap you can close with normal saving within six months. Red is a bigger gap, or a stack that only works with borrowed money.\n\nLine 2 is your emergency savings after closing. Six months or more is Green. Under three is Red.\n\nLine 3 is the property reserve. Green means you're at the lender's rule and your own target. Yellow is the lender's rule only.\n\nLines 4 to 6 are the lender lines: credit, a written quote, and debt capacity or property coverage. Note that a verbal quote is only Yellow. You want it in writing.\n\nLine 7 is the delay test. Can you absorb three extra months from the property reserve, without touching the family's emergency fund?\n\nWrite the evidence next to each score. A score with no evidence is a guess."
+  },
+  {
+   "type": "table",
+   "ref": "0.3.9",
+   "eyebrow": "Readiness scorecard · Lines 8 to 13",
+   "title": "The last six lines test time, involvement, personal use, and your nerve",
+   "columns": [
+    "#",
+    "Check",
+    "Green",
+    "Yellow",
+    "Red"
+   ],
+   "rows": [
+    [
+     "8",
+     "Weak first season",
+     "Reserve covers the loss 2+ years",
+     "1 to 2 years",
+     "Under 1 year"
+    ],
+    [
+     "9",
+     "Time available",
+     "Hours exceed the plan, plus a local backup",
+     "Just enough",
+     "Not enough, no co-host budget"
+    ],
+    [
+     "10",
+     "Involvement choice tested",
+     "Works with your chosen model (0.2)",
+     "Works only if you self-manage, and you're unsure",
+     "Fails with the model you'll use"
+    ],
+    [
+     "11",
+     "Risk tolerance",
+     "Both accept the 5-year weak case in writing",
+     "One owner unsure",
+     "Either can't accept it"
+    ],
+    [
+     "12",
+     "Personal use plan",
+     "Below the Pub 527 threshold, or CPA-reviewed",
+     "Plan unclear",
+     "Heavy use, not reviewed"
+    ],
+    [
+     "13",
+     "Lease path considered",
+     "0.2 Part C done; owning chosen for a reason",
+     "Not compared",
+     "Leasing fits better and you'd still buy"
+    ]
+   ],
+   "compact": true,
+   "notes": "Here are lines 8 to 13.\n\nLine 8 is the weak first season. Green means the property reserve covers the weak-case loss for two years or more. Under one year is Red.\n\nLine 9 is time. Green means the hours you really have beat the plan's estimate, and you have a local backup for when you can't get there.\n\nLine 10 tests your involvement choice. Does the deal still work with the management model you'll actually use? Yellow is the honest middle: it works only if you self-manage, and you're not sure you will.\n\nLine 11 is risk tolerance. Green means both owners accept the five-year weak-case result, in writing. If either can't, it's Red.\n\nLine 12 is personal use. Below the Publication 527 threshold, or reviewed by a CPA, is Green.\n\nLine 13 asks whether you considered the lease path. You did the Part C comparison from 0.2, and you chose owning for a stated reason. Red is when leasing clearly fits better and you'd buy anyway.\n\nBe hard on yourself here. Nobody else sees this page."
+  },
+  {
+   "type": "table",
+   "ref": "0.3.9",
+   "eyebrow": "Outcome rules",
+   "title": "Your scorecard sends you to PA.1, to financing first, to the lease path, or to wait",
+   "columns": [
+    "Result",
+    "Where you go next"
+   ],
+   "rows": [
+    [
+     "All Green, or Yellow only on line 1 with a dated funding plan",
+     "**Proceed to PA.1.** Write the funding condition into your buy box: no offer until the stack is funded."
+    ],
+    [
+     "Yellow or Red on lines 3 to 6",
+     "**Improve financing or liquidity first.** Get written quotes (PA.6, PA.7), pay down debt, or save. Rescore in 60 to 90 days."
+    ],
+    [
+     "Red on line 1 or 2, and lines 9 to 11 look fine",
+     "**Use the lease path (Part One).** Alder Street needed $20,370 on day one. Start with lesson 1.3."
+    ],
+    [
+     "Red on line 9, 10, or 11",
+     "**Wait.** Fix the time or risk question first. If time is the only issue, check whether a co-host still leaves the deal positive."
+    ],
+    [
+     "Two or more Reds anywhere",
+     "**Wait.** Rescore in six months."
+    ]
+   ],
+   "notes": "Here's what the scorecard tells you to do.\n\nAll Green, or Yellow only on line 1 with a dated plan to fund it: proceed to PA.1. Write the funding condition into your buy box. No offer goes out until the stack is funded.\n\nYellow or Red on lines 3 to 6, the lender lines: improve financing or liquidity first. Get written quotes in PA.6 and PA.7, pay down debt, or save. Rescore in 60 to 90 days.\n\nRed on line 1 or 2, but time, involvement, and risk look fine: use the lease path from Part One. A lease needs far less cash. Alder Street needed $20,370 on day one. Start with lesson 1.3.\n\nRed on line 9, 10, or 11: wait. Fix the time or risk question before money is at stake. If time is the only problem, check whether a co-host still leaves the deal positive.\n\nTwo or more Reds anywhere: wait, and rescore in six months.\n\nNone of these is a failing grade. \"Wait\" and \"lease first\" are real answers that protect your household."
+  },
+  {
+   "type": "table",
+   "ref": "0.3.10",
+   "eyebrow": "Maya and Chris, scored",
+   "assumption": true,
+   "title": "Maya and Chris score three Yellows, so they proceed to PA.1 with conditions",
+   "columns": [
+    "#",
+    "Check",
+    "Score",
+    "Why"
+   ],
+   "rows": [
+    [
+     "1",
+     "Full cash stack",
+     "Yellow",
+     "Gap of $11,644 (DSCR) or $8,172; about 3.3 or 2.3 months of saving"
+    ],
+    [
+     "5",
+     "Lender fit",
+     "Yellow",
+     "Hypothetical quotes only; they need written ones"
+    ],
+    [
+     "10",
+     "Involvement",
+     "Yellow",
+     "Works only if they self-manage (0.2 Case B loses with a co-host)"
+    ],
+    [
+     "7",
+     "Delayed opening",
+     "Green",
+     "$9,771 for 3 months; reserve covers it with $5,571 left"
+    ],
+    [
+     "8",
+     "Weak first season",
+     "Green",
+     "$15,342 covers about 2.8 years of the $5,475 loss"
+    ],
+    [
+     "11",
+     "Risk tolerance",
+     "Green",
+     "Both reviewed the -$27,503 five-year weak case and accept it"
+    ],
+    [
+     "12",
+     "Personal use",
+     "Green",
+     "10 days, below the 21.2-day threshold; CPA to confirm"
+    ]
+   ],
+   "compact": true,
+   "caption": "Also Green: 2 (keep $51,000), 3 ($15,342 planned), 4 (around 740, pending lender), 6 (35.6% illustrative DTI, pending lender), 9 (about 2.7 hours a week), 13 (chose owning for a long hold and personal use).",
+   "notes": "Here's how Maya and Chris scored.\n\nThree Yellows. Line 1, the cash stack: they're $11,644 short on the DSCR quote, or $8,172 on the conventional. That's about 3.3 or 2.3 months of saving. Line 5, lender fit: they only have hypothetical quotes, so they need written ones. Line 10, involvement: the deal only works if they self-manage. Case B in 0.2 lost money with a co-host.\n\nEverything else is Green. The delay is covered with $5,571 left. The reserve covers about 2.8 years of the weak-case loss. Both of them looked at being $27,503 behind after five years in the weak case and said they could accept it. Their personal use is below the threshold, with the CPA to confirm.\n\nSo the outcome is proceed to PA.1, with conditions. Line 1 gets a dated funding plan, about three to four months of saving, which runs while Sam's PA.2 to PA.4 happen. Line 5 gets resolved in PA.6 and PA.7 with written quotes before any offer. And line 10 becomes a hard requirement in their buy box: the deal must work with self-management, and they must name a local backup."
+  },
+  {
+   "type": "table",
+   "ref": "0.3.11",
+   "eyebrow": "Who confirms what",
+   "title": "Your lender, CPA, insurer, and permit office each confirm a line of your stack",
+   "columns": [
+    "Confirm with",
+    "What they confirm"
+   ],
+   "rows": [
+    [
+     "Each lender, in writing",
+     "Reserve months and how they're calculated, minimum credit score, down payment, acceptable sources of funds (HELOC, gifts, retirement), and how rental income is counted"
+    ],
+    [
+     "CPA",
+     "Tax effect of retirement withdrawals, how your hours count for material participation, and how personal-use days are treated"
+    ],
+    [
+     "Insurance agent",
+     "The premium and when it's due, so layer 2 or layer 6 is accurate"
+    ],
+    [
+     "Local permit office",
+     "Fees and processing time, so the launch carrying-cost assumption is realistic"
+    ]
+   ],
+   "notes": "Here's who confirms what for your stack.\n\nEach lender, in writing: the reserve months and how they calculate them, the minimum credit score, and the down payment. Also which sources of funds they accept, like HELOC money, gifts, or retirement assets. And how they count rental income. Ask every lender the same questions so you can compare the answers side by side.\n\nYour CPA: the tax effect of any retirement withdrawal, how your hours count for material participation, and how personal-use days are treated.\n\nYour insurance agent: the premium and when it's due. Depending on timing, it lands in closing costs or in launch carrying costs. Either way, it needs to be a real number.\n\nThe local permit office: the fees and the processing time. That's what tells you whether two months of launch carrying costs is realistic, or whether you need to plan for more.\n\nEvery one of these turns an assumption on your stack into a confirmed number. The more lines you confirm, the more you can trust your scorecard."
+  },
+  {
+   "type": "dothis",
+   "ref": "0.3.9",
+   "title": "Four short tasks produce your own cash stack and a scored readiness page",
+   "items": [
+    "Total your liquid savings, leaving out retirement accounts and home equity.",
+    "Write your essential monthly spending and multiply by the months of emergency savings you'll keep.",
+    "Fill in the eight-layer stack for one realistic price, and write down the surplus or gap.",
+    "Score all 13 lines of the readiness scorecard, with evidence, and pick your outcome."
+   ],
+   "next": "Next: **PA.1, Discovery: Defining Your Buy Box (Market, Property Type, Price Range, Goals).** Lease path? Go to lesson 1.3. Wait? Set a rescore date now.",
+   "notes": "Four tasks, each under an hour.\n\nFirst, total your liquid savings. Leave out retirement accounts. Leave out home equity. That's the number you work with.\n\nSecond, write down your household's essential monthly spending, and decide how many months you'll keep as emergency savings. Multiply. That money is off the table for the house.\n\nThird, fill in the eight-layer stack for one realistic price in the kind of market you're thinking about. Use your own numbers where you have them and mark the rest as assumptions. Write down the surplus or the gap.\n\nFourth, score all 13 lines, with evidence, and read off your outcome.\n\nIf your scorecard says proceed, go to PA.1, Discovery: Defining Your Buy Box. It turns your goals and numbers into a written search specification. Maya and Chris carry their funding condition, their self-management requirement, and their reserve targets straight into it. If it said lease path, go to Part One, lesson 1.3. If it said wait, put a rescore date on your calendar today."
+  },
+  {
+   "type": "sources",
+   "ref": "0.3 sources",
+   "eyebrow": "Sources",
+   "title": "Reserve, HELOC, and tax rules on these slides trace to official pages",
+   "items": [
+    {
+     "title": "Fannie Mae Selling Guide, B3-4.1-01 Minimum Reserve Requirements",
+     "url": "https://selling-guide.fanniemae.com/sel/b3-4.1-01/minimum-reserve-requirements",
+     "note": "reserves in months of PITIA; DU vs. Eligibility Matrix; 2% / 4% / 6% add-on"
+    },
+    {
+     "title": "Fannie Mae Selling Guide, B3-3.8-03 Short-Term Rental income",
+     "url": "https://selling-guide.fanniemae.com/sel/b3-3.8-03/rental-income-subject-property-short-term-rental",
+     "note": "section in the September 2026 rental income chapter"
+    },
+    {
+     "title": "Kiavi, The Complete Guide to DSCR Rental Property Loans",
+     "url": "https://www.kiavi.com/the-complete-guide-to-dscr-rental-property-loans",
+     "note": "one lender weighs credit and down payment too"
+    },
+    {
+     "title": "CFPB, What is a HELOC?",
+     "url": "https://www.consumerfinance.gov/ask-cfpb/what-is-a-home-equity-line-of-credit-heloc-en-107/",
+     "note": "variable rate; your home is the collateral"
+    },
+    {
+     "title": "IRS Publication 925",
+     "url": "https://www.irs.gov/publications/p925",
+     "note": "participation tests compare your hours with others'"
+    },
+    {
+     "title": "IRS Publication 527",
+     "url": "https://www.irs.gov/publications/p527",
+     "note": "14-day or 10% personal-use threshold; split expenses by days"
+    }
+   ],
+   "text": "Cedar Ridge and Alder Street figures come from the course example file (all assumptions). New assumptions here: 6-month reserve rule, $8,500 spending, $4,000 repairs, $1,500 inspections, $600 permits, 2 launch months, $3,500 saving, $2,400 and $600 debts, hours per stay.",
+   "notes": "Here are the sources.\n\nFannie Mae's Selling Guide section B3-4.1-01 backs the reserve points: months of PITIA, Desktop Underwriter versus the Eligibility Matrix, no minimum for a principal residence, and the 2, 4, and 6% add-ons. One honest note: the exact month count for an investment property wasn't shown in what I could check. That's why the 6 months on these slides is an assumption.\n\nSection B3-3.8-03 is the short-term rental income section in the September 2026 update. Kiavi's DSCR guide backs the point that one lender looks at credit and down payment too. That's one lender, not a standard.\n\nThe CFPB page backs the HELOC points: variable rate, and your home as collateral.\n\nIRS Publications 925 and 527 back the participation and personal-use points.\n\nEvery Cedar Ridge figure is an assumption from the course file. The new ones listed on the slide are assumptions too. Replace each one with your own number as soon as you have it."
+  }
+ ]
+}

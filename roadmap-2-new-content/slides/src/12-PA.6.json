@@ -1,0 +1,701 @@
+{
+  "nn": 12,
+  "code": "PA.6",
+  "title": "DSCR Loans 101: How They Qualify the Property, Not You",
+  "short": "DSCR Loans 101",
+  "section": "Part Two · Phase 1 - Property Acquisition",
+  "slides": [
+    {
+      "type": "cover",
+      "kicker": "Phase 1 · Property Acquisition",
+      "title": "A DSCR ratio tells you if the lender will lend. It doesn't tell you if you'll make money.",
+      "subtitle": "Lesson PA.6. DSCR Loans 101: How They Qualify the Property, Not You",
+      "meta": [
+        [
+          "Teacher",
+          "Preston"
+        ],
+        [
+          "Example",
+          "Cedar Ridge house (hypothetical)"
+        ],
+        [
+          "Use",
+          "Education only. Not legal, tax, or lending advice."
+        ]
+      ],
+      "ref": "PA.6.0",
+      "notes": "This lesson is about reading a DSCR loan quote the way the lender reads it.\n\nBy the end you'll know which income the lender puts on top of the ratio and which payment goes underneath. You'll see why a ratio well above 1.0 can still leave you losing money every month. And you'll leave with two tools for this week. One is a written question list for two lenders. The other is a table for comparing their written offers on the same house.\n\nWe'll use Cedar Ridge the whole way through. Maya and Chris are buying it for $385,000 with 25% down. Every number you see on Cedar Ridge is an assumption from our canonical example. Every lender page I quote is one lender's terms, not a rule for the industry. Your job is to get your own quote in writing."
+    },
+    {
+      "type": "bullets",
+      "eyebrow": "What the title leaves out",
+      "title": "A DSCR lender swaps your pay stubs for the property's income, but it still checks you",
+      "text": "Expect some mix of these checks:",
+      "items": [
+        "Your credit score and credit history",
+        "How much cash you put in (the loan-to-value, or LTV)",
+        "Your reserves after closing, if that lender requires them",
+        "The property type, condition, and appraisal",
+        "Whether short-term rental use is legal at that address",
+        "The entity on title, and who signs a personal guarantee"
+      ],
+      "ref": "PA.6.1",
+      "notes": "The tracker calls this lesson \"How They Qualify the Property, Not You.\" That's shorthand. It points at the main difference from a regular mortgage. A DSCR lender sizes the loan mostly on the property's rental income, not your pay stubs.\n\nBut the lender still looks at you. Kiavi's own guide to DSCR rental loans says it considers the borrower's credit score, the down payment available, and the property's coverage ratio. So expect the list on this slide.\n\nHere's the fair way to say it. The property's income replaces your W-2 income in the math. It doesn't mean nobody asks about you.\n\nOne more thing. Kiavi's terms are one lender's terms. Other lenders publish different minimums, and the same lender can change its terms. I use Kiavi's pages as examples because they're public. Treat them that way, then get your own written quote."
+    },
+    {
+      "type": "flow",
+      "eyebrow": "The ratio",
+      "title": "The lender makes three choices, and each one moves the ratio",
+      "keyline": "DSCR is how many dollars of property income the lender counts for every dollar of loan payment.",
+      "nodes": [
+        {
+          "k": "Choice 1",
+          "h": "Which income",
+          "d": "Gross bookings, a discounted version, appraiser's market rent, or NOI"
+        },
+        {
+          "k": "Choice 2",
+          "h": "Whose estimate",
+          "d": "Your pro forma, the appraiser, a data report, or booking history"
+        },
+        {
+          "k": "Choice 3",
+          "h": "Which payment",
+          "d": "Principal and interest only, or full PITIA"
+        },
+        {
+          "k": "Result",
+          "h": "Their ratio",
+          "d": "Compare it to their minimum, in writing",
+          "kind": "go"
+        }
+      ],
+      "box": {
+        "kind": "gold",
+        "label": "One lender's example",
+        "text": "Kiavi's guide says a ratio of at least 1.1 is needed to prequalify and calls 1.25 or higher strong. Your lender's minimum may differ."
+      },
+      "ref": "PA.6.2",
+      "notes": "DSCR stands for debt service coverage ratio. In plain words, it's how many dollars of property income the lender counts for every dollar of loan payment.\n\nThe top number is some version of income. The bottom number is some version of the payment. Kiavi describes a common version: gross rent divided by PITIA. PITIA is principal, interest, property taxes, insurance, and any HOA dues. Kiavi's material also says lenders calculate it with different inputs. Some use gross rent, some use a vacancy-adjusted figure, and some put flood insurance in the payment while others leave it out.\n\nThat flexibility is the whole problem. The same house can produce very different ratios depending on these three choices.\n\nSo before you compare any two quotes, ask each lender for its definition in writing. Pricing often changes with the ratio too, so the definition can move your rate, not just your approval."
+    },
+    {
+      "type": "calc",
+      "eyebrow": "Cedar Ridge · the payment underneath",
+      "title": "Cedar Ridge's payment underneath the ratio is $2,557 a month, or $30,684 a year",
+      "assumption": true,
+      "lines": [
+        {
+          "op": "",
+          "label": "Loan: $385,000 price with 25% down",
+          "v": "$288,750"
+        },
+        {
+          "op": "",
+          "label": "Monthly principal and interest (7.25%, 30 years)",
+          "v": "$1,970"
+        },
+        {
+          "op": "+",
+          "label": "Property tax $3,850 + STR insurance $3,200 a year, monthly",
+          "v": "$587.50"
+        },
+        {
+          "op": "=",
+          "label": "Monthly PITIA",
+          "v": "$2,557"
+        }
+      ],
+      "result": {
+        "label": "Annual PITIA",
+        "v": "$30,684"
+      },
+      "side": "The hypothetical DSCR quote is 7.25%, 1 point, 30-year fixed.\n\nNo HOA dues on Cedar Ridge, so PITIA here is principal, interest, tax, and insurance.",
+      "ref": "PA.6.3",
+      "notes": "Let's put real numbers under the ratio. Maya and Chris are buying Cedar Ridge for $385,000 with 25% down. The hypothetical DSCR quote is 7.25%, 1 point, 30-year fixed. All of these are assumptions from the canonical Cedar Ridge example.\n\nThe loan is $288,750. Monthly principal and interest comes to $1,970. Property tax is $3,850 a year and STR insurance is $3,200 a year. Together they add $587.50 a month.\n\nThat makes monthly PITIA $2,557, or $30,684 a year.\n\nHold on to that $30,684. It's the bottom of the ratio for all three versions on the next slide. The only thing that changes is what the lender puts on top."
+    },
+    {
+      "type": "bars",
+      "eyebrow": "Cedar Ridge · three ratios",
+      "title": "The same house scores 2.42, 1.94, or 1.18, depending on the lender's definition",
+      "assumption": true,
+      "items": [
+        {
+          "label": "Gross revenue / PITIA: $74,275 / $30,684",
+          "value": 2.42,
+          "kind": "pos",
+          "display": "2.42"
+        },
+        {
+          "label": "Gross x 80% / PITIA: $59,420 / $30,684",
+          "value": 1.94,
+          "kind": "pos",
+          "display": "1.94"
+        },
+        {
+          "label": "NOI before tax and insurance / PITIA: $36,259 / $30,684",
+          "value": 1.18,
+          "kind": "pos",
+          "hot": true,
+          "display": "1.18"
+        }
+      ],
+      "caption": "Base case: 212 booked nights at a $300 ADR, plus cleaning fees. The 20% haircut is an assumption, not any lender's published rule. NOI of $29,209 plus $3,850 tax and $3,200 insurance = $36,259, so they aren't counted twice.",
+      "ref": "PA.6.3",
+      "notes": "Now three different incomes on top of the same $30,684.\n\nRatio 1 uses gross booking revenue. Base-case gross is $74,275: 212 booked nights at a $300 ADR, plus cleaning fees. Divide by $30,684 and you get 2.42.\n\nRatio 2 haircuts that revenue by 20%. Some lenders discount projected STR income. The 20% here is my assumption, not any lender's rule. That gives $59,420, and a ratio of 1.94.\n\nRatio 3 uses net operating income, which is revenue after operating costs. Base-case NOI is $29,209, and tax and insurance are already taken out of it. So I add them back, or they'd be counted twice. That's $36,259, and a ratio of 1.18.\n\nSame house, same loan, same year. The ratio runs from 1.18 to 2.42. The lender's written definition decides which one counts."
+    },
+    {
+      "type": "table",
+      "eyebrow": "Cedar Ridge · weak case",
+      "title": "In the weak case, the NOI-based ratio falls to 0.82, under the payment",
+      "assumption": true,
+      "text": "The weak case drops ADR to $265 and occupancy to 50%. Gross revenue falls to $57,330 and NOI to $18,162.",
+      "columns": [
+        "Definition",
+        "Base case",
+        "Weak case"
+      ],
+      "rows": [
+        [
+          "Gross revenue / PITIA",
+          "2.42",
+          "1.87"
+        ],
+        [
+          "Gross revenue x 80% / PITIA",
+          "1.94",
+          "1.49"
+        ],
+        [
+          "NOI before tax and insurance / PITIA",
+          "1.18",
+          "0.82"
+        ]
+      ],
+      "caption": "All figures are assumptions from the Cedar Ridge example, computed from the canonical inputs.",
+      "ref": "PA.6.3",
+      "notes": "Now run the weak case. The canonical weak case drops ADR to $265 and occupancy to 50%. Gross revenue falls to $57,330, and NOI falls to $18,162.\n\nLook at the spread. On the gross definition, the weak case still shows 1.87. On the haircut version, 1.49. On the NOI version, 0.82. That last one means the income the lender counts doesn't even cover the payment.\n\nThree lenders could look at the same weak year and reach three different answers. One would say this loan is strong. One would say it fails.\n\nThat's why I keep saying: get the definition in writing. And it's why the next slide matters. A high number on the gross definition can hide a real problem for you as the owner.",
+      "box": {
+        "kind": "warn",
+        "label": "Read the 0.82",
+        "text": "On the NOI definition, the income this lender counts doesn't cover the payment in a weak year. A gross-based lender would still call it 1.87."
+      }
+    },
+    {
+      "type": "calc",
+      "eyebrow": "Why above 1.0 isn't profit",
+      "title": "A lender ratio of 1.87 can sit right next to a $456-a-month loss",
+      "assumption": true,
+      "lines": [
+        {
+          "op": "",
+          "label": "Weak-case NOI (tax and insurance already inside)",
+          "v": "$18,162"
+        },
+        {
+          "op": "-",
+          "label": "Annual principal and interest, DSCR loan",
+          "v": "$23,637"
+        }
+      ],
+      "result": {
+        "label": "Weak-case cash flow",
+        "v": "-$5,475 a year"
+      },
+      "side": "That's about -$456 a month. The gross ratio never sees Cedar Ridge's $45,066 of base-case operating costs on $74,275 of revenue.",
+      "side_box": {
+        "kind": "info",
+        "label": "Even the base case is thin",
+        "text": "$29,209 - $23,637 = $5,572 a year, about $464 a month, before any lender reserves."
+      },
+      "ref": "PA.6.4",
+      "notes": "Look at the weak case on the gross definition: 1.87. That sounds comfortable. It says the house brings in almost twice its loan payment.\n\nHere's what Maya and Chris actually keep. Weak-case NOI is $18,162. Annual principal and interest on the DSCR loan is $23,637. NOI already covers tax and insurance, so cash flow is NOI minus principal and interest. That's minus $5,475 a year, about minus $456 a month.\n\nA lender ratio of 1.87 and an owner losing $456 a month. Both are true at once.\n\nThe reason is simple. A gross ratio ignores the platform fee, the cleaner, utilities, supplies, software, repairs, and the capital reserve. An STR carries far more operating cost than a long-term rental where the tenant pays utilities. On Cedar Ridge, base-case operating costs are $45,066. The gross ratio never sees them.\n\nAnd even the base case is thin: $5,572 a year, about $464 a month."
+    },
+    {
+      "type": "two",
+      "eyebrow": "Two questions, two tools",
+      "title": "Use the lender's ratio to ask if they'll lend, and your own cash flow to ask if you should buy",
+      "left": {
+        "head": "The lender's ratio",
+        "note": "Question: will this lender make this loan at this size?",
+        "items": [
+          "Their income definition",
+          "Their payment definition",
+          "Their minimum ratio",
+          "Protects the loan, not your return"
+        ]
+      },
+      "right": {
+        "head": "Your NOI and cash flow",
+        "note": "Question: should you buy this house?",
+        "items": [
+          "Every operating cost, line by line",
+          "Base case and weak case",
+          "NOI minus principal and interest",
+          "Built in Sam's PA.4 lesson"
+        ]
+      },
+      "ref": "PA.6.4",
+      "notes": "So keep two tools for two questions.\n\nThe lender's ratio answers one question only: will this lender make this loan at this size? It's built to protect the loan. It isn't built to protect your return.\n\nYour own NOI and cash flow answer the other question: should you buy this house? That's where every operating cost shows up, in both the base case and the weak case.\n\nSam's PA.4 lesson, Reading a Full Underwriting Package, builds that NOI line by line. I'm not going to re-teach it here. What I want you to bring back from PA.4 is his operating-cost total and your base and weak NOI. Bring those to every lender conversation. When the lender's ratio passes and your weak-case cash flow is negative, you'll see it on one page instead of finding out after closing."
+    },
+    {
+      "type": "calc",
+      "eyebrow": "Definition sets loan size",
+      "title": "An NOI-based 1.20 minimum would shrink Cedar Ridge's loan to about $282,989",
+      "assumption": true,
+      "lines": [
+        {
+          "op": "",
+          "label": "NOI before tax and insurance",
+          "v": "$36,259"
+        },
+        {
+          "op": "÷",
+          "label": "Minimum ratio 1.20 (assumption) = most PITIA allowed",
+          "v": "$30,216"
+        },
+        {
+          "op": "-",
+          "label": "Tax and insurance",
+          "v": "$7,050"
+        },
+        {
+          "op": "=",
+          "label": "Most P&I allowed (then 7.25%, 30 years)",
+          "v": "$23,166"
+        }
+      ],
+      "result": {
+        "label": "Loan it supports",
+        "v": "about $282,989"
+      },
+      "side": "Maya and Chris asked for $288,750. This lender would cut about $5,761, and they'd bring that much more cash to closing.",
+      "side_box": {
+        "kind": "gold",
+        "label": "Ask for this",
+        "text": "The maximum loan each lender's definition supports on your numbers, not just the rate."
+      },
+      "ref": "PA.6.5",
+      "notes": "The definition does more than pass or fail you. It can shrink the loan.\n\nSay a lender uses the NOI-based definition and requires a minimum of 1.20. That minimum is my assumption. The most PITIA it will accept is $36,259 divided by 1.20, which is $30,216 a year. Take out $7,050 of tax and insurance. The most principal and interest it allows is $23,166 a year. At 7.25% over 30 years, that supports a loan of about $282,989.\n\nMaya and Chris asked for $288,750. This lender would cut the loan by about $5,761. They'd bring that much more cash to closing.\n\nNow flip it. Under the 80% gross definition with a 1.25 minimum, also an assumption, the same house supports a loan well above what they asked for. There, the limit that binds is the lender's maximum LTV, not the ratio.\n\nSo ask each lender for the maximum loan its definition supports on your numbers."
+    },
+    {
+      "type": "bullets",
+      "eyebrow": "No booking history",
+      "title": "With no booking history, the lender picks the income source, and it will lean low",
+      "items": [
+        "Appraiser's market rent: Kiavi uses the lower of 110% of appraised market rent or lease rent. Ask how that works with no lease.",
+        "STR revenue: Kiavi finances STRs in some markets on nightly revenue. The page didn't say which data or haircut. Ask.",
+        "Third-party estimates: ask which provider, which comparable set, and whether they discount it.",
+        "Actual history: 12 or 24 months of statements or returns. The seller's history may not fit your pricing or costs."
+      ],
+      "box": {
+        "kind": "gold",
+        "label": "Confirm with",
+        "text": "Each lender, in writing: income source for a no-history STR purchase, any haircut, and whether the appraiser must be STR-experienced."
+      },
+      "ref": "PA.6.6",
+      "notes": "Cedar Ridge has no booking history under Maya and Chris. Neither will most houses you buy to convert. So where does the lender's income number come from?\n\nEach lender picks its own source. Kiavi's rental loan page says the qualifying rent is the lower of 110% of appraised market rent or a valid lease rent. That structure fits a long-term lease, so ask how it applies to nightly bookings. Kiavi also publishes that it finances STRs in some markets and lets borrowers qualify on nightly revenue. The page I could confirm doesn't say which data source or haircut it applies.\n\nSome lenders accept a report from an STR data provider. On an existing STR, a lender may want 12 or 24 months of statements.\n\nThe lender's number will rarely match your pro forma. It shouldn't. When the lender's income is lower than yours, don't argue the loan up. Ask whether your pro forma is the one that's too high."
+    },
+    {
+      "type": "table",
+      "eyebrow": "Beyond the rate",
+      "title": "Six terms beyond the rate decide what the loan costs and how much room you keep",
+      "assumption": true,
+      "compact": true,
+      "columns": [
+        "Term",
+        "What to know",
+        "Cedar Ridge"
+      ],
+      "rows": [
+        [
+          "**Down payment and LTV**",
+          "Kiavi: often 20% to 25%. Max LTV can drop for lower credit, ratio, or STR use.",
+          "25% = $96,250"
+        ],
+        [
+          "**Rate and points**",
+          "A point is 1% of the loan, paid upfront to lower the rate (CFPB).",
+          "1 point = $2,888; closing costs $11,550 to $14,438"
+        ],
+        [
+          "**Prepayment penalty**",
+          "Fee to pay off early, including a refinance or sale. Often a step-down.",
+          "3-2-1 example"
+        ],
+        [
+          "**Reserves**",
+          "Months of PITIA left in the bank. Kiavi's site describes none; others require them.",
+          "6 months = $15,342"
+        ],
+        [
+          "**Entity and guarantor**",
+          "Many allow an LLC. Owners may sign a personal guarantee.",
+          "Ask who signs"
+        ],
+        [
+          "**Permit and property**",
+          "May need proof of STR permit. Some exclude condos, acreage, odd types.",
+          "Bring SR.1 checklist"
+        ]
+      ],
+      "ref": "PA.6.7",
+      "notes": "The rate gets all the attention. These six terms decide what the loan actually costs and how much room you have later.\n\nDown payment: Kiavi's guide says DSCR loans often need 20% to 25%. Cedar Ridge assumes 25%, which is $96,250.\n\nPoints: the CFPB explains that points cost more upfront and less over time, and lender credits do the reverse. One point on Cedar Ridge is $2,888. Closing costs rise from $11,550 to $14,438.\n\nPrepayment penalty: many DSCR loans charge a fee if you pay off early. Kiavi publishes 3-, 5-, and 7-year step-down options. Other lenders use flat percentages or none at a higher rate. Next slide shows why this matters.\n\nReserves: search results from Kiavi's site describe no cash reserve requirement. Others require them. Six months on Cedar Ridge is $15,342, as an assumption.\n\nEntity: PA.10 covers that decision. Permit: bring your SR.1 compliance checklist to the first call."
+    },
+    {
+      "type": "calc",
+      "eyebrow": "Prepayment penalty",
+      "title": "A year-two refinance under a 3-2-1 penalty gives up $5,659 of the cash-out",
+      "assumption": true,
+      "lines": [
+        {
+          "op": "",
+          "label": "DSCR balance at the month-24 refinance",
+          "v": "$282,951"
+        },
+        {
+          "op": "x",
+          "label": "Year-two penalty on a 3-2-1 schedule",
+          "v": "2%"
+        },
+        {
+          "op": "=",
+          "label": "Penalty",
+          "v": "$5,659"
+        },
+        {
+          "op": "",
+          "label": "Canonical refinance cash out",
+          "v": "$15,725"
+        }
+      ],
+      "result": {
+        "label": "Cash out after the penalty",
+        "v": "$10,066"
+      },
+      "side": "3-2-1 means 3% of the balance in year one, 2% in year two, 1% in year three, then nothing. It's an example, not a standard.\n\nWait one more month, into year three, and the penalty falls to 1%.",
+      "side_box": {
+        "kind": "warn",
+        "label": "Ask",
+        "text": "State law and loan type can limit prepayment penalties. Ask how the penalty applies in your state."
+      },
+      "ref": "PA.6.7",
+      "notes": "Here's why the prepayment penalty matters for Cedar Ridge. The canonical example refinances at the end of year 2. The DSCR balance then is $282,951.\n\nTake a 3-2-1 structure as the example. That's 3% of the balance in year one, 2% in year two, 1% in year three, then nothing. It's one common shape, not a standard.\n\nA payoff in month 24 is still in year two. So the penalty is 2% of $282,951, which is $5,659.\n\nThe canonical refinance shows $15,725 of cash out. Subtract the penalty and it drops to $10,066. Wait one more month, into year three, and the penalty falls to 1%.\n\nThat's a big swing for a one-month timing choice. State law and loan type can also limit these penalties. Ask the lender how its penalty applies in your state, and write the schedule down by year."
+    },
+    {
+      "type": "table",
+      "eyebrow": "Maya and Chris's cash",
+      "title": "After the DSCR loan and reserves, Maya and Chris keep $51,970 for everything else",
+      "assumption": true,
+      "columns": [
+        "Line",
+        "Amount"
+      ],
+      "rows": [
+        [
+          "Down payment (25%)",
+          "$96,250"
+        ],
+        [
+          "Closing costs incl. 1 point",
+          "$14,438"
+        ],
+        [
+          "Cash to close",
+          "$110,688"
+        ],
+        [
+          "Furnishing budget",
+          "$32,000"
+        ],
+        [
+          "Total cash in",
+          "$142,688"
+        ],
+        [
+          "Lender reserves, 6 months PITIA (assumption)",
+          "$15,342"
+        ],
+        [
+          "Savings left from $210,000",
+          "$51,970"
+        ]
+      ],
+      "total_last": true,
+      "caption": "$210,000 - $142,688 - $15,342 = $51,970. That still has to cover their personal emergency fund and a weak first season.",
+      "ref": "PA.6.8",
+      "notes": "Now put these terms against the buyers' actual cash. Maya and Chris have $210,000 in liquid savings. That's canonical.\n\nDown payment is $96,250. Closing costs with the one point are $14,438. So cash to close is $110,688. Add the $32,000 furnishing budget and total cash in is $142,688.\n\nIf the lender wants six months of PITIA in reserves, that's $15,342. That number is an assumption. Lesson 0.3 covered why reserves sit on top of your cash to close, not inside it.\n\nWhat's left is $51,970. That sounds like a lot until you list what it has to cover. Their personal emergency fund. A weak first season. Remember the weak case loses $5,475 a year.\n\nPA.8 takes this exact table and turns it into their offer ceiling. So keep it."
+    },
+    {
+      "type": "checklist",
+      "eyebrow": "Exercise · question list",
+      "title": "Send the same 12 written questions to two lenders, on the same house, on the same day",
+      "cols2": true,
+      "items": [
+        "Exact DSCR formula: income on top, payment underneath?",
+        "Income source for a no-history STR? Any discount?",
+        "Minimum ratio? Does rate or max LTV change with it?",
+        "Maximum loan on this address with my numbers?",
+        "My credit tier, and how it changes rate or LTV?",
+        "Rate, points, all fees, as a written quote?",
+        "Prepayment penalty schedule by year?",
+        "Months of reserves, and which accounts count?",
+        "Can I close in an LLC? Who signs a guarantee?",
+        "What proof of legal STR use or permit, and when?",
+        "Must the appraiser know STRs? Who orders the report?",
+        "Rate lock length, and the cost to extend?"
+      ],
+      "ref": "PA.6.9",
+      "notes": "This is the first tool you take away. Send these same questions, in writing, to at least two lenders. Same house. Same day if you can.\n\nWhy the same day? Rates change daily. Quotes from different days can differ for reasons that have nothing to do with the lender.\n\nThe first four questions are the ones people skip. The formula. The income source. The minimum ratio. The maximum loan on your numbers. Those four decide whether the loan even happens at the size you need.\n\nThe rest decide the cost and the strings. Points and fees. The prepayment schedule, by year. Reserves. The LLC and who guarantees. What proof of legal STR use they need, and when. Whether the appraiser needs STR experience. And how long the rate lock lasts.\n\nIf a lender won't answer in writing, that's an answer too."
+    },
+    {
+      "type": "table",
+      "eyebrow": "Comparing two offers",
+      "title": "Lender B's lower maximum loan would leave Maya and Chris about $12,654 short",
+      "assumption": true,
+      "compact": true,
+      "columns": [
+        "Term",
+        "Lender A (canonical)",
+        "Lender B (assumption)"
+      ],
+      "rows": [
+        [
+          "Rate",
+          "7.25%",
+          "7.50%"
+        ],
+        [
+          "Points",
+          "1.0",
+          "0.0"
+        ],
+        [
+          "DSCR definition",
+          "Gross / PITIA",
+          "NOI-based / PITIA"
+        ],
+        [
+          "Minimum ratio",
+          "ask",
+          "1.20"
+        ],
+        [
+          "Max loan on Cedar Ridge",
+          "$288,750",
+          "about $276,096"
+        ],
+        [
+          "Prepayment",
+          "ask",
+          "3-2-1"
+        ],
+        [
+          "Reserves",
+          "ask",
+          "6 months PITIA"
+        ],
+        [
+          "Guarantee required",
+          "ask",
+          "yes"
+        ]
+      ],
+      "caption": "Lender B is invented for this exercise. Its max loan uses the PA.6.5 NOI method: $23,166 a year of P&I at 7.50% over 30 years supports about $276,096.",
+      "ref": "PA.6.10",
+      "notes": "Put the two written answers side by side. Lender A is our canonical DSCR quote. Lender B is invented for this exercise, so every Lender B number is an assumption.\n\nLender B looks cheaper upfront. No points. But it uses the NOI-based definition with a 1.20 minimum. That's the method from a few slides back. It allows at most $23,166 a year of principal and interest. At 7.50% over 30 years, that supports about $276,096.\n\nMaya and Chris need $288,750. So Lender B's loan is about $12,654 short. They'd have to bring that much more cash.\n\nNotice the \"ask\" cells in Lender A's column. That's what a real comparison looks like at first. You don't know yet. Fill every blank before you decide."
+    },
+    {
+      "type": "flow",
+      "eyebrow": "Reading the offers",
+      "title": "Read two offers in order: loan size, then upfront cost, then exit cost, then rate",
+      "nodes": [
+        {
+          "k": "1",
+          "h": "Loan size",
+          "d": "Does it lend what you need at the size you need?"
+        },
+        {
+          "k": "2",
+          "h": "Upfront cost",
+          "d": "Points and every lender fee, in dollars"
+        },
+        {
+          "k": "3",
+          "h": "Exit cost",
+          "d": "What leaving early costs, by year"
+        },
+        {
+          "k": "4",
+          "h": "Rate",
+          "d": "Only after the first three",
+          "kind": "go"
+        }
+      ],
+      "box": {
+        "kind": "info",
+        "label": "Term sheet, not a Loan Estimate",
+        "text": "Federal rules treat credit to buy a rental you won't live in as business-purpose credit (Regulation Z, § 1026.3). A DSCR lender may send a term sheet instead. Ask for every fee in writing either way."
+      },
+      "ref": "PA.6.10",
+      "notes": "Read the comparison table in this order.\n\nFirst, does the lender make the loan you need at the size you need? Lender B fails that step by about $12,654.\n\nSecond, what's the full upfront cost, including points and fees?\n\nThird, what does it cost you to leave early? A lower rate with a 5-year prepayment penalty may cost more than a higher rate if you plan the year-two refinance we'll cover in OP.11.\n\nRate comes last.\n\nThe CFPB's guide to comparing loan offers tells borrowers to request several Loan Estimates and focus on the fees that vary by lender. One catch for DSCR loans. Federal rules treat credit to buy a rental you won't live in as business-purpose credit. So a DSCR lender may give you a term sheet instead of a Loan Estimate. Ask for every fee in writing either way, in the same layout, so you can compare line by line."
+    },
+    {
+      "type": "worksheet",
+      "eyebrow": "Exercise · worksheet",
+      "title": "Your worksheet puts the lender's ratio and your weak-case cash flow on one page",
+      "compact": true,
+      "columns": [
+        "Line",
+        "Your number",
+        "Lender 1",
+        "Lender 2"
+      ],
+      "rows": [
+        [
+          "Loan amount requested / annual PITIA",
+          "",
+          "",
+          ""
+        ],
+        [
+          "Lender's income figure (and source)",
+          "",
+          "",
+          ""
+        ],
+        [
+          "Lender's DSCR (their formula), minimum, max loan",
+          "",
+          "",
+          ""
+        ],
+        [
+          "Your base-case and weak-case NOI (PA.4)",
+          "",
+          "",
+          ""
+        ],
+        [
+          "Your cash flow, base and weak (NOI minus P&I)",
+          "",
+          "",
+          ""
+        ],
+        [
+          "Points, lender fees, reserves ($)",
+          "",
+          "",
+          ""
+        ],
+        [
+          "Prepayment schedule / guarantee / permit proof",
+          "",
+          "",
+          ""
+        ]
+      ],
+      "box": {
+        "kind": "warn",
+        "label": "Decision rule",
+        "text": "Ratio passes but weak-case cash flow is negative? Write how you'll cover the shortfall and for how long. If you can't, you're not ready for PA.8."
+      },
+      "ref": "PA.6.11",
+      "notes": "Here's the worksheet. The full version in the lesson has 19 lines. This slide groups them so you can see the shape.\n\nFill it in for your own property with each lender's written answers. Use Sam's PA.4 package for your revenue and operating-cost lines. Add the date of each quote and the rate lock length, because they expire.\n\nThe point of this page is that the lender's view and your view sit side by side. The lender's ratio in one row. Your weak-case cash flow a few rows down.\n\nThen apply the decision rule. If the lender's ratio passes but your weak-case cash flow is negative, write down how you'll cover the shortfall and for how long. On Cedar Ridge that's $5,475 a year in the weak case. If you can't answer that question, you're not ready to make the offer in PA.8."
+    },
+    {
+      "type": "table",
+      "eyebrow": "Who confirms what",
+      "title": "Get the loan terms in writing from lenders, and the legal and tax pieces from pros",
+      "columns": [
+        "Who",
+        "What they confirm"
+      ],
+      "rows": [
+        [
+          "**Each lender**",
+          "DSCR formula, income source for a no-history STR, minimum ratio, maximum loan, points, fees, reserves, prepayment schedule. In writing and dated."
+        ],
+        [
+          "**Lender and your attorney**",
+          "Whether a prepayment penalty is enforceable in your state, and how it applies to a refinance or sale."
+        ],
+        [
+          "**Your attorney**",
+          "What a personal guarantee commits you to, and whether title must sit in the LLC at closing."
+        ],
+        [
+          "**Local licensing office**",
+          "That STR use and any permit the lender asks for are available at this exact address (SR.1)."
+        ],
+        [
+          "**Your CPA**",
+          "How points and loan costs are treated for tax purposes on a rental."
+        ]
+      ],
+      "ref": "PA.6.12",
+      "notes": "Here's who confirms what.\n\nEach lender confirms its own terms. The formula, the income source for a house with no history, the minimum ratio, the maximum loan, points, fees, reserves, and the prepayment schedule. All in writing, and dated.\n\nThe lender and your attorney together confirm whether a prepayment penalty is enforceable in your state. They also confirm how it applies to a refinance or a sale.\n\nYour attorney confirms what a personal guarantee commits you to. That's personal liability if the LLC defaults, so read it before you sign it. The attorney also confirms whether title must be in the LLC at closing.\n\nThe local licensing office confirms that STR use and the permit are available at this exact address. Use your SR.1 checklist.\n\nYour CPA confirms how points and loan costs are treated for tax on a rental. I'm not giving tax advice here."
+    },
+    {
+      "type": "dothis",
+      "title": "Price one DSCR loan this week, in writing, from two lenders",
+      "items": [
+        "Pull your base-case and weak-case NOI from your PA.4 underwriting package.",
+        "Email the 12 questions to two DSCR lenders on the same day, for the same address.",
+        "Fill in the worksheet with each lender's formula, maximum loan, points, fees, and prepayment schedule.",
+        "Compute your weak-case cash flow and write one line on how you'd cover it and for how long."
+      ],
+      "next": "Next: PA.7 DSCR vs. Conventional Financing: Which Path Fits Your Deal. Bring your filled worksheet.",
+      "ref": "PA.6.13",
+      "notes": "Four things this week. Each should take under an hour.\n\nFirst, pull your base-case and weak-case NOI from your PA.4 package. You need both before you talk to anyone.\n\nSecond, send the 12 questions to two DSCR lenders. Same day. Same address.\n\nThird, fill in the worksheet as the answers come back. Formula, maximum loan, points, fees, prepayment schedule.\n\nFourth, compute your weak-case cash flow and write one line on how you'd cover it and for how long.\n\nYou now have one financing path priced out. PA.7 puts that DSCR quote next to a conventional quote on the same house and the same buyers. Bring your filled worksheet. The conventional side will ask for your income documents, not just the property's, so start gathering those too."
+    },
+    {
+      "type": "sources",
+      "title": "Every lender term here is one lender's published example, checked on 2026-09-25",
+      "items": [
+        {
+          "title": "Kiavi: The Complete Guide to DSCR Rental Property Loans",
+          "url": "https://www.kiavi.com/the-complete-guide-to-dscr-rental-property-loans",
+          "note": "credit, down payment, and DSCR considered; gross rent / PITIA with lender variation; 1.1 to prequalify; 20% to 25% down"
+        },
+        {
+          "title": "Kiavi: Rental Property Loans",
+          "url": "https://www.kiavi.com/loans/rental",
+          "note": "qualifying rent is the lower of 110% of appraised market rent or lease rent; appraisal required"
+        },
+        {
+          "title": "Kiavi: DSCR Loans for Real Estate Investors",
+          "url": "https://www.kiavi.com/loans/dscr",
+          "note": "LLC borrowing; no cash reserve requirement (per search summaries)"
+        },
+        {
+          "title": "Kiavi: Arizona DSCR loan programs",
+          "url": "https://www.kiavi.com/arizona-dscr-loan-programs",
+          "note": "STRs financed in some markets on nightly revenue"
+        },
+        {
+          "title": "Kiavi: Rental Loans for Real Estate Investors",
+          "url": "https://www.kiavi.com/rental-loans-for-investors",
+          "note": "3-, 5-, and 7-year step-down prepayment options"
+        },
+        {
+          "title": "CFPB: points and lender credits",
+          "url": "https://www.consumerfinance.gov/ask-cfpb/how-should-i-use-lender-credits-and-points-also-called-discount-points-en-136/",
+          "note": "what a point is and the trade-off"
+        },
+        {
+          "title": "CFPB: Compare and negotiate your loan offers",
+          "url": "https://www.consumerfinance.gov/owning-a-home/compare/compare-loan-estimates/",
+          "note": "request several Loan Estimates; rates change daily"
+        },
+        {
+          "title": "CFPB: Regulation Z commentary, § 1026.3",
+          "url": "https://www.consumerfinance.gov/rules-policy/regulations/1026/interp-3/",
+          "note": "non-owner-occupied rental credit is business purpose"
+        }
+      ],
+      "ref": "PA.6 sources",
+      "notes": "Here are the sources behind this lesson.\n\nMost of the lender terms come from Kiavi's public pages. I used Kiavi because its pages are public, not because it's the only choice or the best one. Every Kiavi term here is one lender's terms, and lenders change their terms. The reserve and LLC points came from search summaries of Kiavi's site. The lesson's source log flags that they weren't tied to one exact page.\n\nThe CFPB pages cover what a point is, how to compare loan offers, and the Regulation Z commentary on business-purpose credit. That last one explains why a DSCR lender may hand you a term sheet instead of a Loan Estimate.\n\nThe Cedar Ridge numbers all come from our canonical example file. They're assumptions for teaching. They are not a quote anyone gave Maya and Chris.\n\nEverything was checked on September 25, 2026."
+    }
+  ]
+}

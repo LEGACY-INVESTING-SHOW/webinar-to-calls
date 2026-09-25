@@ -1,0 +1,753 @@
+{
+  "nn": 21,
+  "code": "OP.8",
+  "title": "SOPs: Cleaning, Guest Communication & Emergency Response",
+  "short": "SOPs: Cleaning, Guests, Emergencies",
+  "section": "Part Two · Phase 2 - Operations Launch",
+  "slides": [
+    {
+      "type": "cover",
+      "ref": "OP.8.0",
+      "kicker": "Phase 2 · Operations launch",
+      "title": "Write each routine so a backup can run it from the driveway without calling you",
+      "subtitle": "Lesson OP.8. SOPs: Cleaning, Guest Communication & Emergency Response",
+      "meta": [
+        [
+          "Teacher",
+          "Preston"
+        ],
+        [
+          "Example",
+          "Cedar Ridge house (hypothetical)"
+        ],
+        [
+          "Use",
+          "Education only. Not legal, fire safety, or insurance advice. In an emergency, call 911."
+        ]
+      ],
+      "notes": "After this lesson you'll have a short operating playbook for your house. A backup cleaner or a new co-host can follow it without calling you.\n\nIt has three pieces. The first is a turnover checklist with photo proof, par levels for supplies, and an escalation ladder for a missed clean. The second is a message sequence, with a named owner for every message. The third is an emergency matrix for seven kinds of incident.\n\nThen we'll run all of it at Cedar Ridge three times. There's a normal Sunday turnover. There's a guest problem on a Tuesday, when the internet goes down during a work stay. And there's a real emergency at 1:40 in the morning, when the CO alarm sounds.\n\nThe people in these SOPs come from OP.7. The cleaner has calendar access. The handyman takes the after-hours calls. Maya owns guest messaging, and Chris backs her up. If you haven't built your role map yet, do that first. An SOP without a named owner isn't finished."
+    },
+    {
+      "type": "bullets",
+      "ref": "OP.8.1",
+      "ordered": true,
+      "title": "A usable SOP names a trigger, one owner, a standard, proof, escalation, and a record",
+      "items": [
+        "Trigger: what starts it (a checkout, a message, an alarm)",
+        "Owner: one named role from the OP.7 role map",
+        "Steps, in order",
+        "Standard: what \"done\" looks like, specifically",
+        "Proof: a photo, a timestamp, or a reading",
+        "Escalation and record: who to call by when if a step fails, and where the result is written"
+      ],
+      "box": {
+        "kind": "gold",
+        "label": "One page each",
+        "text": "If an SOP runs longer than a page, split it. The backup cleaner reads it in the driveway, not at a desk."
+      },
+      "notes": "A standard operating procedure, or SOP, is a written routine that gives the same result no matter who follows it. Most short-term rental checklists fail that test. They say \"clean kitchen\" and leave the standard to the cleaner's mood that day.\n\nEvery SOP in this lesson has seven parts. I've put the last two on one line to fit the slide, but they're separate: escalation, then record.\n\nThe trigger is what starts it. The owner is one named role, taken from your OP.7 role map. One role, not \"the team.\" The standard says what done looks like, specifically enough that two people would agree. The proof is a photo, a timestamp, or a reading. Escalation says who to call, and by when, if a step fails. The record says where the result gets written down.\n\nKeep each one to a page. The person using it is standing in a driveway with a phone, often on the day they're covering for someone else."
+    },
+    {
+      "type": "table",
+      "ref": "OP.8.2",
+      "compact": true,
+      "title": "The turnover starts with a walk-through before anything is touched, so damage is on camera",
+      "keyline": "Trigger: checkout in the calendar. Owner: turnover cleaner. Window: 10 a.m. to 4 p.m. (assumption).",
+      "columns": [
+        "Step",
+        "Standard",
+        "Photo proof"
+      ],
+      "rows": [
+        [
+          "1. Arrive and log start",
+          "Start time recorded in the task app",
+          "Front door on arrival"
+        ],
+        [
+          "2. Walk-through first",
+          "Damage, missing items, smoke smell, signs of extra guests, items left behind",
+          "Any damage, before cleaning"
+        ],
+        [
+          "3. Strip beds, start laundry",
+          "All 6 beds stripped, used or not",
+          "None"
+        ],
+        [
+          "4. Kitchen",
+          "Dishes put away, appliances wiped, fridge emptied, trash out",
+          "Counters, open fridge"
+        ],
+        [
+          "5. Bathrooms",
+          "Toilets, showers, sinks, mirrors, floors; hair check on every surface",
+          "Each bathroom, wide"
+        ],
+        [
+          "6. Bedrooms",
+          "Beds made in the standard set, surfaces dusted, under beds checked",
+          "Each bed"
+        ]
+      ],
+      "notes": "The turnover runs more than any other SOP. At Cedar Ridge's base case, it runs 61 times a year. Airbnb's ground rules for hosts set cleanliness as an expectation. Hosts should clean between every stay: laundry, trash, vacuuming or sweeping, and wiping surfaces. Your SOP turns that into a standard.\n\nThe trigger is the checkout in the calendar. The owner is the turnover cleaner, who has calendar access only, per OP.7. The window is six hours, from a 10 a.m. checkout to a 4 p.m. check-in.\n\nStep two is the one I care about most. The cleaner walks the house before touching anything. They note damage, missing items, a smoke smell, signs of extra guests, and anything left behind. Damage gets photographed before cleaning, because after cleaning, the evidence is gone.\n\nStep three strips all six beds, whether they were used or not. That keeps the linen cycle simple and nobody has to guess which beds were slept in."
+    },
+    {
+      "type": "table",
+      "ref": "OP.8.2",
+      "compact": true,
+      "title": "The last six steps check safety and send photos the owner reviews from two hours away",
+      "columns": [
+        "Step",
+        "Standard",
+        "Photo proof"
+      ],
+      "rows": [
+        [
+          "7. Living, dining, work nook",
+          "Surfaces, cushions, remotes, floors vacuumed or mopped",
+          "Each room, wide"
+        ],
+        [
+          "8. Deck and grill",
+          "Furniture set, grill grates clean, cover on, no guest trash",
+          "Deck, grill"
+        ],
+        [
+          "9. Restock",
+          "Consumables to par (OP.8.3)",
+          "Supply shelf"
+        ],
+        [
+          "10. Safety check",
+          "Alarms present and not disabled; extinguishers in place; no indoor device; owner closet locked",
+          "Each alarm location, weekly test logged"
+        ],
+        [
+          "11. Final walk and lock",
+          "Lights off, thermostat to vacancy setting, doors locked",
+          "Front door on exit"
+        ],
+        [
+          "12. Report",
+          "Checklist complete; damage and low stock flagged",
+          "All photos uploaded"
+        ]
+      ],
+      "box": {
+        "kind": "info",
+        "label": "Alarms",
+        "text": "Airbnb says alarms that are present must work and be tested regularly. The turnover checks none were removed. The full button test goes in the monthly inspection."
+      },
+      "notes": "Photos serve two purposes. Maya and Chris live about two hours away, so the photos let them check the work without driving there. And the photos are evidence if a guest later reports a problem. The retained lesson 9.3 Dealing With Damages covers how to use damage photos in a claim.\n\nStep 10 is the safety check. Airbnb's safety requirements say that if smoke and CO alarms are present, hosts must keep them working and test them regularly. So at every turnover, the cleaner checks that no alarm has been removed or disabled.\n\nThe full button test is a separate job. It goes in the monthly inspection, which belongs to the handyman. Set the test schedule using the alarm manufacturer's instructions and your fire marshal's advice.\n\nStep 12 is the report. The checklist is complete, damage and low stock are flagged, and every photo is uploaded. Maya reviews the photos before the check-in message goes out."
+    },
+    {
+      "type": "table",
+      "ref": "OP.8.3",
+      "compact": true,
+      "title": "Keep four stays of supplies on site and reorder when the shelf drops to two",
+      "text": "Consumables run about $25 per stay, $1,525 a year across 61 stays. Four stays on hand is about $100 of stock (assumption). Linens follow the OP.6 cycle: 18 sheet sets, 24 towel sets.",
+      "columns": [
+        "Item",
+        "Par (stays)",
+        "Reorder at",
+        "Counted by",
+        "Ordered by"
+      ],
+      "rows": [
+        [
+          "Toilet paper, paper towels",
+          "4",
+          "2",
+          "Cleaner",
+          "Maya"
+        ],
+        [
+          "Soap, shampoo, conditioner",
+          "4",
+          "2",
+          "Cleaner",
+          "Maya"
+        ],
+        [
+          "Dish soap, dishwasher pods, sponges",
+          "4",
+          "2",
+          "Cleaner",
+          "Maya"
+        ],
+        [
+          "Trash bags",
+          "4",
+          "2",
+          "Cleaner",
+          "Maya"
+        ],
+        [
+          "Coffee, tea, sugar, oil, salt, pepper",
+          "4",
+          "2",
+          "Cleaner",
+          "Maya"
+        ],
+        [
+          "Laundry detergent",
+          "4",
+          "2",
+          "Cleaner",
+          "Maya"
+        ],
+        [
+          "Sheet sets on shelf",
+          "1 per bed",
+          "1 per bed",
+          "Cleaner",
+          "Maya"
+        ],
+        [
+          "Towel sets on shelf",
+          "8",
+          "8",
+          "Cleaner",
+          "Maya"
+        ]
+      ],
+      "notes": "Par level means the amount you keep on hand. The reorder point is when someone orders more. Write both numbers on the shelf label, so nobody has to guess.\n\nAt Cedar Ridge, consumables run about $25 per stay. That's $1,525 a year across 61 stays. Keeping stock for four stays on site is about $100 worth. Reorder at two. That leaves room for a back-to-back weekend without a supply run.\n\nLinens follow the OP.6 cycle. There are 18 sheet sets, three per bed for six beds. There are 24 towel sets, three per guest for eight guests. One set is on each bed, one is in the laundry, and one is on the shelf. The cleaner counts the shelf at every turnover. If any bed has fewer than one clean set on the shelf after the beds are made, the cleaner flags it.\n\nReplacements follow the approval limits from OP.6 and OP.7. A broken glass comes from the spares shelf and gets noted. Anything over $200 needs owner approval first."
+    },
+    {
+      "type": "table",
+      "ref": "OP.8.4",
+      "compact": true,
+      "title": "The missed-clean ladder catches a no-show by 11 a.m., not at 3:30 p.m.",
+      "columns": [
+        "Time",
+        "Check",
+        "If it fails",
+        "Who acts"
+      ],
+      "rows": [
+        [
+          "8 p.m. the night before",
+          "Cleaner confirms in the task app",
+          "Owner calls the cleaner",
+          "Maya"
+        ],
+        [
+          "9 p.m. the night before",
+          "Still not confirmed",
+          "Backup cleaner holds the slot",
+          "Maya"
+        ],
+        [
+          "11:00 a.m.",
+          "Arrival photo received",
+          "Call; no answer in 15 minutes, send the backup",
+          "Maya"
+        ],
+        [
+          "11:30 a.m.",
+          "Backup en route",
+          "Warn the guest; offer a later check-in",
+          "Maya"
+        ],
+        [
+          "2:30 p.m.",
+          "More than half done (photo count)",
+          "Delay check-in, or send a second cleaner",
+          "Maya"
+        ],
+        [
+          "3:45 p.m.",
+          "All photos in, report complete",
+          "Owner reviews photos before releasing the code",
+          "Maya"
+        ],
+        [
+          "After",
+          "Missed clean recorded",
+          "Second miss in 90 days triggers a scope review",
+          "Chris"
+        ]
+      ],
+      "box": {
+        "kind": "info",
+        "label": "What the backup costs",
+        "text": "Same-day premium: $200 instead of $150 (assumption). Four times a year: 4 × $50 = $200 more. Cheap next to a refund and a one-star cleanliness review."
+      },
+      "notes": "The worst operational failure is a guest arriving to a dirty house. It usually starts with a cleaner who doesn't show up and a host who finds out at 3:30 in the afternoon.\n\nThe ladder catches it by late morning. The night before, the cleaner confirms in the task app by 8 p.m. If not, Maya calls. If there's still no confirmation by 9, the backup cleaner gets asked to hold the slot.\n\nOn the day, the arrival photo should be in by 11. If it isn't, Maya calls the cleaner. No answer in 15 minutes, and the backup goes.\n\nAt 2:30 she counts photos. If the turnover isn't half done, she decides whether to delay check-in or send a second cleaner. At 3:45, she reviews the final photos before the door code goes out.\n\nThe backup is paid a same-day premium, $200 instead of $150. If that happens four times a year, it costs $200 more. That's cheap next to a refund and a one-star cleanliness review."
+    },
+    {
+      "type": "table",
+      "ref": "OP.8.5",
+      "compact": true,
+      "title": "Every guest gets the same seven messages, and a named person checks each one",
+      "columns": [
+        "When",
+        "Message",
+        "Sent by",
+        "What must be right"
+      ],
+      "rows": [
+        [
+          "5 minutes after booking",
+          "Thanks, what to expect, house rules, guest count check",
+          "Scheduled",
+          "Correct guest count and no-party rule"
+        ],
+        [
+          "7 days before",
+          "Directions, parking, lake access rules, what to bring",
+          "Scheduled",
+          "Seasonal details current"
+        ],
+        [
+          "1 day before, 10 a.m.",
+          "Address, door code, Wi-Fi, house manual",
+          "Scheduled, held for review",
+          "Correct unique code for this stay"
+        ],
+        [
+          "Check-in evening",
+          "\"Anything missing?\"",
+          "Manual",
+          "Sent by someone who can act"
+        ],
+        [
+          "Mid-stay (4+ nights)",
+          "Offer a restock or answer questions",
+          "Manual",
+          "Optional; skip short stays"
+        ],
+        [
+          "1 day before checkout",
+          "Dishes, trash, thermostat, lock",
+          "Scheduled",
+          "Matches the cleaner's needs"
+        ],
+        [
+          "After checkout",
+          "Thanks for staying",
+          "Scheduled",
+          "Neutral wording; see OP.9"
+        ]
+      ],
+      "caption": "Maya owns and checks every message. Every Monday she reviews the week's scheduled messages against each booking: guest count, dates, lock code, special arrangements.",
+      "notes": "Every guest gets the same core messages at the same moments. Automation sends most of them. A named person owns each one and checks it. At Cedar Ridge, that's Maya for all seven.\n\nAirbnb lets hosts send scheduled quick replies automatically. They're triggered by events like a new booking, check-in, or checkout. The same help page says you can skip, send early, or edit an upcoming message without changing the template. When you host with a team, members with guest management permissions share the scheduled replies, and messages go out from the team owner.\n\nLook at the day-before message. It carries the door code, so it's held for review. A wrong code in a scheduled message means a family standing on the porch at 4 p.m.\n\nThe check-in evening message is manual on purpose. It has to come from someone who can act on the answer.\n\nAnd human review is a written weekly step. Every Monday, Maya opens the list of scheduled messages for the week and checks each one against the booking."
+    },
+    {
+      "type": "bullets",
+      "ref": "OP.8.5",
+      "title": "No bot answers a message about smoke, gas, leaks, injury, lockouts, or refunds",
+      "items": [
+        "A person answers anything about smoke, fire, gas, alarms, leaks, injury, police, lockouts, or refunds, immediately",
+        "No automated message sends a changed door code; a person sends it after checking the lock",
+        "An AI suggestion is a draft; a person approves it, unless it's an approved template for a routine question",
+        "Any exception granted (early check-in, late checkout, extra guest) goes in the booking notes so the cleaner sees it"
+      ],
+      "box": {
+        "kind": "gold",
+        "label": "Where this connects",
+        "text": "SR.5 compares AI messaging tools on these criteria. Sam's OP.4 shows where messages and tasks live in the tech stack."
+      },
+      "notes": "Automation needs limits. Write these into the SOP and into the settings of any AI messaging tool you use.\n\nThe first limit is the important one. No automated or AI reply goes to a message about smoke, fire, gas, alarms, leaks, injury, police, lockouts, or refunds. A person answers those, immediately. A friendly auto-reply to \"the CO alarm is going off\" is the worst message you could send.\n\nSecond, no automated message sends a changed door code. A person checks the lock first, then sends it.\n\nThird, an AI suggestion is a draft. Airbnb offers suggested quick replies that use AI to pick one of your existing replies for common questions. A person approves the suggestion before it goes, unless it's an approved template for a routine question.\n\nFourth, any exception you grant goes in the booking notes. If Maya allows a late checkout, the cleaner needs to see it.\n\nFrom Sam's OP.4 lesson, bring back where your messages and tasks actually run, so you can set these limits in the right place."
+    },
+    {
+      "type": "table",
+      "ref": "OP.8.6",
+      "compact": true,
+      "title": "The emergency matrix says what to do first, who responds, and who can stop work",
+      "columns": [
+        "Incident",
+        "First action",
+        "Who responds",
+        "Stop-work"
+      ],
+      "rows": [
+        [
+          "Fire or smoke",
+          "Get everyone out, then call 911 from outside",
+          "911; after-hours contact to site; owner told",
+          "Anyone; owner blocks calendar"
+        ],
+        [
+          "CO alarm",
+          "Everyone out to fresh air, then call 911",
+          "911 or fire dept; gas utility; licensed HVAC",
+          "Anyone; no re-entry until fire dept clears it"
+        ],
+        [
+          "Water leak",
+          "Shut off water at the main; avoid electrical",
+          "Handyman; plumber; owner",
+          "Handyman or owner"
+        ],
+        [
+          "Lockout",
+          "Call or message the on-call number",
+          "Messaging owner resets code; handyman if lock fails",
+          "n/a"
+        ],
+        [
+          "Injury",
+          "911 for anything serious; first aid kit in manual",
+          "911; owner told immediately",
+          "Owner decides if area stays closed"
+        ],
+        [
+          "Outage",
+          "Check the utility's outage page or manual steps",
+          "Messaging owner; handyman if needed",
+          "Owner decides if stay continues"
+        ],
+        [
+          "Severe weather",
+          "Follow official warnings; shelter in manual",
+          "Messaging owner warns; handyman after",
+          "Owner decides on arrivals"
+        ]
+      ],
+      "caption": "Record every incident: times, photos, report numbers, insurer notice. Airbnb: call local emergency services first.",
+      "notes": "An emergency matrix tells the person on the spot what to do first and who to call. It also says who can stop work and what to record. Write it for the guest and the team together. The guest's part goes in the house manual.\n\nAirbnb's help center says to contact local emergency services first if an emergency is in progress. Airbnb also describes an Urgent Support Line in its app for hosts and guests during active reservations. Neither one replaces 911. Neither one replaces your own on-call person.\n\nRead the first action column. For fire and CO, it's the same shape: get out first, then call. Nobody investigates a CO alarm from inside the house.\n\nFor a leak, the first action depends on the guest knowing where the water main is. So the shutoff location gets marked in the manual.\n\nEvery incident gets a record: times, photos, report numbers, and an insurer notice when there's damage or injury. The fire department and the insurer should confirm these steps for your house."
+    },
+    {
+      "type": "two",
+      "ref": "OP.8.6",
+      "title": "Anyone can stop work for safety, but only an owner reopens the calendar",
+      "left": {
+        "head": "Stop-work authority",
+        "items": [
+          "The right to halt a turnover, a repair, or the next booking because something isn't safe",
+          "At Cedar Ridge, anyone on the team can use it",
+          "Only an owner reopens the calendar",
+          "And only after the right professional signs off"
+        ]
+      },
+      "right": {
+        "head": "Laminated contact sheet",
+        "note": "Inside the owner closet door, with a copy in the house manual",
+        "items": [
+          "911, non-emergency police and fire",
+          "Utilities and the water shutoff location",
+          "On-call phone, handyman, plumber, HVAC company",
+          "Insurer's claim line; fill in real numbers before the first booking"
+        ]
+      },
+      "notes": "Stop-work authority means the right to halt a turnover, a repair, or the next booking because something isn't safe.\n\nAt Cedar Ridge, anyone on the team can stop work for safety. The cleaner can. The handyman can. Nobody needs permission to say \"this isn't safe, we stop.\"\n\nReopening works the other way. Only an owner can reopen the calendar, and only after the right professional signs off. After a CO alarm, that's the fire department, the HVAC technician, and the gas supplier. Stopping is easy on purpose. Restarting is hard on purpose.\n\nThe contact sheet is the other half. It's laminated and kept inside the owner closet door, with a copy in the house manual. It lists 911 and the non-emergency police and fire numbers. It lists the utilities and where the water shutoff is. It lists the on-call phone, the handyman, the plumber, the HVAC company, and the insurer's claim line.\n\nFill in the real local numbers before the first booking. A blank line on that sheet at 2 a.m. costs time."
+    },
+    {
+      "type": "checklist",
+      "ref": "OP.8.7",
+      "title": "Privacy rules go in the SOPs, because well-meaning people are the ones who break them",
+      "text": "Airbnb bans indoor cameras and recording devices, even if off. Exterior cameras must be disclosed. Noise monitors that don't record are allowed in disclosed common spaces only.",
+      "items": [
+        "Turnover: no new device has appeared indoors",
+        "Turnover: the noise monitor is still in its disclosed common-area spot",
+        "Turnover: the doorbell camera still points only at the entry",
+        "Data: camera footage and guest details stay in the platform or the device's own app",
+        "Data: nobody downloads them to a personal phone or shares them outside the team"
+      ],
+      "notes": "Privacy rules belong in the SOPs, because the people who break them usually mean well. A cleaner might want to set up a \"nanny cam\" to watch for parties. That's not allowed.\n\nAirbnb's device rules prohibit security cameras and recording devices that monitor indoor spaces, even if they're off. Exterior cameras have to be disclosed in the listing. They can't watch indoor spaces or areas like an enclosed outdoor shower. Noise decibel monitors that don't record sound are allowed in common spaces if they're disclosed. They're not allowed in bedrooms, bathrooms, or sleeping areas.\n\nSo I put three lines in the turnover SOP and two lines in the data SOP. They're on the slide. The cleaner checks the devices every turnover, the same way they check the alarms.\n\nThe data lines matter because footage and guest details are easy to copy. They stay in the platform or the device's own app.\n\nThe retained lesson 9.4 How to Avoid Parties & Smoking covers the party-prevention side."
+    },
+    {
+      "type": "calc",
+      "ref": "OP.8.8",
+      "assumption": true,
+      "title": "A normal Sunday turnover finishes by 2:20 p.m. and leaves six clean sets on the shelf",
+      "lines": [
+        {
+          "op": "",
+          "label": "Sheet sets owned",
+          "v": "18"
+        },
+        {
+          "op": "−",
+          "label": "Clean sets put on the 6 beds",
+          "v": "6"
+        },
+        {
+          "op": "−",
+          "label": "Used sets sent to the wash",
+          "v": "6"
+        }
+      ],
+      "result": {
+        "label": "Clean sets left on the shelf",
+        "v": "6"
+      },
+      "side": "10:25 a.m. arrival photo; walk-through finds a chipped mug and a stained lake towel.\n\n1:55 p.m. restock: supplies drop from four stays to three, above the reorder point of two.\n\n2:00 p.m. mug and towel replaced from spares and logged; under $200, no approval.\n\n2:45 p.m. Maya reviews photos and releases the check-in message. Cleaner pay $150; cleaning fee $175.",
+      "notes": "Now the three walk-throughs. The first is a normal Sunday. A family of seven checks out at 10 a.m. after a 3.5-night stay. The next group of eight arrives at 4.\n\nThe cleaner confirmed at 8:05 the night before. The arrival photo comes in at 10:25. The walk-through finds one chipped mug and a lake towel with a stain.\n\nBy 10:40, all six beds are stripped and laundry has started. Six clean sets go on the beds, six used sets go to the wash. Eighteen minus six minus six leaves six clean sets on the shelf. That's one per bed, so no flag.\n\nCleaning runs about three hours. At 1:55 the restock drops supplies from four stays to three, still above the reorder point. The mug is replaced from the spares shelf and the towel goes to the rag bin. It's under $200, so no approval is needed.\n\nFinal photos go up at 2:20. Maya reviews them at 2:45 and releases the check-in message. The cleaner earned $150. The guest paid a $175 cleaning fee."
+    },
+    {
+      "type": "flow",
+      "ref": "OP.8.8",
+      "assumption": true,
+      "title": "When the internet fails mid-stay, give facts, a credit, and a fix, and leave reviews out of it",
+      "text": "Tuesday, four-night midweek stay. The listing advertises a dedicated workspace.",
+      "nodes": [
+        {
+          "k": "9:05 a.m.",
+          "h": "\"Internet is down\"",
+          "d": "No safety words, so an auto-acknowledgment is allowed. A person must reply within 30 minutes."
+        },
+        {
+          "k": "9:15 a.m.",
+          "h": "Reset steps",
+          "d": "Maya sends the house manual steps: unplug the router 30 seconds, wait five minutes"
+        },
+        {
+          "k": "9:40 a.m.",
+          "h": "Honest update",
+          "d": "Area outage, fix estimated by 6 p.m. No guessing at a restore time"
+        },
+        {
+          "k": "10:00 a.m.",
+          "h": "$100 credit",
+          "d": "Inside her OP.7 limit, through the platform, not tied to a review",
+          "kind": "go"
+        },
+        {
+          "k": "6:20 p.m.",
+          "h": "Restored",
+          "d": "Record times, provider reference, credit, and a root-cause note"
+        }
+      ],
+      "box": {
+        "kind": "info",
+        "label": "Root cause",
+        "text": "An advertised workspace on one internet line has no backup. Chris gets a quote for a cellular backup router. It's over $200, so it goes on the owner decision list for month end."
+      },
+      "notes": "The second walk-through is a guest problem. On a Tuesday, a guest on a four-night stay messages at 9:05: \"Internet is down. I have work calls today.\" And the listing advertises a dedicated workspace.\n\nThe message has no safety words, so an automated acknowledgment is allowed. The SOP still requires a person within 30 minutes. Maya replies at 9:15 with the reset steps from the house manual.\n\nAt 9:35 it's still down. Maya checks the provider's outage page. It shows an area outage, with a fix estimated by 6 p.m. At 9:40 she tells the guest what she knows and when she'll update them. She doesn't guess at a time the provider hasn't given.\n\nAt 10 she offers a $100 goodwill credit. That's inside her OP.7 limit. She pays it through the platform, not in cash. And she doesn't tie it to a review, because Airbnb's review policy prohibits offering something of value for a review. OP.9 covers that.\n\nService returns at 6:20. Then comes the useful part, the root-cause note."
+    },
+    {
+      "type": "table",
+      "ref": "OP.8.8",
+      "assumption": true,
+      "compact": true,
+      "title": "At 1:40 a.m. the CO alarm sounds, and everyone is outside before anyone investigates",
+      "columns": [
+        "Time",
+        "What happens",
+        "Who"
+      ],
+      "rows": [
+        [
+          "1:40 a.m.",
+          "\"Get everyone outside now, then call 911.\" Stays on the line until all eight are out",
+          "Handyman (after-hours)"
+        ],
+        [
+          "1:44 a.m.",
+          "Guest calls 911; handyman texts Chris",
+          "Guest, handyman"
+        ],
+        [
+          "1:48 a.m.",
+          "Handyman drives over (about 35 minutes); doesn't go inside",
+          "Handyman"
+        ],
+        [
+          "2:05 a.m.",
+          "Fire department finds elevated CO near the propane furnace, shuts off gas",
+          "Fire department"
+        ],
+        [
+          "2:15 a.m.",
+          "Uses Airbnb's urgent support; books a hotel as an emergency exception",
+          "Chris"
+        ],
+        [
+          "2:30 a.m.",
+          "\"Do not occupy\" notice on the door; next arrival blocked",
+          "Handyman, Chris"
+        ],
+        [
+          "8:00 a.m.",
+          "Licensed HVAC inspection; closed until tech and gas supplier clear it in writing",
+          "HVAC tech"
+        ],
+        [
+          "Same day",
+          "Incident report, report number, findings, receipts; insurer notified",
+          "Chris"
+        ]
+      ],
+      "notes": "The third walk-through is a real emergency. It's 1:40 on a Saturday morning. A guest calls the after-hours number because the CO alarm on the lower level is sounding.\n\nThe handyman answers, per the OP.7 after-hours row. His first words come straight from the matrix: get everyone outside now, then call 911. He stays on the line until all eight guests are out.\n\nHe drives over, about 35 minutes, but he doesn't go inside. The fire department controls the scene. They find elevated CO near the furnace, which in this example is propane, and shut off the gas.\n\nRelocation costs more than anyone on the team is allowed to spend. So Chris authorizes it himself as an emergency exception and books a hotel.\n\nAt 2:30 it's stop-work. A notice goes on the door and the next arrival is blocked. The house stays closed until the HVAC technician and the gas supplier clear it in writing. Chris notifies the insurer the same day. The monthly inspection now adds a furnace service check before each heating season."
+    },
+    {
+      "type": "worksheet",
+      "ref": "OP.8.9",
+      "compact": true,
+      "title": "Fill in your emergency matrix with real local numbers, and date each one",
+      "columns": [
+        "Incident",
+        "First action",
+        "Who responds (name, phone)",
+        "Stop-work authority",
+        "Number verified (date)"
+      ],
+      "rows": [
+        [
+          "Fire or smoke",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "CO alarm",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "Water leak (shutoff: ______)",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "Lockout",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "Injury",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "Power / water / internet outage",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "Severe weather (shelter: ______)",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ],
+      "caption": "Also fill in one SOP header per routine: name, trigger, owner, backup, steps, standard, proof, escalation, record, last reviewed.",
+      "notes": "The exercise has two parts. The first is an SOP header for every routine. Name, trigger, owner, backup, numbered steps, the standard for done, the proof required, the escalation, the record, and the date it was last reviewed. One page per SOP.\n\nThe second part is on the slide: your own emergency matrix. Don't copy Cedar Ridge's numbers, because they aren't real. Look up the real local ones.\n\nWrite the water shutoff location right in the row. Write the shelter location for severe weather right in the row. Those are the two things a guest can't find in the dark.\n\nThe last column is the date you verified each number. Phone numbers change. Vendors change. A number you checked two years ago might ring a stranger.\n\nFor fire and CO, the first action is already set: get out, then call 911. What you're filling in is who responds after that, with names and phones, and who has stop-work authority. Ask the fire department to look at those two rows with you."
+    },
+    {
+      "type": "gates",
+      "ref": "OP.8.9",
+      "title": "Four checks tell you whether your SOPs are finished or still drafts",
+      "gates": [
+        {
+          "q": "Does every step have a named owner?",
+          "no": "The SOP isn't finished"
+        },
+        {
+          "q": "Has the backup done the SOP once, for real or in a paid trial?",
+          "no": "They aren't a backup yet"
+        },
+        {
+          "q": "Can an automated message send a door code or reply to a safety message?",
+          "sub": "Here the safe answer is no.",
+          "no": "If yes, change the setting before the next booking"
+        },
+        {
+          "q": "Has every SOP been reviewed after the last incident and within six months (assumption)?",
+          "no": "Review it now"
+        }
+      ],
+      "end": "All four pass: the house runs the same way whoever is on duty.",
+      "notes": "These four checks come from the lesson's decision rules. Run them before your first booking, and again after any incident.\n\nFirst, every step needs a named owner. If a step says \"someone checks the alarms,\" it isn't finished. Put the role there.\n\nSecond, a backup has to have done the SOP once, for real or in a paid trial. A name on a list isn't a backup. A person who has already walked your house with the checklist is.\n\nThird, look at your messaging settings. Can any automated message send a door code? Can one reply to a message about smoke or a leak? The safe answer there is no. If it's yes, change the setting before the next booking.\n\nFourth, review every SOP after any incident, and at least every six months. The six months is an assumption, so pick your own interval. At Cedar Ridge, the CO incident added a furnace check before heating season. That's what a review is for."
+    },
+    {
+      "type": "table",
+      "ref": "OP.8.10",
+      "title": "The fire department, insurer, and utilities confirm the emergency side of your SOPs",
+      "columns": [
+        "Who",
+        "What they confirm"
+      ],
+      "rows": [
+        [
+          "Local fire department",
+          "First actions for fire and CO alarms at this house, and alarm testing frequency"
+        ],
+        [
+          "Insurer",
+          "Incident notice deadlines, required records, and whether relocation costs are covered"
+        ],
+        [
+          "Utilities (gas or propane, electric, water)",
+          "Emergency numbers and shutoff procedures"
+        ],
+        [
+          "Airbnb's current help pages",
+          "Scheduled messages, safety requirements, and device rules, checked before recording"
+        ]
+      ],
+      "notes": "The emergency parts of these SOPs need outside confirmation.\n\nThe local fire department confirms the first actions for fire and CO alarms at your house. Ask them how often alarms should be tested, too. What I've shown you follows Airbnb's guidance to call emergency services first. The fire department sets the specifics.\n\nThe insurer confirms how fast they need incident notice and what records they want. Ask whether relocation costs are covered. In the Cedar Ridge emergency, Chris booked a hotel at 2:15 in the morning. He should already know whether that's covered before it happens.\n\nThe utilities confirm emergency numbers and shutoff procedures. That includes gas or propane, electric, and water. The propane supplier is the one who clears the furnace in the example.\n\nAnd check Airbnb's current pages on scheduled messages, safety requirements, and device rules before you rely on them. These pages change."
+    },
+    {
+      "type": "dothis",
+      "ref": "OP.8.11",
+      "title": "This week, write the turnover SOP and fill in the real emergency numbers",
+      "items": [
+        "Write your turnover SOP on one page, with a photo proof column and the cleaner named as owner.",
+        "Find and label your water main shutoff, then add its location to the house manual.",
+        "Fill in the emergency matrix with real local numbers and today's date beside each one.",
+        "Open your messaging settings and make sure no automated message sends a door code or answers a safety message."
+      ],
+      "next": "Next: OP.9 Guest Experience & Review Strategy in the AI Ranking Era. It connects these SOPs to what Airbnb publishes about search and reviews.",
+      "notes": "Four actions, each under an hour.\n\nWrite the turnover SOP on one page. Use the twelve steps as a starting point, but make the standards fit your house. Add the photo proof column and name the owner.\n\nGo find your water main shutoff. Put a label on it. Add its location to the house manual and the contact sheet.\n\nFill in the emergency matrix with real local numbers, and write today's date next to each.\n\nThen open your messaging settings. Check that nothing automated sends a door code or replies to a safety message.\n\nThe house now runs the same way whether Maya, Chris, or a backup is on duty. The next question is how guests experience that work, and what they say about it afterward. OP.9 connects these SOPs to what Airbnb publishes about search. It also shows how to ask for reviews within Airbnb's rules and how to track what guests tell you."
+    },
+    {
+      "type": "sources",
+      "ref": "OP.8 sources",
+      "title": "Airbnb's ground rules, safety, device, and messaging pages back these SOPs",
+      "items": [
+        {
+          "title": "Airbnb help 2895, ground rules for home hosts",
+          "url": "https://www.airbnb.com/help/article/2895",
+          "note": "cleaning between every stay; communication"
+        },
+        {
+          "title": "Airbnb help 2904, safety requirements for homes",
+          "url": "https://www.airbnb.com/help/article/2904",
+          "note": "alarm disclosure, working order, regular testing"
+        },
+        {
+          "title": "Airbnb help 3061, cameras and other devices",
+          "url": "https://www.airbnb.com/help/article/3061",
+          "note": "indoor camera ban, exterior disclosure, noise monitors"
+        },
+        {
+          "title": "Airbnb help 2897, scheduled quick replies",
+          "url": "https://www.airbnb.com/help/article/2897",
+          "note": "triggers, skip or edit, team sharing, AI-suggested replies"
+        },
+        {
+          "title": "Airbnb help 3063, promoting community safety",
+          "url": "https://www.airbnb.com/help/article/3063",
+          "note": "contact local emergency services first"
+        },
+        {
+          "title": "Airbnb Newsroom, expanding the Urgent Support Line",
+          "url": "https://news.airbnb.com/expanding-the-urgent-support-line",
+          "note": "in-app urgent support during active reservations"
+        }
+      ],
+      "box": {
+        "kind": "gold",
+        "label": "Cedar Ridge figures",
+        "text": "From the canonical file, B1: 61 stays, cleaner $150, cleaning fee $175, supplies $1,525. Par levels, times, and premiums are assumptions."
+      },
+      "notes": "Six Airbnb pages back the platform rules in these SOPs. I checked all of them on 2026-09-25 through search summaries.\n\nThe ground rules page covers cleaning between every stay and the communication expectations. The safety requirements page covers alarm disclosure, keeping alarms working, and regular testing. The device page covers the indoor camera ban, exterior camera disclosure, and noise monitors.\n\nThe scheduled quick replies page covers message triggers, skipping or editing an upcoming message, team sharing, and AI-suggested replies. The community safety page says to contact local emergency services first. The newsroom post describes the Urgent Support Line in the app.\n\nThe Cedar Ridge figures come from section B1 of the canonical example: 61 stays, a $150 cleaner, a $175 cleaning fee, and $1,525 in supplies. The par levels, the times in the walk-throughs, and the backup premium are teaching assumptions.\n\nNothing here replaces your fire department or your insurer. They confirm the emergency steps for your house."
+    }
+  ]
+}

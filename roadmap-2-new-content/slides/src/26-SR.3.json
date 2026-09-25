@@ -8,7 +8,7 @@
     {
       "type": "cover",
       "kicker": "Shared resource · Workbook walkthrough",
-      "title": "A cost-seg estimate means something only after your CPA confirms every input",
+      "title": "A cost-segregation study can pull deductions into year one, but only your CPA can say if they count",
       "subtitle": "Resource SR.3. Cost segregation & tax-impact estimator",
       "meta": [
         [
@@ -25,13 +25,72 @@
         ]
       ],
       "ref": "SR.3.0",
-      "notes": "This deck teaches you how to use one tool: the cost segregation and tax-impact estimator. It's a scenario workbook for one property.\n\nIt estimates how much depreciation a cost-segregation study might move into year one, and what that could mean for your tax. I built it for the conversation with your CPA. It doesn't replace that conversation.\n\nWe'll walk through the whole thing. What it's for, each tab, each section of inputs, the formulas, the rules built into it, and a filled example using Cedar Ridge. Then the common mistakes, the evidence to ask a study provider for, and how to hand it to your CPA.\n\nOne warning up front. Whether any of this applies depends on the property, the dates, and how you use it. It also depends on your participation, your income, and the tax year. The workbook makes those inputs visible. Your CPA decides them."
+      "notes": "This deck teaches you how to use one tool: the cost segregation and tax-impact estimator. It's a scenario workbook for one property.\n\nIt estimates how much depreciation a cost-segregation study might move into year one, and what that could mean for your tax. I built it for the conversation with your CPA. It doesn't replace that conversation.\n\nWe'll start with what a study does, and the whole calculation in plain numbers. Then each tab, the inputs, the formulas, and the rules built into it. Then the common mistakes, the low and high cases, the evidence to ask a study provider for, and how to hand it to your CPA.\n\nOne warning up front. Whether any of this applies depends on the property, the dates, and how you use it. It also depends on your participation, your income, and the tax year. The workbook makes those inputs visible. Your CPA decides them."
+    },
+    {
+      "type": "statement",
+      "title": "A study moves part of the building into short lives you can deduct in year one",
+      "ref": "SR.3.0",
+      "eyebrow": "What cost segregation does",
+      "text": "A cost-segregation study splits the building into parts, so some of it can be deducted in year one instead of over 27.5 or 39 years.",
+      "support": "Cedar Ridge (hypothetical): a $385,000 lake house owned by Maya and Chris. In the base case the study adds about $67,000 of year-one deduction, if they can use it.",
+      "assumption": true,
+      "notes": "In plain words: when you buy a rental, you can't deduct the building's cost all at once. You deduct it a slice at a time over 27.5 or 39 years. That paper write-off for wear on the building is depreciation. Land is never depreciated.\n\nA cost-segregation study splits the building into parts. Some parts, such as land improvements, qualify for 5-, 7-, or 15-year lives. When bonus depreciation, an extra first-year deduction, applies, those short-life parts and your furniture can be deducted in full in year one.\n\nOur running example is Cedar Ridge, a hypothetical three-bedroom lake house. Maya and Chris, a two-earner household with about $185,000 of W-2 income, bought it for $385,000 and furnished it for $32,000. In the base case, a study adds about $67,000 of year-one deduction. At a 32% rate, that's about $21,000 before a $4,500 fee. That only holds if the loss is usable this year.\n\nFirst, the whole calculation in plain numbers. Then we'll build the workbook that does it."
+    },
+    {
+      "type": "calc",
+      "assumption": true,
+      "title": "Worked by hand, Cedar Ridge's base case gives a $107,072 year-1 deduction",
+      "lines": [
+        {
+          "op": "",
+          "label": "Basis: $385,000 + $6,000 costs",
+          "v": "$391,000"
+        },
+        {
+          "op": "−",
+          "label": "Land, 20% (never depreciated)",
+          "v": "$78,200"
+        },
+        {
+          "op": "=",
+          "label": "Building",
+          "v": "$312,800"
+        },
+        {
+          "op": "",
+          "label": "Study moves 22% to short lives",
+          "v": "$68,816"
+        },
+        {
+          "op": "+",
+          "label": "Furnishings",
+          "v": "$32,000"
+        },
+        {
+          "op": "=",
+          "label": "Accelerated, 100% bonus if eligible",
+          "v": "$100,816"
+        },
+        {
+          "op": "+",
+          "label": "Ordinary: rest $243,984 ÷ 39",
+          "v": "$6,256"
+        }
+      ],
+      "result": {
+        "label": "Year-1 deduction",
+        "v": "$107,072"
+      },
+      "side": "Rest of building: $312,800 − $68,816 = $243,984.\n\nAt 32%, the illustrative tax effect is **$34,263**, only if all of it is usable this year.\n\nBase uses a full first year for simplicity. With a June start and the mid-month convention, the building line is $3,389.",
+      "ref": "SR.3.6",
+      "notes": "Here's the whole calculation for Cedar Ridge's base case, worked by hand. The workbook we build next does exactly this.\n\nBasis is $385,000 plus $6,000 of capitalized costs, or $391,000. Land at 20% is $78,200, and land never depreciates. The building is $312,800.\n\nThe study moves 22% of the building into short lives. That's $68,816, which leaves $243,984 of remaining building.\n\nAccelerated depreciation is the reclassified parts plus the $32,000 of furnishings, at 100% bonus. That's $100,816, if eligible. Ordinary depreciation is $243,984 divided by 39, or $6,256. Add them and the year-one deduction is $107,072.\n\nTwo honest caveats. The base takes a full first year to keep the math simple. With a June start, the building line is closer to $3,389. And the $34,263 tax effect at 32% only holds if all of the deduction is usable this year. Every figure here is a Cedar Ridge assumption."
     },
     {
       "type": "bullets",
       "ordered": true,
       "title": "The workbook does four jobs, and none of them is deciding your tax",
-      "text": "Use it after Sam's PA.5 lesson, when you have a real property and a real quote from a study provider.",
+      "text": "Use it after Sam's PA.5 lesson. No property yet? Practice with the Cedar Ridge inputs.",
       "items": [
         "Collects every input a CPA will ask for, with a source and a status beside each.",
         "Separates ordinary depreciation from accelerated depreciation, so you see what the study changes.",
@@ -39,7 +98,7 @@
         "Lists every assumption still unverified, so nothing gets treated as settled by accident."
       ],
       "ref": "SR.3.0",
-      "notes": "The workbook does four jobs.\n\nFirst, it collects every input a CPA will ask for, with a source and a status beside each one. Second, it separates ordinary depreciation from accelerated depreciation. That way you can see what the study actually changes, compared with doing nothing.\n\nThird, and this is the one people skip, it shows the tax effect only after the loss limits you enter. A big deduction you can't use this year is not cash this year. The workbook won't let it look like cash.\n\nFourth, it lists every assumption that's still unverified.\n\nSam's PA.5 lesson explains what a cost-segregation study is and walks through a year-one example. Watch that first. Bring back the idea of reclassifying parts of the building into shorter lives. Then use this workbook when you have a real address and a real quote from a study provider."
+      "notes": "The workbook does four jobs.\n\nFirst, it collects every input a CPA will ask for, with a source and a status beside each one. Second, it separates ordinary depreciation from accelerated depreciation. That way you can see what the study actually changes, compared with doing nothing.\n\nThird, and this is the one people skip, it shows the tax effect only after the loss limits you enter. A big deduction you can't use this year is not cash this year. The workbook won't let it look like cash.\n\nFourth, it lists every assumption that's still unverified.\n\nSam's PA.5 lesson walks through a study in more depth. Use this workbook after that, when you have a real address and a real quote from a study provider. No property yet? Build it anyway and enter the Cedar Ridge inputs. If you get the same numbers I just showed you, your formulas work."
     },
     {
       "type": "table",
@@ -59,7 +118,7 @@
         ],
         [
           "Outputs",
-          "The separated results you bring to the CPA"
+          "The separated results and open items you bring to the CPA"
         ],
         [
           "Scenarios",
@@ -73,10 +132,10 @@
       "box": {
         "kind": "gold",
         "label": "Status values, used everywhere",
-        "text": "**Verified** (document in hand). **CPA to supply.** **Unverified** (estimate or placeholder). **Study** (from the cost-segregation report)."
+        "text": "**Verified** (document in hand). **CPA to supply.** **Unverified** (estimate or placeholder). **Study** (from the cost-segregation report). **Example input** (teaching figure)."
       },
       "ref": "SR.3.1",
-      "notes": "Build it as a spreadsheet with five tabs. The formulas later in this deck use these tab names and cell addresses, so keep them exactly.\n\nInputs holds every assumption. Calc holds formulas only, and nobody types there. Outputs holds the separated results you bring to your CPA. Scenarios puts low, base, and high cases side by side. And Sources lists every rule the workbook relies on, with a link and a date.\n\nShade the input cells. Those are the only cells anyone types into.\n\nIf you'd like, add a sixth tab called Open items to track unresolved questions separately. Otherwise the Outputs tab pulls them from the status column on Inputs.\n\nThat status column uses four values everywhere. Verified means you have the document in hand. CPA to supply means it's their call. Unverified means it's an estimate or a placeholder. Study means it comes from the cost-segregation report. In the Cedar Ridge example you'll also see Example input. That marks a teaching figure a real owner would pull from reports and mark Verified."
+      "notes": "Build it as a spreadsheet with five tabs. You build it from the tables in this lesson. The formulas use these tab names and cell addresses, so keep them exactly.\n\nInputs holds every assumption. Calc holds formulas only, and nobody types there. Outputs holds the separated results you bring to your CPA, plus the open items. Scenarios puts low, base, and high cases side by side. And Sources lists every rule the workbook relies on, with a link and a date.\n\nShade the input cells. Those are the only cells anyone types into. Rows 1 and 2 hold the title and headers. Don't insert heading rows, or every address shifts.\n\nThe status column uses the same values everywhere. Verified means you have the document in hand. CPA to supply means it's their call. Unverified means it's an estimate or a placeholder. Study means it comes from the cost-segregation report. In the Cedar Ridge example you'll also see Example input. That marks a teaching figure a real owner would pull from reports and mark Verified."
     },
     {
       "type": "table",
@@ -94,25 +153,25 @@
           "B6",
           "Binding written contract date",
           "After Jan. 19, 2025",
-          "Verified when contract in hand"
+          "Unverified"
         ],
         [
           "B7",
           "Acquisition (closing) date",
           "After Jan. 19, 2025",
-          "Verified when statement in hand"
+          "Unverified"
         ],
         [
           "B8",
           "Placed-in-service date",
-          "June",
+          "June 2026",
           "CPA to supply"
         ],
         [
           "B9",
           "Purchase price",
           "$385,000",
-          "Verified when statement in hand"
+          "Verified"
         ],
         [
           "B10",
@@ -130,13 +189,13 @@
           "B13",
           "Improvements before placed in service",
           "$0",
-          "Verified when invoices in hand"
+          "Verified"
         ],
         [
           "B14",
           "Furnishings and equipment",
           "$32,000",
-          "Verified when receipts in hand"
+          "Verified"
         ],
         [
           "B15",
@@ -153,7 +212,8 @@
       ],
       "caption": "B3 to B5 hold the address, the owners and entity (PA.10), and the tax year. B12 names the land method.",
       "ref": "SR.3.2",
-      "notes": "The Inputs tab has five sections. Column A is the field, column B is the value, and the next columns hold what to enter, the source, the status, and the date checked. The values here are the Cedar Ridge base case from example B6. All of them are assumptions for teaching.\n\nSection 1 is property and dates. Notice there are three dates, not one. The binding contract date, the closing date, and the placed-in-service date. The contract date matters because property isn't treated as acquired after the date a binding written contract was signed. That's why the workbook asks for it.\n\nPlaced in service means the date the property was ready and available for rent. Your listing's live date and first available night help. Your CPA confirms it.\n\nThen the money: purchase price, capitalized closing costs, the land share, improvements before first rental, furnishings, and the study fee. The land share is Unverified until your CPA picks a method, like the assessor ratio, an appraisal, or the study."
+      "notes": "The Inputs tab has five sections. Column A is the field and column B is the value. The next columns hold what to enter, the source, the status, and the date checked. The values here are the Cedar Ridge base case. All of them are assumptions for teaching.\n\nSection 1 is property and dates. Notice there are three dates, not one. The binding contract date, the closing date, and the placed-in-service date. The contract date matters because the IRS treats property as acquired no later than the day a binding written contract was signed. A contract signed on or before January 19, 2025 can change the bonus rate, even if you closed later.\n\nPlaced in service means the date the property was ready and available for rent. Your listing's live date and first available night help. Your CPA confirms it.\n\nThen the money: purchase price, capitalized closing costs, the land share, improvements before first rental, furnishings, and the study fee. The land share is Unverified until your CPA picks a method, like the assessor ratio, an appraisal, or the study.",
+      "text": "The contract date matters because a contract signed on or before Jan. 19, 2025 can change the bonus rate."
     },
     {
       "type": "table",
@@ -194,7 +254,7 @@
           "B21",
           "Bonus % by law (date screen)",
           "100%",
-          "CPA to supply"
+          "Formula (CPA confirms)"
         ],
         [
           "B22",
@@ -203,9 +263,9 @@
           "CPA to supply"
         ]
       ],
-      "caption": "B17 + B18 + B19 = 22%, the canonical reclass share in B6. Once you have the report, replace them with the study's dollars divided by building basis.",
+      "caption": "15% + 0% + 7% = 22%, the Cedar Ridge base case. Once you have the report, replace them with the study's dollars divided by building basis.",
       "ref": "SR.3.2",
-      "notes": "Section 2 holds the study results. B17, B18, and B19 are the shares of the building the study moves into 5-year, 7-year, and 15-year property. For Cedar Ridge they're 15%, 0%, and 7%. Those add to 22%, the reclass share in our B6 example. The 15-year bucket is often land improvements.\n\nThese are placeholders until you have a report. Then you replace them with the study's dollar figures divided by the building basis.\n\nB20 is the recovery period for the rest of the building, 27.5 or 39 years. That's your CPA's call, and we'll see why in the rules.\n\nSection 3 is bonus depreciation. B21 is a formula, not a typed number. It checks whether the contract, closing, and placed-in-service dates all fall after January 19, 2025. If they do, it shows 100%. If not, it shows the word CPA. B22 stays blank unless your CPA enters a different rate or an election."
+      "notes": "Section 2 holds the study results. B17, B18, and B19 are the shares of the building the study moves into 5-year, 7-year, and 15-year property. For Cedar Ridge they're 15%, 0%, and 7%. Those add to 22%, the Cedar Ridge base case. The 15-year bucket is often land improvements. A recovery period is just the number of years the tax rules spread a cost over.\n\nThese are placeholders until you have a report. Then you replace them with the study's dollar figures divided by the building basis.\n\nB20 is the recovery period for the rest of the building, 27.5 or 39 years. That's your CPA's call, and we'll see why in the rules.\n\nSection 3 is bonus depreciation. B21 is a formula, not a typed number, so don't type in it. It checks whether the contract, closing, and placed-in-service dates all fall after January 19, 2025. If they do, it shows 100%. If not, it shows the word CPA. If your CPA gives a different rate or an election, it goes in B22."
     },
     {
       "type": "table",
@@ -223,7 +283,7 @@
           "B23",
           "Days rented at a fair rental price",
           "212",
-          "Example input (assumption)"
+          "Example input"
         ],
         [
           "B24",
@@ -235,13 +295,13 @@
           "B25 / B26",
           "Number of stays / days in all rental periods",
           "61 / 212",
-          "Example input (assumption)"
+          "Example input"
         ],
         [
           "B27 / B28",
           "Owner hours / hours by others",
           "Enter",
-          "Unverified until log reviewed"
+          "Unverified"
         ],
         [
           "B29 / B30",
@@ -268,20 +328,16 @@
           "CPA to supply"
         ],
         [
-          "B35",
-          "First-year switch: 1 = full year, 0 = mid-month",
-          "1",
-          "Model switch"
-        ],
-        [
-          "B36",
-          "Rental-use fraction: 1 = divide, 0 = no",
-          "0",
-          "Model switch"
+          "B35 / B36",
+          "Switches: full first year / divide by rental use",
+          "1 / 0",
+          "None (switch)"
         ]
       ],
       "ref": "SR.3.2",
-      "notes": "Section 4 is use, participation, and loss limits. These are the inputs that decide whether a deduction becomes cash this year.\n\nDays rented, stays, and days in all rental periods come from your platform and PMS reports. For Cedar Ridge I've used 212 days and 61 stays. Those are example inputs, an assumption, so the status says so. With a real property, you'd pull them from your reports and mark them Verified. Personal-use days come from your calendar, and your CPA applies the definition. Maya and Chris plan about 10.\n\nB27 and B28 ask for your hours and everyone else's. The cleaner, the co-host, the manager. Keep a contemporaneous log. It's Unverified until someone reviews it.\n\nThen the CPA cells: which participation test applies, professional status, MAGI, the usable share, and the rates. In the base case the usable share is 100% and the state rate is a 0% placeholder.\n\nSection 5 has two switches. B35 picks a full first year, which matches B6, or the mid-month fraction. B36 turns on dividing expenses by rental days. The canonical case uses neither."
+      "notes": "Section 4 is use, participation, and loss limits. These are the inputs that decide whether a deduction becomes cash this year.\n\nDays rented, stays, and days in all rental periods come from your platform and property management software reports. For Cedar Ridge I've used 212 days and 61 stays, marked Example input. Personal-use days come from your calendar. Maya and Chris plan about 10.\n\nB27 and B28 ask for your hours and everyone else's: the cleaner, the co-host, the manager. Keep a log as you go.\n\nThen the CPA cells: participation test, professional status, MAGI, the usable share, and the rates. Look at B32. The base case sets the usable share to 100%. That assumes your CPA rules the whole loss usable, and the hours aren't even logged yet. It's the biggest open assumption in the example. We'll see the case where it fails.\n\nSection 5 has two switches. B35 picks a full first year, for simplicity, or the mid-month fraction. B36 turns on dividing expenses by rental days. The base case uses neither.",
+      "text": "Base case assumes your CPA rules the whole loss usable (B32 = 100%). The hours aren't logged yet.",
+      "caption": "Base case assumes the CPA rules the whole loss usable (B32 = 100%). Hours aren't logged yet. The passive case later shows what happens if it isn't."
     },
     {
       "type": "table",
@@ -291,7 +347,7 @@
       "columns": [
         "Cell",
         "Line",
-        "Formula",
+        "Formula or rule",
         "Base"
       ],
       "rows": [
@@ -334,7 +390,7 @@
         [
           "B12",
           "Bonus % used",
-          "=IF(Inputs!B22<>\"\",Inputs!B22,IF(ISNUMBER(Inputs!B21),Inputs!B21,0))",
+          "CPA override (Inputs B22) if entered; else date screen (Inputs B21); else 0",
           "100%"
         ],
         [
@@ -352,13 +408,13 @@
         [
           "B21",
           "Estimated year-1 deduction",
-          "=B19*B20",
+          "Year-1 total (Calc B19) × rental-use fraction (Calc B20)",
           "$107,072"
         ]
       ],
-      "caption": "B14 and B15 cover any bonus rate under 100% (the CPA's software computes B15). B17 is the first-year fraction; B18 applies it; B20 is the rental-use fraction.",
+      "caption": "Calc B14 and B15 cover any bonus rate under 100% (the CPA's software computes B15). Calc B17 is the first-year fraction; Calc B18 applies it; Calc B20 is the rental-use fraction (not Inputs B20, the building life).",
       "ref": "SR.3.3",
-      "notes": "The Calc tab is formulas only. Each row is one cell in column B.\n\nStart with basis: purchase price plus capitalized costs plus early improvements. That's $391,000 for Cedar Ridge. B4 and B5 are the heart of the land rule. Land sits outside every depreciation line. No formula below B5 touches B4.\n\nThe building is $312,800. The study's shares move $68,816 of it into short lives, leaving $243,984. Add the furnishings and you get $100,816 of bonus-eligible basis.\n\nLook at B12. If your CPA entered an override, it uses that. If the date screen returned a number, it uses that. If the screen returned CPA, it falls back to zero. That's on purpose. A failed date screen shows no bonus until your CPA enters a rate.\n\nThe remaining building runs straight-line at $6,256 a year over 39 years. Year one in the base case is $107,072. B14 and B15 only matter when bonus is under 100%. Don't estimate those by hand."
+      "notes": "The Calc tab is formulas only. Each row is one cell in column B. Calc and Inputs both use column B, so I'll always say which tab. On this slide, a plain B number is a Calc cell.\n\nStart with basis, your cost for tax purposes: price plus capitalized costs plus early improvements. That's $391,000 for Cedar Ridge. B4 and B5 are the heart of the land rule. No formula below B5 touches the land in B4.\n\nThe study's shares move $68,816 of the building into short lives, leaving $243,984. Add the furnishings and you get $100,816 of bonus-eligible basis.\n\nLook at B12. If your CPA entered an override, it uses that. If the date screen returned a number, it uses that. Otherwise it falls back to zero, on purpose.\n\nThe remaining building runs straight-line, the same amount each year: $6,256 over 39 years. Year one in the base case is $107,072. B14 and B15 only matter when bonus is under 100%. Don't estimate those by hand."
     },
     {
       "type": "table",
@@ -368,7 +424,7 @@
       "columns": [
         "Cell",
         "Line",
-        "What it does",
+        "Formula or rule",
         "Base"
       ],
       "rows": [
@@ -433,7 +489,7 @@
           "$315,928"
         ]
       ],
-      "caption": "B31 is the added tax effect from the study ($21,456). B33 and B34 carry the accelerated ($100,816) and straight-line ($6,256) pools to the Outputs tab.",
+      "caption": "Calc B31 is the added tax effect from the study ($21,456). Calc B33 and B34 carry the accelerated ($100,816) and straight-line ($6,256) pools to the Outputs tab.",
       "ref": "SR.3.3",
       "notes": "The lower half of the Calc tab turns a deduction into something you can reason about.\n\nB22 divides days in all rental periods by the number of stays. For Cedar Ridge that's 3.48 days. B23 flags an average stay of 7 days or less, which sends your CPA to a specific Publication 925 test. B24 runs the home-use day test.\n\nThen the money. B25 multiplies the deduction by the usable share your CPA enters. Whatever isn't usable lands in B26 as carried forward or suspended. B27 applies the rates. That's $34,263 in the base case, only if every input holds.\n\nB29 is the comparison I care most about: year one with no study at all. Furniture still gets bonus, and the whole building runs straight-line. That's $40,021. So B30, the study's added deduction, is $67,051.\n\nB32 is adjusted basis after year one, $315,928. That's the starting point for any future gain."
     },
@@ -486,7 +542,7 @@
         [
           "Pools: accelerated / straight-line",
           "$100,816 / $6,256",
-          "Recapture and 1250 exposure at sale (OP.12)"
+          "Tax that may come due on these amounts when you sell (OP.12)"
         ]
       ],
       "box": {
@@ -495,21 +551,7 @@
         "text": "Illustrative only. Every figure depends on inputs your CPA has not yet confirmed. Not tax advice."
       },
       "ref": "SR.3.4",
-      "notes": "The Outputs tab is what you bring to the CPA. Keep these lines separate. Never add them together into one big number.\n\nOrdinary depreciation is $6,256. Accelerated is $100,816. Together that's a $107,072 estimated deduction, before loss limits. Then usable this year, and carried forward. In the base case all of it is usable, but that's an assumption your CPA has to confirm.\n\nThe tax effect is labeled illustrative for a reason. It's $34,263 only if every input holds.\n\nThe two pools at the bottom matter later. The accelerated pool is mostly section 1245 items, which means ordinary-income recapture exposure at sale, up to the gain on those assets. Your CPA classifies the 15-year land improvements. The straight-line pool is unrecaptured section 1250 exposure, taxed at a maximum 25%. OP.12 picks both up.\n\nPut the disclaimer line at the top of the tab in bold. And the tab also lists the flags and every input that isn't Verified."
-    },
-    {
-      "type": "bullets",
-      "title": "Six mistakes turn an honest estimate into a number that looks like cash",
-      "items": [
-        "Adding the tax effect to operating cash flow or to a lender's math. Keep it on its own line.",
-        "Treating the estimated deduction as cash before the CPA sets the usable share.",
-        "Typing into the Calc tab. Only the shaded input cells take typing.",
-        "Guessing a CPA cell instead of leaving it blank and marking its status.",
-        "Applying bonus to land or to the whole building. Land never depreciates.",
-        "Counting furniture twice: once in B14 and again inside the study."
-      ],
-      "ref": "SR.3.4",
-      "notes": "Here are the mistakes this workbook is built to catch.\n\nThe biggest is mixing the tax effect into cash flow. Never add it to operating cash flow in another model. And keep it out of lender math. A lender underwrites cash flow, not deductions.\n\nSecond, treating the deduction as cash before your CPA sets the usable share. If the activity is passive, that share can be zero.\n\nThird, typing into the Calc tab. Once someone overwrites a formula, nobody can trust the outputs.\n\nFourth, guessing. If a cell is your CPA's call, leave it blank and mark it CPA to supply. A guess dressed up as a number is worse than an empty cell.\n\nFifth, bonus on land or on the whole building. Bonus applies to the short-life pieces only.\n\nSixth, counting furniture twice. If your furnishings are already on your books in B14, ask the study provider how they treated them."
+      "notes": "The Outputs tab is what you bring to the CPA. Keep these lines separate. And never add the tax effect to your operating cash flow in another model. It's an estimate, not income.\n\nOrdinary depreciation is $6,256. Accelerated is $100,816. Together that's a $107,072 estimated deduction, before loss limits. Then usable this year, and carried forward. In the base case all of it is usable, but that's an assumption your CPA has to confirm.\n\nThe tax effect is labeled illustrative for a reason. It's $34,263 only if every input holds.\n\nThe two pools at the bottom matter later. In plain words, when you sell, part of the depreciation you took can be taxed. That's called recapture. The accelerated pool is mostly section 1245 items, with ordinary-income recapture exposure. The straight-line pool is unrecaptured section 1250 exposure, taxed at a maximum 25%. OP.12 picks both up.\n\nPut the disclaimer line at the top of the tab in bold. The tab also lists the flags and every input that isn't Verified."
     },
     {
       "type": "gates",
@@ -517,94 +559,58 @@
       "title": "Five built-in rules decide whether the deduction can count this year",
       "gates": [
         {
-          "q": "Were the contract, closing, and placed-in-service dates all after Jan. 19, 2025?",
-          "no": "Shows CPA; bonus is 0 until entered"
+          "q": "Were all three dates after Jan. 19, 2025?",
+          "no": "Bonus 0 until CPA rules"
         },
         {
           "q": "Is the asset short-life property, 20 years or less?",
-          "sub": "Reclassified parts plus furnishings: $100,816. The 39-year building is not.",
-          "no": "No bonus; land never depreciates"
+          "sub": "Reclassified parts + furnishings: $100,816.",
+          "no": "No bonus on it"
         },
         {
-          "q": "Is personal use at or under the greater of 14 days or 10% of rented days?",
+          "q": "Are personal days at or under the greater of 14 or 10% of rented days?",
           "sub": "Cedar Ridge: 10 days vs 21.2 (10% of 212).",
-          "no": "Used as a home: Pub 527 limits"
+          "no": "Used as a home: Pub 527"
         },
         {
           "q": "Is the average stay 7 days or less?",
-          "sub": "Cedar Ridge: 212 ÷ 61 = 3.48 days.",
-          "no": "CPA checks other exceptions"
+          "sub": "Cedar Ridge: 212 ÷ 61 = 3.48 days. Under Pub 925, that isn't a 'rental activity', so the participation tests in gate 5 decide.",
+          "no": "CPA checks other rules"
         },
         {
           "q": "After participation tests and loss limits, is the loss usable?",
           "no": "B32 = 0%; carried forward"
         }
       ],
-      "end": "All five clear: tax effect = usable deduction × your CPA's rates. Still illustrative.",
+      "end": "All five clear: tax effect = usable deduction × CPA's rates.",
       "ref": "SR.3.5",
-      "notes": "The workbook builds in eight rules. Five of them work like gates.\n\nGate one is dates. The IRS says 100% bonus is now permanent for eligible property acquired after January 19, 2025. A binding contract signed earlier changes that, which is why B6 exists. Publication 946 also describes 40% for certain earlier property, and an election to take 40% instead. The screen only checks dates. Your CPA confirms eligibility.\n\nGate two: bonus needs a recovery period of 20 years or less. The building's 27.5 or 39 years is too long. Land isn't depreciable at all.\n\nGate three is the Publication 527 home-use test. Cedar Ridge's 10 personal days sit under 21.2.\n\nGate four is Publication 925's average-stay rule. Cedar Ridge averages 3.48 days. Passing that doesn't make the loss usable by itself. It sends your CPA to the material participation tests, like more than 500 hours, or more than 100 hours and at least as much as anyone else. A cleaner who logs more hours than you can matter here."
+      "notes": "The lesson lists eight rules. Five of them work like yes-or-no gates, and they're on this slide. The next slide covers the other three, plus a closer look at the loss limits.\n\nGate one is dates. The IRS says 100% bonus is now permanent for eligible property acquired after January 19, 2025. A binding contract signed on or before that date can change the answer, even if you closed later. That's why Inputs B6 exists. The screen only checks dates. Your CPA confirms eligibility.\n\nGate two: bonus needs a recovery period of 20 years or less. The building's 27.5 or 39 years is too long, and land isn't depreciable at all.\n\nGate three is the Publication 527 home-use test. Cedar Ridge's 10 personal days sit under 21.2.\n\nGate four is Publication 925's average-stay rule. At 3.48 days, Cedar Ridge isn't a rental activity under that rule. That's not bad news. It means the participation tests decide.\n\nGate five matters most. Your CPA sets the usable share in Inputs B32. If it's zero, the whole deduction carries forward and this year's tax effect is zero."
     },
     {
       "type": "bullets",
-      "title": "Four more rules keep the building life, loss limits, and basis honest",
+      "title": "Three more rules set the building life, late-study filings, and basis",
       "items": [
-        "Building life is a CPA call. At 27.5 years, Cedar Ridge's remaining building is $8,872 a year instead of $6,256.",
-        "The $25,000 allowance phases out between $100,000 and $150,000 of MAGI. At about $185,000 it's gone either way.",
-        "The excess business loss limit was $313,000, or $626,000 joint, for 2025. Your CPA supplies the current year.",
-        "A study on property placed in service in an earlier year can need Form 3115 and a section 481(a) adjustment.",
+        "Building life is a CPA call: 39 years if short stays count as transient use, 27.5 if not. At 27.5, Cedar Ridge's line is $8,872, not $6,256.",
+        "Gate five, up close: the $25,000 allowance is gone by $150,000 of MAGI, so it doesn't help Maya and Chris at about $185,000.",
+        "A study on property placed in service in an earlier year can need Form 3115 (a change in accounting method) with a one-time catch-up adjustment.",
         "Depreciation reduces basis whether or not you claim it. The Outputs tab carries both pools to OP.12."
       ],
       "ref": "SR.3.5",
-      "notes": "Here are the other rules.\n\nThe building life. Publication 946 defines residential rental property by where the income comes from, and it excludes hotel, motel, or inn units used mostly on a transient basis. How that applies to a single house rented for short stays is a question for your CPA. B6 uses 39 years. At 27.5, Cedar Ridge's line would be $8,872 a year.\n\nLoss limits come before the tax effect. Publication 925 describes a special allowance of up to $25,000 for active participation. It phases out between $100,000 and $150,000 of MAGI. Ask whether it can apply at all. At Maya and Chris's assumed $185,000, it's fully phased out anyway. There's also an excess business loss limit. For 2025 it was $313,000, or $626,000 joint.\n\nA late study can need Form 3115. Your CPA handles that filing.\n\nAnd depreciation reduces basis whether or not you claim it. That's why the pools carry forward."
+      "notes": "Here are the other three rules, plus a closer look at gate five.\n\nThe building life. Publication 946 defines residential rental property by where the income comes from. It excludes hotel, motel, or inn units used mostly on a transient basis. How that applies to a house rented for short stays is a question for your CPA. The Cedar Ridge base case uses 39 years, the cautious choice. At 27.5, its line would be $8,872 a year.\n\nNow gate five. Publication 925 describes a special allowance of up to $25,000 for active participation. It phases out between $100,000 and $150,000 of MAGI. At Maya and Chris's assumed $185,000, it doesn't help them either way. The excess business loss limit was $313,000, or $626,000 joint, for 2025, far above their $107,072.\n\nA late study can need Form 3115, a change in accounting method. Your CPA handles that filing.\n\nAnd depreciation reduces basis whether or not you claim it. That's why the pools carry forward."
     },
     {
-      "type": "calc",
-      "assumption": true,
-      "title": "Worked by hand, Cedar Ridge's base case gives a $107,072 year-1 deduction",
-      "lines": [
-        {
-          "op": "",
-          "label": "Basis: $385,000 + $6,000",
-          "v": "$391,000"
-        },
-        {
-          "op": "-",
-          "label": "Land at 20%",
-          "v": "$78,200"
-        },
-        {
-          "op": "=",
-          "label": "Building",
-          "v": "$312,800"
-        },
-        {
-          "op": "×",
-          "label": "Reclassified parts at 22%",
-          "v": "$68,816"
-        },
-        {
-          "op": "+",
-          "label": "Furnishings",
-          "v": "$32,000"
-        },
-        {
-          "op": "=",
-          "label": "Accelerated, 100% bonus if eligible",
-          "v": "$100,816"
-        },
-        {
-          "op": "+",
-          "label": "Ordinary: $243,984 ÷ 39",
-          "v": "$6,256"
-        }
+      "type": "bullets",
+      "title": "Six mistakes turn an honest estimate into a number that looks like cash",
+      "items": [
+        "Adding the tax effect to operating cash flow or to a lender's math. It's a one-time estimate, not income.",
+        "Treating the estimated deduction as cash before the CPA sets the usable share.",
+        "Typing into the Calc tab. Only the shaded input cells take typing.",
+        "Guessing a CPA cell instead of leaving it blank and marking its status.",
+        "Applying bonus to land or to the whole building. Land never depreciates.",
+        "Counting furniture twice: once in Inputs B14 and again inside the study."
       ],
-      "result": {
-        "label": "Year-1 deduction",
-        "v": "$107,072"
-      },
-      "side": "Remaining building: $312,800 - $68,816 = $243,984.\n\nAt 32%, the illustrative tax effect is **$34,263**, only if all of it is usable this year.",
-      "ref": "SR.3.6",
-      "notes": "Here's the base column worked by hand, so you can follow each formula.\n\nBasis is $385,000 plus $6,000 of capitalized costs, or $391,000. Land at 20% is $78,200. The building is $312,800.\n\nThe study reclassifies 22% of the building, which is $68,816. That leaves $243,984 of remaining building.\n\nAccelerated depreciation is the reclassified parts plus the $32,000 of furnishings, at 100% bonus. That's $100,816, if eligible.\n\nOrdinary depreciation is $243,984 divided by 39, or $6,256.\n\nAdd them and the year-one deduction is $107,072.\n\nAt an assumed 32% marginal rate, the illustrative tax effect is $34,263. I keep saying illustrative because that number only holds if every input holds, and if all of the deduction is usable this year. Every figure on this slide is an assumption from example B6."
+      "ref": "SR.3.4",
+      "notes": "Now that you've seen the rules, here are the mistakes this workbook is built to catch.\n\nThe biggest is mixing the tax effect into cash flow. Don't add it to operating cash flow in another model. It's a one-time estimate that depends on your CPA's rulings, not income the property earns. And keep it out of lender math. A lender underwrites cash flow, not deductions.\n\nSecond, treating the deduction as cash before your CPA sets the usable share. If the activity is passive, that share can be zero.\n\nThird, typing into the Calc tab. Once someone overwrites a formula, nobody can trust the outputs.\n\nFourth, guessing. If a cell is your CPA's call, leave it blank and mark it CPA to supply.\n\nFifth, bonus on land or on the whole building. Bonus applies to the short-life pieces only.\n\nSixth, counting furniture twice. If your furnishings are already on your books in Inputs B14, ask the study provider how they treated them."
     },
     {
       "type": "table",
@@ -614,7 +620,7 @@
       "columns": [
         "Input or output",
         "Low",
-        "Base (B6)",
+        "Base",
         "High"
       ],
       "rows": [
@@ -667,7 +673,7 @@
           "$44,054"
         ],
         [
-          "Minus $4,500 study fee",
+          "Tax effect minus $4,500 study fee",
           "$20,786",
           "$29,763",
           "$39,554"
@@ -686,7 +692,7 @@
     {
       "type": "bars",
       "assumption": true,
-      "title": "The passive case is the one to fear: the full deduction and $0 of tax effect this year",
+      "title": "The passive case is the one to fear: $107,072 of deduction, $0 of tax effect this year",
       "text": "Illustrative tax effect at 32%. Each row changes one thing from the base case.",
       "items": [
         {
@@ -719,41 +725,46 @@
       ],
       "caption": "The study adds $67,051 of year-1 deduction over no study: $21,456 at 32%, or $16,956 after the $4,500 fee, if fully usable. In the passive case, $107,072 carries forward.",
       "ref": "SR.3.6",
-      "notes": "Now the adjustments your CPA is likely to raise. Each bar changes one thing from the base case.\n\nMid-month convention, placed in service in June: the building gets 6.5 months, $3,389 instead of $6,256. The tax effect drops to $33,346. Dividing expenses by rental use, 212 out of 222 days, drops it to $32,720.\n\nNo study at all: furniture still gets bonus, because it's short-life property either way. The building runs at 39 years. That's $12,807.\n\nAnd the passive case. If the activity is passive and no loss is usable this year, the tax effect this year is zero. The deduction isn't lost. It waits.\n\nSo the study's real contribution, compared with no study, is $67,051 more deduction in year one. At 32% that's $21,456, or $16,956 after the fee, if fully usable. Decide on the study only after you see that line, the passive case, and the fee side by side."
+      "notes": "Now the adjustments your CPA is likely to raise. Each bar changes one thing from the base case.\n\nMid-month convention, placed in service in June: the building gets 6.5 months, $3,389 instead of $6,256. The tax effect drops to $33,346. Dividing expenses by rental use, 212 out of 222 days, drops it to $32,720.\n\nNo study at all: furniture still gets bonus, because it's short-life property either way. That's $12,807.\n\nAnd the passive case. If no loss is usable this year, the tax effect this year is zero. The deduction isn't lost. It waits. Remember, the base bar assumes the usable share is 100%. With the allowance phased out at their income, that depends on the participation tests.\n\nThe study adds $67,051 of year-one deduction over no study. At 32% that's $21,456, or $16,956 after the fee, if fully usable. It mostly shifts timing, and it lowers your basis faster, which shows up at sale."
     },
     {
-      "type": "checklist",
-      "cols2": true,
-      "title": "Ask a study provider for twelve pieces of evidence before you pay",
-      "text": "IRS Pub 5653 says there are no standards for preparing studies. The first five requests come from it; the rest make the study usable here.",
-      "items": [
-        "Preparer's name, credentials, and experience",
-        "Every participant and their role",
-        "Name and description of the method",
-        "Reconciliation to price and basis",
-        "Source of plans, or site-visit notes and photos",
-        "Asset-by-asset schedule with class and life",
-        "Legal reasoning for each classification",
-        "Land allocation method and support",
-        "How furnishings already on your books were treated",
-        "Placed-in-service date the study assumed",
-        "Discussion of recapture at sale",
-        "Fee, delivery date, and support if the IRS asks"
-      ],
+      "type": "two",
       "ref": "SR.3.7",
-      "notes": "The IRS publishes a Cost Segregation Audit Techniques Guide for its own examiners. It's Publication 5653, and the current version is dated February 2025.\n\nIt says there are no standards for preparing these studies. It says they vary widely in method, documentation, depth, and preparer expertise. It describes approaches from a detailed engineering approach built on actual cost records, down to survey, letter, and rule-of-thumb approaches.\n\nIts principal elements of a quality study include a preparer with expertise and experience, and a reconciliation of allocated costs to actual costs. Its information requests ask who prepared the study, what role each person played, and where the blueprints came from.\n\nSo use that guide to shape what you ask for before you pay. The first five requests on this list come straight from it. The rest are my recommendations for making the study fit this workbook. The asset schedule fills B17 to B19. The land method ties to B11. The placed-in-service date must match B8."
+      "title": "Studies have no set standards, so get twelve pieces of evidence in writing",
+      "left": {
+        "head": "From IRS Pub 5653",
+        "items": [
+          "Preparer's name, credentials, and experience",
+          "Every participant and their role",
+          "Name and description of the method",
+          "Reconciliation to price and basis",
+          "Source of plans, or site-visit notes and photos"
+        ]
+      },
+      "right": {
+        "head": "To fit this workbook",
+        "items": [
+          "Asset-by-asset schedule with class and life",
+          "Legal reasoning for each classification",
+          "Land allocation method and support",
+          "How furnishings on your books were treated",
+          "Placed-in-service date the study assumed",
+          "Discussion of recapture at sale",
+          "Fee, delivery date, and IRS support"
+        ]
+      },
+      "notes": "The IRS publishes a Cost Segregation Audit Techniques Guide for its own examiners. It's Publication 5653, and the current version is dated February 2025.\n\nIt says there are no standards for preparing these studies. It says they vary widely in method, documentation, depth, and preparer expertise. It contrasts a detailed engineering approach built on actual cost records with survey, letter, and rule-of-thumb approaches.\n\nIts principal elements of a quality study include a preparer with expertise and experience, and a reconciliation of allocated costs to actual costs. Its information requests ask who prepared the study, what role each person played, and where the blueprints came from.\n\nSo use that guide to shape what you ask for. The left column comes straight from it. The right column is my recommendations for making the study fit this workbook. The asset schedule fills Inputs B17 to B19. The land method ties to B11. The placed-in-service date must match B8. Get all twelve in writing before you engage the provider."
     },
     {
       "type": "bullets",
       "ordered": true,
-      "title": "Hand the workbook to your CPA in six steps, dates and basis first",
+      "title": "Hand the workbook to your CPA in five steps, dates and basis first",
       "items": [
-        "Before the meeting, fill every input you can document. Leave CPA cells blank and mark status honestly.",
-        "Send the workbook, settlement statement, receipts, study quote, and day calendar.",
-        "Ask for dates and basis first (B8, B10, B11, B20), then method choices (B21, B22, B35, B36).",
-        "Ask for participation, limits, and rates (B29 to B34). Bring your hour log.",
-        "Rerun the Scenarios tab with the CPA's inputs. Save a dated copy and log the CPA on the Sources tab.",
-        "Decide on the study after seeing the added deduction, the passive case, and the fee side by side."
+        "Before the meeting, fill every input you can document. Leave CPA cells blank.",
+        "Send the workbook, statement, receipts, study quote, day calendar, and hour log.",
+        "In the meeting, go in order: dates and basis, methods, participation, limits, rates.",
+        "Rerun Scenarios, save a dated copy, and log the CPA's name and date on Sources.",
+        "Decide on the study after seeing the added deduction, passive case, and fee."
       ],
       "box": {
         "kind": "gold",
@@ -761,123 +772,41 @@
         "text": "Here is my estimate and every assumption behind it. Which inputs are wrong, which apply to me, and what would you enter instead?"
       },
       "ref": "SR.3.8",
-      "notes": "Here's how to use this with a CPA.\n\nBefore the meeting, fill in every input you can document. Leave the CPA cells blank rather than guessing. Mark each status honestly.\n\nSend the workbook with the settlement statement, the furnishing receipts, the study quote, and your calendar of rental and personal days. If you already have the study, send it with the evidence list.\n\nIn the meeting, go in order. Dates and basis first: placed in service, capitalized costs, land method, building life. Then method choices: the bonus rate or election, the rental-use division, and the first-year convention. Then participation and limits. Bring your hour log. Then the marginal federal and state rates.\n\nAfterward, rerun the Scenarios tab with their inputs. Save a dated copy and note the CPA's name and date on the Sources tab. Keep that copy with your tax records for OP.12.\n\nAnd if you're not sure how to open the conversation, read them the script on this slide."
-    },
-    {
-      "type": "table",
-      "compact": true,
-      "title": "Log every rule on the Sources tab, and add a row each time your CPA confirms one",
-      "columns": [
-        "Claim",
-        "Source",
-        "How checked"
-      ],
-      "rows": [
-        [
-          "100% bonus after Jan. 19, 2025; binding contract rule; 40% election",
-          "[IRS release](https://www.irs.gov/newsroom/treasury-irs-issue-guidance-on-the-additional-first-year-depreciation-deduction-amended-as-part-of-the-one-big-beautiful-bill); [Notice 2026-11](https://www.irs.gov/pub/irs-drop/n-26-11.pdf)",
-          "Search summary of irs.gov"
-        ],
-        [
-          "20-year limit for bonus; land; mid-month; transient-use exclusion",
-          "[Pub 946](https://www.irs.gov/publications/p946)",
-          "Search summary of irs.gov"
-        ],
-        [
-          "Personal-use day test; expense division; allowable depreciation",
-          "[Pub 527](https://www.irs.gov/publications/p527)",
-          "Search summary of irs.gov"
-        ],
-        [
-          "7-day rule; participation tests; $25,000 allowance",
-          "[Pub 925](https://www.irs.gov/publications/p925)",
-          "Search summary of irs.gov"
-        ],
-        [
-          "Quality elements of a study",
-          "[Pub 5653](https://www.irs.gov/pub/irs-pdf/p5653.pdf)",
-          "Search summary of irs.gov"
-        ],
-        [
-          "Your CPA's inputs",
-          "CPA engagement letter or email",
-          "Direct"
-        ]
-      ],
-      "caption": "All rows checked 2026-09-25. The full tab adds Date checked and Checked by columns, plus rows for Form 461, Form 3115, Pub 544, and Topic 409.",
-      "ref": "SR.3.9",
-      "notes": "The Sources tab has one row per rule. For each, write the claim, the source with a link, how it was checked, the date, and who checked it.\n\nHere's how we filled it for the rules in this workbook. The bonus rate and binding contract rule trace to an IRS news release and Notice 2026-11. The 20-year limit, the land rule, the mid-month convention, and the transient-use exclusion trace to Publication 946. The day test and allowable depreciation trace to Publication 527. The 7-day rule and participation tests trace to Publication 925. The study quality elements trace to Publication 5653.\n\nWe checked these through search summaries of irs.gov on the date shown. That's not the same as your CPA confirming them for your return.\n\nSo the most important row is the last one. Each time your CPA confirms an input, add a row with their name, the date, and where they said it. An email counts. That row is the record behind every input your CPA confirms.",
-      "box": {
-        "kind": "gold",
-        "label": "The row that matters most",
-        "text": "Add a row each time your CPA confirms an input, with their name and the date. An email counts."
-      }
+      "notes": "Here's how to use this with a CPA.\n\nBefore the meeting, fill in every input you can document. Leave the CPA cells blank rather than guessing. Mark each status honestly.\n\nSend the workbook with the settlement statement, the furnishing receipts, the study quote, and your calendar of rental and personal days.\n\nIn the meeting, go in order. Dates and basis first: placed in service, capitalized costs, land method, building life. Then method choices: the bonus rate or election, the first-year convention, and the rental-use division. Then participation and limits, with your hour log. Then the tax rates.\n\nAfterward, rerun the Scenarios tab with their inputs. Save a dated copy. On the Sources tab, add a row each time your CPA confirms an input, with their name and the date. An email counts. That row matters more than any IRS link on the tab. Keep the copy with your tax records for OP.12.\n\nAnd if you're not sure how to open the conversation, read them the script on this slide."
     },
     {
       "type": "checklist",
       "cols2": true,
-      "title": "For Cedar Ridge, eleven groups of inputs are still open, and Outputs lists every one",
+      "title": "For Cedar Ridge, twelve groups of inputs are still open, and Outputs lists every one",
       "items": [
-        "Contract, closing, and placed-in-service dates (B6 to B8)",
+        "Address, owners, tax year (B3 to B5)",
+        "Contract, closing, in-service dates (B6 to B8)",
         "Capitalized acquisition costs of $6,000 (B10)",
         "Land share of 20% and its method (B11, B12)",
-        "Study fee and the 15% / 0% / 7% split (B15, B17 to B19)",
+        "Study fee, provider, and split (B15 to B19)",
         "Building life, 39 vs 27.5 years (B20)",
         "Bonus eligibility and any election (B21, B22)",
-        "Rental days and stays, example inputs (B23, B25, B26)",
-        "Personal days and expense division (B24, B36)",
-        "Owner and others' hours; the participation test (B27 to B29)",
-        "MAGI, usable share, and tax rates (B31 to B34)",
+        "Rental days and stays (B23, B25, B26)",
+        "Personal days, expense division (B24, B36)",
+        "Hours and participation (B27 to B30)",
+        "MAGI, usable share, tax rates (B31 to B34)",
         "First-year convention (B35)"
       ],
       "ref": "SR.3.10",
-      "notes": "This is the open list. The Outputs tab filters the Inputs tab for every status that isn't Verified. For the Cedar Ridge teaching example, it comes out to these eleven groups.\n\nLook at how much is on it. The dates that drive the bonus rate. The capitalized costs. The land share and method. The study fee and the reclass split. The building life. Bonus eligibility. The rental days and stays, which are example inputs until real reports replace them. Personal days and whether expenses are divided. Hours and the participation test. MAGI, the usable share, and the rates. And the first-year convention.\n\nThat's almost every input that moves the answer. So the $34,263 on the Outputs tab sits on top of all eleven open questions.\n\nThat's the honest state of any estimate before the CPA meeting. The goal of the meeting is to shrink this list. Each item your CPA confirms comes off, and the estimate gets more real."
-    },
-    {
-      "type": "table",
-      "title": "Your CPA confirms nearly every input, and the study provider confirms its own work",
-      "compact": true,
-      "columns": [
-        "Who",
-        "What they confirm"
-      ],
-      "rows": [
-        [
-          "CPA: dates and basis",
-          "Placed-in-service date, basis, land method, building recovery period, bonus eligibility and election, first-year convention, personal-use division"
-        ],
-        [
-          "CPA: losses",
-          "Whether the activity is passive, which participation test applies, the usable share this year, and which loss limits apply"
-        ],
-        [
-          "CPA: rates and filings",
-          "Marginal federal and state rates; whether Form 3115 is needed for property placed in service in an earlier year"
-        ],
-        [
-          "Study provider, in writing",
-          "Method, preparer qualifications, participant roles, reconciliation, asset schedule, and fee, before you engage"
-        ],
-        [
-          "CPA: at exit",
-          "How the Outputs tab's depreciation pools are treated at a sale or exchange (OP.12)"
-        ]
-      ],
-      "ref": "SR.3.11",
-      "notes": "Here's who confirms what.\n\nYour CPA confirms the dates and basis: placed-in-service date, basis, land method, and building recovery period. Also bonus eligibility, any election, the first-year convention, and whether expenses are divided for personal use.\n\nYour CPA also confirms the loss side. Is the activity passive? Which material participation test applies? How much of the loss is usable this year, and which limits apply?\n\nThen the rates, and whether you need Form 3115 because the study covers property placed in service in an earlier year.\n\nThe study provider confirms their own work, in writing, before you engage them. Method, qualifications, who did what, the reconciliation, the asset schedule, and the fee.\n\nAnd later, at a sale or exchange, your CPA tells you how the depreciation pools on the Outputs tab will be treated. That's the OP.12 conversation."
+      "notes": "This is the open list. The Outputs tab filters the Inputs tab for every status that isn't Verified. For the Cedar Ridge teaching example, it comes out to these twelve groups. Every cell here is on the Inputs tab.\n\nLook at how much is on it. Who owns it and the tax year. The dates that drive the bonus rate. The capitalized costs. The land share and method. The study fee, provider, and the reclass split. The building life. Bonus eligibility. The rental days and stays, which are example inputs until real reports replace them. Personal days and whether expenses are divided. Hours, the participation test, and professional status. MAGI, the usable share, and the rates. And the first-year convention.\n\nThat's almost every input that moves the answer. So the $34,263 on the Outputs tab sits on top of all twelve open questions.\n\nThat's the honest state of any estimate before the CPA meeting. The goal of the meeting is to shrink this list. Each item your CPA confirms comes off."
     },
     {
       "type": "dothis",
       "title": "Four steps this week get the workbook ready for your CPA meeting",
       "items": [
-        "Build the five tabs and enter the Section 1 inputs you can document today.",
+        "Build the five tabs. No property yet? Enter Cedar Ridge and check you get $107,072 and $34,263. Have one? Enter what you can document.",
         "Mark every input's status: Verified, CPA to supply, Unverified, or Study.",
         "Ask one study provider for a written quote and the twelve-item evidence list.",
-        "Send your CPA the workbook, settlement statement, furnishing receipts, and calendar."
+        "Send your CPA the workbook, statement, receipts, and calendar."
       ],
       "next": "Next in the course: **PA.6 DSCR Loans 101: How They Qualify the Property, Not You**. Keep the tax effect out of that lender math. Come back here each year and at **OP.12**.",
       "ref": "SR.3.12",
-      "notes": "Four things to do this week. Build the five tabs and enter what you can document today. Mark every status honestly. Ask one study provider for a written quote, along with the evidence list from this deck. And send your CPA the workbook, the settlement statement, the furnishing receipts, and your calendar.\n\nHere's where this fits. Open the workbook after Sam's PA.5 lesson, and bring it to the CPA meeting that PA.10 sets up.\n\nThe course then moves to PA.6, DSCR Loans 101: How They Qualify the Property, Not You. That's where the same property's cash flow meets the lender's math. Keep the tax effect out of that math. A lender underwrites cash flow, not deductions.\n\nCome back to this workbook each year. And come back again at OP.12, when you weigh a sale or an exchange. The pools you track here become the starting point for that conversation."
+      "notes": "Four things to do this week. Build the five tabs. If you don't have a property yet, enter the Cedar Ridge base inputs and check that you get $107,072 and $34,263. That tests your formulas. If you do have one, enter what you can document today.\n\nMark every status honestly. Ask one study provider for a written quote, along with the evidence list from this deck. And send your CPA the workbook, the settlement statement, the furnishing receipts, and your calendar.\n\nOpen the workbook after Sam's PA.5 lesson, and bring it to the CPA meeting that PA.10 sets up.\n\nThe course then moves to PA.6, DSCR Loans 101: How They Qualify the Property, Not You. That's where the same property's cash flow meets the lender's math. Keep the tax effect out of that math. A lender underwrites cash flow, not deductions.\n\nCome back to this workbook each year, and again at OP.12, when you weigh a sale or an exchange."
     },
     {
       "type": "sources",
@@ -935,7 +864,7 @@
         }
       ],
       "ref": "SR.3 sources",
-      "notes": "These are the sources the workbook relies on.\n\nThe IRS news release and Notice 2026-11 cover the permanent 100% bonus for property acquired after January 19, 2025, the binding contract rule, and the 40% election. Publication 946 covers the 20-year limit, the land rule, the rates by date, the residential rental definition, and the mid-month convention.\n\nPublication 527 covers the personal-use day test and allowable depreciation. Publication 925 covers the 7-day rule, the participation tests, and the $25,000 allowance. The Form 461 instructions give the 2025 excess business loss thresholds. Form 3115 covers late studies. Publication 5653 is the examiners' guide to cost-segregation studies. Publication 544 and Topic 409 cover what happens at sale.\n\nThe Cedar Ridge figures come from example B6. The low and high cases, the study fee, the reclass split, and the adjustments are new assumptions for teaching. Tax rules change by year, so check each one with your CPA."
+      "notes": "These are the sources the workbook relies on.\n\nThe IRS news release and Notice 2026-11 cover the permanent 100% bonus after January 19, 2025. They also cover the binding contract rule and the 40% election. Publication 946 covers the 20-year limit, the land rule, the rates by date, the residential rental definition, and the mid-month convention.\n\nPublication 527 covers the personal-use day test and allowable depreciation. Publication 925 covers the 7-day rule, the participation tests, and the $25,000 allowance. The Form 461 instructions give the 2025 excess business loss thresholds. Form 3115 covers late studies. Publication 5653 is the examiners' guide to cost-segregation studies. Publication 544 and Topic 409 cover what happens at sale.\n\nThe Cedar Ridge figures come from the course's hypothetical teaching example. The low and high cases, the study fee, the reclass split, and the adjustments are new assumptions for teaching. Tax rules change by year, so check each one with your CPA."
     }
   ]
 }

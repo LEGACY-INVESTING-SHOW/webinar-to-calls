@@ -120,27 +120,27 @@
         {
           "q": "Distance",
           "sub": "You can't reach the unit within two hours at night (assumption)",
-          "no": "True counts toward two"
+          "no": "True if over two hours"
         },
         {
           "q": "Missed responses",
           "sub": "In the last 90 days, a guest waited past your promised time for an in-person fix more than once",
-          "no": "True counts toward two"
+          "no": "True if more than one miss"
         },
         {
           "q": "Your hours",
           "sub": "More hours a month than planned, crowding out finding the next deal",
-          "no": "True counts toward two"
+          "no": "True if over your plan"
         },
         {
           "q": "Written promises",
           "sub": "Lease addendum, permit, or house rules require a local contact you don't have (check SR.1)",
-          "no": "True counts toward two"
+          "no": "True if a promise is unmet"
         },
         {
           "q": "Volume",
           "sub": "You're adding units in the same area",
-          "no": "True counts toward two"
+          "no": "True if adding nearby units"
         }
       ],
       "end": "Two or more true: add **at least an on-call vendor**. Still failing after that: move up a level.",
@@ -326,7 +326,12 @@
       },
       "side": "**Per month:** $818, down from $1,018.\n\nA1 base case: 255 nights at $205 ADR, 85 stays, gross booking revenue **$61,625**. Costs include the platform fee, utilities, supplies, insurance, software, repairs, permit, $23,400 of rent, and the cleaner at $95 a turnover.",
       "ref": "6.5.7",
-      "notes": "Now the numbers. Start with the canonical base case, A1. Alder Street books 255 nights at a $205 rate, 85 stays. Gross booking revenue is $61,625. Subtract the platform fee, the cleaner, utilities, supplies, insurance, software, repairs, the permit, and $23,400 in rent. Net before income tax is $12,218 a year, or $1,018 a month. The cleaner is already paid $95 a turnover in those numbers.\n\nSetup 1, cleaner only, adds nothing. Net stays at $1,018 a month.\n\nSetup 2 adds an on-call vendor. I'm assuming a $150 monthly retainer that includes one inspection and on-call response, plus a $600 yearly budget for billed call-outs. The retainer is $1,800 a year. Add the $600 and the vendor costs $2,400 a year.\n\nNet drops to $9,818 a year, or $818 a month. You gave up $200 a month and closed the emergency gap you promised the landlord. Keep that $818 in mind as we go up the ladder."
+      "notes": "Now the numbers. Start with the canonical base case, A1. Alder Street books 255 nights at a $205 rate, 85 stays. Gross booking revenue is $61,625. Subtract the platform fee, the cleaner, utilities, supplies, insurance, software, repairs, the permit, and $23,400 in rent. Net before income tax is $12,218 a year, or $1,018 a month. The cleaner is already paid $95 a turnover in those numbers.\n\nSetup 1, cleaner only, adds nothing. Net stays at $1,018 a month.\n\nSetup 2 adds an on-call vendor. I'm assuming a $150 monthly retainer that includes one inspection and on-call response, plus a $600 yearly budget for billed call-outs. The retainer is $1,800 a year. Add the $600 and the vendor costs $2,400 a year.\n\nNet drops to $9,818 a year, or $818 a month. You gave up $200 a month and closed the emergency gap you promised the landlord. Keep that $818 in mind as we go up the ladder.",
+      "side_box": {
+        "kind": "info",
+        "label": "Setup 1 for comparison",
+        "text": "Cleaner only (canonical A1): added cost $0, net $12,218 a year, $1,018 a month."
+      }
     },
     {
       "type": "calc",
@@ -420,32 +425,63 @@
       "assumption": true,
       "items": [
         {
-          "label": "1. Cleaner only",
+          "label": "1. Cleaner only, $205",
           "value": 49.9,
           "kind": "pos",
+          "hot": false,
           "display": "49.9%"
         },
         {
-          "label": "2. + On-call vendor",
+          "label": "1. Cleaner only, $180",
+          "value": 57.1,
+          "kind": "total",
+          "hot": false,
+          "display": "57.1%"
+        },
+        {
+          "label": "2. + On-call vendor, $205",
           "value": 53.8,
           "kind": "pos",
+          "hot": false,
           "display": "53.8%"
         },
         {
-          "label": "3a. Co-host 10% of gross",
+          "label": "2. + On-call vendor, $180",
+          "value": 61.6,
+          "kind": "total",
+          "hot": false,
+          "display": "61.6%"
+        },
+        {
+          "label": "3a. Co-host 10% of gross, $205",
           "value": 58.3,
           "kind": "pos",
+          "hot": false,
           "display": "58.3%"
         },
         {
-          "label": "4. Full manager 20% of gross",
+          "label": "3a. Co-host 10% of gross, $180",
+          "value": 67.0,
+          "kind": "total",
+          "hot": false,
+          "display": "67.0%"
+        },
+        {
+          "label": "4. Full manager 20% of gross, $205",
           "value": 70.1,
           "kind": "neg",
           "hot": true,
           "display": "70.1%"
+        },
+        {
+          "label": "4. Full manager 20% of gross, $180",
+          "value": 81.0,
+          "kind": "neg",
+          "hot": true,
+          "display": "81.0%"
         }
       ],
-      "caption": "Break-even occupancy at $205 ADR. At $180 ADR: 57.1%, 61.6%, 67.0%, and 81.0%. The base case runs at 70%.",
+      "caption": "Break-even occupancy at $205 ADR and at $180 ADR. The base case runs at 70% occupancy; the stress case at 60%.",
       "ref": "6.5.7",
       "notes": "Break-even occupancy tells the same story from another angle.\n\nAt the $205 rate, cleaner only breaks even at 49.9% occupancy. Add the vendor and it's 53.8%. A co-host at 10% of gross pushes it to 58.3%. A full manager at 20% pushes it to 70.1%.\n\nThe base case runs at 70%. So with a full manager, Alder Street needs about 70% occupancy just to break even at the base rate. That's the base case itself. There's no cushion at all.\n\nAt the $180 stress rate it's worse. Cleaner only needs 57.1%. The vendor needs 61.6%. The co-host needs 67.0%. The full manager needs 81.0%.\n\nConnect this back to lesson 3.4. C1 on the scorecard was the break-even cushion. Alder Street scored a zero there with a 20.1-point cushion. Hire a full manager and that cushion is gone. The staffing decision changes the scorecard, so rescore after you choose."
     },
@@ -470,13 +506,13 @@
           "Co-host (10% of gross)",
           "$514",
           "14",
-          "about $37"
+          "$37"
         ],
         [
           "Full manager (20% of gross)",
           "$1,027",
           "20",
-          "about $51"
+          "$51"
         ]
       ],
       "box": {
@@ -485,7 +521,8 @@
         "text": "A fee of **19.8%** of gross wipes out the base-case net. A fee of about **10.1%** leaves you $500 a month. Above roughly 10% of gross, you keep less than $500 a month in a good year."
       },
       "ref": "6.5.7",
-      "notes": "Two more numbers help you negotiate.\n\nA fee of 19.8% of gross wipes out the base-case net entirely. A fee of about 10.1% leaves you $500 a month. So for this unit, any percentage deal above roughly 10% of gross leaves you less than $500 a month, and that's in a good year.\n\nNow compare cost with the time you get back. I'm assuming the vendor saves you 4 hours a month, the co-host 14, and the manager 20.\n\nThe vendor costs $2,400 a year, which is $200 a month, or $50 per hour saved. The co-host at 10% of gross costs $6,162 a year, about $514 a month, or about $37 per hour saved. The manager costs $12,325 a year, about $1,027 a month, or about $51 per hour saved.\n\nSo the co-host is the cheapest per hour. But it pushes the stress case negative. The vendor is the cheapest in total and keeps the base case healthy. Cost per hour is useful, but it isn't the deciding number. The stress case is."
+      "notes": "Two more numbers help you negotiate.\n\nA fee of 19.8% of gross wipes out the base-case net entirely. A fee of about 10.1% leaves you $500 a month. So for this unit, any percentage deal above roughly 10% of gross leaves you less than $500 a month, and that's in a good year.\n\nNow compare cost with the time you get back. I'm assuming the vendor saves you 4 hours a month, the co-host 14, and the manager 20.\n\nThe vendor costs $2,400 a year, which is $200 a month, or $50 per hour saved. The co-host at 10% of gross costs $6,162 a year, about $514 a month, or about $37 per hour saved. The manager costs $12,325 a year, about $1,027 a month, or about $51 per hour saved.\n\nSo the co-host is the cheapest per hour. But it pushes the stress case negative. The vendor is the cheapest in total and keeps the base case healthy. Cost per hour is useful, but it isn't the deciding number. The stress case is.",
+      "caption": "Co-host and manager cost per hour are rounded (about $37 and about $51)."
     },
     {
       "type": "statement",

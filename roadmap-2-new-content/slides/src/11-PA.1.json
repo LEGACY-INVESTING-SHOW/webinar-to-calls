@@ -144,7 +144,7 @@
    "rows": [
     [
      "Money",
-     "Two caps: max cash to close, and max total cash in (plus furnishing). Total cap = savings minus reserves and other startup costs."
+     "Two caps: max cash to close, and max total cash in (cash to close plus furnishing). Total cap = savings minus reserves and other startup costs."
     ],
     [
      "Financing path",

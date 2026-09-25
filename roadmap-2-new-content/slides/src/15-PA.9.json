@@ -612,7 +612,7 @@
       "eyebrow": "Cedar Ridge · the cash test",
       "title": "Seller repairs and the final budget turn a $1,575 cash shortfall into $7,265 spare",
       "assumption": true,
-      "text": "The seller refused a $7,000 roof credit but agreed to fix the septic ($1,850) and treat the well ($2,000) before closing, and to pay the $3,100 lien.",
+      "text": "The seller refused a $7,000 roof credit, but fixed the septic and well before closing and paid the $3,100 lien.",
       "columns": [
         "Cash test line",
         "First draft",
@@ -655,7 +655,7 @@
       "box": {
         "kind": "info",
         "label": "What it did to the deal",
-        "text": "$7,265 is $2,735 under their $10,000 floor from PA.8.6. Saving $3,500 a month refills it before the 45-day close. Cash-on-cash falls from 3.9% to 3.6%."
+        "text": "$7,265 is $2,735 under their $10,000 floor (PA.8.6). Saving refills it before closing. Cash-on-cash falls from 3.9% to 3.6%."
       },
       "ref": "PA.9.8",
       "notes": "Now the cash. PA.8 left Maya and Chris $11,020 unallocated, after their Test 3 set-asides. Those set-asides included two years of weak-case shortfall.\n\nThe first draft had the buyers paying every repair: $350, $1,650, $2,300, $380, and $275. That's $4,955. With the $3,820 stacked on top, the weak-case shortfall grows by $7,640 over the two years PA.8 funds. Together that's $12,595 against $11,020. The deal fails by $1,575.\n\nSo they renegotiated inside the 10-day window. The seller refused a $7,000 roof credit, but agreed to repair the septic and treat the well before closing, and to pay the lien. Now the buyers pay only $2,955. That column passes by $425.\n\nOn the final budget, the weak case is only $400 a year worse than planned, so the extra reserve is $800. The total is $3,755, and $7,265 stays unallocated. That's under the $10,000 floor they set in PA.8.6 by $2,735. They still save $3,500 a month, so the 45 days to closing refill it.\n\nBase-case cash-on-cash falls from 3.9% to 3.6%. That's $5,172 over $145,643."

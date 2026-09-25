@@ -1,0 +1,326 @@
+{
+  "nn": 27,
+  "code": "SR.5",
+  "title": "Tool comparison guide: PMS, dynamic pricing, AI guest messaging",
+  "short": "Tool comparison guide",
+  "section": "Part Three · Shared Resource Library",
+  "slides": [
+    {
+      "type": "cover",
+      "title": "Your weights and a trial pick your tools",
+      "ref": "SR.5.0",
+      "notes": "This resource is a worksheet for choosing your software. It covers three jobs: the property management system or channel manager, which I'll call the PMS, dynamic pricing, and AI guest messaging. The tools you run together are your stack.\n\nIt never names a best tool. The right stack for one apartment on two channels is often wrong for a lake house that plans a direct-booking site next year. So you describe your operation, weight what matters to it, run a real trial, and score what you saw.\n\nSam's 9.12 and 9.13 show the screens. OP.4 and OP.5 show owners how to wire them together. This sheet is where you compare and decide."
+    },
+    {
+      "type": "flow",
+      "title": "Most failures happen at the handoffs to and from the PMS",
+      "ref": "SR.5.1",
+      "nodes": [
+        {
+          "h": "PMS",
+          "d": "Listing, calendar, rates"
+        },
+        {
+          "h": "Pricing tool",
+          "d": "Sends nightly rates"
+        },
+        {
+          "h": "Messaging",
+          "d": "Reads reservations"
+        },
+        {
+          "h": "Payment and tax",
+          "d": "Follow merchant of record"
+        }
+      ],
+      "notes": "Before you score anything, draw the flow for your own operation. Most small stacks look like this.\n\nThe PMS holds the listing, the calendar, and the rates, and pushes them to Airbnb, Vrbo, and a direct site. The pricing tool sends rates and minimum stays to the PMS or straight to a channel. The messaging layer reads reservations and sends guest messages. Payment and tax follow whoever is the merchant of record on each channel.\n\nThe screens usually work. The problems show up at the handoffs. A rate set in two places. A block that reaches Airbnb and not Vrbo. A message with last month's door code. So your trial tests the handoffs, not just the screens."
+    },
+    {
+      "type": "table",
+      "title": "Connecting a PMS can change who handles payment and tax",
+      "ref": "SR.5.1",
+      "columns": [
+        "Channel",
+        "What can change"
+      ],
+      "rows": [
+        [
+          "Airbnb, sync everything",
+          "You edit only in your software"
+        ],
+        [
+          "Airbnb, pricing and availability only",
+          "Content stays on Airbnb"
+        ],
+        [
+          "Vrbo",
+          "No rate or calendar edits in the dashboard"
+        ],
+        [
+          "Vrbo",
+          "You may become merchant of record"
+        ]
+      ],
+      "notes": "Two platform rules shape the flow. First, one term. The merchant of record is the business that charges the guest's card and answers for that payment, including refunds and, often, the tax.\n\nAirbnb gives connected hosts two sync choices. With sync everything, you edit details, photos, pricing, and availability only in your software. With the other choice, content stays on Airbnb.\n\nVrbo says that once you integrate, you can't edit availability, bookings, or rates in the Owner Dashboard. And depending on your setup, you may become the merchant of record, handling payments and lodging tax. Ask your vendor in writing whether your setup does that, and ask about Airbnb too."
+    },
+    {
+      "type": "checklist",
+      "title": "Describe your operation before you look at any tool",
+      "ref": "SR.5.2",
+      "items": [
+        "Properties now and in 12 months",
+        "Channels and direct-booking plans",
+        "Team and monthly software budget",
+        "Merchant of record and tax, by channel",
+        "Permit number and lock system",
+        "Your must-haves"
+      ],
+      "notes": "The operator profile comes before any trial. It describes your business, not the software.\n\nStart with how many properties you have now and in a year, your channels, and whether you need direct booking and when. Then your team and your software budget, taken from your underwriting model.\n\nThe middle rows come from SR.1. For each channel, who is the merchant of record, and who remits each lodging tax? Does your city want the permit number in every listing? Copy those answers here, because the software has to support them.\n\nThe last row matters most. Must-haves are the criteria where a rating below 3 knocks a tool out, whatever its total. Decide them now."
+    },
+    {
+      "type": "table",
+      "title": "Rate a PMS on what you tested, not its feature list",
+      "ref": "SR.5.3",
+      "columns": [
+        "Criterion",
+        "Test"
+      ],
+      "rows": [
+        [
+          "Calendar and rate sync",
+          "Run T1 to T4"
+        ],
+        [
+          "One place to edit",
+          "Edit both places; see what wins"
+        ],
+        [
+          "Permissions",
+          "Cleaner login can't see payouts"
+        ],
+        [
+          "Owner statements",
+          "Reconcile a week to payouts"
+        ],
+        [
+          "Tax handling",
+          "Book T6; check the tax line"
+        ]
+      ],
+      "notes": "For the PMS, every criterion has a test you actually run. A vendor's feature list tells you what they claim. The trial tells you what happens on your listing.\n\nChange a rate in the PMS, then try to change it on Airbnb, and see which one wins. You want one place to edit. Make a login for your cleaner and check it can't see payouts. Export the trial period and reconcile a week of it to what the channels actually paid you.\n\nFor tax, enter your SR.1 Section D taxes, run a direct booking test, and look at the tax line. And time your setup, and ask how you'd disconnect cleanly."
+    },
+    {
+      "type": "table",
+      "title": "Set your pricing floor from your break-even, not the tool's default",
+      "ref": "SR.5.4",
+      "text": "Alder Street breaks even at:",
+      "columns": [
+        "Average nightly rate",
+        "Occupancy needed"
+      ],
+      "rows": [
+        [
+          "$205",
+          "49.9%"
+        ],
+        [
+          "$180",
+          "57.1%"
+        ]
+      ],
+      "notes": "A pricing tool changes your rates every day. You need limits it can't cross, and you need to know what it did.\n\nBreak-even is a pair: an average rate and the occupancy you need at it. For Alder Street, that's 49.9% at a $205 average, or 57.1% at $180. The floor is a nightly minimum, not your average. Set it so a few low nights can't drag your average below break-even.\n\nThen read the change log after three days: old rate, new rate, and the reason. If you can't explain a change, you can't manage it. And price a 7-night stay on each channel to catch discounts stacking on each other."
+    },
+    {
+      "type": "bullets",
+      "title": "AI messaging can answer questions, and it can't make promises",
+      "ref": "SR.5.5",
+      "items": [
+        "Emergencies alert a named person at once",
+        "Refunds and discounts go to a human",
+        "Unsure answers wait for a human",
+        "Get the data policy in writing"
+      ],
+      "notes": "AI messaging tools draft or send replies from your listing, house manual, and reservation data. They save time on routine questions. They also bring new risks: a wrong answer sent with confidence, a missed emergency, or guest data read by a system you didn't check.\n\nThe emergency test is the one I care about most. Words like fire, smoke, gas, carbon monoxide, or flood should alert a real person at once, and the guest should be told to leave and call 911 first. Send the test message and time the alert.\n\nAlso ask what guest data the tool reads and keeps, and whether it trains on it. Get that answer in writing."
+    },
+    {
+      "type": "calc",
+      "title": "Score each stack by weight times rating, over total weight",
+      "ref": "SR.5.6",
+      "lines": [
+        {
+          "op": "",
+          "label": "Weight 5 × rating 4",
+          "v": "20"
+        },
+        {
+          "op": "+",
+          "label": "Weight 1 × rating 2",
+          "v": "2"
+        },
+        {
+          "op": "÷",
+          "label": "Total weight",
+          "v": "6"
+        }
+      ],
+      "result": {
+        "label": "Score",
+        "v": "3.67"
+      },
+      "notes": "Scoring happens after the trial, never before. Each candidate is a whole stack: the PMS plus the pricing and messaging you'd run with it.\n\nEach criterion gets two numbers. The weight, from 1 to 5, says how much it matters. You set it on day one. The rating, also 1 to 5, says how the tool did in your trial. A 5 worked with no workaround. A 1 failed or wasn't there.\n\nMultiply each rating by its weight, add them up, and divide by the total of the weights. Two criteria weighted 5 and 1, rated 4 and 2, give 22 over 6, or 3.67. In a spreadsheet, that's one SUMPRODUCT divided by a SUM."
+    },
+    {
+      "type": "gates",
+      "title": "Knock out must-have failures, then look for a 0.30 lead",
+      "ref": "SR.5.6",
+      "gates": [
+        {
+          "q": "Rated 3 or higher on every must-have?",
+          "no": "That tool is out"
+        },
+        {
+          "q": "Any tool still standing?",
+          "no": "No pick yet"
+        },
+        {
+          "q": "Leader ahead by 0.30 or more?",
+          "no": "Count wins on top-weight rows"
+        }
+      ],
+      "end": "Pick the leader, then confirm its price.",
+      "notes": "Four rules turn scores into a decision. Apply them in order.\n\nFirst, the knockout. If a tool rates below 3 on anything you marked must-have, it's out, whatever its score.\n\nSecond, if every candidate is knocked out, you haven't found your tool yet. Keep what you have, or trial another one.\n\nThird, compare the scores rounded to two decimals. A lead of 0.30 or more picks the leader. That line is a teaching default, not a law.\n\nFourth, the close call. Look only at the criteria with your top weight and count which tool rates higher on each. Ties count for neither. If the count is equal, pick the tool rated higher on setup effort."
+    },
+    {
+      "type": "flow",
+      "title": "Run a two-week trial on one real listing",
+      "ref": "SR.5.8",
+      "nodes": [
+        {
+          "h": "Day 1",
+          "d": "Weights, then export"
+        },
+        {
+          "h": "Days 2 to 5",
+          "d": "PMS and pricing tests"
+        },
+        {
+          "h": "Days 6 to 11",
+          "d": "Messaging and bookings"
+        },
+        {
+          "h": "Days 12 to 14",
+          "d": "Reconcile and score"
+        }
+      ],
+      "notes": "The trial runs two weeks on one real listing, on dates you can watch. Keep a log with the date, the test, the result, and a screenshot.\n\nOn day 1, set your weights and must-haves before you open any tool, and export your current reservations, rates, and messages so you can go back. On day 2, connect the PMS and choose the Airbnb sync mode on purpose.\n\nThe ten tests run through the middle days: blocks, rates, and minimum stays first, then the messaging tests, including the carbon monoxide message. Watch real bookings arrive. Don't create them.\n\nIf you trial two tools, never connect both to the same listing at once. Then reconcile a week, send vendor questions, and score."
+    },
+    {
+      "type": "table",
+      "title": "Same two tools, different weights, different answers",
+      "ref": "SR.5.10",
+      "columns": [
+        "Weight",
+        "Alder Street",
+        "Cedar Ridge"
+      ],
+      "rows": [
+        [
+          "Direct booking",
+          "1",
+          "5"
+        ],
+        [
+          "Owner statements",
+          "2",
+          "4"
+        ],
+        [
+          "Setup effort",
+          "4",
+          "3"
+        ],
+        [
+          "Cost fit",
+          "5",
+          "3"
+        ],
+        [
+          "Total weight",
+          "29",
+          "31"
+        ]
+      ],
+      "total_last": true,
+      "notes": "Here's the worked example. Tool X and Tool Y are hypothetical, and every weight and rating is an assumption for teaching. Tool X is a lighter channel manager, quick to set up. Tool Y is a fuller PMS with a direct-booking site and owner statements, and more setup work.\n\nAlder Street is one leased apartment on Airbnb and Vrbo, with a $90 a month budget. Cost and setup matter most, and direct booking barely matters.\n\nCedar Ridge is Maya and Chris's lake house, with a $100 a month budget. They plan a direct site within 12 months and need clean statements for their CPA. So direct booking jumps to 5 and statements to 4. Watch what that does."
+    },
+    {
+      "type": "table",
+      "title": "Alder Street gets Tool X on setup effort",
+      "ref": "SR.5.10",
+      "text": "A 0.20 gap is a close call, so count wins on weight-5 rows.",
+      "columns": [
+        "",
+        "Tool X",
+        "Tool Y"
+      ],
+      "rows": [
+        [
+          "Score",
+          "3.86",
+          "3.66"
+        ],
+        [
+          "Weight-5 wins",
+          "1",
+          "1"
+        ],
+        [
+          "Setup effort",
+          "5",
+          "2"
+        ]
+      ],
+      "notes": "Both tools pass Alder Street's must-haves, channel connections and calendar sync. Tool X scores 3.86 and Tool Y 3.66. That's a 0.20 gap, under the 0.30 line, so the score doesn't decide.\n\nThree criteria carry a weight of 5. Tool Y wins channel connections, 5 to 4. Tool X wins cost fit, 5 to 2. Sync is a tie, so it counts for neither. That's one win each.\n\nOn an equal count, setup effort decides. Tool X rates 5 and Tool Y rates 2. So Alder Street gets Tool X, on one condition: confirm its price in writing and check it fits the $90 budget."
+    },
+    {
+      "type": "table",
+      "title": "Cedar Ridge gets Tool Y, because Tool X fails direct booking",
+      "ref": "SR.5.10",
+      "columns": [
+        "",
+        "Tool X",
+        "Tool Y"
+      ],
+      "rows": [
+        [
+          "Direct booking rating",
+          "2",
+          "5"
+        ],
+        [
+          "Score",
+          "3.39",
+          "4.03"
+        ],
+        [
+          "Score, direct booking weighted 1",
+          "3.59",
+          "3.89"
+        ]
+      ],
+      "notes": "Cedar Ridge adds direct booking and payments as a must-have. Tool X rates 2 there, so it's out before the scores matter. The scores agree anyway: 4.03 for Tool Y against 3.39, a 0.64 lead.\n\nA fair question: the direct site is a year away, so should it count now? Rerun it with that weight at 1 and drop it as a must-have. Tool Y still leads, 3.89 to 3.59. That's exactly 0.30, right on the line. And starting on Tool X means a second setup and a migration next year while the house is booked.\n\nSo Cedar Ridge gets Tool Y, once its all-in price is confirmed. If it runs above $100 a month, Maya and Chris decide whether to accept that."
+    },
+    {
+      "type": "dothis",
+      "title": "Set your weights this week, before you open any tool",
+      "ref": "SR.5.13",
+      "items": [
+        "Write your profile, weights, and must-haves",
+        "Trial each tool on one real listing",
+        "Fill prices from dated vendor quotes"
+      ],
+      "next": "Next: Sam's 9.12 and 9.13, or OP.4 and OP.5 for owners.",
+      "notes": "Three things to do.\n\nFirst, fill in the operator profile, set your weights, and mark your must-haves. Copy merchant of record and tax routing from your SR.1 sheet. Do it before you look at any tool, so the weights reflect your operation and not a demo you liked.\n\nSecond, run the two-week trial on one real listing. Third, leave every price blank until you copy it from the vendor's own page or a written quote, and date it. Your vendor confirms terms in writing, and your CPA confirms the tax reports.\n\nRoadmap students, take this sheet into Sam's 9.12 and 9.13. Owners, use it in OP.4 and OP.5, then go to OP.6, Furnishing & Interior Optimization for an Owned Property."
+    }
+  ]
+}

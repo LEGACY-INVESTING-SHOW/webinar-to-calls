@@ -1,0 +1,366 @@
+<a id="lesson-SR.5-tool-comparison-guide"></a>
+## SR.5  Tool comparison guide: PMS, dynamic pricing, AI guest messaging
+
+| Tracker | Detail |
+|---|---|
+| Part / module | Part Three: Shared Resources |
+| Code | SR.5 |
+| Production type / owner | New / Preston |
+| Connects to | Sam's 9.11 Building Your Direct Booking Channel (Use Guesty), 9.12 Guesty for Hosts Tutorial, 9.13 PriceLabs Tutorial, 11.4 AI Tools for Hosts in 2026; Sam's OP.4 Tech Stack Architecture: PMS, Pricing, Messaging & Ops as One Workflow and OP.5 Dynamic Pricing & Revenue Management for Owners; resource SR.1 (Section D tax routing) |
+
+### SR.5.0 What this resource does
+
+This worksheet helps you pick a small, connected set of tools for your property count and your booking channels. It covers three jobs: the property management system or channel manager (PMS), dynamic pricing, and AI guest messaging. You describe your operation, weight what matters, score each candidate from a real trial, and write a recommendation with the evidence behind it.
+
+It does not name a best tool. The right stack for one apartment on two channels is often wrong for a lake house that will add a direct-booking site next year. It also does not replace Sam's walkthroughs. Sam records the course's live software demos. His 9.12 and 9.13 show how Guesty and PriceLabs work screen by screen. His OP.4 and OP.5 show how an owner wires the pieces together. Guesty and PriceLabs appear here only as examples of the categories those lessons cover. This sheet is where you compare candidates, test the handoffs between them, and record the decision.
+
+A few terms first. A **stack** is the set of tools you run together. A **PMS** holds your listings, calendar, and reservations. A **channel manager** mainly syncs your calendar and rates to Airbnb, Vrbo, and other sites. Many tools do both, so this sheet treats them as one category and calls it the PMS.
+
+**Order of use.** Fill the operator profile (SR.5.2). Set weights and must-haves (SR.5.6) before you see any tool. Read the criteria in SR.5.3 to SR.5.5 so you know what to test. Run the two-week trial (SR.5.8) with the tests in SR.5.9. Fill in prices (SR.5.7). Then score (SR.5.6) and write the recommendation (SR.5.11).
+
+### SR.5.1 How the pieces connect
+
+Before scoring anything, draw the flow for your operation. Most small stacks look like this:
+
+1. **The PMS or channel manager holds the listing, calendar, and rates.** It pushes them to Airbnb, Vrbo, and a direct-booking site if you have one. Reservations flow back into it.
+2. **The pricing tool reads your calendar and market data and sends nightly rates and minimum stays.** It sends them either to the PMS or straight to the channel.
+3. **The messaging layer reads reservation details and sends guest messages.** It may be built into the PMS or be a separate AI tool.
+4. **Payments and taxes follow whoever is the merchant of record on each channel.** That can change when you connect software.
+
+The failure points sit at the handoffs, and most handoffs run to or from the PMS. A rate set in two places. A calendar block that reaches Airbnb and not Vrbo. A message that quotes an old door code. A tax that nobody remits on direct bookings. Your trial should test the handoffs, not only the screens.
+
+One term runs through the rest of this sheet. The **merchant of record** is the business that charges the guest's card and is responsible for that payment. That includes refunds and, often, collecting the tax. Before you connect software, that is usually the platform.
+
+Two platform rules shape the flow.
+
+Airbnb gives connected hosts two sync choices, per [Airbnb's help article on PMS connections](https://www.airbnb.com/help/article/2683) and [its sync options article](https://www.airbnb.com/help/article/2348). With "sync everything", you edit listing details, photos, pricing, and availability only through your software. Fields the software controls appear grayed out on Airbnb. With "sync pricing and availability only", you keep listing content and booking settings on Airbnb and the software sends rates and calendar.
+
+Vrbo's [integration article](https://help.vrbo.com/articles/About-Vrbo-integration) says that once a listing is integrated, you can't edit availability, bookings, or rates in the Owner Dashboard. That's the screen where Vrbo hosts manage their listings. Descriptions, photos, amenities, and house rules should be edited in your software. It gives typical timing: rate and availability updates within a few hours, content updates in 24 to 48 hours.
+
+The same article covers money and tax. It says that depending on your setup, you may become the merchant of record. Then you handle payment processing, including tax collection and remittance. Remittance means paying the collected tax to the tax agency. Vrbo's [integrated property manager payments article](https://help.vrbo.com/articles/IPM-About-payments-for-integrated-accounts) states that an integrated property manager is the merchant of record. In plain terms, that's a host or manager whose Vrbo listings run through connected software. Ask your vendor in writing whether your setup makes you one. Per that article, the integrated property manager processes traveler payments through its own processor. It also keeps rates, fees, and tax rates accurate in the PMS. The same article says Vrbo cannot process payments on the integrated account's behalf.
+
+These sources cover the Vrbo change only. Ask your vendor and Airbnb, in writing, whether connecting changes anything about payments on Airbnb.
+
+So connecting a PMS can move three things: where you edit, who takes the guest's money, and who handles lodging tax. Record all three in the operator profile before you trial anything.
+
+### SR.5.2 Operator profile
+
+Several rows point to SR.1, the regulatory compliance checklist. Its Section A holds your plan, Section C your permit details, and Section D your lodging taxes and who remits each one.
+
+| Field | What to enter | Source or formula | Status |
+|---|---|---|---|
+| Property count now / in 12 months | Numbers | Your plan | |
+| Property types | Apartment, house, condo | SR.1 Section A | |
+| Channels now | Airbnb, Vrbo, Booking.com, direct | Your plan | |
+| Direct booking needed? When? | No / now / within X months | Your plan (Sam's 9.11, OP.3) | |
+| Team | Who handles messages, cleaning schedules, maintenance; time zones | Your plan | |
+| Software budget per month | Dollar amount | Your underwriting model (SR.2) | |
+| Who is merchant of record, by channel | Airbnb / Vrbo / you (via PMS processor) / direct | Platform articles above; vendor answer | |
+| Who remits each lodging tax, by channel | Platform / you | SR.1 Section D | |
+| Permit-number display rule | Must the permit number (the number your city or county issues for a short-term rental, where it issues one) appear in every listing? | SR.1 Section C | |
+| Smart lock or access system | Brand and whether codes are generated per stay | Your setup | |
+| Must-have criteria | The criteria where a rating below 3 disqualifies a tool | You decide (see SR.5.6) | |
+| Prepared by / date | Name, date | | |
+
+In the Status column, write "done" or "confirm with ___" and name the person.
+
+### SR.5.3 PMS and channel-manager criteria
+
+Rate each on the 1-to-5 scale in SR.5.6. The "How to test it" column is what you do during the trial. A vendor's feature list is a claim, not a test.
+
+| Criterion | What to check | How to test it | Evidence to save |
+|---|---|---|---|
+| Native integrations | Official connection to each channel you use; which sync mode it supports on Airbnb | Find the vendor on [Airbnb's software partner list](https://www.airbnb.com/software-partners). Ask the vendor in writing which Vrbo connection it has and which Airbnb sync modes it supports | Screenshot of partner listing; vendor email |
+| Calendar and rate sync | Two-way calendar; rate, minimum-stay, and fee sync; time to reach each channel | Test script T1 to T4 in SR.5.9 | Timed log |
+| Single source of truth | One place to edit rates, rules, and content; overrides blocked or flagged | Change a rate in the PMS, then try to change it on the channel; see what wins | Screenshots |
+| Permissions | Separate logins for cleaner, co-host (a second person who helps run the listing), owner; limits on who sees payouts and guest data | Create a cleaner login; confirm it can't see payouts | Screenshot |
+| Owner statements and reporting | Revenue by channel, fees, taxes collected, payouts; matches your bookkeeping (9.8) | Export the trial period on day 12; reconcile at least one week to channel payouts | Reconciled sheet |
+| Payment handling | Merchant of record per channel; payment processor; refunds and deposits | Ask the vendor in writing; run T6 | Vendor email; test receipt |
+| Tax handling | Can it hold tax rates per jurisdiction? Does it separate platform-remitted from operator-remitted tax? | Enter your SR.1 Section D taxes; book T6; check the tax line | Screenshot |
+| Permit-number field | Can it push the permit number to each listing? | Check the listing preview on each channel | Screenshot |
+| Data export | Reservations, guests, financials in CSV; contract terms on your data | Export reservations, guests, and financials as CSV on day 12 | Files |
+| Migration effort | Steps to connect, and to leave. Airbnb has a [switching-software article](https://www.airbnb.com/help/article/2958) | Time your setup; ask how to disconnect cleanly | Setup log |
+
+### SR.5.4 Dynamic-pricing criteria
+
+A pricing tool changes your rates every day. You need to know what it did and why, and you need limits it can't cross. Airbnb also has a built-in option, [Smart Pricing](https://www.airbnb.com/help/article/1168), which adjusts prices based on demand on Airbnb only. A third-party tool (PriceLabs, which Sam's 9.13 covers, is one example) usually sends rates to several channels through the PMS.
+
+A few terms in the table. A **comp set** is the group of similar nearby listings the tool compares you to. A **gap night** is a single open night between two bookings. **Lead time** is how far ahead of the stay a guest books. **Booking pace** is how fast your dates fill compared with the market.
+
+| Criterion | What to check | How to test it |
+|---|---|---|
+| Floor and ceiling | Hard minimum and maximum nightly rate, by season | Set a nightly floor using your break-even math; confirm no date goes below it |
+| Minimum stays | Rules by day of week, season, gap nights, and lead time | Create a 1-night gap; see what the tool does |
+| Event overrides | Manual rates for known local events; tool does not overwrite them | Set an override; wait two syncs; check it held |
+| Booking pace | Does it react when your dates book faster or slower than the market? | Read the tool's explanation for one date |
+| Comp-set quality | Can you see and edit the comparable listings? Are they truly similar (bedrooms, guest count, location)? | Review the comp list against Sam's 4.3 AirDNA work or PA.4 comps |
+| Review of changes | Change log with old rate, new rate, date, reason | Open the log after three days |
+| Where the rate lands | Sends to PMS or directly to channel; no double-pricing | Compare the rate on each channel for five dates (T3) |
+| Fee and discount handling | Knows your cleaning fee, weekly discounts, and platform fee so it does not double-discount | Price a 7-night stay on each channel |
+
+Tie the floor to your own numbers. Break-even is a pair: an average nightly rate and the occupancy you need at that rate. Alder Street breaks even at 49.9% occupancy if it averages $205 a night, or 57.1% if it averages $180 (canonical example, assumptions). The floor is a nightly minimum, not your average. Set it where a few low nights won't pull your average below break-even at the occupancy you expect. A floor set without this math is a guess.
+
+### SR.5.5 AI guest-messaging criteria
+
+AI messaging tools draft or send replies based on your listing, house manual, and reservation data. They save time on routine questions. They also create new risks: a wrong answer sent with confidence, a missed emergency, or guest data read by a system you did not vet. Score these criteria with the same care as calendar sync.
+
+| Criterion | What to check | How to test it |
+|---|---|---|
+| Approved templates | Check-in, checkout, house rules, and Wi-Fi messages come from templates you wrote and approved | Read every template before go-live (the day the tool starts messaging real guests) |
+| Information sources | Which documents and fields the AI may use; can you exclude old ones? | Ask about a detail that only exists in an outdated document; it should not answer from it |
+| Confidence and fallback | When unsure, it holds the draft for a human or sends a holding reply (a short "we're checking and will get back to you" message); you set the threshold | Ask an ambiguous question (T8) |
+| Human escalation | Routes refunds, discounts, rule exceptions, complaints, and damage to a named person with a response-time target | Ask for a discount; it must not promise one |
+| Emergency handling | Words such as fire, smoke, gas, carbon monoxide, flood, injury, police trigger an immediate human alert. The guest is told to leave and call 911 first | Send "the CO alarm is beeping" (T9); time the alert |
+| Guest-data access | What guest data it reads and stores; retention; deletion; whether it uses your data to train models | Get the vendor's written data policy. Ask the vendor to confirm it follows [Airbnb's API Terms of Service](https://www.airbnb.com/help/article/3418) |
+| Audit trail | Log of every message: sent by AI or human, sources used, who approved, time | Export the log after the trial |
+| Off-hours rules | What it does at 2 a.m. when no human is available | Send a test at night; check what was sent and who was alerted |
+| Channel rules | Messages stay within each platform's messaging rules, including no requests for off-platform payment | Review sent messages |
+
+Set one plain rule for any AI messaging tool: it can answer questions, and it can't make promises. Refunds, discounts, early check-in exceptions, and damage claims go to a human.
+
+### SR.5.6 Weighted comparison table
+
+Score each candidate after the trial, not before.
+
+**What a candidate is.** Each candidate is one complete stack: a PMS or channel manager plus the pricing tool and messaging layer you would run with it. Those can be built in or added on.
+
+**Weights (1 to 5).** How much the criterion counts in the score. 5 means the operation fails without it. 1 means nice to have.
+
+**Must-haves** are a separate, pass-or-fail line. Rate a tool below 3 on a must-have and it's out, whatever its score. A weight only changes how much a row counts. Most must-haves also carry weight 4 or 5, but a weight-5 row doesn't have to be a must-have.
+
+**Ratings (1 to 5).** How the tool performed in your trial:
+
+| Rating | Meaning |
+|---|---|
+| 5 | Worked in the trial with no workaround |
+| 4 | Worked with a minor setting change |
+| 3 | Works, but needs a manual step every time |
+| 2 | Works only with a second tool or vendor support |
+| 1 | Failed or missing |
+
+Two rows don't fit that scale, so use this instead (assumption, teaching default). **Cost fit:** 5 means the all-in cost from SR.5.7 is well under budget, 3 means at budget, and 1 means over budget. **Setup and migration effort:** rate how easy it was. 5 means it connected quickly with no vendor help. 1 means it still wasn't working at day 14. A higher rating always means better, so a 5 on setup means the least effort. Fill SR.5.7 before you rate cost fit.
+
+**Formula.**
+
+Score = sum(weight × rating) / sum(weights)
+
+The score runs from 1.00 to 5.00. In a spreadsheet: `=SUMPRODUCT(weights, ratings) / SUM(weights)`.
+
+Example: two criteria with weights 5 and 1, rated 4 and 2. Score = (5 × 4 + 1 × 2) / (5 + 1) = 22 / 6 = 3.67.
+
+**How the detailed criteria roll up.** Use SR.5.3 to SR.5.5 as your trial checklist and rate each detailed criterion there. Then give each row of the comparison table one rating for its group. Where a group has a detailed rating of 1 or 2, write it in the Trial evidence column so it isn't hidden.
+
+| Comparison row | Built from |
+|---|---|
+| Channel connections | Native integrations (SR.5.3) |
+| Calendar and rate sync | Tests T1 to T4; single source of truth |
+| Direct booking and payments | Payment handling (SR.5.3); test T6 |
+| Pricing controls or pricing-tool link | The SR.5.4 criteria |
+| AI messaging safeguards | The SR.5.5 criteria |
+| Owner statements, tax reports, export | Owner statements, tax handling, data export (SR.5.3) |
+| Setup and migration effort | Migration effort (SR.5.3) |
+| Cost fit vs. software budget | All-in monthly cost (SR.5.7) |
+
+**Decision rules.** Apply in order.
+
+1. **Knockout.** A tool rated below 3 on any must-have criterion (from your operator profile) is out, whatever its score.
+2. **Nobody passes.** If every candidate is knocked out, you haven't found your tool yet. Keep your current setup or trial a new candidate.
+3. **Clear winner.** Compare scores rounded to two decimals, as the tables show them. If the top remaining score leads the next by 0.30 or more (assumption: a teaching default), pick it. That pick is subject to the price and terms you confirm in SR.5.7.
+4. **Close call.** If the top two are less than 0.30 apart, the score does not decide. Look only at the criteria that carry your top weight (usually 5). Count which tool rates higher on each; equal ratings count for neither. If one tool wins more of them, pick it. If the count is equal, pick the one rated higher on setup and migration effort. Then confirm price and terms in SR.5.7.
+
+**Blank comparison table.**
+
+| Criterion | Weight | Must-have? | Tool ___ rating | Weighted | Tool ___ rating | Weighted | Trial evidence |
+|---|---:|---|---:|---:|---:|---:|---|
+| Channel connections | | | | | | | |
+| Calendar and rate sync (tested) | | | | | | | |
+| Direct booking and payments | | | | | | | |
+| Pricing controls or pricing-tool link | | | | | | | |
+| AI messaging safeguards | | | | | | | |
+| Owner statements, tax reports, export | | | | | | | |
+| Setup and migration effort | | | | | | | |
+| Cost fit vs. software budget | | | | | | | |
+| **Total** | sum = | | | sum = | | sum = | |
+| **Score** | | | | sum / weights = | | sum / weights = | |
+
+Weighted means weight × rating. Add or remove rows to fit your operation. Keep the same rows for every candidate.
+
+### SR.5.7 Pricing and terms (you fill this in)
+
+Vendor pricing changes and often depends on property count and add-ons. Vrbo's integration article notes that software providers set their own pricing and billing models. This sheet leaves every price blank. Fill it from the vendor's own pricing page or a written quote, and date it. Fill it before you rate cost fit in SR.5.6.
+
+| Field | Tool ___ | Tool ___ | Source URL or quote | Date checked |
+|---|---|---|---|---|
+| Base monthly price for your property count | | | | |
+| Per-booking or percentage fees | | | | |
+| Payment-processing fees (if merchant of record) | | | | |
+| Add-ons needed (pricing, messaging, direct site) | | | | |
+| Setup or onboarding fee | | | | |
+| Contract term and cancellation notice | | | | |
+| Price lock or increase terms | | | | |
+| Data export on cancellation | | | | |
+| **All-in monthly cost** | | | Formula: base + add-ons + expected per-booking fees | |
+| Budget per month (from profile) | | | | |
+| Within budget? | | | | |
+
+Recheck this table within 30 days of signing. If you publish or share this comparison, recheck vendor terms first.
+
+### SR.5.8 Two-week trial checklist
+
+Run the trial on one real listing, on dates you can watch. Keep a log with the date, the test, the result, and a screenshot.
+
+| Day | Task | Done / result |
+|---|---|---|
+| 1 | Write the operator profile. Set weights and must-haves before you see any tool | |
+| 1 | Save a full export of current reservations, rates, and messages from each channel | |
+| 2 | Connect the PMS. Choose the Airbnb sync mode on purpose and record it | |
+| 2 | Enter taxes and fees from SR.1 Section D; enter the permit number | |
+| 3 | Run test script T1 to T4 (calendar and rates) | |
+| 4 | Connect the pricing tool. Set floor, ceiling, minimum stays, and one event override | |
+| 5 | Run T3 again with the pricing tool live. Check for double-pricing | |
+| 6 | Load approved message templates and the house manual into the messaging layer | |
+| 7 | Run T8 to T10 (messaging) | |
+| 8 | Review the pricing change log. Did any date go below the floor? | |
+| 9 | Run T5 and T6 (reservation flow, direct booking if used) | |
+| 10 | Set up permissions: cleaner login, co-host login | |
+| 11 | Run T7 (cancellation and modification) | |
+| 12 | Export all data. Reconcile one week of bookings to channel payouts | |
+| 13 | Send the vendor your written questions (drafted in week one: merchant of record, taxes, data policy) and chase any unanswered ones | |
+| 14 | Score the tool in SR.5.6. Write the recommendation in SR.5.11 | |
+
+If you are trialing two tools, run them one after the other on the same listing, or on two similar listings at the same time. Never connect two PMSs to the same listing at once.
+
+You can't force a real booking or a guest change. If none arrives during the trial, mark T5 or T7 "not tested". List it as an open question in SR.5.11. Don't rate those rows above 3 until it's tested (assumption, teaching default).
+
+### SR.5.9 Integration test script
+
+Most of these tests use calendar blocks and rate changes, which carry no guest risk. Only run a real reservation through a booking platform if its terms allow it. Ask the platform or the vendor's onboarding team first. Never use a test booking to create a review.
+
+| # | Test | Expected result | Pass rule |
+|---|---|---|---|
+| T1 | Block three nights in the PMS | Blocked on Airbnb and Vrbo | Blocked on every channel within the timing Vrbo and the vendor state (Vrbo cites a few hours for availability) |
+| T2 | Unblock them | Open on every channel | Same timing |
+| T3 | Change the rate on five dates, including one weekend | Same rate, plus correct fees, on every channel | Every channel matches the PMS |
+| T4 | Change minimum stay for one week | Rule shows on every channel | Matches |
+| T5 | First real reservation on each channel (watch it, don't create it) | Appears in PMS with correct dates, guest count, payout, and taxes; blocks other channels | No double booking; payout matches channel |
+| T6 | Direct booking with your own card, then refund (if you take direct bookings) | Charge, tax line, confirmation email, calendar block, refund | Tax charged matches SR.1 Section D; refund posts |
+| T7 | Guest-side change on a real booking (date change or cancellation within policy) | PMS updates dates and payout; calendar reopens | Matches channel |
+| T8 | Ask the AI an ambiguous question ("Can we bring our dog if it's small?") | Holds for human or sends a holding reply | No invented answer |
+| T9 | Send "the CO alarm is beeping" | Tells guest to leave and call 911 first; alerts named human at once | Human alerted within your target time |
+| T10 | Ask for a discount or refund | Escalates to human; promises nothing | No promise sent |
+
+### SR.5.10 Worked example: Alder Street vs. Cedar Ridge with Tool X and Tool Y
+
+Alder Street is the course's example of a student leasing one apartment to host. Cedar Ridge is the example lake house owned by Maya and Chris. Both are hypothetical.
+
+Tool X and Tool Y are hypothetical too. Tool X is a lighter channel manager with basic pricing links and messaging, quick to set up. Tool Y is a fuller PMS with a direct-booking site, owner statements, and more setup work. All weights and ratings below are assumptions for teaching. Scores come from the formula in SR.5.6, and weighted means weight × rating.
+
+**Operator profiles (from the course's recurring example, assumptions).**
+
+| Field | Alder Street | Cedar Ridge |
+|---|---|---|
+| Properties | 1 leased apartment | 1 owned house |
+| Channels | Airbnb, Vrbo | Airbnb, Vrbo; direct booking within 12 months |
+| Team | Student plus a cleaner | Maya and Chris plus a cleaner and on-call handyman |
+| Software budget | $90 / month ($1,080 / year) | $100 / month ($1,200 / year) |
+| Must-haves | Channel connections; calendar sync | Channel connections; calendar sync; direct booking and payments |
+
+**Alder Street.** Cost and setup effort matter most. Direct booking barely matters.
+
+| Criterion | Weight | Tool X rating | X weighted | Tool Y rating | Y weighted |
+|---|---:|---:|---:|---:|---:|
+| Channel connections | 5 | 4 | 20 | 5 | 25 |
+| Calendar and rate sync | 5 | 4 | 20 | 4 | 20 |
+| Direct booking and payments | 1 | 2 | 2 | 5 | 5 |
+| Pricing controls or pricing-tool link | 4 | 3 | 12 | 4 | 16 |
+| AI messaging safeguards | 3 | 3 | 9 | 4 | 12 |
+| Owner statements, tax reports, export | 2 | 2 | 4 | 5 | 10 |
+| Setup and migration effort | 4 | 5 | 20 | 2 | 8 |
+| Cost fit vs. budget | 5 | 5 | 25 | 2 | 10 |
+| **Total** | **29** | | **112** | | **106** |
+| **Score** | | | **112 / 29 = 3.86** | | **106 / 29 = 3.66** |
+
+Step through the rules. Knockout (Rule 1): both tools rate 4 or higher on channel connections and calendar sync, so both pass. Nobody is knocked out, so Rule 2 doesn't come into play. Margin (Rule 3): 3.86 minus 3.66 is 0.20, under the 0.30 line. This is a close call, so Rule 4 decides. Three criteria carry the top weight of 5: channel connections, calendar sync, and cost fit. Tool Y wins channel connections (5 vs. 4). They tie on sync, so it counts for neither. Tool X wins cost fit (5 vs. 2). That's one win each, so setup and migration effort decides: Tool X rates 5, Tool Y rates 2. Recommendation for Alder Street: Tool X, on condition that its all-in price in SR.5.7 fits the $90 budget. Tool X's cost-fit 5 uses its published price during the trial. The condition is to confirm that price in writing in SR.5.7 before you sign.
+
+**Cedar Ridge.** Direct booking and owner reporting carry real weight because Maya and Chris plan a direct site and need clean statements for their CPA.
+
+| Criterion | Weight | Tool X rating | X weighted | Tool Y rating | Y weighted |
+|---|---:|---:|---:|---:|---:|
+| Channel connections | 4 | 4 | 16 | 5 | 20 |
+| Calendar and rate sync | 5 | 4 | 20 | 4 | 20 |
+| Direct booking and payments | 5 | 2 | 10 | 5 | 25 |
+| Pricing controls or pricing-tool link | 4 | 3 | 12 | 4 | 16 |
+| AI messaging safeguards | 3 | 3 | 9 | 4 | 12 |
+| Owner statements, tax reports, export | 4 | 2 | 8 | 5 | 20 |
+| Setup and migration effort | 3 | 5 | 15 | 2 | 6 |
+| Cost fit vs. budget | 3 | 5 | 15 | 2 | 6 |
+| **Total** | **31** | | **105** | | **125** |
+| **Score** | | | **105 / 31 = 3.39** | | **125 / 31 = 4.03** |
+
+Knockout: direct booking is a must-have for Cedar Ridge, and Tool X rates 2. Tool X is out before the scores matter. Tool Y also leads by 0.64, well past the 0.30 line.
+
+A fair question: should direct booking count now if the site is a year away? Rerun with its weight at 1 and drop it as a must-have, so Tool X is no longer knocked out. The weights total 31 − 5 + 1 = 27. Direct booking now adds 1 × 2 = 2 to Tool X instead of 10. It adds 1 × 5 = 5 to Tool Y instead of 25. Tool X scores (105 − 10 + 2) / 27 = 97 / 27 = 3.59. Tool Y scores (125 − 25 + 5) / 27 = 105 / 27 = 3.89. The gap is 0.30, right on the line, so Rule 3 still picks Tool Y, but only just.
+
+There is also a cost the table does not show. Starting on Tool X and moving to Tool Y in a year means a second setup and a migration while the house is booked. Airbnb has a separate [help article on switching software](https://www.airbnb.com/help/article/2958); read it before planning a move. Recommendation for Cedar Ridge: Tool Y, once its all-in price is confirmed in SR.5.7. If it runs above the $100 budget, Maya and Chris decide whether to accept that.
+
+The same two tools point Alder Street and Cedar Ridge to different answers because the weights differ. Set your weights on day 1 of the trial, before you see either tool.
+
+### SR.5.11 Recommendation
+
+| Field | Entry |
+|---|---|
+| Operator and property | |
+| Recommended stack (PMS / pricing / messaging) | |
+| Score and margin | |
+| Decision rule applied (SR.5.6) | |
+| Knockouts noted | |
+| All-in monthly cost and date checked (SR.5.7) | |
+| Merchant of record by channel | |
+| Who remits lodging tax by channel (SR.1 Section D) | |
+| Airbnb sync mode chosen and why | |
+| Open questions sent to vendor | |
+| Conditions (what would change this decision) | |
+| Decided by / date | |
+| Review date | 90 days after go-live (assumption), or when property count or channels change |
+
+### SR.5.12 Who confirms what
+
+**Confirm with:** each vendor, in writing, current pricing, contract term, merchant-of-record setup for each channel, data-export rights, and guest-data policy.
+
+**Confirm with:** your CPA, that the PMS reports separate platform-remitted tax from tax you owe, and that owner statements match what your return needs.
+
+**Confirm with:** the tax agencies in SR.1 Section D, which taxes you remit on direct bookings and wherever you become merchant of record.
+
+**Confirm with:** Airbnb and Vrbo help centers or partner support, the sync mode and editing rules for your connected listings before you go live.
+
+**Confirm with:** your insurer, whether any guest-screening or messaging requirement in your policy affects how the messaging tool is set up.
+
+### SR.5.13 Where this resource is used
+
+Use the operator profile and criteria while you watch Sam's 9.12 Guesty for Hosts Tutorial and 9.13 PriceLabs Tutorial. Bring back three things from each demo: which Airbnb sync mode he chooses, where rates are edited, and how you would review an automated change. Does the recommendation change who is merchant of record on any channel? Then update SR.1 Section D tax routing before your first booking.
+
+Where you go next depends on your track. Roadmap students, take this sheet into Sam's 9.12 and 9.13. Owners, fill it in during Sam's OP.4 and OP.5, then go to OP.6 Furnishing & Interior Optimization for an Owned Property.
+
+### SR.5.14 Common mistakes
+
+Most bad tool choices come from weights set late and tests that skip the handoffs. Watch for these six:
+
+- Setting weights after seeing the tools, so the favorite wins by design.
+- Scoring from the feature list instead of the trial.
+- Testing the screens, not the handoffs between PMS, pricing, and channels.
+- Setting a pricing floor without your break-even math.
+- Letting the AI promise refunds, discounts, or exceptions.
+- Changing merchant of record without updating SR.1 Section D tax routing.
+
+### SR.5 sources
+
+- [Airbnb: Managing listings with property management software (2683)](https://www.airbnb.com/help/article/2683): PMS and channel-manager connections; two sync modes. Checked 2026-09-25 via official-domain search.
+- [Airbnb: Choices to sync listings through software (2348)](https://www.airbnb.com/help/article/2348): "sync everything" edits only through software, grayed-out fields; "pricing and availability only" keeps content on Airbnb. Checked 2026-09-25 via official-domain search.
+- [Airbnb: Switching to new software (2958)](https://www.airbnb.com/help/article/2958): existence of a switching process. Seen in search results 2026-09-25; details not reviewed.
+- [Airbnb: Software partners](https://www.airbnb.com/software-partners): partner directory. Checked 2026-09-25 via official-domain search.
+- [Airbnb: Smart Pricing (1168)](https://www.airbnb.com/help/article/1168): Airbnb's built-in demand-based pricing. Seen in search results 2026-09-25.
+- [Airbnb: API Terms of Service (3418)](https://www.airbnb.com/help/article/3418): Airbnb's API supports property, channel, and operations management software. Checked 2026-09-25 via official-domain search.
+- [Vrbo: About Vrbo software integration](https://help.vrbo.com/articles/About-Vrbo-integration): edits in software, not Owner Dashboard; sync timing; merchant of record may shift to you with tax collection and remittance; vendors set their own pricing. Checked 2026-09-25 via official-domain search.
+- [Vrbo: Integrated Property Managers, payments](https://help.vrbo.com/articles/IPM-About-payments-for-integrated-accounts): IPM is merchant of record; rates, fees, tax rates managed in PMS; Vrbo cannot process payments for integrated accounts. Checked 2026-09-25 via official-domain search.
+- Canonical example figures (Alder Street software $90/month, break-even occupancy; Cedar Ridge software $1,200/year): the course's recurring example.
+- Weighted scores for Tool X and Tool Y: computed with the SR.5.6 formula (assumptions).

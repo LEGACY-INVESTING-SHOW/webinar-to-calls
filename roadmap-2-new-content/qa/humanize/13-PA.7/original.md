@@ -1,0 +1,265 @@
+<a id="lesson-PA.7-dscr-vs-conventional"></a>
+## PA.7  DSCR vs. Conventional Financing: Which Path Fits Your Deal
+
+| Tracker | Detail |
+|---|---|
+| Part / module | Part Two: STR Concierge / Phase 1: Property Acquisition |
+| Code | PA.7 |
+| Production type / owner | New / Preston |
+| Connects to | PA.6 DSCR Loans 101 (how DSCR loans are sized and what to ask a DSCR lender); Sam's PA.4 Reading a Full Underwriting Package (Sam runs the course's live demos; PA.4 is where your NOI comes from); PA.8 (setting your offer ceiling); PA.10 (LLC vs. personal names on title); OP.11 (refinancing and buying property #2) |
+
+### PA.7.0 Learning outcome
+
+After this lesson you can put a DSCR quote and a conventional quote side by side for the same house and the same buyer. You'll see the difference in cash to close, monthly payment, five-year cost, paperwork, and flexibility. You'll use a decision tree to pick which route to pursue first, and you'll know that the lender makes the final eligibility call.
+
+### PA.7.1 Two routes, one house
+
+A DSCR loan sizes the loan mostly on the property's income. DSCR stands for debt service coverage ratio: the property's income divided by its loan payment. A ratio of 1.0 means the income just covers the payment. PA.6 covers how lenders calculate it. A conventional loan sizes it mostly on you: your documented income, your existing debts, your credit, and your assets. The property still matters, but your household is the main borrower.
+
+That one difference changes almost everything else. It changes which documents you gather and how long underwriting takes. It changes whether you can close in an LLC, and what happens to your borrowing capacity for the next property.
+
+Here's the side-by-side for Cedar Ridge, a $385,000 house. All figures are assumptions from the course's running Cedar Ridge example. Both quotes are hypothetical. DSCR is at 7.25% with 1 point (1% of the loan, paid at closing). Conventional is at 6.875% with no points. Both are 30-year fixed with 25% down, so the comparison stays equal. A conventional investment loan can allow less down; see PA.7.2. Total cash in adds the $32,000 furnishing budget.
+
+| | DSCR quote | Conventional quote |
+|---|---:|---:|
+| Loan amount | $288,750 | $288,750 |
+| Down payment | $96,250 | $96,250 |
+| Monthly P&I | $1,970 | $1,897 |
+| Monthly PITIA | $2,557 | $2,484 |
+| Annual debt service (P&I) | $23,637 | $22,763 |
+| Closing costs incl. points | $14,438 | $11,550 |
+| Cash to close | $110,688 | $107,800 |
+| Total cash in (with furnishing) | $142,688 | $139,800 |
+| Principal paid in year 1 | $2,795 | $3,005 |
+| Annual cash flow, base case | $5,572 | $6,446 |
+| Annual cash flow, weak case | -$5,475 | -$4,601 |
+| Annual cash flow, base with 18% co-host (if a full-service local co-host takes 18% of booking revenue; see OP.7) | -$7,798 | -$6,924 |
+| Cash-on-cash, base case | 3.9% | 4.6% |
+
+A few terms from the table. P&I is principal and interest. PITIA is principal, interest, taxes, insurance, and association dues: the full monthly payment. Cedar Ridge has no HOA, so there are no dues in its PITIA. Annual debt service is one year of P&I. NOI (net operating income) is rental revenue minus operating costs, before the loan payment. Taxes and insurance already sit inside NOI, so annual cash flow here is NOI minus P&I. Cash-on-cash is first-year cash flow divided by total cash in.
+
+Reserves are not in these totals. Either lender may require months of PITIA on top of cash to close.
+
+Two things stand out. The conventional quote wins on every line. And neither quote fixes the weak case. The base case assumes a $300 average nightly rate (ADR) and 58% occupancy (the share of nights booked). When ADR drops to $265 and occupancy to 50%, both loans lose money. Financing changes the size of the loss. It doesn't change the house.
+
+The co-host row is a warning too. Paying a full-service co-host 18% turns even the base case negative on both loans. If you plan to hand the house to a co-host, run that case before you buy. PA.8 sets the offer ceiling with the weak case in view, and OP.7 covers the staffing choice.
+
+### PA.7.2 How a conventional lender qualifies you
+
+On a conventional loan, the lender underwrites your household. I'll use Fannie Mae's Selling Guide as the example because it's public. Lenders sell many loans to buyers like Fannie Mae, and the loan buyer sets the rules. So your loan may follow Fannie Mae, the guide of another loan buyer, or a lender's own portfolio rules. Ask which guide applies.
+
+Four things carry most of the weight.
+
+The first is your debt-to-income ratio (DTI): your monthly debt payments divided by your gross monthly income. Fannie Mae's [DTI section, B3-6-02](https://selling-guide.fanniemae.com/sel/b3-6-02/debt-income-ratios) sets 36% as the maximum for manually underwritten loans. Manual means a human underwriter applies the rules by hand, rather than Fannie Mae's automated system. It allows up to 45% when the borrower meets the credit score and reserve requirements in the Eligibility Matrix. For loans run through Desktop Underwriter (DU), Fannie Mae's automated system, the maximum is 50%. Ask your lender which route your file will take.
+
+The second is documented income. W-2 wages, tax returns, and pay stubs. Self-employment income usually needs more paperwork and a longer history. The lender decides which income counts and how it's averaged.
+
+The third is the occupancy type. Fannie Mae classifies a property as a principal residence, a second home, or an investment property ([B2-1.1-01 Occupancy Types](https://selling-guide.fanniemae.com/sel/b2-1.1-01/occupancy-types)). Investment property loans carry an extra price adjustment (an LLPA, or loan-level price adjustment), which is one reason investment rates run higher. For a one-unit investment property purchase, Fannie Mae's [Eligibility Matrix](https://singlefamily.fanniemae.com/media/20786/display) shows a maximum LTV of 85%. LTV (loan-to-value) is the loan as a share of the price, so 85% means at least 15% down. Credit score and other factors can lower that 85% maximum, which means more than 15% down.
+
+Maya and Chris plan about 10 personal-use days a year at Cedar Ridge. Personal use is one of the things that separates a second home from an investment property, which is why the number matters. Don't guess the occupancy type from that number. Tell the lender your real plan and let the lender classify it. Fannie Mae's [general rental income section, B3-3.8-01](https://selling-guide.fanniemae.com/sel/b3-3.8-01/rental-income) says rental income from a principal residence or second home generally can't be used to qualify. It lists narrow exceptions. So the occupancy type also decides whether short-term rental (STR) income is even on the table.
+
+The fourth is reserves and your other properties. Reserves are savings the lender wants you to still have after closing. Fannie Mae's [reserve rules, B3-4.1-01](https://selling-guide.fanniemae.com/sel/b3-4.1-01/minimum-reserve-requirements) add reserve requirements in one situation. The borrower has multiple financed properties, and the new loan is on a second home or investment property. The requirement grows with the number of financed properties. Fannie Mae also sets rules on how many financed properties one borrower can have ([B2-2-03](https://selling-guide.fanniemae.com/sel/b2-2-03/multiple-financed-properties-same-borrower)). Maya and Chris would have two: their home and Cedar Ridge.
+
+### PA.7.3 Maya and Chris's DTI, before any STR income
+
+Here's a rough DTI check, and it's only an illustration. The lender runs the real one.
+
+Maya and Chris earn $185,000 a year combined (from the Cedar Ridge example). That's $185,000 / 12 = $15,417 a month.
+
+I need two numbers the Cedar Ridge example doesn't give. Say their primary home payment (principal, interest, tax, insurance) is $2,400 a month (assumption). Car and card payments are $600 a month (assumption).
+
+Today: ($2,400 + $600) / $15,417 = **19.5%**
+
+Add the full Cedar Ridge conventional PITIA of $2,484 and count zero rental income:
+
+($2,400 + $600 + $2,484) / $15,417 = $5,484 / $15,417 = **35.6%**
+
+At 35.6%, they'd sit just under the 36% manual-underwriting limit, even with no income credit for the STR. They'd be well under the 45% and 50% limits. Their real DTI depends on their actual debts. The limit depends on credit, reserves, and which underwriting system the lender uses. So treat this as a screening check.
+
+This matters for the decision tree later. Through DU, or with the credit and reserves for 45%, the STR income question may not decide their loan. On a manual file, 35.6% leaves only 0.4 points of room. That's what "near the limit" means in the decision tree, and it's why Maya and Chris also take one Branch C step. For a buyer already over the limit, the STR income question can decide everything.
+
+### PA.7.4 Fannie Mae's new short-term rental income guidance
+
+You'll hear people say conventional loans can't use Airbnb income. Don't repeat that. It's out of date.
+
+On September 2, 2026, Fannie Mae published [Announcement SEL-2026-08](https://singlefamily.fanniemae.com/news-events/announcement-sel-2026-08-selling-guide-updates) ([PDF](https://singlefamily.fanniemae.com/media/48051/display)). It restructured the rental income chapter and added a section titled [B3-3.8-03, Rental Income from the Subject Property: Short-Term Rental](https://selling-guide.fanniemae.com/sel/b3-3.8-03/rental-income-subject-property-short-term-rental). The announcement says it introduces new requirements for using short-term rental income, including alternative documentation options.
+
+As of September 2026, here's the timing. The announcement says lenders are encouraged to put the changes in place immediately. Lenders must apply them to all loans with application dates on or after November 1, 2026. So on a loan application dated before November 1, 2026, the answer depends on whether your lender has already adopted the new section. Ask the loan officer directly. From November 1, 2026 on, the question is whether your transaction fits the section.
+
+The exact conditions in B3-3.8-03 were not confirmed for this lesson. It may allow documented STR income on certain one-unit investment properties. Your lender needs to confirm which occupancy types it covers, and whether it covers purchases, refinances, or both. The lender also needs to confirm the operating history it requires and which documents it accepts. Those conditions decide whether Cedar Ridge qualifies. Here's the conditional version:
+
+- If the lender confirms Cedar Ridge's transaction fits B3-3.8-03, it may count documented STR income under that section's calculation rules.
+- If the property is classified as a second home, rental income generally can't be used to qualify (B3-3.8-01).
+- If the transaction doesn't fit the section, the lender may still approve the loan on your W-2 income alone. The DTI check above suggests that's possible for Maya and Chris.
+
+**Confirm with:** the lender, whether B3-3.8-03 applies to this transaction and application date, and exactly which STR documents it will accept. The full lender list is in PA.7.11.
+
+### PA.7.5 Five-year cost, not just monthly payment
+
+The monthly payments differ by $73. That looks small. Over five years it adds up, and the points add more on day one.
+
+Here are both loans over 60 months. All figures are assumptions from the two Cedar Ridge quotes.
+
+| Over 5 years | DSCR | Conventional | Difference |
+|---|---:|---:|---:|
+| Points paid at closing | $2,888 | $0 | $2,888 |
+| Other closing costs (3% of price) | $11,550 | $11,550 | $0 |
+| Total P&I paid | $118,187 | $113,813 | $4,374 |
+| Interest paid | $101,956 | $96,502 | $5,454 |
+| Principal paid | $16,231 | $17,311 | -$1,080 |
+| Loan balance at month 60 | $272,519 | $271,439 | $1,080 |
+| Interest + points + closing costs | $116,394 | $108,052 | **$8,342** |
+
+The DSCR loan costs Maya and Chris about $8,342 more over five years. That's $5,454 of extra interest plus $2,888 of points. They'd also owe $1,080 more at the end. That isn't an extra cost on top. $4,374 more in payments plus $1,080 more owed at payoff equals the $5,454 of extra interest. Don't count it twice.
+
+Cash flow tells the same story from the operating side. Holding revenue flat for five years (assumption):
+
+- Base case: DSCR $5,572 x 5 = $27,860. Conventional $6,446 x 5 = $32,230.
+- Weak case: DSCR -$5,475 x 5 = -$27,375. Conventional -$4,601 x 5 = -$23,005.
+
+The $4,370 base-case gap ($32,230 - $27,860) is the same payment difference seen from the operating side. Don't add it to the $8,342.
+
+Now add the exit. In the Cedar Ridge example, Maya and Chris sell at the end of year 5. Say the DSCR loan has a 5-4-3-2-1 step-down penalty (assumption; an example structure, not a standard). That's 5% of the balance if you pay off in year 1 and 4% in year 2. It steps down to 1% in year 5. A payoff in month 60 is still in year five, so the penalty is 1%:
+
+$272,519 x 1% = **$2,725**
+
+That's on top of the $8,342, so about $11,067 in total if this penalty applies.
+
+With a 3-2-1 schedule (3% in year 1 down to 1% in year 3; assumption), there'd be no penalty at year five. Ask the conventional lender to confirm in writing whether any prepayment penalty applies to its loan.
+
+### PA.7.6 Comparing the written quotes
+
+The CFPB's [guide to comparing loan offers](https://www.consumerfinance.gov/owning-a-home/compare/compare-loan-estimates/) tells you to request several Loan Estimates and focus on the fees that vary by lender. It also warns that rates change daily, so quotes issued on different days may differ for market reasons. Get both quotes on the same day if you can.
+
+Compare these lines on each written quote:
+
+1. Interest rate, and whether it's locked, for how long.
+2. APR where available. The CFPB explains that the [APR includes the rate plus points and certain other charges](https://www.consumerfinance.gov/ask-cfpb/what-is-the-difference-between-a-mortgage-interest-rate-and-an-apr-en-135/), so it's usually higher than the rate. It helps compare loans with different rates and fees.
+3. Points and lender credits, in dollars.
+4. Estimated cash to close. The CFPB's [Loan Estimate explainer](https://www.consumerfinance.gov/owning-a-home/loan-estimate/) says it includes your down payment and closing costs, minus your deposit and any seller credits.
+5. Monthly payment, both principal and interest and full PITIA.
+6. Reserves required after closing, in dollars.
+7. Prepayment penalty, year by year.
+8. What the lender will require at refinance. Ask how long you must own the property first (seasoning). Ask the maximum loan-to-value on a cash-out refinance, where the new loan is larger and you take the difference in cash. And ask how it will count STR income then.
+
+One wrinkle. Federal rules treat credit to buy a rental property you won't occupy as business-purpose credit ([Regulation Z commentary to § 1026.3](https://www.consumerfinance.gov/rules-policy/regulations/1026/interp-3/)). That can mean a lender isn't required to give you a Loan Estimate on this kind of loan. Some lenders will anyway. Others send a term sheet, a short summary of the loan's rate, fees, and terms. Either way, ask for every rate, fee, and penalty in writing, in the same layout, so the comparison is fair. A DSCR term sheet may not show an APR. That's why the five-year table above matters.
+
+### PA.7.7 Flexibility and downside
+
+Price isn't the only difference. Here's what each route tends to give and take. Confirm every line with the actual lender.
+
+| Question | DSCR (typical, varies by lender) | Conventional (typical, varies by lender) |
+|---|---|---|
+| Whose income qualifies? | Mostly the property's | Mostly yours, plus rental income where eligible |
+| Close in an LLC? | Often allowed (one lender's example: [Kiavi](https://www.kiavi.com/loans/dscr)) | Ask; often in personal names |
+| Paperwork | Shorter: no tax returns at Kiavi, per its site | Full income and asset documentation |
+| Effect on your DTI now | Not used to qualify this loan | Central to approval |
+| Effect on the next loan | A future conventional lender will count this loan under its own rules | Also counted under the future lender's rules |
+| Prepayment penalty | Common | Ask |
+| Rate and cost | Usually higher | Usually lower for strong borrowers |
+| Reserves | Lender-specific | Rise with number of financed properties (B3-4.1-01) |
+
+Fannie Mae's [rules on other real estate owned, B3-6-06](https://selling-guide.fanniemae.com/sel/b3-6-06/qualifying-impact-other-real-estate-owned) govern how a future conventional lender counts Cedar Ridge. That matters when Maya and Chris apply for property two. Keep clean records from day one. That means booking statements and the loan payment history. It also means the Schedule E your CPA files (the tax-return form that reports rental income and expenses). OP.11 picks this up.
+
+### PA.7.8 Decision tree
+
+Use this tree to decide which lender to call first. It is a way to order your calls. The lender makes the actual eligibility decision.
+
+**Branch A: buying your first rental, with documented W-2 income.**
+1. Is your DTI, with the full new payment and no rental income, under the lender's limit with some room to spare? If yes, get a conventional quote first. If you're over the limit or within a point or two of it, also follow Branch C. Your loan may depend on how the lender counts STR income.
+2. Will the lender classify the property as an investment property? If yes, go to step 3. If no, ask what that means for rental income and occupancy rules.
+3. Can you close the way you need to (in an LLC now, if you need one) on the conventional loan? If yes, go to step 4. If no, get a DSCR quote.
+4. Is the conventional approval in writing? Until it is, keep a DSCR quote live as your backup.
+
+**Branch B: refinance of an STR you already own.**
+1. Do you have 12 months or more of platform statements and a filed Schedule E? Ask the conventional lender whether B3-3.8-03 or its own rules would count that income.
+2. Does your current loan have a prepayment penalty? Price it in dollars before you compare.
+3. Will the refinance leave the property's weak-case cash flow at or above the minimum you set for yourself? PA.8 walks through setting that weak-case rule. If not, the refinance is making the property riskier.
+4. Compare the conventional refinance with a DSCR refinance on the same day, same loan amount.
+
+**Branch C: complex or thin income documentation.**
+This covers self-employed borrowers with a short history, recent job changes, or large write-offs. It also covers any DTI over the limit or within a point or two of it.
+1. Ask a conventional lender for a pre-underwrite of your income (an early underwriter review of your income documents) before assuming you don't qualify.
+2. If your documented income won't carry the payment, a DSCR loan may fit. Expect a higher cost and plan for it in PA.8.
+3. Check that the property's weak-case cash flow works on DSCR pricing. The DSCR route removes the income test. It doesn't remove the risk.
+
+### PA.7.9 Worked example: which path for Maya and Chris
+
+Run Cedar Ridge through Branch A.
+
+Step 1. DTI with the full conventional PITIA and no STR income: 35.6% (illustration, assumptions). That's well under the 45% and 50% limits, so they get a conventional quote first. On a manual-underwriting file, though, it's only 0.4 points under 36%. So they also ask the lender for a pre-underwrite (Branch C, step 1) before relying on it.
+
+Step 2. Occupancy type. They plan about 10 personal-use days a year and rent the rest. They tell the lender that plan and ask for the classification in writing. This lesson assumes investment property.
+
+Step 3. LLC. They'd like liability separation, but the lender's rules and PA.10's entity work aren't done yet. They ask the conventional lender whether an LLC can hold title and note the answer.
+
+Step 4. Cost. Conventional saves $2,888 at closing and about $8,342 over five years (computed above). Add up to $2,725 more if the DSCR loan carries a 5-4-3-2-1 penalty. Base-case cash flow is $874 a year better: $6,446 - $5,572.
+
+Step 5. Backup. They keep the DSCR quote live. If the conventional underwriting stalls on occupancy, reserves, or documentation, they switch without losing the house.
+
+Their decision, written down: pursue conventional first and keep DSCR as the backup. Use the DSCR numbers in PA.8 until the conventional approval is in writing. That last choice is deliberate. You set your offer ceiling on the more expensive loan you might end up with.
+
+### PA.7.10 Exercise: your financing comparison
+
+Fill in one column per written quote. Use your PA.6 worksheet for the DSCR side.
+
+No property or quotes yet? Practice with Cedar Ridge. Fill Quote 1 with the DSCR numbers and Quote 2 with the conventional numbers from PA.7.1 and PA.7.5.
+
+For five-year interest on your own quotes, ask each lender for an amortization schedule. That's the month-by-month split of each payment into interest and principal. Add up the interest for months 1 to 60.
+
+| Line | Quote 1: ______ | Quote 2: ______ |
+|---|---:|---:|
+| Lender, loan type, date of quote | | |
+| Rate / APR (if shown) | | |
+| Points ($) and lender credits ($) | | |
+| Loan amount and LTV | | |
+| Monthly P&I / monthly PITIA | | |
+| Estimated cash to close | | |
+| Reserves required ($) | | |
+| Prepayment penalty by year | | |
+| Occupancy type the lender assigned | | |
+| Rental income counted? Which method? | | |
+| Your DTI per the lender | | |
+| Title: personal names or LLC? | | |
+| 5-year interest + points + closing costs | | |
+| Base-case annual cash flow (your NOI from Sam's PA.4 package, minus P&I) | | |
+| Weak-case annual cash flow | | |
+| Refinance terms the lender would expect | | |
+
+Then answer in one line each:
+
+1. Which branch of the decision tree are you on?
+2. Which quote costs less over your expected hold?
+3. Which quote keeps weak-case cash flow closer to breakeven?
+4. What would make you switch to the backup quote?
+
+### PA.7.11 Who confirms what
+
+**Confirm with:** the conventional lender, the occupancy classification, whether the loan follows Fannie Mae's guide, whether B3-3.8-03 applies to this transaction and application date, your DTI, the reserves required for all financed properties, and whether an LLC can hold title.
+
+**Confirm with:** the DSCR lender, the items in PA.6's question list, especially the prepayment schedule and maximum loan.
+
+**Confirm with:** your CPA, how you'll document STR income on your tax return so a future lender can use it. Also ask how the points you pay are treated on your taxes.
+
+**Confirm with:** your attorney, what signing in personal names versus an LLC means for liability and title (PA.10).
+
+### PA.7.12 Next lesson
+
+You've picked a financing route and a backup. PA.8 uses the more expensive of the two quotes to set Maya and Chris's walk-away price before they negotiate. Bring your comparison table and Sam's PA.4 underwriting package.
+
+### PA.7 sources
+
+- [Fannie Mae B3-3.8-03, Rental Income from the Subject Property: Short-Term Rental](https://selling-guide.fanniemae.com/sel/b3-3.8-03/rental-income-subject-property-short-term-rental): section exists under the restructured rental income chapter. URL brief-provided; section title confirmed via WebSearch (selling-guide.fanniemae.com) 2026-09-25; full text not readable (fetch blocked).
+- [Fannie Mae Announcement SEL-2026-08](https://singlefamily.fanniemae.com/news-events/announcement-sel-2026-08-selling-guide-updates) and [PDF](https://singlefamily.fanniemae.com/media/48051/display): published September 2, 2026; new STR income requirements with alternative documentation options; encouraged immediately, required for application dates on and after November 1, 2026. Checked 2026-09-25 via WebSearch (singlefamily.fanniemae.com).
+- [Fannie Mae B3-3.8-01, General Rental Income Information](https://selling-guide.fanniemae.com/sel/b3-3.8-01/rental-income): rental income from a principal residence or second home generally can't qualify. Checked 2026-09-25 via WebSearch.
+- [Fannie Mae B3-6-02, Debt-to-Income Ratios](https://selling-guide.fanniemae.com/sel/b3-6-02/debt-income-ratios): 36% manual, up to 45% with credit and reserves, 50% via DU. Checked 2026-09-25 via WebSearch.
+- [Fannie Mae B2-1.1-01, Occupancy Types](https://selling-guide.fanniemae.com/sel/b2-1.1-01/occupancy-types): three occupancy types; LLPA on investment property loans. Checked 2026-09-25 via WebSearch.
+- [Fannie Mae Eligibility Matrix](https://singlefamily.fanniemae.com/media/20786/display): one-unit investment purchase up to 85% LTV. Checked 2026-09-25 via WebSearch.
+- [Fannie Mae B3-4.1-01, Minimum Reserve Requirements](https://selling-guide.fanniemae.com/sel/b3-4.1-01/minimum-reserve-requirements): added reserves with multiple financed properties when the subject is a second home or investment property. Checked 2026-09-25 via WebSearch.
+- [Fannie Mae B2-2-03, Multiple Financed Properties](https://selling-guide.fanniemae.com/sel/b2-2-03/multiple-financed-properties-same-borrower) and [B3-6-06, Other Real Estate Owned](https://selling-guide.fanniemae.com/sel/b3-6-06/qualifying-impact-other-real-estate-owned): financed-property rules and how other properties affect qualifying. Checked 2026-09-25 via WebSearch (titles and topic only).
+- [CFPB: Compare and negotiate your loan offers](https://www.consumerfinance.gov/owning-a-home/compare/compare-loan-estimates/): request several Loan Estimates; compare fees that vary; rates change daily. Brief-provided; checked 2026-09-25 via WebSearch.
+- [CFPB: Loan Estimate explainer](https://www.consumerfinance.gov/owning-a-home/loan-estimate/): what cash to close includes. Checked 2026-09-25 via WebSearch.
+- [CFPB: rate vs. APR](https://www.consumerfinance.gov/ask-cfpb/what-is-the-difference-between-a-mortgage-interest-rate-and-an-apr-en-135/): APR includes rate, points, and other charges. Checked 2026-09-25 via WebSearch.
+- [CFPB: Regulation Z commentary, § 1026.3](https://www.consumerfinance.gov/rules-policy/regulations/1026/interp-3/): non-owner-occupied rental property credit deemed business purpose. Checked 2026-09-25 via WebSearch.
+- [Kiavi: DSCR Loans](https://www.kiavi.com/loans/dscr): LLC borrowing and no tax-return verification described on Kiavi's site (one lender's terms). Checked 2026-09-25 via WebSearch.
+- Canonical Cedar Ridge numbers: reference/recurring-examples.md (B1, B2, B4, B8). Five-year, DTI, and prepayment figures computed in Python from tools/examples.py on 2026-09-25.

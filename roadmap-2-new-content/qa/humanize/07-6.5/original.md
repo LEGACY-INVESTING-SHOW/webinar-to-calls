@@ -1,0 +1,260 @@
+<a id="lesson-6.5-local-property-manager"></a>
+## 6.5  When to Bring In a Local Property Manager
+
+| Tracker | Detail |
+|---|---|
+| Part / module | Part One, Airbnb Arbitrage Roadmap 2.0 / Module 6 (Your local team) |
+| Code | 6.5 |
+| Production type / owner | New / Preston |
+| Connects to | Lessons 6.1 Cleaners, 6.2 Handyman, 6.3 Neighbors, 6.4 Stagers & Interior Designers; 12.x Co-Hosting Masterclass; Preston's 5.7 (local contact promises); Module 7 next |
+
+### 6.5.0 Learning outcome
+
+By the end of this lesson you can decide which of four local-help setups fits a unit. The four are cleaner only, cleaner plus an on-call vendor, a co-host, or a full manager. You'll compare each one's cost against the net cash flow it leaves you, in both the base and stress cases. The *base case* is what you expect this unit to earn in a normal year. The *stress case* is a bad year. In the Alder Street example, the nightly rate drops 12% to $180 and only 60% of nights get booked. Lesson 1.3 builds both cases. You'll also have a contract and vetting checklist, and you'll know which Airbnb permissions to give and which controls to keep.
+
+### 6.5.1 The jobs that need a local person
+
+Remote operation works because most of the business is digital. Pricing, messaging, bookkeeping, and listing changes happen from anywhere. But some jobs need someone who can physically reach the unit.
+
+| Task | How often at Alder Street | How fast it needs a response | Who can usually do it |
+|---|---|---|---|
+| Turnover cleaning | 85 times a year, about 7 a month | Same day, between checkout and check-in | Cleaner (lesson 6.1) |
+| Supply restocks | Most turnovers | Before next check-in | Cleaner, if paid to restock |
+| Maintenance access | A few times a month (assumption) | Hours to days | Handyman (lesson 6.2) or on-call vendor |
+| Emergencies (leak, lockout, alarm, no heat) | Rare but certain | Within an hour or two, any time | On-call vendor, co-host, or manager |
+| Inspections | Monthly (assumption) | Scheduled | Cleaner, vendor, or co-host |
+| Guest issues needing a visit | Occasional | Same day, often evenings | Co-host or manager |
+
+A turnover is the clean between one guest's checkout and the next guest's check-in. The turnover count comes from the Alder Street example: 255 booked nights at a 3-night average stay is 85 stays a year. Divided by 12, that's about 7.1 cleans a month.
+
+Look at the response column. The cleaner covers the scheduled work. What remote operators struggle with is the unscheduled work: the 11 p.m. lockout, the leak on a Sunday, the guest who can't get the heat on. That's the gap local help fills. It's also what you promised the landlord in the lease addendum (lesson 5.7): a named local contact who answers day and night.
+
+### 6.5.2 The four setups
+
+Here are the four levels of local help, from lightest to heaviest.
+
+**Cleaner only.** You run everything remotely. Your cleaner turns the unit and reports problems. When something breaks, you find and dispatch a vendor yourself. This is the Alder Street base case. It works when you live within reach, or when you're very good at remote dispatch and the unit is simple.
+
+**Cleaner plus on-call vendor.** You add a local handyman or small service company on a monthly retainer (a flat monthly fee that keeps them on call). They agree to respond within a set time, do a monthly inspection, and handle access for repairs. You still run guests, pricing, and the platform.
+
+**Co-host.** A local person or company takes on a defined share of the hosting: guest messaging, in-person issues, cleaner coordination, sometimes pricing. On Airbnb, a co-host gets account permissions on your listing. You pay a percentage or a fixed amount per booking.
+
+**Full manager.** A property management company runs the whole operation: guests, cleaners, maintenance, often pricing and listing. You approve the budget and review performance. Fees are usually a percentage of revenue.
+
+Each step up removes more of your time and more of your response obligation. Each step up also costs more. In arbitrage (you lease the unit and rent it out for short stays), rent is already your biggest fixed cost. So every dollar of fee comes straight out of a thin margin.
+
+### 6.5.3 When to bring in help: the threshold
+
+Use five tests. If test 4 is true, or any two tests are true, you need at least an on-call vendor. Test 4 counts on its own because it's a promise you've already made in writing.
+
+1. Distance: you can't reach the unit within two hours (assumption) at night.
+2. Missed responses: in the last 90 days, a guest waited longer than your promised response time for an in-person fix more than once.
+3. Your hours: you're spending more hours a month on the unit than you planned, and it's crowding out finding the next deal.
+4. Written promises: your lease addendum, the city permit, or your own house rules require a local contact you don't have right now. Some cities require a local contact as a permit condition. Check your city's rules (the SR.1 compliance checklist covers this).
+5. Volume: you're adding units nearby, so help that's too expensive for one unit may pay off across three.
+
+After 90 days with a vendor, re-check tests 2 and 3. If a guest still waited too long more than once, or your hours are still over plan, move up a level. Distance and volume won't change by hiring, so don't re-score those.
+
+Tests 1 to 4 are about response risk and your time. Test 5 is a cost test: more units nearby make help cheaper per unit. None of them says "hire a manager because hosting feels overwhelming." That feeling is real, but it doesn't tell you which level of help fixes it.
+
+### 6.5.4 What you keep no matter who you hire
+
+Local help can take tasks off your plate. Certain controls stay with you because you carry the consequences.
+
+You keep bank and payout ownership. Revenue flows to your account. A helper gets paid from it, not the other way around.
+
+You keep platform ownership. The listing sits in your account. If the relationship ends, you remove the helper and keep your reviews, calendar, and history.
+
+You keep compliance decisions. Permits, tax registrations, occupancy limits, and lease obligations are yours. A manager can remind you of a renewal date. You decide and you sign.
+
+You keep pricing approval. A helper can recommend rates or run a pricing tool, but you set the floor, the ceiling, and minimum stays. Module 9 covers pricing tools in lessons 9.10 (Revenue Management Fundamentals) and 9.13 (PriceLabs Tutorial). When you get there, watch how to set a floor and ceiling inside the tool, because that's where this control lives.
+
+You keep performance review. Every month you look at occupancy, nightly rate, response times, cleaning scores, and complaints. The helper reports; you judge.
+
+### 6.5.5 Airbnb co-host permissions and payouts
+
+If you choose a co-host, set up Airbnb access deliberately. Airbnb offers different co-host permission levels. A co-host with full access can see messages, the calendar, and transaction history. They can also manage the listing and change other co-hosts' permissions ([Airbnb Help, article 1534](https://www.airbnb.com/help/article/1534); [Airbnb Co-Host Additional Terms](https://www.airbnb.com/help/article/3264)). Lower levels limit access to the calendar and messaging. You can change a co-host's permissions at any time ([Airbnb Help, article 1534](https://www.airbnb.com/help/article/1534)).
+
+Give the least access the job needs. A co-host who only handles guest messages and in-person issues may not need full access. Full access includes the power to change other co-hosts' permissions, so treat it like handing over your keys.
+
+Payouts are the second control. Airbnb says only the listing owner can set up payouts for a co-host, and co-hosts can't set up payouts for themselves ([Airbnb Help, article 3389](https://www.airbnb.com/help/article/3389)). The listing owner can set a percentage per booking, with or without the cleaning fee, or a fixed amount per booking. Airbnb calculates co-host percentage payouts from the host's earnings on each booking ([Airbnb Help, article 3389](https://www.airbnb.com/help/article/3389)). Host earnings are your payout after Airbnb's fee. That basis matters, as you'll see in the worked example. Regional limits may apply.
+
+Responsibility doesn't transfer. Airbnb's co-host terms say the host alone is responsible for choosing co-hosts and managing their access. The host stays responsible for a co-host's actions taken before removal ([Airbnb Co-Host Additional Terms](https://www.airbnb.com/help/article/3264); [Airbnb Help, article 1534](https://www.airbnb.com/help/article/1534)). If a co-host breaks a rule, the listing and account at risk are yours.
+
+**Confirm with:** Airbnb's current help pages for the permission levels and payout options available in your region before you set up a co-host.
+
+### 6.5.6 Contract and vetting checklist
+
+Whoever you hire, the agreement should answer these questions in writing.
+
+| Item | What to pin down | Red flag |
+|---|---|---|
+| Service area | Exact addresses covered | "We cover the metro area" with no named zone |
+| Coverage hours | Days and hours, including nights and holidays | Business hours only, with emergencies "best effort" |
+| Response targets | Time to acknowledge, time on site, by issue type | No numbers |
+| Fees | Percentage or flat fee, and the base it's calculated on | Base left undefined |
+| Markup | Whether they add a percentage to vendor bills or supplies | Markup not disclosed |
+| Authorization limits | Dollar amount they can spend without your approval | No limit, or "as needed" |
+| Backup coverage | Who covers when they're sick or away | One person, no backup |
+| Insurance | Their general liability and workers' compensation, with certificates | Can't produce a certificate |
+| Reporting | Monthly report contents and due date; photo proof of turnovers | Reports "on request" |
+| Data and access | Who holds codes, guest data, platform logins | Wants your platform password |
+| Termination | Notice period, handback of keys, codes, and records | Long lock-in or fees to leave |
+| Licensing | Whether local law requires a license to manage short-term rentals for others | They don't know |
+
+The licensing row needs care. Some states regulate people who manage rentals for someone else. Tennessee is one clear example, not an assumption about where you are. It licenses Vacation Lodging Services. These businesses manage, market, book, and rent units owned by others for stays of up to 14 days. Each needs a firm license and a designated agent license. For the details of each, see the Tennessee Real Estate Commission page ([Tennessee Real Estate Commission, Vacation Lodging Service](https://www.tn.gov/commerce/regboards/trec/license/license-how-to/vacation-lodging-service.html)). Other states handle this under general real estate or property management licensing. Some have no specific rule. Arbitrage adds a wrinkle: you lease the unit, so the helper works for a tenant, not the owner. Whether that changes the licensing answer depends on the state.
+
+Vet before you sign. Ask for two references from current clients with similar units, their certificate of insurance, a sample monthly report, and their fee schedule in writing. Then run a test: ask how they'd handle a lockout at 11 p.m. on a Saturday. A specific answer with names and times is a good sign.
+
+**Confirm with:** the state real estate commission or licensing board whether the helper needs a license for these services. Ask an attorney if the answer is unclear.
+
+### 6.5.7 Worked example: Alder Street under four setups
+
+Start with the Alder Street base case. The unit books 255 nights a year at a $205 average daily rate (ADR), which is the average price per booked night. That's 85 stays of 3 nights. Gross booking revenue is $61,625. That's 255 nights × $205 = $52,275, plus a $110 guest cleaning fee on each of 85 stays ($9,350).
+
+Subtract Airbnb's fee, the cleaner, utilities, supplies, insurance, software, repairs, permit, and $23,400 in rent. Net before income tax is $12,218 a year, or $1,018 a month. Lesson 1.3's worked example shows every cost line. The cleaner is already paid $95 per turnover in these numbers.
+
+Now add each level of help. The base and stress figures come from the Alder Street example. The retainer, call-out budget, fee rates, and hours saved are my assumptions for this lesson. Swap in real quotes for your unit.
+
+**Setup 1: cleaner only (base case).**
+
+- Added cost: $0
+- Net: $12,218 a year, $1,018 a month
+
+**Setup 2: cleaner plus on-call vendor.**
+
+Assume a $150 monthly retainer (assumption) that includes one inspection and on-call response. Add a $600 yearly budget (assumption) for billed call-outs. A call-out is a visit the vendor charges for on top of the retainer.
+
+This is on top of the $1,440 repairs reserve already in the base case. The reserve pays for parts and repairs. The call-out budget pays for someone to show up.
+
+- Retainer: $150 × 12 = $1,800
+- Call-out budget: $600
+- Added cost: $2,400 a year
+- Net: $12,218 minus $2,400 = $9,818 a year, $818 a month
+
+**Setup 3: co-host at 10%.**
+
+The percentage base changes the fee. First, 10% of gross booking revenue:
+
+- Fee: $61,625 × 10% = $6,162 (rounded)
+- Net: $12,218 minus $6,162 = $6,056 a year, $505 a month
+
+Second, 10% calculated on host earnings, which is how Airbnb calculates percentage co-host payouts. Host earnings are gross minus Airbnb's host service fee. In this example that fee is 15.5% of the nightly rate plus the cleaning fee: $61,625 × 15.5% = $9,552.
+
+- Host earnings: $61,625 minus $9,552 = $52,073
+- Fee: $52,073 × 10% = $5,207 (rounded)
+- Net: $12,218 minus $5,207 = $7,011 a year, $584 a month
+
+Same "10%," a $955 difference in yearly cost ($6,162 minus $5,207). Write the base into the contract.
+
+**Setup 4: full manager at 20% of gross.**
+
+- Fee: $61,625 × 20% = $12,325
+- Net: $12,218 minus $12,325 = -$107 a year, -$9 a month
+
+At 20%, the manager takes the whole margin. The landlord gets paid, the manager gets paid, and the guests get a good stay. You earn nothing for your capital and risk. In this example the 20% doesn't include paying the cleaner. That's still $95 a turnover on top.
+
+Now run the same four setups through the stress case: a $180 ADR with 60% of nights booked. That's 219 nights and 73 stays. Gross is $47,450 ($39,420 in nightly revenue plus $8,030 in cleaning fees). Net is $1,548 a year, or $129 a month.
+
+| Setup | Added cost per year, base | Net per month, base | Added cost per year, stress | Net per month, stress |
+|---|---:|---:|---:|---:|
+| 1. Cleaner only | $0 | $1,018 | $0 | $129 |
+| 2. Cleaner + on-call vendor | $2,400 | $818 | $2,400 | -$71 |
+| 3a. Co-host 10% of gross | $6,162 | $505 | $4,745 | -$266 |
+| 3b. Co-host 10% of host earnings | $5,207 | $584 | $4,010 | -$205 |
+| 4. Full manager 20% of gross | $12,325 | -$9 | $9,490 | -$662 |
+
+The net-per-month columns are yearly totals divided by 12. A seasonal unit will make money in some months and lose it in others.
+
+Break-even occupancy tells the same story from another angle. It's the share of nights you must book for revenue to cover every cost, rent included. Lesson 1.3 shows the method. The base case books 255 of 365 nights, which is 69.9%. The example rounds that to 70%.
+
+| Setup | Break-even at $205 ADR | Break-even at $180 ADR |
+|---|---:|---:|
+| 1. Cleaner only | 49.9% | 57.1% |
+| 2. Cleaner + on-call vendor | 53.8% | 61.6% |
+| 3a. Co-host 10% of gross | 58.3% | 67.0% |
+| 3b. Co-host 10% of host earnings | 56.8% | 65.3% |
+| 4. Full manager 20% of gross | 70.1% | 81.0% |
+
+With a full manager, Alder Street needs 70.1% occupancy to break even at $205. The base case books 69.9%. That's why the net is slightly negative. There's no cushion.
+
+Two more numbers help you negotiate. A fee of 19.8% of gross ($12,218 ÷ $61,625) wipes out the base-case net entirely. A fee of about 10.1% leaves you $500 a month. Here's the math: $12,218 minus $6,000 a year is $6,218, and $6,218 ÷ $61,625 is 10.1%. The $500 is an example floor, so use your own. For this unit, any percentage deal above roughly 10% of gross leaves you less than $500 a month in a good year.
+
+Finally, compare cost with the time returned. Assume (assumption) the vendor saves you 4 hours a month, the co-host 14 hours, and the manager 20 hours. These hours are guesses. Track your own hours for a month before you lean on this comparison.
+
+- Vendor: $2,400 ÷ 12 = $200 a month, or $50 per hour saved
+- Co-host (10% of gross): $6,162 ÷ 12 = $514 a month, or about $37 per hour saved
+- Manager: $12,325 ÷ 12 = $1,027 a month, or about $51 per hour saved
+
+On these assumed hours, the co-host is the cheapest per hour saved, but it pushes the stress case negative. The vendor is the cheapest in total and keeps the base case healthy.
+
+If you live within two hours and can answer at night yourself, setup 1 can work. For Alder Street, I'd pick setup 2 if you live far away. It covers the emergency gap you promised the landlord and keeps $818 a month in the base case. In a bad year it turns a $129 monthly gain into a $71 monthly loss. That's an $852 shortfall over the year, which the $4,420 operating reserve can carry. That reserve is the two months of rent plus utilities set aside in lesson 1.3. An $852 shortfall uses about a fifth of it. A co-host becomes reasonable only after you negotiate lower rent at renewal, or comparable listings (comps) support a higher rate. The full manager doesn't fit this unit's economics at 20%.
+
+[Recording note: Preston can add a real example here if he has one.]
+
+### 6.5.8 Exercise: local help decision tool
+
+Fill this in for one unit.
+
+**Part A: threshold tests**
+
+| Test | True / False | Evidence |
+|---|---|---|
+| Can't reach the unit within two hours at night | | |
+| More than one missed in-person response in 90 days | | |
+| Hours on the unit exceed your plan | | |
+| A lease, permit, or house rule requires a local contact you lack | | |
+| Adding units in the same area | | |
+
+Test 4 true, or two or more true: add at least an on-call vendor.
+
+**Part B: cost comparison**
+
+Start from your own base and stress net (lesson 1.3). Subtract each setup's yearly cost. For break-even, change occupancy in your lesson 1.3 worksheet until net reads $0.
+
+| Setup | Fee terms (rate and base) | Added cost per year | Net per month, base | Net per month, stress | Break-even occupancy | Hours saved per month | Cost per hour saved |
+|---|---|---|---|---|---|---|---|
+| 1. Cleaner only | | | | | | | |
+| 2. Cleaner + on-call vendor | | | | | | | |
+| 3. Co-host | | | | | | | |
+| 4. Full manager | | | | | | | |
+
+**Part C: decision rule**
+
+Choose the lightest setup that passes the threshold tests and keeps the stress-case net at or above your floor. Write your floor here: $______ a month. If no setup meets it, fix the deal before you fix the staffing. That means lower rent, or proof from comps that the unit earns more. Then rescore the unit on your lesson 3.4 red-flag scorecard.
+
+**Part D: controls you keep**
+
+| Control | Where it's written (contract clause or platform setting) |
+|---|---|
+| Payouts go to your account | |
+| Listing stays in your account | |
+| Permission level granted | |
+| Spending limit without approval | |
+| Compliance decisions reserved to you | |
+| Pricing floor and ceiling set by you | |
+| Monthly report due date | |
+
+### 6.5.9 Who confirms what
+
+**Confirm with:** the state real estate commission or licensing board whether your helper needs a license to manage short-term rentals for others. Ask whether it matters that you're a tenant.
+
+**Confirm with:** your insurance broker whether your STR policy covers acts of a co-host or vendor, and what certificates you should require from them.
+
+**Confirm with:** an attorney the management or co-host agreement terms, especially termination, authorization limits, and data access.
+
+**Confirm with:** the local licensing office whether your permit requires a named local contact and response time.
+
+**Confirm with:** Airbnb's current help pages the co-host permission levels and payout options in your region.
+
+### 6.5.10 Next lesson
+
+You've decided who covers the unit on the ground. Module 7 turns to the unit itself, starting with lesson 7.1, Why Design Matters. Bring your cost comparison from Part B. Furnishing choices change turnover time, damage risk, and nightly rate, and those feed straight back into the numbers you just ran.
+
+### 6.5 sources
+
+- [Airbnb Help, article 1534: What co-hosts can do](https://www.airbnb.com/help/article/1534): co-host permission levels; full access scope; hosts can change permissions; host responsibility. Checked 2026-09-25 via web search summary.
+- [Airbnb Help, article 3264: Co-Host Additional Terms of Service](https://www.airbnb.com/help/article/3264): full-access definition; host alone responsible for choosing and managing co-host access; host remains responsible for co-host actions before removal. Checked 2026-09-25 via web search summary.
+- [Airbnb Help, article 3389: How co-host payouts work](https://www.airbnb.com/help/article/3389): only listing owner sets up co-host payouts; percentage or fixed options; calculated on host's potential earnings; regional limits. Checked 2026-09-25 via web search summary.
+- [Tennessee Real Estate Commission: Vacation Lodging Service Licensure](https://www.tn.gov/commerce/regboards/trec/license/license-how-to/vacation-lodging-service.html): firm and designated agent licenses for businesses managing units owned by others for stays up to 14 days. Checked 2026-09-25 via web search summary.
+- Alder Street example figures (A1 base case, A2 stress case, A3 full-manager what-if): `reference/recurring-examples.md`; vendor, co-host, stress-case, break-even (including the 3b row), fee-threshold, and cost-per-hour figures computed with python on 2026-09-25.

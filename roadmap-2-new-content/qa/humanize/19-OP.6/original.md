@@ -1,0 +1,312 @@
+<a id="lesson-OP.6-furnishing-interior-optimization"></a>
+## OP.6  Furnishing & Interior Optimization for an Owned Property
+
+| Tracker | Detail |
+|---|---|
+| Part / module | Part Two: STR Concierge / Phase 2, Operations launch |
+| Code | OP.6 |
+| Production type / owner | New / Preston |
+| Connects to | Sam's OP.1 Listing Creation Across Airbnb, VRBO & Booking.com (uses the room inventory and photo list from this lesson); Sam's OP.2 2026 Listing Optimization; PA.12 handoff packet; B6 depreciation illustration (furnishings as 5-year property, CPA to confirm) |
+
+### OP.6.0 Learning outcome
+
+By the end of this lesson you can turn a furnishing budget into a room-by-room purchase plan for a specific house. The plan will match a named guest and a sleeping layout the listing can state truthfully. It comes with a safety list you can show your insurer and fire marshal. You'll also leave with a delivery schedule, a linen cycle, owner storage, and a replacement estimate. Last comes a room inventory for Sam, who records the course's live demos. He uses it in OP.1 to build the listing.
+
+### OP.6.1 Start with the guest, not the catalog
+
+Most furnishing mistakes start in a store. Someone falls for a sofa, then makes the house fit it. Reverse that: write down who books this house and what they'll do, then buy for that person.
+
+A guest profile has four parts: who comes, how many sleep over, what they do all day, and what they complain about at comparable houses. Read that last part in reviews of similar nearby listings (the comparable set). They're in the underwriting package Sam walks through in PA.4. If you skipped PA.4, pick three similar listings nearby and read their reviews.
+
+Then ask what each profile demands. Families with small children need a table for everyone, a crib that meets current standards, and furniture that can't tip. A work group needs a real desk and reliable internet. A lake crowd needs towels you don't mind seeing on a dock.
+
+Then write down what this house is *not* for. If you won't allow parties, don't buy a sound system. If the lower level has stairs only, don't imply step-free access. Every accessibility claim in the listing has to be true on the day a guest arrives. Airbnb's [ground rules for hosts](https://www.airbnb.com/help/article/2895) say the listing page should accurately describe the home and the amenities available from check-in to checkout.
+
+### OP.6.2 Sleeping layout: the one number guests check twice
+
+The sleeping layout drives guest decisions, your linen count, your cleaning time, and your insurance conversation. Set it before you buy anything. Count sleeping spots by bed, not by room. If your advertised guest count depends on a sofa bed, say so plainly in the listing.
+
+Airbnb's [sleeping arrangements article](https://www.airbnb.com/help/article/1224) says a bunk bed counts as 2 beds in the bed count shown on the listing. The bed count alone doesn't tell a guest how many people fit: six twins sleep six, six queens could sleep twelve. So state the bed types and the guest count together.
+
+Before you settle the layout, check three things. First, local occupancy limits and any permit condition on guest count. Your PA.9 due diligence should have captured them; if not, ask the licensing office. Second, egress, which means a way out in a fire. Every sleeping room needs one that your building or fire official accepts, so ask them what counts. Third, insurance: a guest count that differs from the policy can create a claim problem.
+
+### OP.6.3 Work space, storage, outdoor use
+
+Three areas get skipped in most furnishing budgets, then show up in reviews.
+
+A work space is a desk, a chair, a lamp, and outlets within reach. If you claim a "dedicated workspace," a guest expects exactly that. If the internet can't hold a video call, don't advertise remote work. Test the speed at the desk. Write the result in your handoff packet, the property reference file you started in PA.12.
+
+Storage means two different things. Guests need somewhere to put a suitcase and hang clothes for a four-night stay. The owner needs a locked place for personal items, spare inventory, and cleaning stock. Mixing the two produces the classic review: "closets were full of the owner's stuff."
+
+Outdoor use is where lake houses earn their rate and where many injuries happen. A grill needs cleaning, fuel checks, and a placement your insurer and fire rules accept. A fire pit, dock, kayak, or hot tub each carries its own insurance question. If you can't maintain it every turnover (the clean and reset between stays), don't list it.
+
+### OP.6.4 Safety and insurability before style
+
+Safety equipment is the first line in the budget, not the last.
+
+Airbnb's [safety requirements for homes](https://www.airbnb.com/help/article/2904) say hosts must state whether smoke and carbon monoxide alarms are present. If present, they must work and hosts must test them regularly. The same page says hosts must address fire and electrical hazards, including blocked exits, inoperable smoke detectors, and exposed wiring. It also covers poorly maintained appliances such as hot tubs, gas appliances, and furnaces, and physical risks like unsafe walls or windows. Hosts are responsible for any area guests can use during the stay.
+
+The Consumer Product Safety Commission publishes a one-page [vacation rental safety tips sheet](https://www.cpsc.gov/s3fs-public/VacationRentalSafetytips002_0.pdf?VersionId=MKcrFCYmuih6xmpoX59wcdmexPwzAXrO) and related [news releases](https://www.cpsc.gov/Newsroom/News-Releases/2022/Make-Safety-a-Priority-When-Staying-in-a-Vacation-Rental-Home). Its recommendations include:
+
+- Smoke alarms on every level, outside each sleeping area, and inside every bedroom.
+- Carbon monoxide alarms on every level, outside sleeping areas.
+- At least one fire extinguisher.
+- TVs and furniture anchored to the wall, and no dangling window-covering cords.
+- Pools and spas with compliant drain covers and a fence at least four feet high with self-closing, self-latching gates.
+- Cribs that meet CPSC standards, with a bare sleep space (fitted sheet only).
+- Cleaning supplies locked or out of children's reach, and a recall check on child products at [SaferProducts.gov](https://www.saferproducts.gov).
+
+That's consumer guidance, not your local code. Your city, county, or state may require more, such as interconnected alarms. Treat the list as a planning floor and ask the fire marshal.
+
+Security devices come next, because they affect privacy and listing accuracy. Airbnb's [device rules](https://www.airbnb.com/help/article/3061) ban security cameras and recording devices that monitor indoor spaces, even if they're turned off. Exterior cameras are allowed if the listing discloses their location. They can't point into the house or cover areas with a greater privacy expectation, such as an enclosed outdoor shower or sauna. Noise decibel monitors that measure only sound level are allowed in common spaces. They must be disclosed and kept out of bedrooms, bathrooms, and sleeping areas. Hidden cameras are prohibited. So buy a doorbell camera if you want one, place it outside, and write its location into the listing.
+
+### OP.6.5 Durability, cleaning time, and replacement cost
+
+Every item you buy has three prices: the purchase price, the minutes it adds to each turnover, and the cost of replacing it. The cheapest sofa is often the most expensive one by year three.
+
+A few buying rules that hold up:
+
+- Buy performance (stain-resistant) or washable fabrics in the living room. Removable covers let the cleaner handle a spill without a service call.
+- Put waterproof encasements (zip-on covers that close around the whole mattress) on every mattress on day one. A stained mattress is a replacement; a stained encasement is a wash.
+- Buy white or one-color bedding from one product line, so sets mix and match.
+- Choose dishware you can rebuy by the piece, and keep spares on a shelf.
+- Skip glass tabletops and lamps that need an app to turn on.
+
+Think in cleaning minutes too. Twelve decorative pillows add time to every turnover. Your cleaner is paid per turnover, so extra minutes become either rushed work or a higher rate later.
+
+### OP.6.6 The budget: purchase plan, spares, linen cycle, and a reserve
+
+The furnishing budget is a fixed input from the underwriting. In our running example, Maya and Chris are buying Cedar Ridge, a lake house (details in OP.6.7). They set $32,000 for furnishing. Your job is to spend it well, not to find more.
+
+Build the plan in five layers, in this order:
+
+1. Safety and access. These are fixed; nothing gets cut here.
+2. Mattresses and encasements, because the beds carry the listing and the reviews.
+3. Linens and towels, sized to a cycle.
+4. Room furniture and decor: bed frames, dressers and nightstands, kitchen, dining, living, work space, outdoor.
+5. Delivery, assembly, spares, owner storage, and launch consumables.
+
+Then hold a contingency on top of the five layers: 3-5% of the budget (assumption). If the draft is over budget, cut layers 4 and 5 before you touch layers 1-3.
+
+The linen cycle sets how much bedding you buy. A common setup is three sets per bed: one on the bed, one in the wash, one clean on the shelf. Three sets let a same-day turnover happen even if the laundry falls behind. Towels follow the guest count, not the bed count: three sets per guest. A set here is a bath towel, hand towel, and washcloth (assumption).
+
+A breakage reserve covers what guests break and what wears out. In year one, that's mostly glasses, towels, and the odd lamp. The end of the worked example shows how Cedar Ridge funds it.
+
+The course's Cedar Ridge tax illustration treats the full $32,000 as 5-year property. That's a tax category that sets how fast the cost is written off (depreciation). Linens, consumables, and delivery may be treated differently. The CPA makes that call (OP.6.10).
+
+### OP.6.7 Worked example: Cedar Ridge
+
+Cedar Ridge is a three-bedroom, two-bath house in a lake market that guests drive to. It sleeps 8 and has no HOA (no homeowners' association rules). Maya and Chris plan to use it themselves about 10 days a year (personal-use days). The furnishing budget is $32,000. In a normal year (the base case), the plan expects 61 stays averaging 3.5 nights.
+
+**Guest profile (assumption).** Two related families or two couples with kids, arriving Friday, doing lake days, cooking most dinners. Midweek bookings in shoulder season (the months between peak and off-peak) lean toward remote workers and small groups. No parties; no pets at launch.
+
+**Floor plan (assumption).** A main level with the kitchen, dining area, living room, primary bedroom, and bath 1. A walkout lower level with bedroom 2, a bunk room, and bath 2. A deck faces the lake.
+
+**Sleeping layout.** Every bed type is listed exactly as installed.
+
+| Room | Beds | Sleeps | Beds shown on listing |
+|---|---|---:|---:|
+| Primary bedroom (main level) | 1 king | 2 | 1 |
+| Bedroom 2 (lower level) | 1 queen | 2 | 1 |
+| Bunk room (lower level) | 2 twin-over-twin bunks | 4 | 4 (each bunk counts as 2) |
+| **Total** | 1 king, 1 queen, 4 twins | **8** | **6** |
+
+No sofa bed is needed to reach 8, so the listing never depends on one.
+
+**First draft, then cuts.** The first draft of the room-by-room plan came to $33,565 (assumption). That's $1,565 over budget with no contingency at all. So we cut before buying anything. Layers 1-3 (safety, mattresses, linens) stayed untouched. All the cuts came from layer 4 (room furniture and decor, $2,360) and layer 5 (delivery and assembly, $400). The table lists every line that changed, sorted by layer:
+
+| Item cut | Layer | First draft | Final | Saved |
+|---|---:|---:|---:|---:|
+| Sectional sofa | 4 | $2,400 | $2,000 | $400 |
+| Accent chairs (2) | 4 | $900 | $600 | $300 |
+| Outdoor dining set | 4 | $1,200 | $950 | $250 |
+| Living room art and decor | 4 | $500 | $300 | $200 |
+| King bed frame | 4 | $900 | $700 | $200 |
+| Dining chairs (8) | 4 | $960 | $800 | $160 |
+| 65-inch TV | 4 | $700 | $550 | $150 |
+| Primary dresser | 4 | $700 | $550 | $150 |
+| Queen bed frame | 4 | $650 | $500 | $150 |
+| Bedroom 2 dresser | 4 | $600 | $450 | $150 |
+| Outdoor lounge chairs (4) | 4 | $600 | $450 | $150 |
+| Living room rug | 4 | $400 | $300 | $100 |
+| **Layer 4 cuts** | | | | **$2,360** |
+| Delivery and assembly (owner assembles small items) | 5 | $2,000 | $1,600 | $400 |
+| **Total cuts** | | | | **$2,760** |
+
+Final purchases: $33,565 - $2,760 = $30,805. Contingency: $32,000 - $30,805 = **$1,195**, about 3.7% of the budget.
+
+**Final room-by-room plan.** All figures are assumptions.
+
+| Room or group | Main items | Amount |
+|---|---|---:|
+| Primary bedroom | King frame and mattress, encasement, 2 nightstands, 2 lamps, anchored dresser, blackout curtains, rug, art, luggage rack | $3,860 |
+| Bedroom 2 | Queen frame and mattress, encasement, 2 nightstands, 2 lamps, anchored dresser, curtains, rug, art, luggage rack | $3,090 |
+| Bunk room | 2 twin-over-twin frames ($1,300), 4 twin mattresses ($1,200), 4 encasements, nightstand, 4 reading lights, anchored dresser, curtains, rug, hooks | $3,920 |
+| Living room | Performance-fabric sectional, 2 accent chairs, coffee and side tables, TV with mount or anti-tip strap, anchored media console, rug, lamps, art, games | $5,220 |
+| Dining area | Table for 8, 8 chairs, lighting | $1,850 |
+| Kitchen | Cookware, knives, dinnerware/glassware/flatware for 12 (extra for breakage and between dishwasher runs), coffee makers, small appliances, utensils and bakeware | $1,670 |
+| Bathrooms (2) | Hair dryers, mats, curtains, bins, mirrors | $500 |
+| Work nook | Desk, chair, lamp, power strip | $510 |
+| Deck and lake side | Outdoor dining set, 4 lounge chairs, gas grill, path lighting | $2,050 |
+| Linens and towels | See linen cycle below | $4,005 |
+| Safety and access | 5 smoke alarms, 3 CO alarms, 3 extinguishers (assumed: kitchen, lower level, near the grill), first aid kit, anti-tip kits, smart lock, exterior doorbell camera, common-area noise monitor | $1,280 |
+| Owner storage and spares | Lockable owner closet ($350), spares shelf ($600) | $950 |
+| Launch logistics | Delivery and assembly ($1,600), initial consumables ($300) | $1,900 |
+| **Purchases subtotal** | | **$30,805** |
+| Contingency (unspent balance moves to breakage reserve) | | $1,195 |
+| **Total** | | **$32,000** |
+
+**The same plan in the five layers.** This is the shape the exercise in OP.6.9 asks you to fill in. All figures are assumptions.
+
+| Layer | What's in it | Amount |
+|---|---|---:|
+| 1. Safety and access | Alarms, extinguishers, first aid kit, anti-tip kits, smart lock, doorbell camera, noise monitor | $1,280 |
+| 2. Mattresses and encasements | King and queen mattresses ($2,300), 4 twin mattresses ($1,200), 6 encasements ($370) | $3,870 |
+| 3. Linens and towels | The linen cycle below | $4,005 |
+| 4. Room furniture and decor | Everything else in the bedrooms, living room, dining area, work nook, kitchen, baths, and deck | $18,800 |
+| 5. Logistics, storage, spares | Delivery and assembly, consumables, owner closet, spares shelf | $2,850 |
+| **Purchases subtotal** | | **$30,805** |
+| Contingency | | $1,195 |
+| **Total** | | **$32,000** |
+
+The alarm count follows the CPSC placement guidance for this assumed layout. There's one alarm in each of the three bedrooms and one outside the sleeping areas on each level, for five. There's one CO alarm on each level outside sleeping areas, plus one near the furnace, for three. The fire marshal may change that count.
+
+**Linen cycle, step by step.**
+
+- Beds: 1 king + 1 queen + 4 twins = 6 beds.
+- Sheet sets at 3 per bed: 6 × 3 = 18 sets. Cost: (1 × 3 × $90) + (1 × 3 × $75) + (4 × 3 × $45) = $270 + $225 + $540 = $1,035.
+- Duvet covers at 3 per bed: (3 × $70) + (3 × $60) + (12 × $40) = $210 + $180 + $480 = $870.
+- Duvet inserts, one per bed plus a spare king: $120 + $100 + (4 × $60) + $120 = $580.
+- Pillows: 4 on the king, 4 on the queen, 1 per twin = 12, plus 4 spares = 16 at $25 = $400. Protectors: 16 at $10 = $160.
+- Bath towel sets (bath towel, hand towel, washcloth) at 3 per guest: 8 × 3 = 24 sets at $25 = $600.
+- Lake towels at 2 per guest: 8 × 2 = 16 at $15 = $240. Kitchen towels and extra bath mats: $120.
+- Linen total: $1,035 + $870 + $580 + $400 + $160 + $600 + $240 + $120 = **$4,005**.
+
+With 61 stays and all 6 beds stripped each turnover, the house runs 61 × 6 = 366 sheet-set changes a year. Spread across 18 sets, each set gets washed about 20 times a year. Plan on replacing linens on a rolling basis, not all at once.
+
+**Replacement pace and the breakage reserve.** New furniture doesn't fail on schedule, but it does wear out. The table below spreads each group over an assumed replacement life. These lives are planning assumptions, not tax lives.
+
+| Group | Cost | Assumed life (years) | Per year |
+|---|---:|---:|---:|
+| Linens, towels, mattress encasements | $4,375 | 2 | $2,188 |
+| Kitchen and bath smallwares (dishes, cookware, bath accessories) | $2,170 | 3 | $723 |
+| Outdoor furniture and grill | $2,050 | 4 | $512 |
+| TV, lock, doorbell camera, noise monitor | $1,200 | 5 | $240 |
+| Mattresses | $3,500 | 7 | $500 |
+| Case goods (dressers, tables, frames, other hard furniture), upholstery, rugs, lighting, decor | $14,110 | 8 | $1,764 |
+| Alarms, extinguishers, first aid | $550 | 10 | $55 |
+| **Total replacement pace** | | | **$5,982** |
+
+Where the groups come from: linens are the $4,005 linen plan plus six mattress encasements ($370). Smallwares are the kitchen ($1,670) and bathrooms ($500). The TV ($550) joins the smart lock, doorbell camera, and noise monitor ($650). Mattresses are the king and queen ($2,300) plus the four twins ($1,200). Case goods cover everything else in the bedrooms, living room, dining area, and work nook, plus the anti-tip kits ($80).
+
+Delivery, assembly, consumables, the owner closet, and the spares shelf ($2,850 combined) are left out; they aren't replaced on a cycle.
+
+That $5,982 a year is about $98 per stay ($5,982 ÷ 61). It's also 8.1% of the $74,275 gross booking revenue expected in a normal year (the base case). The Cedar Ridge operating budget sets aside 5% of gross for repairs ($3,714). It sets aside another 5% for a capital reserve, money held for big-ticket items ($3,714). That's $7,428 together. Furnishing replacement alone would use about 81% of both, before the roof or furnace. In plain terms, the 5% repairs line alone ($3,714) doesn't cover furnishing wear ($5,982). Bring that question to Sam's OP.10 review (The 30-Day and 90-Day Performance Review): do the reserves cover furnishings as well as the building?
+
+For year one, Cedar Ridge funds breakage two ways. The $1,195 contingency, if unspent, moves into a separate breakage account at launch. Then Maya and Chris earmark about $243 a month of the repairs line for linens and smallwares. That's the $2,911 a year those two groups wear out at ($2,188 + $723 = $2,911, and $2,911 ÷ 12 = $243). Any single replacement over $200 (assumption) needs owner approval. OP.8 builds that into the cleaning SOP (standard operating procedure).
+
+**Delivery and setup schedule (assumption).** Day 0 is possession, the day you get the keys after closing (PA.11). Photo day is Day 21. Alarms and extinguishers go in during the first two days, before any crew or furniture arrives.
+
+| When | What happens | Who |
+|---|---|---|
+| Before closing | Order long-lead items, the pieces that take weeks to arrive (sectional, mattresses, bunks), with delivery on or after Day 3; choose orders you can reschedule if closing slips | Maya |
+| Day 0-2 | Change locks, install smart lock; smoke and CO alarms, extinguishers, first aid kit; safety walk, deep clean | Chris, handyman |
+| Day 3-5 | Beds, bunks, mattresses, dressers delivered and assembled; anchor tall furniture | Assembly service, handyman |
+| Day 6-9 | Living and dining furniture, TV mount, work nook | Assembly service, Chris |
+| Day 10-12 | Doorbell camera and noise monitor installed; locations noted for the listing | Handyman, Chris |
+| Day 13-15 | Kitchen and linens stocked; owner closet locked; spares labeled | Maya, cleaner |
+| Day 16-17 | Test stay: the owners sleep there and use every item | Owners |
+| Day 18-20 | Punch list (fix what the test stay found); first full clean to the OP.8 cleaning standard | Cleaner, handyman |
+| Day 21 | Photos; room inventory handed to Sam's OP.1 setup | Photographer, Maya |
+
+The test stay is the step people skip. It finds the missing shower hook and the blind that won't close.
+
+**Owner storage.** A locked lower-level closet holds personal items for the 10 personal-use days, spares, and cleaning stock. Only the owners and the cleaner have the code. The listing says one closet is locked and unavailable to guests.
+
+### OP.6.8 Photo-ready checklist and room inventory for OP.1
+
+Airbnb's [search explanation](https://www.airbnb.com/help/article/39) says quality is a major factor in how listings appear, and photos count toward quality. Guests can [filter by amenities](https://www.airbnb.com/resources/hosting-homes/a/the-amenities-guests-want-25), so an amenity you don't list can't be found. One you list but don't have is an accuracy problem. Airbnb can also ask hosts to [confirm photo accuracy](https://www.airbnb.com/help/article/2881) by retaking photos in person through the app. So photograph the house exactly as a guest will find it.
+
+Photo-ready checklist for the evening before photos:
+
+- Every bed made in the standard set, the way the cleaner will make it every turnover.
+- Every lamp working; every surface cleared except items the guest will actually find there.
+- Safety equipment in place: extinguishers easy to see and reach, alarm locations noted for the listing.
+- Doorbell camera location photographed for the disclosure; no camera anywhere indoors.
+- Owner closet locked; no personal items in guest areas.
+- Outdoor furniture set up as guests will use it; grill clean and covered.
+- One shot of each bed type so the sleeping arrangement is visible.
+- Work nook with the chair and lamp in place; internet speed test result saved.
+
+Room inventory for Sam's OP.1 (a sample row per room; the full sheet lists every room):
+
+| Room | Beds / seating | Listed amenities in this room | Safety items in this room | Photo shots needed | Notes for listing text |
+|---|---|---|---|---|---|
+| Primary bedroom | 1 king | Blackout curtains, luggage rack, dresser | Smoke alarm | Wide, bed detail | Main level |
+| Bunk room | 2 twin-over-twin bunks | Reading lights, dresser, hooks | Smoke alarm | Wide, bunk detail | Lower level, stairs only |
+| Deck | Dining for 6-8, 4 loungers | Gas grill, lighting | Extinguisher nearby (per marshal) | Wide, lake view | Grill rules in house manual |
+
+Sam's OP.1 lesson turns this sheet into the listing on each booking site (Airbnb, VRBO, Booking.com). Your job is to hand him facts that are true and complete.
+
+### OP.6.9 Exercise: furnishing plan for your address
+
+Fill this in for your property before you buy anything.
+
+**Part A: guest and layout**
+
+| Question | Your answer | Source or check |
+|---|---|---|
+| Primary guest profile (who, how many, what they do) | | Comparable listing reviews, PA.4 |
+| What this house is not for | | House rules draft |
+| Maximum occupancy allowed at this address | | Permit / licensing office, date |
+| Bed list by room and bed type | | |
+| Sleeps (sum of beds) | | Must match the listing and policy |
+| Accessibility features you can truthfully claim | | Measured on site |
+
+**Part B: budget build** (the total must equal your underwriting budget; if you haven't set one, set it before you shop)
+
+| Layer | Items | Budget | Actual quote | Variance |
+|---|---|---:|---:|---:|
+| 1. Safety and access | | | | |
+| 2. Mattresses and encasements | | | | |
+| 3. Linens and towels (3 sets per bed, 3 towel sets per guest) | | | | |
+| 4. Room furniture and decor (bed frames, dressers, kitchen, dining, living, work, outdoor) | | | | |
+| 5. Delivery, assembly, spares, owner storage, consumables | | | | |
+| Contingency (target 3-5%, assumption) | | | | |
+| **Total** | | | | |
+
+**Part C: decision rules**
+
+- If the draft is over budget, cut layers 4 and 5 before touching layers 1-3.
+- If contingency falls below 3% (assumption), cut again before ordering.
+- If the replacement pace exceeds your repairs line, flag it for OP.10. To find your pace, copy the Cedar Ridge table: group your purchases, give each group a life in years, divide, and add.
+- If an accessibility, safety, or outdoor claim can't be verified on site, leave it out of the listing.
+
+### OP.6.10 Who confirms what
+
+**Confirm with:** the local licensing office or building department on maximum occupancy, bedroom egress, and any permit condition tied to beds or guest count.
+
+**Confirm with:** the local fire marshal on smoke and CO alarm type, placement, interconnection, and extinguisher requirements for this address.
+
+**Confirm with:** the insurer on the listed guest count, bunk beds, grill, fire features, water access, and any pool or hot tub.
+
+**Confirm with:** the CPA on how furnishings, linens, supplies, delivery, and assembly are classified. Also ask whether treating the full budget as 5-year property, as the Cedar Ridge illustration does, holds for your purchases.
+
+**Confirm with:** Airbnb's current help pages on device rules and listing accuracy before publishing, since platform policies change.
+
+### OP.6.11 Next lesson
+
+The house is furnished, safe, and photographed, and the listing facts are ready. Now someone has to keep it that way after every stay. OP.7 Building Your Ops Team: Cleaner, Co-Host, or Property Manager decides who cleans, restocks, inspects, answers guests, and holds a key. It also decides who can approve spending, such as the $200 replacement limit set here.
+
+### OP.6 sources
+
+- [Airbnb help 2895, ground rules for hosts](https://www.airbnb.com/help/article/2895): listing accuracy. Checked 2026-09-25 via WebSearch summary.
+- [Airbnb help 1224, sleeping arrangements](https://www.airbnb.com/help/article/1224): a bunk counts as 2 beds. Checked 2026-09-25 via WebSearch summary.
+- [Airbnb help 2904, safety requirements](https://www.airbnb.com/help/article/2904): alarm disclosure, testing, hazards. Checked 2026-09-25 via WebSearch summary.
+- [CPSC vacation rental safety tips (PDF)](https://www.cpsc.gov/s3fs-public/VacationRentalSafetytips002_0.pdf?VersionId=MKcrFCYmuih6xmpoX59wcdmexPwzAXrO) and [CPSC 2022 news release](https://www.cpsc.gov/Newsroom/News-Releases/2022/Make-Safety-a-Priority-When-Staying-in-a-Vacation-Rental-Home): alarm placement, extinguisher, anchoring, pool, crib guidance. The PDF couldn't be opened directly, so content was checked 2026-09-25 via WebSearch summary. Recheck the PDF before relying on it.
+- [Airbnb help 3061, cameras and devices](https://www.airbnb.com/help/article/3061): indoor camera ban, exterior disclosure, noise monitors. Checked 2026-09-25 via WebSearch summary.
+- [Airbnb help 39, how search works](https://www.airbnb.com/help/article/39): quality includes photos and listing characteristics. Checked 2026-09-25 via WebSearch summary.
+- [Airbnb Resource Center, amenities guests want](https://www.airbnb.com/resources/hosting-homes/a/the-amenities-guests-want-25): amenity filters. Checked 2026-09-25 via WebSearch summary.
+- [Airbnb help 2881, photo accuracy](https://www.airbnb.com/help/article/2881): in-person photo verification. Checked 2026-09-25 via WebSearch summary.
+- [SaferProducts.gov](https://www.saferproducts.gov): named in CPSC material; not independently opened.
+- Cedar Ridge budget and income figures come from the course's running example (`reference/recurring-examples.md`, B1, B4, B6). The room plan, cuts, five-layer view, linen math, and replacement pace are teaching assumptions, computed in python on 2026-09-25.

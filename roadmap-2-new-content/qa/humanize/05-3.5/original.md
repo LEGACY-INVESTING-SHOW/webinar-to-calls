@@ -1,0 +1,268 @@
+<a id="lesson-3.5-sublease-legality-disclosure"></a>
+## 3.5  Sublease Legality & Landlord Disclosure Best Practices
+
+| Tracker | Detail |
+|---|---|
+| Part / module | Part One, Airbnb Arbitrage Roadmap 2.0 / Module 3 (Regulation and compliance) |
+| Code | 3.5 |
+| Production type / owner | New / Preston |
+| Connects to | Preston's 3.1 and 3.4; lesson 5.3 Sublease Addendum Deep Dive (updated); lesson 2.4 Insurance & Liability Protection (updated); Preston's 5.7; resource SR.1 |
+
+### 3.5.0 Learning outcome
+
+By the end of this lesson you can read a lease and tell whether it gives explicit written authority for short stays. Some leases only sound like permission. You'll know the ten topics written consent should cover and what to disclose to the owner. You'll also know which questions go to an attorney or insurer. You'll leave with a completed consent review for one lease.
+
+### 3.5.1 Two separate questions: subletting and short stays
+
+Students often treat "Can I sublet?" and "Can I run an Airbnb?" as the same question. They aren't the same, and mixing them up is a common way to end up in a dispute with your landlord.
+
+An ordinary residential sublet usually means you hand possession of the unit to one person for a stretch of time. That person lives there. They pay you, you pay the landlord, and the arrangement has a start and end date. Many leases and some state laws address this directly.
+
+Short-term rental (STR) arbitrage is different in kind. In arbitrage you lease a unit you don't own and rent it to travelers by the night. You keep control of the unit. A new group of guests arrives every few nights. Alder Street, the course's example unit, expects about 85 stays a year at an average of 3 nights each (assumption). Over a 24-month lease that's roughly 170 separate guest groups. A landlord who agreed to "a sublet" was probably picturing one subtenant, not 170 check-ins.
+
+The law can treat the two differently too. New York is just the illustration here. Alder Street's city is unnamed on purpose, because the rules attach to the exact address. New York's Real Property Law section 226-b gives some tenants in buildings with four or more units a right to sublease. The tenant needs the landlord's advance written consent, and the landlord can't unreasonably withhold it ([NY RPL 226-b](https://www.nysenate.gov/legislation/laws/RPP/226-B)). That statute sets out a notice process built around a named subtenant and a sublease term. It doesn't answer whether repeated stays under 30 days are legal. New York City answers that separately, through its Office of Special Enforcement (OSE). For whole units the answer is no ([NYC OSE tips for hosts](https://www.nyc.gov/site/specialenforcement/registration-law/tips-for-hosts.page)). So a tenant could have a sublet right and still have no lawful path to short stays.
+
+Here's the practical rule. When you read a lease, a statute, or a landlord email, ask which of the two questions it answers. If it only talks about subletting, you still need a separate, explicit answer on short stays.
+
+**Confirm with:** an attorney licensed in the property's state how the lease, state law, and local code classify your plan. It could be a sublet, a license to occupy (permission to use a space without becoming a tenant), a hotel-type use, or something else. The label can change which rules apply.
+
+### 3.5.2 What "written authority" actually means
+
+Written authority has four parts. They aren't steps in order. You need all four at once, and if any one is missing, you don't have it yet.
+
+First, the right person signs. That's the owner of record (the owner named in the county's property records) or an agent with written authority to bind the owner. A leasing agent who says "should be fine" may have no authority to change the lease. Search the county's property records by the unit's address to see the owner's name. If an agent signs, ask for the management agreement page or a letter that shows their authority. The management agreement is the contract between the owner and the company that manages the building.
+
+Second, it names the use. The document should say that short stays through listed booking channels are allowed. General words like "residential purposes" or "guests permitted" don't name the use.
+
+Third, it names the parties and the unit. Use the exact unit and the exact tenant, including your LLC if you're signing through one.
+
+Fourth, it's attached to the lease. An addendum is a signed add-on page that becomes part of the lease. A signed addendum that says it's part of the lease is far stronger than a separate email thread. Lesson 5.3 walks through a full addendum line by line.
+
+Landlord consent also has limits. It can't override a city ban, a primary-residence rule, or a homeowners' association (HOA) restriction. Airbnb's own guidance tells hosts to read the lease, talk to the landlord, and check HOA or co-op rules before hosting ([Airbnb Help, article 1397](https://www.airbnb.com/help/article/1397)). Some cities also make the landlord's written approval part of the permit itself. Los Angeles requires written landlord approval before a renter can register for home-sharing (the city's name for short stays in a host's own home). The city publishes a landlord authorization form for that purpose ([LA City Planning Home-Sharing FAQ](https://planning.lacity.gov/ordinances/docs/HomeSharing/adopted/faq.pdf); [LA landlord authorization form](https://planning.lacity.gov/odocument/b044ea0f-be5d-4da5-8144-18b0c3fad092/AFFIDAVIT.pdf)). Los Angeles also limits home-sharing to a primary residence, so that form alone doesn't make an arbitrage plan legal there. In lesson 3.4 that's hard stop H2, a primary-residence rule you can't meet. A hard stop ends the deal on its own.
+
+### 3.5.3 The ten topics written consent should cover
+
+Think of the consent as the operating agreement between you and the owner. If a topic will matter the first time something goes wrong, it belongs in writing now.
+
+| # | Topic | What the document should say | Why it matters |
+|---|---|---|---|
+| 1 | Permitted use | Short stays are permitted, with a stated maximum length (for example, fewer than 30 nights) and a minimum if you want one | Removes the "residential only" argument |
+| 2 | Booking channels | Which platforms and whether direct bookings are allowed | Owner knows where the unit is advertised |
+| 3 | Guest access | How guests enter (code, lockbox, smart lock) and which common areas they may use | Prevents building-rule disputes |
+| 4 | Occupancy limits | Maximum guests per stay, and whether visitors are allowed | Matches safety and noise concerns |
+| 5 | Insurance | Required coverage types and limits, who is named, proof on renewal | Aligns the lease with your actual policy |
+| 6 | Repairs and damage | Who fixes what, response times, who pays, how damage is reported | Stops a guest-caused repair from turning into a fight |
+| 7 | Building rules | Quiet hours, trash, parking, smoking, pets | Gives you rules you can put in house rules |
+| 8 | Permit and tax authority | Owner consents to you applying for permits and tax accounts using the address, and signs any required forms | Some permits need owner signature |
+| 9 | Local contact and complaints | Who answers neighbor or owner calls, within what time, day and night | Gives the owner a name and a number |
+| 10 | Change in law and exit | What happens if the city changes rules, how either side ends the arrangement, cure periods | Protects both sides from a sudden stop |
+
+Item 8 surprises people. Some cities want the owner's signature or consent on the permit application. You don't want to discover that after you've signed a two-year lease and the owner is now reluctant.
+
+Item 10 protects you as much as the owner. If a new ordinance bans your use, you want a clean way out. You can convert to a standard tenancy or end the lease, rather than breach it. Item 10 also sets cure periods. A cure period is the time you get to fix a problem after written notice, before the other side can act.
+
+### 3.5.4 What to disclose, and how
+
+You know what the consent should cover. Next is what the owner needs to hear from you, so their consent covers the business you'll really run.
+
+The owner should understand exactly what business is going to run in their property. That's fair to them, and it's also self-protective. A consent obtained with a vague description can be attacked later as consent to something else.
+
+Disclose five things in plain words.
+
+The operating model. Say that you'll lease the unit and host paying guests for short stays, usually a few nights at a time, through named platforms. Give the expected number of stays. For Alder Street that's about 85 a year, or roughly 1.6 check-ins a week.
+
+The local team. Name who cleans, who handles maintenance, and who responds in person. If that's a vendor you haven't hired yet, say so and commit to sending the name before the first booking.
+
+Guest screening. Explain what you check before accepting a booking and what house rules guests agree to. Airbnb says it doesn't allow open-invite parties or disruptive gatherings and may block higher-risk reservations ([Airbnb Community Disturbance Policy](https://www.airbnb.com/help/article/3345)). That's a platform policy. Your own screening rules still need to be written down.
+
+Damage handling. Explain your STR insurance, your security deposit or damage process, and how you'll report damage to the owner. Be accurate about platform programs. Airbnb states that Host damage protection, part of its AirCover for hosts, isn't an insurance policy ([Airbnb Help, article 3733](https://www.airbnb.com/help/article/3733)). Don't describe it to an owner as insurance. Lesson 2.4 covers STR insurance in more depth.
+
+Neighbors. Say how neighbors can reach you, what quiet hours apply, and how you'll handle complaints. Airbnb suggests hosts discuss their plans with neighbors. It also suggests considering a rider (an add-on document, much like an addendum) covering concerns and responsibilities ([Airbnb Help, article 1397](https://www.airbnb.com/help/article/1397)).
+
+Put all five in a one-page operating summary. Attach it to the addendum and have the owner sign it too. If the owner later says "I didn't know it would be this many guests," you can point to a page they signed.
+
+Save the final record. Keep the signed lease, the signed addendum, the operating summary, and the emails that led to them in one folder. Name each file with the date. That folder is what an attorney, insurer, or permit office will ask for.
+
+### 3.5.5 Ambiguous versus explicit permission
+
+Now go back to the lease itself. Use the four parts from 3.5.2 to test the clauses you'll actually see. Here's where many arbitrage leases go wrong. The words sound permissive, but they don't say what you need. Below are common clauses and what each one actually gives you. (To assign a lease is to hand the whole lease to someone else.)
+
+| Clause as written | What it seems to say | What it actually gives you | Risk |
+|---|---|---|---|
+| "Tenant may not sublet or assign without Landlord's prior written consent." | Ask and you'll be allowed | Nothing until the landlord signs a consent that names short stays | High |
+| "Tenant may have guests." | Guests are fine | Usually social guests, not paying ones | High |
+| "Premises shall be used for residential purposes only." | Neutral | Arguably excludes a lodging business | High |
+| Text message: "Airbnb is fine with me." | Permission | Unsigned, unattached, no terms, may come from someone without authority | High |
+| "Landlord consents to Tenant's use of the Premises for short-term rentals." | Permission | Permission for the use, but silent on channels, occupancy, insurance, permits, and exit | Medium |
+| A signed addendum covering all ten topics in 3.5.3 | Permission | Explicit authority with terms both sides can follow | Lower, subject to local law |
+
+Read the Risk column as how exposed you'd be. High means you're relying on words that don't give permission for short stays. Medium means you have permission but no written terms. Lower means you have signed terms, and local law still applies.
+
+The medium-risk row matters. A one-line consent is a big step up from silence. But the first time a neighbor complains about six guests, you and the owner will be arguing about terms that were never written.
+
+Below is sample clause language for an explicit addendum. It's written for the Alder Street unit you'll review in 3.5.6 (sleeps 5, keypad lock, shared laundry). Treat it as a starting point for your attorney.
+
+> **Illustrative language only. Not legal advice. Have an attorney licensed in the property's state review and adapt it before anyone signs.**
+>
+> **1. Permitted use.** Landlord consents to Tenant using the Premises for furnished stays of fewer than 30 nights by paying guests ("Short-Term Stays"). This consent adds to any use the Lease otherwise permits and lasts for the full Lease term and any renewal.
+>
+> **2. Booking channels.** Tenant may advertise and accept Short-Term Stays through Airbnb, Vrbo, and Tenant's own direct-booking website. Tenant will notify Landlord in writing before adding any other channel.
+>
+> **3. Occupancy and access.** No more than 5 overnight guests may stay at one time. Guests may enter through the Premises' keypad lock and may use the shared laundry room and rear parking space assigned to the Premises. Guests may not use other common areas.
+>
+> **4. Compliance.** Tenant will obtain and keep current every permit, registration, and tax account the jurisdiction requires for Short-Term Stays. Tenant will display any required registration number in listings. Landlord will sign any owner consent or authorization form the jurisdiction requires within 10 business days of request.
+>
+> **5. Insurance.** Tenant will maintain short-term-rental liability insurance with limits of at least $[amount] per occurrence. Tenant will name Landlord as an additional insured where the insurer permits. Tenant will deliver the declarations page before the first stay and at each renewal.
+>
+> **6. Repairs and damage.** Tenant is responsible for damage caused by guests beyond ordinary wear. Tenant will report any damage affecting the building or another unit to Landlord within 24 hours and arrange repair by a licensed contractor where required.
+>
+> **7. Building rules and neighbors.** Tenant will include the building's quiet hours, parking, trash, and no-smoking rules in guest house rules. Tenant will give neighbors and Landlord a contact number answered 24 hours a day and respond to complaints within [time].
+>
+> **8. Change in law.** A change in law or a regulator's written determination may prohibit Short-Term Stays at the Premises. If so, either party may give 30 days' written notice to convert this Lease to a standard residential tenancy on the existing terms. Either party may instead end the Lease without penalty on the same notice.
+>
+> **9. Breach and cure.** If Tenant breaches this Addendum, Landlord will give written notice describing the breach. Tenant will have [number] days to cure before Landlord may revoke this consent.
+>
+> **10. Authority.** Each person signing represents that they have authority to bind the party for whom they sign.
+
+Brackets like $[amount] and [number] are blanks you fill in with your attorney. Two insurance terms in clause 5 need a plain meaning. The declarations page is the summary page of your policy showing coverage and limits. An additional insured is someone listed on your policy as covered too.
+
+Notice what the illustrative language doesn't do. It doesn't promise the use is legal. Clause 4 puts compliance on you, which is what an owner wants to see. Clause 8 plans for the day the rules change. Whether clause 8 or clause 9 is enforceable as written depends on state law. That's the attorney's job.
+
+The clause numbers don't match the topic numbers in 3.5.3. Topics 3 and 4 share clause 3. Topic 8 (permit authority) is clause 4. Topics 7 and 9 share clause 7. Topic 10 is clauses 8 and 9. Clause 10 adds signing authority. In the worksheet, write the clause number from your own addendum.
+
+**Confirm with:** an attorney licensed in the property's state before using any clause above. Ask whether the change-in-law and cure terms are enforceable and how they interact with local tenant protections.
+
+### 3.5.6 Worked example: reviewing the Alder Street lease
+
+Back to Unit 4B, 218 Alder Street. All Alder Street figures are course assumptions. The landlord owns the four-unit building and offered a 24-month lease at $1,950 a month. You scored the address in lesson 3.4 and labeled it "investigate." Two lease rows were on your list: L1 (termination without cause) and L2 (guest rights). Now you review the actual documents.
+
+Here's a quick reminder if you haven't taken 3.4. Its scorecard gives each red flag 0 (fine), 1 (unclear or partly covered), or 2 (serious). Any lease row scored 2 keeps the address from advancing. "Investigate" means don't sign yet, and fix the listed items first. L1 is a landlord's right to end the lease without cause. L2 is guest rights the lease doesn't spell out.
+
+Assume you have three documents.
+
+Item A, lease clause 9: "Tenant shall not sublet any part of the Premises or assign this Lease without Landlord's written consent."
+
+Item B, lease clause 14: "Either party may terminate this Lease upon 60 days' written notice."
+
+Item C, a text from the landlord: "I'm ok with the Airbnb thing as long as there are no problems."
+
+Review each one.
+
+Item A, lease clause 9, restricts subletting and asks for written consent. It doesn't mention short stays at all. As written, it gives you nothing. At best it tells you consent is possible. Result: you need a signed addendum.
+
+Item B, lease clause 14, is the L1 flag from 3.4. Let's put a number on the risk.
+
+Your setup cost already spent is $12,050. That covers furniture, linens and kitchen, safety gear, photos, and the permit application. You don't get it back if the lease ends early. At the base case ($205 a night, 70% occupancy), Alder Street nets $1,018 a month after rent and every running cost. So payback, the time it takes profit to repay setup, is 11.8 months ($12,050 ÷ $1,018).
+
+Suppose the landlord gives 60 days' notice at the end of month 4, so the lease ends after month 6. By then you'd have earned back about $6,108 ($1,018 × 6). About $5,942 of setup cost would be unrecovered ($12,050 − $6,108). Month 4 is just an example. At the base case, any notice given before about month 10 leaves part of your setup unrecovered.
+
+The course's stress case is worse. With the nightly rate down to $180 and occupancy at 60%, net falls to $129 a month. You'd have recovered only $774 by month 6 ($129 × 6), leaving $11,276 unrecovered.
+
+That's why a no-cause termination clause scores a 2 on the 3.4 scorecard. It's the clause that turns your furniture budget into the landlord's option.
+
+Result: ask for the breach-and-cure clause (clause 9 of the sample addendum in 3.5.5, not lease clause 9). Also ask for a statement that lease clause 14 doesn't apply while the addendum is in force.
+
+Item C is friendly but weak. It's unsigned, has no terms, and "no problems" is undefined. Who decides what counts as a problem? Result: save it as evidence of good faith, and use it to open the addendum conversation. Don't rely on it.
+
+Now build the addendum around the ten topics. Using Alder Street's facts:
+
+| Topic | Alder Street entry |
+|---|---|
+| Permitted use | Stays under 30 nights, full 24-month term |
+| Channels | Airbnb, Vrbo, direct website |
+| Guest access | Keypad lock on 4B; shared laundry; one rear parking space |
+| Occupancy | Maximum 5 guests (the unit sleeps 5) |
+| Insurance | STR liability policy quoted at $1,300 a year; declarations page to landlord |
+| Repairs and damage | Tenant pays guest-caused damage; building issues reported within 24 hours |
+| Building rules | Quiet hours, trash day, no smoking in house rules |
+| Permit authority | Landlord signs any owner form; permit costs $250 a year |
+| Local contact | Name and 24-hour number delivered before first stay |
+| Change in law and exit | If the law changes: convert to a standard tenancy or end on 30 days' notice. If you breach: written notice and a 30-day cure period (assumption) |
+
+Then attach the operating summary, and have the landlord sign it with the addendum. For Alder Street it says: about 85 stays a year, average 3 nights, and maximum 5 guests. It also names a cleaner and an on-call vendor, and gives your 24-hour number.
+
+With a signed addendum covering these rows, L2 (guest rights) on the 3.4 scorecard drops from 1 to 0. L1 (no-cause termination) drops from 2 to 0 if the landlord accepts breach and cure in its place.
+
+If the landlord won't sign an addendum, lesson 3.4's hard stop H5 applies (no explicit written permission). That makes the address a reject, however friendly the texts are.
+
+<!-- [Recording note: Preston can add a real example here if he has one.] -->
+
+### 3.5.7 Exercise: consent review worksheet
+
+Use this worksheet on the lease for one address you're considering. No lease yet? Practice on Alder Street's items A to C from 3.5.6. Fill in every row before you sign anything. Review the draft addendum first, then re-check it against the signed copy.
+
+**Part A: authority**
+
+| Question | Answer | Evidence saved (file name and date) |
+|---|---|---|
+| Owner of record per county property record | | |
+| Person who will sign, and their role | | |
+| If an agent signs, document showing their authority | | |
+| Tenant name exactly as it will appear (you or your LLC) | | |
+
+**Part B: clause review**
+
+Use the Risk column in the 3.5.5 table as your guide. Anything that isn't a signed consent naming short stays is high. A one-line signed consent is medium. A signed addendum covering the ten topics is lower.
+
+| Lease clause or message (quote it) | Which question does it answer: sublet, short stays, or neither? | Risk (high / medium / lower) | Fix requested |
+|---|---|---|---|
+| | | | |
+| | | | |
+| | | | |
+| | | | |
+
+**Part C: ten-topic coverage**
+
+Write the clause number from your own addendum, not the topic number.
+
+| Topic | Covered in writing? (draft / signed / no) | Where (clause number) | Still needed |
+|---|---|---|---|
+| Permitted use | | | |
+| Booking channels | | | |
+| Guest access | | | |
+| Occupancy limits | | | |
+| Insurance | | | |
+| Repairs and damage | | | |
+| Building rules | | | |
+| Permit and tax authority | | | |
+| Local contact and complaints | | | |
+| Change in law and exit | | | |
+
+**Part D: disclosure summary delivered**
+
+| Item | Included? | Date sent | Owner acknowledged? |
+|---|---|---|---|
+| Operating model and expected stays per year | | | |
+| Local team names | | | |
+| Guest screening rules | | | |
+| Damage handling and insurance | | | |
+| Neighbor contact plan | | | |
+
+**Decision:** Explicit written authority in hand? Yes / No. If no, list what's missing and who will provide it by what date.
+
+A "no" here means you don't accept guests. It also sends you back to the 3.4 scorecard to update L1 through L5.
+
+### 3.5.8 Who confirms what
+
+**Confirm with:** an attorney licensed in the property's state whether the lease and addendum give explicit authority for short stays. The attorney also checks any state sublet statute and whether the termination, cure, and change-in-law terms are enforceable.
+
+**Confirm with:** the local licensing or planning office whether the permit requires the owner's signature or a landlord authorization form. Ask whether a renter can hold the permit at all. If you use the course's SR.1 regulatory compliance checklist, bring it to that call.
+
+**Confirm with:** your insurance broker that the policy covers the disclosed operation, and whether the landlord can be named as an additional insured.
+
+**Confirm with:** the HOA, condo board, or building manager, if any, that building rules don't restrict short stays regardless of the landlord's consent.
+
+### 3.5.9 Next lesson
+
+Module 4 moves from permission to market evidence. Sam, who records the course's live demos, starts the research in 4.1, How to Find a Money-Making Market - 2026 Method. Watch for the comparable-revenue and new-supply checks. They clear rows C3 (comparable revenue) and C8 (new supply) on your 3.4 scorecard. When you're ready to draft the actual document, lesson 5.3, Sublease Addendum Deep Dive, walks through the addendum clause by clause. Bring your completed consent review worksheet to both.
+
+### 3.5 sources
+
+- [NY Real Property Law section 226-b, Right to sublease or assign](https://www.nysenate.gov/legislation/laws/RPP/226-B): sublease right in buildings with four or more units, advance written consent not unreasonably withheld, notice process. Checked 2026-09-25 via web search summary of the official statute page.
+- [NYC OSE: Tips for Hosting a Legal Short-term Rental](https://www.nyc.gov/site/specialenforcement/registration-law/tips-for-hosts.page): no whole-unit stays under 30 days; lease certification on registration. Checked 2026-09-25 via web search summary.
+- [LA City Planning: Home-Sharing Ordinance FAQ](https://planning.lacity.gov/ordinances/docs/HomeSharing/adopted/faq.pdf): written landlord approval for renters; primary-residence requirement. Checked 2026-09-25 via web search summary.
+- [LA City Planning: Landlord's Authorization to Conduct Home-Sharing](https://planning.lacity.gov/odocument/b044ea0f-be5d-4da5-8144-18b0c3fad092/AFFIDAVIT.pdf): existence of the city's landlord authorization form. Checked 2026-09-25 via web search result title; contents not opened.
+- [Airbnb Help, article 1397: General info about hosting places to stay](https://www.airbnb.com/help/article/1397): check lease, landlord, HOA or co-op rules; consider a rider; talk with neighbors. Checked 2026-09-25 via web search summary.
+- [Airbnb Help, article 3345: Community Disturbance Policy](https://www.airbnb.com/help/article/3345): no open-invite parties or disruptive gatherings; Airbnb may block higher-risk reservations. Checked 2026-09-25 via web search summary.
+- [Airbnb Help, article 3733: AirCover for hosts](https://www.airbnb.com/help/article/3733): Host damage protection is not an insurance policy. Checked 2026-09-25 via web search summary.
+- Alder Street example figures: `reference/recurring-examples.md`; stays over the lease term and early-termination recovery amounts computed with python on 2026-09-25.

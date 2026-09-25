@@ -1,0 +1,205 @@
+<a id="lesson-PA.10-entity-tax-structure"></a>
+## PA.10  Entity & Tax Structure Setup: LLC, S-Corp or Holding Company
+
+| Tracker | Detail |
+|---|---|
+| Part / module | Part Two: STR Concierge / Phase 1 Property Acquisition |
+| Code | PA.10 |
+| Production type / owner | New / Preston |
+| Connects to | Sam's PA.5 Cost Segregation & Year-One Depreciation; PA.6 and PA.7 financing; PA.11 Closing Day; resource SR.3 Cost segregation & tax-impact estimator |
+
+### PA.10.0 Learning outcome
+
+After this lesson you can separate three questions people usually blur together. Who holds title? Who operates the rental? How is the activity taxed? You'll know which professional answers each one and where each entity's name shows up in the paperwork. You'll leave with a decision worksheet, facts filled in, ready for your professionals' answers. You'll also have a list of questions for your lender, attorney, insurer, CPA, and licensing office. I won't give you a universal recommendation, because there isn't one. The right structure depends on your state, your lender, your insurer, your partners, and your tax facts.
+
+### PA.10.1 Three questions, not one
+
+Somebody at a meetup told you to "put it in an LLC." Somebody else said "run it through an S-corp." Those answer different questions. Neither answers the question your lender asks first: who is borrowing?
+
+Here are the three questions.
+
+1. Title owner. Whose name is on the deed? That person or entity owns the property and signs as the buyer.
+2. Operator. Who runs the rental business? A short-term rental (STR) is a furnished home rented by the night on platforms like Airbnb and Vrbo. Its operator is whoever holds the Airbnb account, signs the cleaner and co-host agreements, holds the permit, and collects payouts.
+3. Tax treatment. How does the IRS classify the entity and the activity? That decides which forms get filed and how income and losses flow to you.
+
+These can all be the same (you and your spouse, personally). They can all be different. A property LLC might hold title while an operating company runs the listing, and each could have its own tax classification. Every layer you add has a cost and a paperwork trail. Add one only when it solves a problem you can name.
+
+### PA.10.2 An LLC is a legal form; an S-corp is a tax election
+
+This is the distinction that clears up most of the confusion.
+
+A limited liability company is created under state law. You file with the state, pay the state's fees, and the state's law decides what liability protection the LLC gives. The SBA says an LLC separates business and personal liabilities, like a corporation. It also says ownership rules, liability, taxes, and filing requirements can vary by state ([SBA, Choose a business structure](https://www.sba.gov/business-guide/launch-your-business/choose-business-structure)).
+
+An S corporation is a federal tax status. The SBA notes that designations like S corp aren't strictly business structures and can be understood as a tax status. It adds that an LLC can be taxed as a C corp (a regular corporation) or S corp ([SBA](https://www.sba.gov/business-guide/launch-your-business/choose-business-structure)).
+
+The IRS lays out the defaults in [Publication 3402](https://www.irs.gov/publications/p3402). An LLC is taxed as a corporation, a partnership, or as part of the owner's return (a disregarded entity), depending on elections and member count. Members are the LLC's owners. The IRS single-member LLC page says a one-member LLC is disregarded unless it elects otherwise. Its activity then shows on the owner's own return, such as Schedule C or Schedule E ([IRS, Single member LLCs](https://www.irs.gov/businesses/small-businesses-self-employed/single-member-limited-liability-companies)). A domestic LLC with two or more members is a partnership by default and files Form 1065 ([IRS, LLC filing as a corporation or partnership](https://www.irs.gov/businesses/small-businesses-self-employed/llc-filing-as-a-corporation-or-partnership)).
+
+To become an S corporation, the LLC files Form 2553 ([IRS Pub 3402](https://www.irs.gov/publications/p3402)). One form does it, and your CPA handles the filing.
+
+Married couples have one extra wrinkle. In community property states, the IRS will respect spouses' treatment of a jointly owned entity as either disregarded or a partnership. The IRS names Arizona, California, Idaho, Louisiana, Nevada, New Mexico, Texas, Washington, and Wisconsin ([Rev. Proc. 2002-69](https://www.irs.gov/pub/irs-drop/rp-02-69.pdf)). Outside those states, a two-member LLC owned by spouses is generally a partnership. Your CPA decides which applies to you.
+
+Why do people want an S-corp? Usually to manage self-employment or payroll taxes on active business income. The IRS requires an S corporation to pay reasonable compensation to a shareholder-employee before taking non-wage distributions ([IRS, S corporation compensation](https://www.irs.gov/businesses/small-businesses-self-employed/s-corporation-compensation-and-medical-insurance-issues)). In plain words, an owner who works in the business takes a reasonable salary through payroll before other payouts. That means payroll, filings, and a second tax return. Whether any of that makes sense for a single STR is a CPA question. If anyone suggests putting the real estate itself inside an S corporation, ask the CPA to explain what happens later. Cover moving the property out, refinancing, and selling before you choose it. This lesson doesn't cover those consequences; the CPA does.
+
+### PA.10.3 What the lender allows decides more than you think
+
+Your financing choice often settles the title question before you pick an entity. PA.7 compares the two main paths. A conventional mortgage qualifies you on your personal income. A DSCR loan qualifies the property on its rental income.
+
+Conventional loans sold to Fannie Mae generally go to individuals. Fannie Mae's Selling Guide requires borrowers to be natural persons, meaning individual people, with limited exceptions such as certain land trusts ([Fannie Mae B2-2-01, General borrower eligibility](https://selling-guide.fanniemae.com/sel/b2-2-01/general-borrower-eligibility-requirements)). Take Maya and Chris, the married couple buying this course's hypothetical Cedar Ridge lake house. If they take the conventional quote, expect title and the note to be in their personal names at closing.
+
+DSCR lenders are different, and each one sets its own rules. One DSCR lender, Kiavi, says some DSCR lenders allow borrowing through a business entity such as an LLC ([Kiavi, The complete guide to DSCR rental property loans](https://www.kiavi.com/the-complete-guide-to-dscr-rental-property-loans)). That's one lender's published page, not a market standard. An entity loan may also require a personal guarantee from the owners. This lesson doesn't cite any lender's guarantee terms, so put that question to your lender in writing. If a guarantee is required, the LLC does not separate you from the loan debt. It may still separate you from some other claims. Your attorney explains which claims, and what the LLC does and doesn't do in your state.
+
+Now the caution about moving title after closing. A mortgage or deed of trust usually has a due-on-sale clause. It lets the lender demand full payment if the property is transferred without consent. Federal law lists transfers a lender can't treat as a trigger on certain residential loans. Examples include some transfers to a spouse or into certain living trusts ([12 U.S.C. 1701j-3](https://www.law.cornell.edu/uscode/text/12/1701j-3)). A transfer to your own LLC is not on that list. Some lenders will consent to it, and some won't. Get the lender's written consent before you deed the property anywhere. If you've already closed in your own names, that's the path: ask first, in writing. Also ask your title company whether the transfer affects your owner's title policy.
+
+The order matters. Decide on the entity before closing, and as early as you can, since the lender sets the borrower's name when it approves the loan. Ask your lender how late the borrower can change. That way the lender, title company, and insurer all draw up documents with the same names. Retitling after closing costs money and can put the loan and the title coverage at risk.
+
+### PA.10.4 Insurance follows the named insured
+
+Your STR policy protects the named insured. Say title sits in an LLC and the policy names you personally. You may have a gap when you file a claim. The reverse is also a problem.
+
+Ask the insurer four direct questions. Who should be the named insured if title sits in an LLC? Can both the LLC and the individual owners be named? Does the policy cover the operating company, if that's a separate entity? Does the lender need to be listed as mortgagee, and in what exact name? Airbnb tells hosts they're responsible for their own insurance and should review coverage and exclusions ([Airbnb, Responsible hosting in the United States](https://www.airbnb.com/help/article/1376)). AirCover for Hosts does not replace it ([Airbnb, AirCover for hosts](https://www.airbnb.com/help/article/3733)).
+
+An umbrella liability policy is another way people handle liability. Whether an umbrella, an LLC, or both fits your situation is a joint call for your attorney and insurer.
+
+### PA.10.5 Where each name appears in the paperwork
+
+Draw this map before closing. Every document should match the structure you chose. Mismatches are how a claim, a permit renewal, or a tax filing goes sideways.
+
+| Document or account | Whose name appears | Who confirms |
+|---|---|---|
+| Purchase contract (buyer) | The title owner, or an assignment clause if you're forming the LLC | Attorney, agent |
+| Deed (grantee) | The title owner | Title company, attorney |
+| Promissory note (borrower) | Borrower per the lender's approval | Lender |
+| Mortgage or deed of trust | Title owner, pledging the property | Lender, title company |
+| Personal guaranty | Individual owners, if the lender requires it | Lender, attorney |
+| Owner's and lender's title policies | Title owner and lender | Title company |
+| STR insurance policy | Named insured plus mortgagee | Insurer |
+| STR permit and tax registration | Whoever the local office requires, often the owner or operator | Licensing office, tax agency |
+| Airbnb and Vrbo accounts, payout method, tax forms | The operator | Platform, CPA |
+| Bank account for rental income | The entity that earns the income | Bank, CPA |
+| Cleaner, co-host, management agreements | The operator | Attorney |
+| Utility accounts | Title owner or operator | Utility, CPA |
+| Operating agreement | LLC members and their percentages | Attorney |
+
+On beneficial owners: the federal beneficial ownership reporting rule used to apply to most small LLCs. FinCEN's March 2025 interim final rule exempts entities created in the United States and their beneficial owners from that reporting ([FinCEN, BOI reporting](https://www.fincen.gov/boi)). That status has changed before, so check the page before you form an entity. Banks will still ask who owns and controls the LLC when you open an account. Your title company tracks what applies to your closing.
+
+### PA.10.6 Personal use, participation, and exit: questions for the CPA
+
+Some tax facts matter whichever structure you pick, and your CPA needs them before advising on the entity. Two of the biggest are personal-use days and average guest stay. PA.5 (the cost segregation and depreciation lesson, taught by Sam) builds on the same facts.
+
+Personal use. Maya and Chris plan about 10 personal-use days a year. Under IRS Publication 527, a dwelling is used as a home when personal use exceeds 14 days or 10% of fair-rental days, whichever is greater ([IRS Pub 527](https://www.irs.gov/publications/p527)). At 212 rented nights (assumption), 10% is 21.2 days. Here I treat the rented nights as the fair-rental days. The limit is the greater of the two, 21.2 days, and 10 personal days sits under it on these assumptions. Publication 527 still requires expenses to be divided between rental and personal use when there's any personal use. Here that's 212 rented days out of 222 days used (212 rented plus 10 personal), or 95.5% rental. Nights the house sits empty aren't in that count.
+
+Average stay. Under Publication 925, an activity isn't a rental activity for the passive rules if the average customer stay is 7 days or less ([IRS Pub 925](https://www.irs.gov/publications/p925)). That sounds odd for a rental. It means the usual rental-loss rules don't automatically apply. Instead, participation tests decide whether a loss can offset your other income. Cedar Ridge's average stay is 3.5 nights. That changes which participation tests the CPA applies. That's what people mean by "the STR loophole": the chance that STR losses, such as early depreciation, can offset W-2 wages. It's really a set of tests with facts behind them. Whether your losses can offset W-2 income depends on participation facts, such as the hours you work and the hours your cleaner or co-host works. The CPA applies the tests. Your entity doesn't do those hours for you.
+
+Give your lender and your CPA the same honest personal-use number. Each applies its own rules to it.
+
+Take these questions to your CPA, in writing.
+
+1. Given our average stay and planned hours, which participation tests apply, and how should we log time?
+2. Does our personal-use plan require dividing expenses, and on what day count?
+3. Should the activity report on Schedule E or Schedule C, given the services we'll provide to guests?
+4. If title goes into a single-member or two-member LLC, which return gets filed and what does it cost to prepare?
+5. Is an S-corp election useful for this activity at all? If it holds real estate, what happens at refinance, sale, or distribution of the property?
+6. How do cost segregation and bonus depreciation from PA.5 interact with our entity choice and our likely hold period?
+7. On a future sale or 1031 exchange, does the entity structure limit our options? (OP.12, the exit lesson, covers exit choices.)
+8. What records does the CPA want from day one: bank account, bookkeeping software, mileage, time log?
+
+### PA.10.7 Holding companies: a later question
+
+A holding company structure usually means a parent LLC that owns several property LLCs. People use it to keep each property's liabilities separate while managing them together. For a first property, it often adds cost before it solves anything. Revisit it in OP.11 when you're buying property number two. Ask your attorney whether your state offers a series LLC and how your lender and insurer treat it.
+
+### PA.10.8 Worked example: Cedar Ridge structure options
+
+Maya and Chris are married, both on W-2 income, with their primary home in personal names. Cedar Ridge's state isn't named. If it's one of the nine community property states in PA.10.2, the IRS lets spouses treat a two-member LLC as disregarded or as a partnership. Otherwise it's a partnership. Their CPA advises which. They'll self-manage with a local cleaner in the base case. Here are three options, laid out for their professionals. None of these is my recommendation. Each one depends on answers they don't have yet.
+
+| | Option A: personal names | Option B: property LLC on a DSCR loan | Option C: personal title, separate operating LLC |
+|---|---|---|---|
+| Title owner | Maya and Chris | Cedar Ridge LLC (both as members) | Maya and Chris |
+| Loan fit | Conventional or DSCR | DSCR only, if the lender lends to LLCs; guarantee likely asked | Conventional or DSCR |
+| Operator | Maya and Chris | Cedar Ridge LLC | Operating LLC that runs the rental under a written agreement with Maya and Chris as owners |
+| Default federal tax treatment | On their personal return | Partnership return (Form 1065), unless a community property exception applies | Depends on the operating LLC's members and elections |
+| Liability approach | Insurance plus umbrella | LLC plus insurance; limits depend on state law and the guarantee | Operator liability separated, property still personal |
+| Extra annual cost (assumption) | $0 | See below | Similar to Option B, plus drafting the agreement |
+| Main open questions | Umbrella limit and price | Lender's entity terms; guarantee; insurer's named insured | Whether the arrangement holds up if challenged, and what it costs to maintain |
+
+Let's put a number on Option B's annual cost. Assume a $300 state annual report fee, a $125 registered agent, and $1,200 for a partnership return (all assumptions). This leaves out one-time formation and drafting costs. Option A's $0 also leaves out an umbrella premium, which the insurer prices. That's $300 + $125 + $1,200 = $1,625 a year. Against the original base-case cash flow on their DSCR loan, $5,572 a year, cash flow drops to $5,572 - $1,625 = $3,947. That's about $329 a month instead of about $464. State filing fees vary widely, so replace the $300 with your state's actual fee.
+
+PA.9 (due diligence) added a $400 yearly permit renewal, which lowered the base case to $5,172 a year. That's their current number. Option B's $1,625 would take it to $5,172 - $1,625 = $3,547 a year. That's $5,000 - $3,547 = $1,453 under the $5,000 minimum yearly cash flow they set for themselves in PA.8. That doesn't make Option B wrong. It means the liability benefit has to be worth about $1,625 a year to this household. Their attorney and insurer are the people who can tell them whether it is.
+
+### PA.10.9 Exercise: entity decision worksheet
+
+Fill in Part 1 before your first call with any professional. Bring the worksheet to every conversation (lender, attorney, insurer, CPA, and licensing office) so everyone works from the same facts. Start with the lender, because the attorney's questions depend on whether a guarantee is required.
+
+**Part 1: facts**
+
+| Fact | Your answer |
+|---|---|
+| State where the property sits | |
+| State where you live | |
+| Owners and ownership percentages | |
+| Married? Community property state? | |
+| Financing path from PA.7 (conventional / DSCR / cash) | |
+| Planned personal-use days per year | |
+| Expected average guest stay (nights) | |
+| Who will do the operating work, and roughly how many hours | |
+| Other properties owned now or planned in 24 months | |
+| Existing umbrella policy and limit | |
+
+**Part 2: questions by professional**
+
+| Professional | Question | Written answer | Date |
+|---|---|---|---|
+| Lender | Do you lend to an LLC? Which types? Is a personal guarantee required? | | |
+| Lender | Will you consent to a transfer to an LLC after closing? In writing? | | |
+| Lender | What exact names go on the note, mortgage, and insurance mortgagee clause? | | |
+| Attorney | What liability protection does an LLC give in this state, given a personal guarantee? | | |
+| Attorney | Formation and annual fees; registered agent; operating agreement terms | | |
+| Attorney | Does a transfer after closing affect title insurance or trigger transfer tax? | | |
+| Insurer | The four named-insured questions in PA.10.4, plus umbrella options and price | | |
+| CPA | The eight questions in PA.10.6 (attach the CPA's written reply) | | |
+| Licensing office | Whose name must the STR permit and tax registration be in? | | |
+
+**Part 3: decision**
+
+| Decision | Choice | Reason in one sentence | Confirmed by | Date |
+|---|---|---|---|---|
+| Title owner at closing | | | | |
+| Operator | | | | |
+| Tax classification | | | | |
+| Liability coverage (entity, insurance, umbrella) | | | | |
+| Bank account and bookkeeping setup date | | | | |
+
+Rule for the worksheet: the lender, title company, and insurer need the same names in writing a week before closing. If they don't, don't close until they do. If the names don't match a week out, call your attorney and agent that day.
+
+### PA.10.10 Who confirms what
+
+**Confirm with:** your real estate attorney in the property's state. They confirm what liability protection an entity provides, how to form it, what the operating agreement says, and whether any transfer is advisable.
+
+**Confirm with:** your CPA. They confirm the entity's tax classification, whether any S-corp election makes sense, which return reports the activity, participation and personal-use treatment, and exit consequences.
+
+**Confirm with:** your lender, in writing. It confirms which borrowers it lends to, whether a guarantee is required, the exact names on loan documents, and its position on transfers after closing.
+
+**Confirm with:** your insurer. It confirms the named insured, additional insureds, mortgagee clause, and umbrella coverage.
+
+**Confirm with:** the local licensing office and state tax agency. They confirm whose name must be on the STR permit and lodging tax registration.
+
+### PA.10.11 Next lesson
+
+With names settled, you're ready to close. PA.11 Closing Day walks through the closing figures line by line against your loan quote. It also covers how to move the money safely and what to collect when you get the keys. Bring your completed worksheet so you can check every name on every document.
+
+### PA.10 sources
+
+- [IRS Publication 3402, Taxation of LLCs](https://www.irs.gov/publications/p3402): LLC classification; Form 2553 deems corporate classification. Checked 2026-09-25 via web search summary (direct fetch blocked).
+- [IRS, Single member limited liability companies](https://www.irs.gov/businesses/small-businesses-self-employed/single-member-limited-liability-companies): disregarded entity default; Schedule C or E. Checked 2026-09-25 via web search summary.
+- [IRS, LLC filing as a corporation or partnership](https://www.irs.gov/businesses/small-businesses-self-employed/llc-filing-as-a-corporation-or-partnership): multi-member default is partnership, Form 1065. Checked 2026-09-25 via web search summary.
+- [IRS Rev. Proc. 2002-69](https://www.irs.gov/pub/irs-drop/rp-02-69.pdf): spouses' community property entities. Checked 2026-09-25 via web search summary.
+- [IRS, S corporation compensation and medical insurance issues](https://www.irs.gov/businesses/small-businesses-self-employed/s-corporation-compensation-and-medical-insurance-issues): reasonable compensation before distributions. Checked 2026-09-25 via web search summary.
+- [IRS Publication 527](https://www.irs.gov/publications/p527): personal-use threshold; expense division. Checked 2026-09-25 via web search summary.
+- [IRS Publication 925](https://www.irs.gov/publications/p925): average period of customer use 7 days or less. Checked 2026-09-25 via web search summary.
+- [SBA, Choose a business structure](https://www.sba.gov/business-guide/launch-your-business/choose-business-structure): legal structure vs tax status; state variation. Checked 2026-09-25 via web search summary. (The brief's legacy.sba.gov link covers the same page.)
+- [Fannie Mae Selling Guide B2-2-01](https://selling-guide.fanniemae.com/sel/b2-2-01/general-borrower-eligibility-requirements): borrowers must be natural persons, limited exceptions. Checked 2026-09-25 via web search summary.
+- [Kiavi, The complete guide to DSCR rental property loans](https://www.kiavi.com/the-complete-guide-to-dscr-rental-property-loans): some DSCR lenders allow entity borrowing. Checked 2026-09-25 via web search summary.
+- [12 U.S.C. 1701j-3](https://www.law.cornell.edu/uscode/text/12/1701j-3): due-on-sale preemption and listed exceptions. Checked 2026-09-25 via web search summary.
+- [CFPB, Comment for 1026.3](https://www.consumerfinance.gov/rules-policy/regulations/1026/interp-3/): non-owner-occupied rental credit deemed business purpose; more than 14 days' owner occupancy example. Checked 2026-09-25 via web search summary.
+- [FinCEN, BOI reporting](https://www.fincen.gov/boi) and [FinCEN, Residential real estate rule](https://www.fincen.gov/rre): domestic entity exemption (March 2025 IFR); RRE rule vacated March 2026. Checked 2026-09-25 via web search summary.
+- [Airbnb, Responsible hosting in the United States](https://www.airbnb.com/help/article/1376) and [Airbnb, AirCover for hosts](https://www.airbnb.com/help/article/3733): host insurance responsibility. Checked 2026-09-25 via web search summary.
+- Cedar Ridge figures: `reference/recurring-examples.md` (B1, B4); entity cost figures are assumptions computed in Python.

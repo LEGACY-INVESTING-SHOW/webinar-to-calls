@@ -1,0 +1,225 @@
+<a id="lesson-PA.12-post-close-checklist"></a>
+## PA.12  Your Post-Close Checklist: Insurance, Utilities & Handoff to Operations
+
+| Tracker | Detail |
+|---|---|
+| Part / module | Part Two: STR Concierge / Phase 1 Property Acquisition |
+| Code | PA.12 |
+| Production type / owner | New / Preston |
+| Connects to | PA.9 diligence tracker and PA.11 unresolved items log (inputs); Sam's OP.1 to OP.5 (listing, optimization, direct booking, tech stack, pricing); OP.6 Furnishing & Interior Optimization; OP.8 SOPs; resource SR.1 |
+
+### PA.12.0 Learning outcome
+
+After this lesson you can take a house you just closed on and make it ready to become a rental. You'll confirm the right insurance and move every utility and account into your control. You'll finish the safety work before anyone takes a photo. You'll produce a dated operations handoff packet that tells the launch team everything the closing team learned, including what's still open. Nothing should fall between the two.
+
+Throughout, I follow Cedar Ridge, the course's hypothetical three-bedroom lake house. It has a dock, a private well, and septic, and it sleeps eight guests. Maya and Chris bought it with a DSCR loan. That's a rental loan the lender sizes mainly on the property's income (debt service coverage ratio). Sam records the course's live demos. He teaches the operations lessons, OP.1 to OP.5, that come right after this one.
+
+Codes like PA.9 point to earlier lessons in this phase. PA.8 was the offer, PA.9 due diligence, PA.10 the entity setup, and PA.11 closing day. Lesson 0.3 was the opening capital and readiness checklist.
+
+### PA.12.1 The gap between two teams
+
+Up to now, your team was the closing team: agent, lender, inspector, title company, attorney. Now your team is the launch team: insurer, cleaner, handyman, furnishing help, and maybe a co-host (someone local who helps run the stays). The listing and software setup come next, in Sam's OP.1 to OP.5.
+
+These two teams rarely talk to each other. The inspector knows the dock railing is loose. The cleaner doesn't. The seller told you the septic company's name at the walkthrough. Your co-host will never hear it unless you write it down.
+
+The handoff packet is how the first team's knowledge reaches the second team. Every open item gets an owner and a date. You can be both teams, and on your first property you probably are. Write the packet anyway. The version of you who's answering a guest at 11 p.m. in February needs it.
+
+### PA.12.2 Insurance: confirm the policy you actually have
+
+You bought (bound) a policy before closing, because the lender required it. Now read it as the operator. The lender cared that the house was insured. You care whether a guest injury, a burst pipe, or a month without bookings is covered.
+
+Pull two documents. The declarations page is the summary page listing who's insured, the limits, and the deductibles. The policy form is the full wording of what's covered and excluded. Check these items against them.
+
+1. Named insured. This is the person or company the policy protects. It must match how you took title in PA.10: your names, your LLC, or both.
+2. Effective date. It should be the closing date or earlier. Any gap is uninsured time.
+3. Rental use. The policy must cover short-term rental to paying guests. A standard homeowners policy may exclude business use. Get the insurer's answer in writing.
+4. Liability limit. Check the per-occurrence limit, the most the policy pays for one incident. Check whether it covers guest injuries on the dock, the water, and any watercraft you provide.
+5. Deductibles. Note the all-perils deductible (what you pay first on most claims) and any separate wind, hail, or water deductible.
+6. Exclusions. Read them. Common trouble spots are water damage from slow leaks, mold, pools and hot tubs, and anything the insurer calls "business" or "commercial."
+7. Loss of rental income. This is often called business interruption or loss of use. Check whether it pays when a covered loss closes the house, how it calculates lost income, and for how long.
+8. Flood. Check the flood zone you looked up on the Federal Emergency Management Agency (FEMA) map in PA.9. FEMA says most homeowners insurance doesn't cover flood damage and flood coverage is a separate policy ([FEMA, Flood insurance](https://www.fema.gov/flood-insurance)). The National Flood Insurance Program (NFIP) generally has a 30-day waiting period. It notes exceptions, including buying flood coverage when you make, increase, extend, or renew a mortgage ([FloodSmart, Buy a flood insurance policy](https://www.floodsmart.gov/policy-terms)). If you skipped flood at closing, the clock may start the day you buy.
+9. Conditions. When Maya and Chris got their insurance quote in due diligence (PA.9), the insurer set two conditions. It required the dock railing repair and lower-level alarms within 30 days of the policy start. Send proof when they're done and get written confirmation that the conditions are satisfied.
+
+Now, the platform. Airbnb's AirCover for Hosts includes host damage protection and host liability insurance, along with screening and a safety line ([Airbnb, AirCover for hosts](https://www.airbnb.com/help/article/3733)). Airbnb says host damage protection isn't an insurance policy and not all damage is included. It says AirCover isn't a substitute for your own insurance and suggests talking to your insurer about overlap ([Airbnb, AirCover for hosts](https://www.airbnb.com/help/article/3733)). Airbnb describes AirCover as protection while you're hosting an Airbnb stay. A guest who books on Vrbo or your direct site in OP.3 isn't an Airbnb stay. Your own policy has to carry the whole load. Treat AirCover as a backup that may help on some Airbnb claims.
+
+**Confirm with:** your insurer, in writing, including how the policy responds to non-Airbnb bookings. PA.12.9 lists the full set.
+
+### PA.12.3 Utilities, internet, and the accounts that make it run
+
+Transfer every account into your name or your entity's name within the first week. Use the meter readings you took at the walkthrough in PA.11 so the seller's final bills and your first bills split cleanly.
+
+Here's the list for a house like Cedar Ridge.
+
+1. Electric and, if present, propane or gas. Set up autopay. Ask the propane company for a delivery schedule so the tank doesn't run dry mid-stay.
+2. Water. A well has no water bill. It does have a pump and a pressure tank. It also has the ultraviolet (UV) light system that treats the well water. The seller agreed in writing during PA.9 to install it before closing. Write down where the shutoff is and when the UV lamp is due.
+3. Sewer or septic. On septic, schedule the inspection and pumping program you budgeted in PA.9.
+4. Trash and recycling. Eight guests make more trash than a family. Confirm pickup day, bin size, and whether the hauler serves rentals. Decide who brings bins to the curb.
+5. Internet. Guests who work remotely will test it. Get the fastest reliable service available, and test real speed in the bedrooms, not just next to the router. Put the router somewhere guests can't unplug it.
+6. Smart lock. Install a lock that issues a unique code for each stay and for each vendor. Remove any codes the seller set. Airbnb allows smart home devices and encourages disclosure ([Airbnb, Restrictions on security cameras and other devices](https://www.airbnb.com/help/article/3061)).
+7. Cameras and noise monitors. Airbnb doesn't allow cameras that monitor indoor spaces, even if they're off. Outdoor cameras must be disclosed with their general location before booking. Noise decibel monitors are allowed only in common areas and must be disclosed ([Airbnb, article 3061](https://www.airbnb.com/help/article/3061)). If the seller left an indoor camera, remove it.
+8. Mail. Set up forwarding or a local box. Permit renewals and tax notices arrive by mail.
+9. Snow and road. If a private road serves the house, confirm who plows it and when. Contract your own plow service if needed.
+
+Put every login in a password manager with shared access for anyone who needs it. Don't email credentials or send them by text. The Consumer Financial Protection Bureau's (CFPB) closing-scam guidance warns that email isn't a secure way to send financial information ([CFPB one-pager](https://files.consumerfinance.gov/f/documents/cfpb_mortgages-scams_one-pager.pdf)). Treat account logins the same way. Turn on two-factor sign-in for the utility, internet, lock, and platform accounts.
+
+### PA.12.4 Local contacts and vendor access
+
+Your vendor list is the difference between a two-hour fix and a cancelled stay. Build it now, while you're calm.
+
+1. Cleaner. The Cedar Ridge budget pays $150 a turnover, the clean between one guest leaving and the next arriving. Set up an intro visit before OP.8 builds the cleaning SOP (standard operating procedure, your written checklist).
+2. On-call handyman. The budget pays a $150 monthly retainer to a handyman or inspector who answers when you call. Walk them through the house, including the dock and the septic and well equipment.
+3. Septic company, well and water treatment service, HVAC (heating and cooling) technician, and pest service. Most of these came out of PA.9.
+4. Emergency plumber and electrician who answer nights and weekends.
+5. Plow service and trash hauler.
+6. Local co-host or backup cleaner. OP.7 covers the choice between a cleaner, co-host, or property manager. For now, have one backup name for a missed clean.
+7. Local licensing office and lodging tax contact.
+
+Give each vendor their own lock code, and delete it when the job ends. Record who has a physical key, if anyone does.
+
+### PA.12.5 Permits and tax registration
+
+Diligence told you whether this address can run a rental and how. Now file. For Cedar Ridge, PA.9 found the seller's permit doesn't transfer, so Maya and Chris apply as new owners (assumption). Don't publish a listing before the permit is issued if the local rules require one first. Your local-rules checklist records the exact rule and the date you checked it. That's resource SR.1, the regulatory compliance checklist.
+
+When the permit number comes back, Airbnb has a field for it on the listing. The steps sit under the listing's policies and rules, in the laws and regulations section ([Airbnb, Add rental permits to your listing](https://www.airbnb.com/help/article/3953)). Sam's OP.1 shows listing setup across platforms. Bring the permit number and the exact holder name to that lesson.
+
+Lodging and occupancy tax registration is separate from the permit. Register with the state or local tax agency before your first stay. Airbnb's guidance says hosts should look up local taxes and business license requirements ([Airbnb, Responsible hosting in the United States](https://www.airbnb.com/help/article/1376)). Lesson 3.3 in Part One, Occupancy Taxes & Platform-Verified Registration, shows how collection works on each booking channel. A channel is where the guest booked: Airbnb, Vrbo, or your own site.
+
+**Confirm with:** the local licensing office and the state or local tax agency. PA.12.9 lists what each one confirms.
+
+### PA.12.6 Repairs and safety sign-off before photos
+
+Don't photograph a house you haven't finished fixing. Photos lock in what guests expect, and a listing can't promise a dock that isn't safe yet.
+
+Start with the punch list from PA.9, the short list of repairs to finish before guests arrive. Then walk the house against Airbnb's safety requirements. Airbnb says hosts must disclose whether smoke and carbon monoxide (CO) detectors are present. If present, they must work and be tested regularly. Its hazard list includes blocked exits, inoperable smoke detectors, and exposed wiring. It also lists poorly maintained hot tubs or furnaces, contaminated water, mold, and pests ([Airbnb, Safety requirements for homes](https://www.airbnb.com/help/article/2904)). Airbnb says it may require proof that issues are fixed before a listing can accept reservations.
+
+The Consumer Product Safety Commission (CPSC) vacation rental tips add a few practical items. It calls for CO alarms on every level outside sleeping areas, at least one fire extinguisher, and TVs and furniture anchored to the wall. It also mentions pool and spa drain covers that meet federal standards ([CPSC vacation rental safety tips](https://www.cpsc.gov/s3fs-public/VacationRentalSafetytips002_0.pdf?VersionId=MKcrFCYmuih6xmpoX59wcdmexPwzAXrO)). OP.6 builds these into the furnishing plan. Here, you just need the structural and system items done.
+
+So treat the safety work as two groups. Right after closing, finish the structural and system items. That means working smoke and CO alarms, clear exits, the dock railing, and the well retest. During furnishing, add the CPSC items: the extinguisher, anchored TVs and furniture, and drain covers if there's a pool or spa. Both groups are done before the photographer arrives.
+
+The sign-off is one page. It lists each safety item, who checked it, the date, and a photo. For Cedar Ridge, that means the dock railing, the lower-level alarms, and the HVAC service. It also means a clean well retest and a clear exit from every bedroom. Airbnb says hosts should give instructions for features that could cause injury if misused ([Airbnb, article 2904](https://www.airbnb.com/help/article/2904)). Note the dock, the lake, and the stairs for the house manual.
+
+### PA.12.7 Worked example: Cedar Ridge, day 0 to day 45
+
+Maya and Chris closed on day 0. They plan to launch on about day 45 (assumption). Here's what those 45 days cost before a single booking.
+
+Carrying costs run with no revenue. Their monthly PITIA on the DSCR loan is $2,557. PITIA means principal, interest, taxes, insurance, and any association dues. Utilities, internet, and trash are $450 a month. Software is $100 and the handyman retainer is $150. That's $3,257 a month, the same monthly carrying cost lesson 0.3 used. For 45 days, that's $3,257 × 1.5 (45 days ÷ 30) = $4,885.50. This is a simple prorated estimate. Your actual first payment dates may differ, so check your closing disclosure.
+
+One-time post-close repairs from PA.9 total $2,955: the dock railing, alarms, and HVAC service. The seller handled the septic and well work before closing. Furnishing is budgeted at $32,000, and OP.6 covers how to spend it.
+
+| Post-close cash (figures from the Cedar Ridge example and earlier lessons) | Amount |
+|---|---:|
+| Furnishing budget (spent in OP.6) | $32,000.00 |
+| PA.9 repairs paid by buyers | $2,955.00 |
+| 45 days of PITIA, utilities, software, and retainer (assumption: 45-day launch) | $4,885.50 |
+| **Cash out between closing and first guest** | **$39,840.50** |
+
+Permit application and tax registration fees aren't in this table.
+
+The Cedar Ridge total cash in of $142,688 already includes the $32,000 furnishing. It's the $110,688 cash to close plus $32,000. Maya and Chris had $231,000 of liquid savings when they made the offer in PA.8. So: $231,000 - $142,688 - $2,955 - $4,885.50 = $80,471.50 left. That doesn't count anything they've saved since the offer.
+
+Their set-asides come out of that $80,471.50.
+
+| Set-aside | Amount | Where it comes from |
+|---|---:|---|
+| Property reserve | $15,342 | Six months of PITIA: 6 × $2,557 |
+| Emergency fund | $51,000 | Six months of essential household spending, set in 0.3 (assumption) |
+| Weak-year reserve | $11,750 | Two years of PA.9's weak case: 2 × $5,875 |
+| **Total set aside** | **$78,092** | |
+| **Unallocated** | **$2,379.50** | $80,471.50 - $78,092 |
+
+PA.9's weak case is the pessimistic year from due diligence, with lower nightly rates and fewer booked nights. In that year the house falls $5,875 short of its costs and loan payments. PA.8's cash test holds two years of that shortfall in reserve.
+
+On paper, $2,379.50 is under their $10,000 floor. That's the minimum they promised to keep unallocated after any surprise (PA.8.6). They still save about $3,500 a month (assumption, from 0.3). About three months have passed since the offer: roughly 45 days to closing and 45 days to launch. That's about $10,500, which puts them back above the floor at about $12,879.50. The margin is thin, and it depends on that saving continuing.
+
+If the permit takes longer, each extra month costs another $3,257. The property reserve exists for months when the house costs more than it earns, so it pays. But every month it covers leaves less for later surprises. That's the number to watch.
+
+Their day-by-day plan (assumption):
+
+| Day | Action | Owner |
+|---|---|---|
+| 0 | Reset lock codes; remove seller device accounts; condition photos (for your records, not the listing) and meter readings | Maya |
+| 1 to 3 | Transfer electric, propane, internet, trash; set up autopay | Chris |
+| 1 to 5 | Confirm insurance declarations, conditions met, loss-of-income terms with the insurer | Maya |
+| 2 | File short-term rental (STR) permit application; register for lodging tax | Chris |
+| 3 to 10 | Dock railing, alarms, HVAC service; handyman lines up the other vendors | Handyman |
+| 12 | Well retest | Certified lab |
+| 10 to 30 | Furnishing delivery and setup (OP.6); Chris helps on delivery days | Maya |
+| 30 | Safety sign-off walk; the handyman walks with her | Maya |
+| 32 | Listing photos | Photographer |
+| 30 to 44 | Listing and software setup (Sam's OP.1 to OP.5); publish once the permit row is done | Chris |
+| 45 | First guest (assumes the listing was published and booked in time) | Chris |
+
+<!-- [Recording note: Preston can add a real example here if he has one.] -->
+
+### PA.12.8 Exercise: the operations handoff packet
+
+Build this packet and date it. Update the date every time you change it. Store it where your cleaner, handyman, and any co-host can read it, with credentials kept in the password manager, not in the packet.
+
+If you haven't closed yet, fill the packet in for Cedar Ridge using this lesson's facts. Then copy the blank version for your own property. Status is "done" or "open." Date is the date you last confirmed the row.
+
+**Operations handoff packet**
+
+| Field | What to enter | Source | Status (done / open) | Date |
+|---|---|---|---|---|
+| Packet date and version | Today's date, v1 | | | |
+| Property facts | Address, parcel number, bedrooms, baths, permitted guest capacity, square footage, year built | Deed, appraisal, PA.9 | | |
+| Title owner and operator | Names exactly as on deed, insurance, permit | PA.10 worksheet | | |
+| Floor plan | Sketch or file showing rooms, exits, shutoffs, panel, alarms | Your walk, inspector report | | |
+| Shutoffs and systems | Water main, well pump, UV system, septic access lid, electric panel, propane valve, HVAC filter size | Inspector, vendors | | |
+| Insurance | Carrier, policy number, named insured, limits, deductibles, claim phone, renewal date | Declarations page | | |
+| Flood | Zone, policy yes/no, carrier, effective date | FEMA map, agent | | |
+| Permits and tax | Permit number, holder, expiry; lodging tax account, filing frequency | Licensing office, tax agency | | |
+| Utility accounts | Provider, account holder, autopay, phone | Your records | | |
+| Internet | Provider, plan, tested speed per room, router location | Your test | | |
+| Access | Lock model, how codes are issued, vendor codes list, key holders | Lock app | | |
+| Devices | Outdoor cameras (location, disclosed), noise monitor (location, disclosed), thermostat | Airbnb 3061 rules | | |
+| Credentials | Location in password manager; who has access | Password manager | | |
+| Contacts | Cleaner, backup cleaner, handyman, septic, well, HVAC, plumber, electrician, pest, plow, trash, co-host | PA.12.4 list | | |
+| Inventory | Room-by-room furniture and supplies (filled in OP.6) | OP.6 | | |
+| Maintenance schedule | Septic inspection and pumping, well test, UV lamp, HVAC service, alarm tests, roof check, gutter cleaning | PA.9 findings | | |
+| Emergency plan | Fire, CO alarm, water leak, power loss, lake or dock injury, severe weather; who calls whom | OP.8 builds the SOP | | |
+| Safety sign-off | One-page sign-off, date, who checked | PA.12.6 | | |
+| Warranties and records | Roof, HVAC, water heater, appliances, septic and well invoices | PA.11 collection | | |
+| Budget reserves | Property reserve (6 months PITIA), emergency fund, weak-year reserve, plus the roof sinking fund PA.9 placed inside the capital reserve | PA.9 rerun, PA.12.7 | | |
+| Open issues | Every row from the PA.11 unresolved items log with owner and due date | PA.11 log | | |
+
+Rules for the packet:
+
+1. Don't publish the listing until the insurance, permit, and safety rows say "done." For the permit row, "done" means issued, or the licensing office confirmed in writing that you may list first.
+2. Every open issue has one owner and one due date. "We" is not an owner.
+3. Update the packet version whenever a vendor, code, or policy changes.
+
+### PA.12.9 Who confirms what
+
+**Confirm with:** your insurer. It confirms rental use coverage, liability limits, deductibles, exclusions, loss-of-income terms, conditions satisfied, flood coverage, and the named insured.
+
+**Confirm with:** the local licensing office. It confirms permit issuance, the holder's name, the occupancy limit, and whether you can list before the permit is issued.
+
+**Confirm with:** the state or local tax agency. It confirms lodging tax registration and filing frequency.
+
+**Confirm with:** a licensed electrician, septic inspector, and certified water lab as needed. They confirm the safety and system items on your sign-off.
+
+**Confirm with:** your CPA. They confirm the bookkeeping records and accounts to set up now. They also confirm the date the property is ready and available to rent. That date affects when depreciation (the yearly tax write-off for wear on the building) can start. Sam's PA.5 covers depreciation.
+
+### PA.12.10 Next lesson
+
+The house is insured, connected, safe, and documented. Next come Sam's operations demos, then I pick up in OP.6. Bring these outputs to each one.
+
+| Lesson | Bring from this lesson |
+|---|---|
+| OP.1 Listing Creation Across Airbnb, VRBO & Booking.com and OP.2 2026 Listing Optimization (Sam) | Permit number, guest capacity, safety disclosures |
+| OP.3 Building Your Direct Booking Website and OP.4 Tech Stack Architecture (Sam) | Device list and access plan |
+| OP.5 Dynamic Pricing & Revenue Management for Owners (Sam) | The PA.9 revised budget, so pricing targets use the real costs. For Cedar Ridge, that adds the $400 yearly permit renewal. |
+| OP.6 Furnishing & Interior Optimization for an Owned Property (Preston) | The $32,000 furnishing budget, which OP.6 turns into a room-by-room plan |
+
+### PA.12 sources
+
+- [Airbnb, AirCover for hosts](https://www.airbnb.com/help/article/3733): components of AirCover; host damage protection isn't insurance; not a substitute for personal insurance. Brief-provided; checked 2026-09-25 via web search summary (direct fetch blocked).
+- [Airbnb, Safety requirements for homes](https://www.airbnb.com/help/article/2904): smoke and CO detector disclosure and function; listed hazards; enforcement and proof of fixes. Brief-provided; checked 2026-09-25 via web search summary.
+- [Airbnb, Restrictions on security cameras and other devices](https://www.airbnb.com/help/article/3061): no indoor cameras; outdoor camera and noise monitor disclosure; smart devices allowed. Checked 2026-09-25 via web search summary.
+- [Airbnb, Add rental permits to your listing](https://www.airbnb.com/help/article/3953): permit number field location. Checked 2026-09-25 via web search summary.
+- [Airbnb, Responsible hosting in the United States](https://www.airbnb.com/help/article/1376): hosts responsible for insurance, taxes, permits. Checked 2026-09-25 via web search summary.
+- [FEMA, Flood insurance](https://www.fema.gov/flood-insurance) and [FloodSmart, Buy a flood insurance policy](https://www.floodsmart.gov/policy-terms): flood excluded from most homeowners policies; 30-day wait and exceptions. Checked 2026-09-25 via web search summary.
+- [CPSC vacation rental safety tips](https://www.cpsc.gov/s3fs-public/VacationRentalSafetytips002_0.pdf?VersionId=MKcrFCYmuih6xmpoX59wcdmexPwzAXrO): CO alarms on every level, extinguisher, anchoring, drain covers. Checked 2026-09-25 via web search summary.
+- [CFPB, Buying a home? Beware of mortgage closing scams](https://files.consumerfinance.gov/f/documents/cfpb_mortgages-scams_one-pager.pdf): email not secure for financial information. Checked 2026-09-25 via web search summary.
+- Cedar Ridge figures: `reference/recurring-examples.md` (B1, B4, buyer profile); emergency fund, $3,500 monthly saving, and $10,000 floor from lessons 0.3 and PA.8; PA.9 repair total, weak case, and $400 permit renewal from PA.9; 45-day carry computed in Python and marked as an assumption.

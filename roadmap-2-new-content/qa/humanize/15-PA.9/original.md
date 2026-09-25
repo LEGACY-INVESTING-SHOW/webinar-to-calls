@@ -1,0 +1,301 @@
+<a id="lesson-PA.9-due-diligence"></a>
+## PA.9  Due Diligence: STR-Specific Inspections, Appraisal & Title Review
+
+| Tracker | Detail |
+|---|---|
+| Part / module | Part Two: STR Concierge / Phase 1 Property Acquisition |
+| Code | PA.9 |
+| Production type / owner | New / Preston |
+| Connects to | Sam's PA.4 Reading a Full Underwriting Package (the baseline this lesson revises); PA.8 Offer Strategy (the contingencies this lesson uses); PA.11 Closing Day; resource SR.1 Regulatory compliance checklist |
+
+### PA.9.0 Learning outcome
+
+By the end of this lesson you can run a diligence sequence on a house you have under contract. You'll test the building and the proposed rental business before your contingency deadlines expire. You'll know which professional verifies each risk, what written evidence to save, and how each finding changes the underwriting you brought from Sam's PA.4. The output is a filled diligence tracker and a dated proceed, renegotiate, or walk decision.
+
+**Before you start: the Cedar Ridge baseline.** I use one hypothetical house all the way through. Cedar Ridge is a three-bedroom, two-bath lake house that sleeps 8, with no HOA. Maya and Chris have it under contract at $385,000. They plan to run it as a short-term rental (STR). Sam built its underwriting in PA.4: his estimate of what the house will earn and cost. Here is what they bring into diligence.
+
+| Cedar Ridge baseline (all figures are assumptions) | Amount | What it means |
+|---|---:|---|
+| Gross booking revenue, base case | $74,275 | A $300 average nightly rate at 58% occupancy |
+| Operating costs, base case | $45,066 | Every running cost except the loan |
+| NOI, base case | $29,209 | Net operating income: revenue minus operating costs, before the loan |
+| NOI, weak case | $18,162 | The same house at $265 a night and 50% occupancy |
+| DSCR loan | $288,750 | 75% of price, 1 point. A DSCR lender sizes the loan mainly on the property's rental income. |
+| Annual P&I (the debt service) | $23,637 | Principal and interest on that loan for a year |
+| Annual cash flow, base case | $5,572 | $29,209 - $23,637, about $464 a month |
+| Annual cash flow, weak case | -$5,475 | $18,162 - $23,637 |
+| Cash to close | $110,688 | $96,250 down payment plus $14,438 closing costs (3% of price plus the point) |
+| Total cash in | $142,688 | Cash to close plus the $32,000 furnishing budget |
+| Cash-on-cash, base case | 3.9% | Annual cash flow divided by total cash in: $5,572 / $142,688 |
+
+A point is a loan fee of 1% of the loan. When I say B1, I mean that base-case budget. It carries a repairs line and a capital reserve, each 5% of gross, or $3,714. It also already includes STR insurance at $3,200 a year.
+
+### PA.9.1 The clock starts when the contract is signed
+
+Your accepted offer from PA.8 bought you time, and that time is the real asset in this phase. A contingency is a condition in the contract that lets you cancel if it isn't met. Most purchase contracts give the buyer a window to inspect and a window to secure financing, sometimes with a separate appraisal contingency. The names and lengths come from your contract and your state's forms. Put every deadline in a calendar the day you sign.
+
+A problem you find after a contingency expires is still your problem, but you've lost most of your bargaining power. The CFPB puts it plainly. With a satisfactory-inspection contingency, you should be able to cancel without penalty if serious flaws turn up ([CFPB, Schedule a home inspection](https://www.consumerfinance.gov/owning-a-home/close/schedule-a-home-inspection/)). That protection only works while the window is open and only in the form your contract states.
+
+So order the work by what can kill the deal fastest. Legal use and the insurance quote come first, because no repair fixes a ban or an uninsurable house. Inspections come next, because specialists need scheduling time. Title and survey review run alongside the inspections. The lender orders the appraisal. Put its due date on your calendar.
+
+Open one folder for the property on day one. Every report, quote, email, and photo goes in it with a date in the file name. You'll use the same folder at closing in PA.11 and in the operations handoff in PA.12.
+
+### PA.9.2 Two questions, not one
+
+A regular homebuyer asks one question during diligence: is this house sound? You have to ask a second one. Can this house run the rental business in your PA.4 underwriting, at the guest count and price it assumes? For Cedar Ridge, that's 8 guests at $300 a night.
+
+Those two questions need different people. An inspector can tell you the roof has four to six years left. Only the county can tell you whether it will issue a rental permit. Only the insurer can tell you whether it will cover eight guests on a lake. Your tracker names each owner in writing.
+
+Treat the PA.4 underwriting as a hypothesis. Every finding confirms a line or changes it. At the end you rerun the numbers.
+
+### PA.9.3 Property condition: the STR inspection list
+
+Start with a general home inspection by an inspector you've checked out yourself. The CFPB notes that inspectors may not be required to be licensed in some areas. It suggests checking references and your state or county licensing authority before you hire ([CFPB](https://www.consumerfinance.gov/owning-a-home/close/schedule-a-home-inspection/)). Then add specialists for the systems a general inspector only looks at from the surface.
+
+Tell the inspector the plan: eight guests, turnovers every few days, people who don't know the house. Here is the list I'd hand over for a house like Cedar Ridge.
+
+1. Roof. Age, remaining life, flashing, gutters, signs of past leaks in the attic. A roof near the end of its life is a capital expense you'll pay while guests are booked.
+2. HVAC (heating and cooling). Age, service history, capacity for the full house, and whether the system can be set and monitored remotely.
+3. Water supply. If the house is on a private well, the water test is on you. The EPA says its public drinking water rules don't apply to private wells. It recommends yearly tests for coliform bacteria, nitrates, dissolved solids, and pH ([EPA, Protect your home's water](https://www.epa.gov/privatewells/protect-your-homes-water)). Use a certified lab, as the CDC recommends ([CDC, Guidelines for testing well water](https://www.cdc.gov/drinking-water/safety/guidelines-for-testing-well-water.html)). Test during the contingency, not after closing.
+4. Sewer or septic. Lake houses are often on septic. The EPA notes that many states require a septic inspection when real estate transfers. For a typical household, it suggests inspection every 1 to 3 years and pumping every 3 to 5 years ([EPA, Frequent questions on septic systems](https://www.epa.gov/septic/frequent-questions-septic-systems)). An STR is not a typical household. More guests and more laundry mean more load. Ask the septic inspector to pump the tank and inspect the baffles (the walls that hold solids inside the tank). Ask them to check the drain field too: the buried pipes that spread treated water into the soil. And ask what bedroom count the system was permitted for. The county health department usually holds that record.
+5. Pests. The CFPB says a lender may require a pest certificate, and you may want one even when it isn't required ([CFPB](https://www.consumerfinance.gov/owning-a-home/close/schedule-a-home-inspection/)). Wood near water gets checked for rot and insects.
+6. Electrical. Panel condition and any exposed wiring. Capacity for a hot tub or electric car charger you may add later. GFCI outlets near water, which cut power when they sense a fault.
+7. Access and parking. Can a cleaner reach the house in winter? Is the road public or private, and who plows it? Is there parking for the guest count without blocking a neighbor?
+8. Pool, hot tub, dock, and decks. The CPSC points out that pools and spas should have drain covers that meet federal standards ([CPSC vacation rental safety tips](https://www.cpsc.gov/s3fs-public/VacationRentalSafetytips002_0.pdf?VersionId=MKcrFCYmuih6xmpoX59wcdmexPwzAXrO)).
+9. Fire and life safety. Smoke and carbon monoxide alarms, exits from every sleeping room, and extinguishers. Airbnb's own safety rules list blocked exits, inoperable smoke detectors, and exposed wiring as hazards hosts must address ([Airbnb, Safety requirements for homes](https://www.airbnb.com/help/article/2904)).
+10. Flood exposure. Look up the address on the [FEMA Flood Map Service Center](https://msc.fema.gov/portal/search). FEMA says most homeowners insurance does not cover flood damage and flood coverage is a separate policy ([FEMA, Flood insurance](https://www.fema.gov/flood-insurance)).
+
+Every finding gets a cost. Ask for a written range and record the midpoint in your tracker.
+
+### PA.9.4 Business suitability: can this address run this business?
+
+A normal home inspection never touches this half. You're testing five things.
+
+The first is legal use of this exact parcel. You and Sam checked the market in PA.2, but a market answer is not an address answer. Use the SR.1 checklist to confirm zoning, the STR permit category, any cap or waitlist, and whether the permit is tied to the owner. Airbnb's own guidance says hosts are responsible for checking permitting, zoning, safety, and health rules ([Airbnb, Responsible hosting in the United States](https://www.airbnb.com/help/article/1376)). Get the licensing office's answer in writing if you can.
+
+The second is whether anything transfers. Ask whether the permit transfers to a new owner or you must apply fresh, and how long that takes. If the house has bookings on the calendar after your closing date, your contract needs to say who honors them and who keeps the money. Don't rely on a verbal answer from the listing agent.
+
+The third is private restrictions. Cedar Ridge has no HOA. That doesn't mean there are no rules. Recorded covenants on the lot can limit rentals or commercial use, and those show up in the title work covered in PA.9.6.
+
+The fourth is the insurance quote. Get a bindable quote for a short-term rental policy (one the insurer is ready to turn into a policy) before the inspection window closes. Ask what conditions the insurer attaches, such as railing repairs or added alarms, and when those must be done. Airbnb says AirCover for Hosts is not a substitute for your own insurance ([Airbnb, AirCover for hosts](https://www.airbnb.com/help/article/3733)). PA.12 covers the policy details after closing.
+
+The fifth is guest capacity. The PA.4 underwriting assumes the house sleeps 8. Check that number against three limits: the septic permit's bedroom count, any occupancy cap in the local permit, and what the insurer will write. The lowest of the three is your real capacity. Put all three in guests before you compare them. At Cedar Ridge, the permit allows 2 guests per bedroom plus 2 (assumption, see PA.9.8). So the septic's 3-bedroom design also means 8 guests. If your real capacity is lower than 8, your revenue line changes.
+
+### PA.9.5 Inspection versus appraisal
+
+The CFPB draws the line clearly. A home inspector works for you and looks for flaws. An appraiser is an independent professional whose job is to give the lender an estimate of market value ([CFPB](https://www.consumerfinance.gov/owning-a-home/close/schedule-a-home-inspection/)). A clean appraisal does not mean the septic works. A clean inspection does not mean the house is worth your price.
+
+On a first-lien dwelling loan (a first mortgage on a home), you're entitled to a copy of the appraisal before closing ([CFPB, 12 CFR 1002.14](https://www.consumerfinance.gov/rules-policy/regulations/1002/14/)). Read its comparable sales, the recent sales of similar houses nearby. For a DSCR loan, ask whether the appraisal includes a rent or income analysis and which figure the lender will use.
+
+PA.8 already worked the low-appraisal decision. At $375,000, Maya and Chris ask the seller to drop to the appraised value, and they accept up to $380,000. If the seller holds at $385,000 while the appraisal contingency is open, they walk. In diligence, your job is to know the cash effect the day the report lands.
+
+Lenders generally size the loan on the lower of price or appraised value, so confirm your lender's rule in writing. Say Cedar Ridge appraised at $375,000 (assumption). Their loan is 75% of value, so it drops to $281,250. The down payment rises to $103,750 ($385,000 - $281,250). Points fall to $2,812 (one point is 1% of the loan). So closing costs become $14,362 (3% of price, $11,550, plus the point). Cash to close rises to $118,112 ($103,750 + $14,362). That's $7,424 more than Cedar Ridge's planned cash to close of $110,688.
+
+### PA.9.6 Title review: who else has a claim on this land?
+
+The title company searches public records and issues a title commitment. Read it yourself, with your attorney or closing agent. You're the one who knows how you plan to use the land.
+
+A commitment usually has two parts that matter to you. The requirements list what must happen before the title company will insure, such as paying off the seller's mortgage or releasing a lien. The exceptions list what the policy won't cover, such as recorded easements and covenants. Anything in the exceptions stays with the land after you buy it.
+
+Look for four things in that list.
+
+1. Liens. A lien from an unpaid contractor or unpaid tax should be paid from the seller's proceeds at closing. The CFPB gives exactly these examples of claims owner's title insurance can protect against ([CFPB, What is owner's title insurance](https://www.consumerfinance.gov/ask-cfpb/what-is-owners-title-insurance-en-164/)).
+2. Easements. A neighbor's right to walk to the lake across your lot changes privacy and guest experience. A utility easement may limit where you build a hot tub pad.
+3. Covenants and restrictions. Read every recorded restriction for rental or business-use language.
+4. Survey matters. A survey shows where the lot lines, structures, dock, and driveway actually sit. The CFPB lists survey fees among the closing services you can often shop for ([CFPB, Shop for title insurance and other closing services](https://www.consumerfinance.gov/owning-a-home/close/shop-for-title-insurance-and-other-closing-services/)). A lake lot with a dock and shared access is reason enough to order one.
+
+Now the two title policies. Lender's title insurance protects the lender. The CFPB says most lenders require it, and it covers only claims affecting the loan ([CFPB, What is lender's title insurance](https://www.consumerfinance.gov/ask-cfpb/what-is-lenders-title-insurance-en-163/)). Owner's title insurance protects you. The CFPB describes it as optional coverage you may want to protect your equity (your ownership stake) ([CFPB, What is owner's title insurance](https://www.consumerfinance.gov/ask-cfpb/what-is-owners-title-insurance-en-164/)). With a $96,250 down payment at stake (and $142,688 of total cash in the deal), I'd want the owner's policy priced and decided on purpose. PA.11 shows where it appears on the closing figures.
+
+### PA.9.7 Evidence, owners, and deadlines
+
+The decision column only has four answers. They're alternatives, not steps. Accept means you'll live with it and budget for it. Seller fixes means the seller repairs before closing, with proof. Credit or price means you negotiate money. Walk means you terminate inside the contingency window. Write the decision the day you make it, and write why.
+
+Save every report, answer, and quote in the property folder. The insurer, lender, and permit office will ask for several of them again.
+
+### PA.9.8 Worked example: Cedar Ridge diligence
+
+Maya and Chris have Cedar Ridge under contract at $385,000 with a DSCR loan quote. Their PA.8 terms give them a 10-day inspection contingency, a 30-day financing contingency, an appraisal contingency, and a 45-day closing (assumption). Their starting point is the PA.4 baseline from PA.9.0. Base-case NOI is $29,209 and the DSCR debt service (P&I) is $23,637. That leaves $5,572 of annual cash flow, or about $464 a month. The weak case is -$5,475.
+
+Watch the dates in the tracker. Title (Day 15), survey (Day 18), and the appraisal (Day 21) land after the 10-day inspection window. Ask your attorney which contingency, if any, lets you act on those findings (see PA.9.10).
+
+All findings below are assumptions for teaching. The Decision column shows the final decisions, after the renegotiation described below.
+
+**Cedar Ridge diligence tracker (all figures are assumptions)**
+
+| # | Item | Verified by | Deadline | Finding | Cost | Decision |
+|---|---|---|---|---|---:|---|
+| 1 | STR permit for this parcel | County licensing office, in writing | Day 5 | Permitted use. Seller's permit does not transfer. New owner applies. Occupancy cap 2 per bedroom plus 2 (8 guests). | $400 / year | Accept. Apply right after closing. |
+| 2 | Insurance quote | STR insurance agent | Day 6 | Quote at $3,200 / year. Conditions: repair dock stair railing and add alarms on lower level within 30 days of the policy start. | $3,200 / year, already in B1. Conditions: rows 7 and 8 | Accept with conditions. |
+| 3 | Roof | General inspector, roofer estimate | Day 8 | Asphalt shingles with 4 to 6 years of life left. Replacement estimate $14,000. | $2,800 / year sinking fund | Asked for a roof credit. Seller declined. Accept and fund it from the capital reserve. |
+| 4 | Septic | Licensed septic inspector | Day 8 | Tank pumped. Broken outlet baffle, missing effluent filter. County record shows a 3-bedroom design. | $1,850 repair | Seller fixes before closing, with invoice. |
+| 5 | Septic, ongoing | Septic inspector | Day 8 | Guest load warrants yearly inspection and more frequent pumping. | $400 / year | Accept. Fund it from the repairs line. |
+| 6 | Well water | Certified lab | Day 7 | Total coliform present. Nitrates within limits. | $350 shock (a chlorine treatment) and retest; $1,650 UV system; $220 / year lamp and test | Seller treats and installs UV before closing, with invoice. Buyer retests before first guest and budgets the annual cost. |
+| 7 | Dock stair railing | General inspector | Day 8 | Loose posts on stairs to the dock. | $2,300 | Accept. Repair within the insurer's 30 days. |
+| 8 | Smoke and CO alarms | General inspector | Day 8 | No alarms on lower sleeping level. | $380 | Accept. Install before first guest. |
+| 9 | HVAC | General inspector | Day 8 | 14 years old, working, no service record. | $275 service | Accept. Service after closing. |
+| 10 | Title commitment | Title company, attorney | Day 15 | Mechanic's lien of $3,100 from a 2024 contractor. Recorded footpath easement for a neighbor to reach the lake. | $0 to buyers | Seller pays the lien from proceeds. Accept easement and disclose it in the listing. |
+| 11 | Survey | Licensed surveyor | Day 18 | Dock and driveway inside lot lines. Footpath matches the easement. | Included in closing costs | Accept. |
+| 12 | Appraisal | Lender's appraiser | Day 21 | Value supports the contract price. | None | Proceed. |
+| 13 | Future bookings | Seller, per contract | Day 10 | Seller has no bookings after closing date. | None | Confirm in writing. |
+
+The $3,200 insurance quote matches the STR insurance line already in PA.4's base-case budget, so it adds no new cost. Its conditions show up as rows 7 and 8.
+
+**The first rerun.** Four findings add recurring annual costs that PA.4's budget doesn't list by name.
+
+| Added annual cost (assumption) | Amount |
+|---|---:|
+| Roof sinking fund ($14,000 / 5 years) | $2,800 |
+| Septic inspection and pumping program | $400 |
+| Well UV lamp and annual water test | $220 |
+| County STR permit renewal | $400 |
+| **Total added annual cost** | **$3,820** |
+
+The first rerun is the cautious version. It adds all four on top of the PA.4 base-case budget (B1). That leaves B1's 5% capital reserve of $3,714 untouched, free for surprises.
+
+- First-rerun NOI: $29,209 - $3,820 = $25,389.
+- First-rerun annual cash flow on the DSCR loan: $25,389 - $23,637 = $1,752, about $146 a month.
+- First-rerun weak-case cash flow: weak-case NOI of $18,162, minus $3,820, minus $23,637 = -$9,295.
+
+**The buy-box check.** Their buy box is the written spec of what they'll buy, set in PA.1. The first rerun breaks three of its rules. Base-case cash flow must be at least $5,000 a year (PA.8 Test 1, their minimum base-case cash flow). The weak case may lose no more than $6,000 a year. Base NOI must be at least 1.20 times annual P&I.
+
+| Written rule (PA.1, PA.8) | Limit | First rerun | Pass? |
+|---|---|---:|---|
+| Base-case cash flow | At least $5,000 | $1,752 | No |
+| Weak-case cash flow | No worse than -$6,000 | -$9,295 | No |
+| Base NOI / annual P&I | At least 1.20 | 1.07 ($25,389 / $23,637) | No |
+
+PA.1's cash caps still pass. Cash to close stays $110,688, and total cash in with the $32,000 furnishing budget stays $142,688.
+
+**The renegotiation.** The decision rule for a broken buy box is also written down: renegotiate or walk. PA.1 says the box changes only in writing, and they don't want to loosen it. So they renegotiated inside the 10-day window. They asked for a $7,000 roof credit (assumption). The seller refused a credit or a price cut.
+
+The seller did agree in writing to the $1,850 septic repair, a clear defect. The seller also agreed to treat the well and install the UV system before closing ($2,000). And the seller pays the $3,100 lien from their proceeds. None of those items touch the buyers' cash to close, which stays at $110,688. You'll see that figure again in PA.11.
+
+Those repairs help the cash, but they don't fix the three rules. The rules turn on the recurring costs, and the seller wouldn't pay toward the roof. So before walking, they reread their own budget.
+
+**Rereading the budget.** They found an overlap. B1 already sets aside 5% of gross as a capital reserve, $3,714 in the base case. That line exists for bills like a roof. B1 also has a 5% repairs line, $3,714 in the base case, for routine upkeep. With the new baffle and filter in place, the septic program and the UV lamp are routine upkeep. Only the permit renewal is a new kind of cost.
+
+This isn't new money. The first rerun left both reserve lines untouched, which is cautious. The final budget spends them on the bills they were built for. Maya and Chris wrote the change down, as PA.9.9 rule 6 requires. The cost is less cushion.
+
+So the final budget pays each item from the line built for it. The $2,800 roof sinking fund comes out of the capital reserve. The $400 septic program and the $220 UV lamp come out of the repairs line. The $400 permit renewal goes on top.
+
+- Final NOI: $29,209 - $400 = $28,809.
+- Final annual cash flow: $28,809 - $23,637 = $5,172, about $431 a month.
+- Final weak-case cash flow: $18,162 - $400 - $23,637 = -$5,875.
+- Base NOI / annual P&I: $28,809 / $23,637 = 1.22.
+
+All three rules now pass, none by much. Base cash flow clears $5,000 by $172. The weak case clears the $6,000 limit by $125. Coverage clears 1.20 by about 0.02. The cost is a thinner cushion for surprises. In the base case, the capital line has $914 left after the roof, and the repairs line has $3,094 left. In the weak case, the capital line has $66 left.
+
+Any other capital bill, such as the 14-year-old HVAC, comes from the $15,342 property reserve. That's six months of PITIA (the full monthly payment, with tax and insurance) they hold in cash, set in lesson 0.3.
+
+**The cash test.** PA.8 left Maya and Chris $11,020 of unallocated cash after their Test 3 set-asides. Test 3 is PA.8's cash check. Total cash in, lender reserves, two years of weak-case losses, and their $51,000 emergency fund must all fit inside their savings. Every new diligence cost comes out of that $11,020.
+
+The first draft of this tracker assumed the seller would fix the broken septic baffle, a clear defect. It had the buyers paying every other repair: $350 + $1,650 + $2,300 + $380 + $275 = $4,955. On the first rerun, the weak-case shortfall also grows by $3,820 a year. That's $7,640 over the two years PA.8 funds. The total is $4,955 + $7,640 = $12,595, which is $1,575 more than they have. On their own rule, that version fails.
+
+After the renegotiation, the seller pays the $2,000 of well work. The buyers pay only the railing, alarms, and HVAC service after closing: $2,300 + $380 + $275 = $2,955. That's under the $4,000 punch-list limit in their buy box, PA.1's cap on small repairs before guests arrive. On the final budget, the weak case is only $400 a year worse, or $800 over two years.
+
+| Cash test (all figures are assumptions) | First draft | After seller repairs | Final budget |
+|---|---:|---:|---:|
+| Repairs the buyers pay | $4,955 | $2,955 | $2,955 |
+| Extra weak-case shortfall, 2 years | $7,640 | $7,640 | $800 |
+| Total cash needed | $12,595 | $10,595 | $3,755 |
+| Unallocated cash left after PA.8 | $11,020 | $11,020 | $11,020 |
+| **Margin** | **-$1,575** | **$425** | **$7,265** |
+
+The final budget leaves $7,265 unallocated. That's $2,735 under their $10,000 floor, the minimum they promised to keep unallocated after any surprise (PA.8.6). They still save $3,500 a month (assumption carried from lesson 0.3, their capital and readiness checklist). So the 45 days to closing add about $5,250. That puts them back over the floor before they close. If their savings slipped, they'd be under their own floor at closing, which is another reason the margin is thin.
+
+Their money in the deal, counting the $2,955 of repairs, rises from $142,688 to $145,643. Cash-on-cash in the base case falls from 3.9% to 3.6% ($5,172 / $145,643).
+
+**The decision.** The house is sound enough to buy. The final budget meets all three buy-box rules and the cash test, each with a thin margin. Maya and Chris decided to proceed. They wrote down why: B1's reserve lines fund the roof and the routine septic and well costs. The permit is the only new cost. They also wrote a new rule. If the first 12 months run closer to the weak case, they revisit the co-host and pricing plan at the 12-month review in OP.11.
+
+A buyer with less cash could read the same file and walk inside the 10-day window. So could a buyer who wants the full 5% capital reserve kept free. Both answers are defensible if they're written before the deadline.
+
+### PA.9.9 Exercise: your diligence tracker
+
+The exercise has two parts: your blank tracker (20 rows) and a rerun box. Copy this tracker for your property. Fill in "Verified by" and "Deadline" the day you sign, before any findings come in. Decisions are accept, seller fixes, credit or price, or walk.
+
+No house under contract yet? Practice on Cedar Ridge. Fill the Verified by and Deadline columns from PA.9.8, then complete the rerun box from the baseline in PA.9.0.
+
+| # | Item | Verified by | Deadline | Finding | Cost (one-time / annual) | Decision and evidence file |
+|---|---|---|---|---|---|---|
+| 1 | STR use and permit for this parcel | Licensing office |  |  |  |  |
+| 2 | Permit transfer or new application timeline | Licensing office |  |  |  |  |
+| 3 | Recorded covenants or HOA rules on rentals | Title company, attorney |  |  |  |  |
+| 4 | Bindable STR insurance quote and conditions | Insurance agent |  |  |  |  |
+| 5 | Flood zone and flood quote | FEMA map, agent |  |  |  |  |
+| 6 | Guest capacity (septic, permit, insurer) | County, insurer |  |  |  |  |
+| 7 | Roof | Inspector, roofer |  |  |  |  |
+| 8 | HVAC | Inspector, HVAC tech |  |  |  |  |
+| 9 | Water (public or well test) | Certified lab |  |  |  |  |
+| 10 | Sewer or septic | Septic inspector |  |  |  |  |
+| 11 | Pests and wood damage | Pest inspector |  |  |  |  |
+| 12 | Electrical | Inspector, electrician |  |  |  |  |
+| 13 | Access, parking, winter road | You, inspector |  |  |  |  |
+| 14 | Pool, hot tub, dock, decks | Inspector, specialist |  |  |  |  |
+| 15 | Fire and life safety | Inspector |  |  |  |  |
+| 16 | Title commitment: liens | Title company |  |  |  |  |
+| 17 | Title commitment: easements | Title company, attorney |  |  |  |  |
+| 18 | Survey | Surveyor |  |  |  |  |
+| 19 | Appraisal and loan size | Lender |  |  |  |  |
+| 20 | Existing bookings or deposits | Seller, per contract |  |  |  |  |
+
+Then complete the rerun box.
+
+| Rerun of PA.4 baseline | Before diligence | After diligence |
+|---|---:|---:|
+| Gross booking revenue (change only if capacity changed) | | |
+| New annual costs from the tracker (and which budget line pays them) | | |
+| Operating costs | | |
+| NOI, base case / weak case | | |
+| Annual debt service | | |
+| Annual cash flow, base case | | |
+| Annual cash flow, weak case | | |
+| Base NOI / annual P&I | | |
+| One-time repairs you pay after closing | | |
+| Total cash in | | |
+| Cash-on-cash, base case | | |
+
+Decision rules to apply before your contingency windows close:
+
+1. If legal STR use at this address is prohibited or unresolved, walk or extend the window in writing. Don't close on "probably."
+2. If no insurer will write a policy at a price your numbers can carry, walk.
+3. If real guest capacity is lower than the underwriting assumed, rerun revenue before anything else.
+4. If the revised base case is negative, renegotiate or walk.
+5. If the revised numbers break the cash test you set in PA.8, renegotiate or walk.
+6. If they break a written buy-box rule from PA.1, such as your weak-case limit or coverage minimum, renegotiate or walk. Changing the budget or the rule counts only in writing, with the reason.
+7. Record the decision, the date, and the reason in one sentence.
+
+### PA.9.10 Who confirms what
+
+**Confirm with:** your real estate attorney or agent. They confirm contingency deadlines, written extensions, and how to terminate without losing earnest money (the deposit you made with your offer).
+
+**Confirm with:** the local licensing or zoning office. They confirm STR use for the parcel, whether a permit transfers, occupancy caps, and new-application timing.
+
+**Confirm with:** the county health department or septic inspector. They confirm the permitted bedroom count and design capacity of the septic system.
+
+**Confirm with:** your insurance agent. They confirm the policy can be bound, its conditions, and its price for your guest count, plus any flood coverage.
+
+**Confirm with:** your lender. It confirms how the loan is sized after the appraisal and whether the appraisal includes an income analysis.
+
+**Confirm with:** the title company and your attorney. They confirm which liens will be paid at closing, what each exception means, and whether a survey is required.
+
+### PA.9.11 Next lesson
+
+Next comes whose name goes on the deed and the loan. PA.10 Entity & Tax Structure Setup treats title owner, operator, and tax treatment as three separate choices. Bring your lender's written answer on whether it lends to an LLC (a limited liability company, a common way to hold a rental). Bring the insurer's answer on who can be the named insured, the person or company the policy covers.
+
+### PA.9 sources
+
+- [CFPB, Schedule a home inspection](https://www.consumerfinance.gov/owning-a-home/close/schedule-a-home-inspection/): inspection contingency, inspector vs appraiser, pest certificate, inspector licensing varies. Checked 2026-09-25.
+- [CFPB, 12 CFR 1002.14 Rules on providing appraisals](https://www.consumerfinance.gov/rules-policy/regulations/1002/14/): copy of appraisals for first-lien dwelling loans. Checked 2026-09-25.
+- [CFPB, What is lender's title insurance](https://www.consumerfinance.gov/ask-cfpb/what-is-lenders-title-insurance-en-163/): most lenders require it; covers only the lender's loan. Checked 2026-09-25.
+- [CFPB, What is owner's title insurance](https://www.consumerfinance.gov/ask-cfpb/what-is-owners-title-insurance-en-164/): protects the owner against prior claims such as unpaid taxes or contractors. Checked 2026-09-25.
+- [CFPB, Shop for title insurance and other closing services](https://www.consumerfinance.gov/owning-a-home/close/shop-for-title-insurance-and-other-closing-services/): title and survey among shoppable services. Checked 2026-09-25.
+- [EPA, Frequent questions on septic systems](https://www.epa.gov/septic/frequent-questions-septic-systems): inspection at transfer in many states; inspect every 1 to 3 years, pump every 3 to 5 years. Checked 2026-09-25.
+- [EPA, Protect your home's water](https://www.epa.gov/privatewells/protect-your-homes-water): private well owners responsible for testing; annual test list. Checked 2026-09-25.
+- [CDC, Guidelines for testing well water](https://www.cdc.gov/drinking-water/safety/guidelines-for-testing-well-water.html): use certified labs. Checked 2026-09-25.
+- [FEMA Flood Map Service Center](https://msc.fema.gov/portal/search) and [FEMA, Flood insurance](https://www.fema.gov/flood-insurance): address flood map lookup; homeowners policies generally exclude flood. Checked 2026-09-25.
+- [CPSC vacation rental safety tips](https://www.cpsc.gov/s3fs-public/VacationRentalSafetytips002_0.pdf?VersionId=MKcrFCYmuih6xmpoX59wcdmexPwzAXrO): pool and spa drain covers, alarms. Checked 2026-09-25.
+- [Airbnb, Safety requirements for homes](https://www.airbnb.com/help/article/2904): hazards hosts must address. Checked 2026-09-25.
+- [Airbnb, Responsible hosting in the United States](https://www.airbnb.com/help/article/1376): host responsibility for permits, zoning, insurance. Checked 2026-09-25.
+- [Airbnb, AirCover for hosts](https://www.airbnb.com/help/article/3733): not a substitute for the host's own insurance. Checked 2026-09-25.
+- Cedar Ridge baseline figures: `reference/recurring-examples.md` (B1, B2, B4); new figures computed in Python for this lesson and marked as assumptions.
+- Each official page above was checked through a summary of the page. Open it yourself before you rely on it.

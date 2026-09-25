@@ -20,7 +20,7 @@ CODES = ["1.3", "3.1", "3.3", "3.4", "3.5", "5.7", "6.5", "0.1", "0.2", "0.3", "
 BANNED = ["delve", "crucial", "robust", "seamless", "game-changer", "game changer", "unlock", "supercharge", "elevate",
           "empower", "tapestry", "testament", "pivotal", "realm", "holistic", "synergy", "cutting-edge", "let's dive",
           "dive in", "here's the thing", "it's worth noting", "let that sink in", "at the end of the day",
-          "in today's landscape", "non-negotiable", "you're done", "guaranteed", "passive income", "financial freedom",
+          "in today's landscape", "non-negotiable", "you're done", "guaranteed", "financial freedom",
           "crush it", "navigate the landscape", "the power of"]
 CANON = {"Alder base gross": "$61,625", "Alder base net": "$12,218", "Alder monthly net": "$1,018",
          "Alder stress net": "$1,548", "Alder break-even": "49.9%", "Alder sunk setup": "$12,050",

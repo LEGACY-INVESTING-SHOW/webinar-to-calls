@@ -476,14 +476,14 @@
         "label": "Extra annual cost",
         "v": "$1,625"
       },
-      "side": "Canonical base case: $5,572 - $1,625 = $3,947, about $329 a month instead of about $464.\n\nPA.9 revised base case: $1,752 - $1,625 = $127 a year.",
+      "side": "Canonical base case: $5,572 - $1,625 = $3,947, about $329 a month instead of about $464.\n\nPA.9 final base case: $5,172 - $1,625 = $3,547 a year, under their $5,000 minimum from PA.8.",
       "side_box": {
         "kind": "gold",
         "label": "The real question",
         "text": "Is the liability benefit worth about $1,625 a year to this household? Their attorney and insurer can tell them."
       },
       "ref": "PA.10.8",
-      "notes": "Let's put a number on Option B. Assume a $300 state annual report fee, a $125 registered agent, and $1,200 for a partnership return. All three are assumptions. That's $1,625 a year. State filing fees vary widely, so replace the $300 with your state's actual fee.\n\nAgainst the canonical DSCR base-case cash flow of $5,572, Option B drops it to $3,947. That's about $329 a month instead of about $464.\n\nBut remember PA.9. After diligence, the base case was already down to $1,752. Option B's $1,625 would take it to $127 a year.\n\nThat doesn't make Option B wrong. It means the liability benefit has to be worth about $1,625 a year to this household. Their attorney and insurer are the people who can tell them whether it is.\n\n[Recording note: Preston can add a real example here if he has one.]"
+      "notes": "Let's put a number on Option B. Assume a $300 state annual report fee, a $125 registered agent, and $1,200 for a partnership return. All three are assumptions. That's $1,625 a year. State filing fees vary widely, so replace the $300 with your state's actual fee.\n\nAgainst the canonical DSCR base-case cash flow of $5,572, Option B drops it to $3,947. That's about $329 a month instead of about $464.\n\nBut remember PA.9. After diligence, the final base case is $5,172. Option B's $1,625 would take it to $3,547 a year. That's under the $5,000 minimum they set in PA.8.\n\nThat doesn't make Option B wrong. It means the liability benefit has to be worth about $1,625 a year to this household. Their attorney and insurer are the people who can tell them whether it is.\n\n[Recording note: Preston can add a real example here if he has one.]"
     },
     {
       "type": "worksheet",

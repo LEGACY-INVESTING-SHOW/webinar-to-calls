@@ -81,20 +81,20 @@
     {
       "type": "calc",
       "eyebrow": "Screening DTI",
-      "title": "With zero STR income counted, Maya and Chris's DTI would be about 34.3%",
+      "title": "With zero STR income counted, Maya and Chris's DTI would be about 35.6%",
       "assumption": true,
       "lines": [
         {"op": "", "label": "Gross monthly income ($185,000 / 12)", "v": "$15,417"},
         {"op": "", "label": "Primary home payment (assumption)", "v": "$2,400"},
-        {"op": "+", "label": "Car and card payments (assumption)", "v": "$400"},
-        {"op": "=", "label": "DTI today", "v": "18.2%"},
+        {"op": "+", "label": "Car and card payments (assumption, as in 0.3)", "v": "$600"},
+        {"op": "=", "label": "DTI today", "v": "19.5%"},
         {"op": "+", "label": "Cedar Ridge conventional PITIA, no rental income", "v": "$2,484"}
       ],
-      "result": {"label": "DTI with Cedar Ridge", "v": "34.3%"},
-      "side": "That sits under all three Fannie Mae limits: 36%, 45%, and 50%.\n\nFor a strong two-income household, the STR income question may not decide the loan. For a buyer already near the limit, it can decide everything.",
+      "result": {"label": "DTI with Cedar Ridge", "v": "35.6%"},
+      "side": "That sits just under the 36% manual limit, and well under 45% and 50%.\n\nThrough DU, the STR income question may not decide their loan. On a manual file, there's almost no room left.",
       "side_box": {"kind": "warn", "label": "Screening only", "text": "The lender runs the real DTI on your actual debts, credit, reserves, and underwriting system."},
       "ref": "PA.7.3",
-      "notes": "Here's a rough DTI check. It's an illustration. The lender runs the real one.\n\nMaya and Chris earn $185,000 a year combined. That's canonical. Monthly, that's $15,417.\n\nI need two numbers the canonical file doesn't give, so I've made them up and marked them. Say their home payment is $2,400 a month and car and card payments are $400. Today their DTI is 18.2%.\n\nNow add the full Cedar Ridge conventional PITIA of $2,484, and count zero rental income. DTI goes to 34.3%.\n\nThat sits under all three Fannie Mae limits, even if the lender gives the STR no income credit at all.\n\nWhy does this matter? For a strong two-income household like theirs, the STR income question may not decide the loan. For a buyer whose DTI is already near the limit, it can decide everything. That shows up again in the decision tree."
+      "notes": "Here's a rough DTI check. It's an illustration. The lender runs the real one.\n\nMaya and Chris earn $185,000 a year combined. That's canonical. Monthly, that's $15,417.\n\nI need two numbers the canonical file doesn't give, so I've made them up and marked them. Say their home payment is $2,400 a month and car and card payments are $600, the same figure we used in 0.3. Today their DTI is 19.5%.\n\nNow add the full Cedar Ridge conventional PITIA of $2,484, and count zero rental income. DTI goes to 35.6%.\n\nThat sits just under the 36% limit for manual underwriting, even if the lender gives the STR no income credit at all. It's well under the 45% and 50% limits.\n\nWhy does this matter? Through Desktop Underwriter, or with the credit and reserves for 45%, the STR income question may not decide their loan. On a manual file, 35.6% leaves almost no room. For a buyer whose DTI is already near the limit, it can decide everything. That shows up again in the decision tree."
     },
     {
       "type": "flow",
@@ -226,7 +226,7 @@
       "title": "Maya and Chris pursue conventional first but set their offer on the DSCR numbers",
       "assumption": true,
       "nodes": [
-        {"k": "Step 1 · DTI", "h": "34.3%", "d": "Under the limits. Conventional first."},
+        {"k": "Step 1 · DTI", "h": "35.6%", "d": "Just under 36%. Conventional first."},
         {"k": "Step 2 · Occupancy", "h": "Ask in writing", "d": "About 10 personal days a year. Assume investment."},
         {"k": "Step 3 · LLC", "h": "Ask and note", "d": "PA.10 entity work isn't done yet"},
         {"k": "Step 4 · Cost", "h": "$8,342 less", "d": "Over five years. $2,888 less at closing. $874 a year better base case."},
@@ -234,7 +234,7 @@
       ],
       "box": {"kind": "gold", "label": "Their written decision", "text": "Pursue conventional first. Keep DSCR as the backup. Use the DSCR numbers in PA.8 until the conventional approval is in writing."},
       "ref": "PA.7.9",
-      "notes": "Let's run Cedar Ridge through Branch A.\n\nStep one: DTI with the full conventional PITIA and no STR income is 34.3%. That's under Fannie Mae's limits. Conventional quote first.\n\nStep two: occupancy. They plan about 10 personal-use days a year and rent the rest. They tell the lender that plan and ask for the classification in writing. This lesson assumes investment property.\n\nStep three: LLC. They'd like liability separation, but the lender's rules and the PA.10 entity work aren't done yet. They ask and write down the answer.\n\nStep four: cost. Conventional saves $2,888 at closing and about $8,342 over five years. Base-case cash flow is $874 a year better.\n\nStep five: they keep the DSCR quote live. If underwriting stalls on occupancy, reserves, or documents, they switch without losing the house.\n\nAnd notice the last line. They set the offer on the DSCR numbers. You set your ceiling on the more expensive loan you might end up with."
+      "notes": "Let's run Cedar Ridge through Branch A.\n\nStep one: DTI with the full conventional PITIA and no STR income is 35.6%. That's just under the 36% manual limit, and well under the higher ones. Conventional quote first.\n\nStep two: occupancy. They plan about 10 personal-use days a year and rent the rest. They tell the lender that plan and ask for the classification in writing. This lesson assumes investment property.\n\nStep three: LLC. They'd like liability separation, but the lender's rules and the PA.10 entity work aren't done yet. They ask and write down the answer.\n\nStep four: cost. Conventional saves $2,888 at closing and about $8,342 over five years. Base-case cash flow is $874 a year better.\n\nStep five: they keep the DSCR quote live. If underwriting stalls on occupancy, reserves, or documents, they switch without losing the house.\n\nAnd notice the last line. They set the offer on the DSCR numbers. You set your ceiling on the more expensive loan you might end up with."
     },
     {
       "type": "worksheet",

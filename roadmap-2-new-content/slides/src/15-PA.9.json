@@ -466,16 +466,16 @@
       "total_last": true,
       "box": {
         "kind": "gold",
-        "label": "Why not use the 5% reserve?",
-        "text": "The capital reserve is $3,714 a year. A known $14,000 roof in about five years would eat almost four years of it. Fund the known item on its own line and let the 5% cover surprises."
+        "label": "First rerun: all four on top",
+        "text": "The cautious first rerun adds all four to B1's budget. That keeps the whole 5% capital reserve ($3,714) free for surprises."
       },
       "ref": "PA.9.8",
-      "notes": "Four findings add costs that recur every year. PA.4's generic lines don't cover them.\n\nThe roof needs replacing in about five years at $14,000. Spread that over five years and you set aside $2,800 a year. The septic needs a yearly inspection and more pumping because of the guest load. That's $400. The well's UV lamp and annual test are $220. And the county permit renewal is $400.\n\nTotal: $3,820 a year.\n\nYou might ask why the roof isn't already covered by the 5% capital reserve of $3,714. It could be, if nothing else ever broke. But that reserve was a generic percentage. Now you have a known $14,000 bill in about five years. It would eat almost four years of the whole reserve.\n\nSo fund the known item on its own line. Let the 5% handle the surprises."
+      "notes": "Four findings add costs that recur every year. PA.4's generic lines don't name them.\n\nThe roof needs replacing in about five years at $14,000. Spread that over five years and you set aside $2,800 a year. The septic needs a yearly inspection and more pumping because of the guest load. That's $400. The well's UV lamp and annual test are $220. And the county permit renewal is $400.\n\nTotal: $3,820 a year.\n\nThe first rerun is the cautious version. It stacks all four on top of the budget. That keeps the whole 5% capital reserve of $3,714 free for surprises. Hold on to that choice. We'll come back to it in two slides."
     },
     {
       "type": "bars",
       "eyebrow": "Cedar Ridge · the rerun",
-      "title": "The rerun cuts Cedar Ridge's base-case cash flow from $5,572 to $1,752 a year",
+      "title": "The cautious first rerun cuts base-case cash flow from $5,572 to $1,752 a year",
       "assumption": true,
       "items": [
         {
@@ -484,7 +484,7 @@
           "kind": "pos"
         },
         {
-          "label": "NOI, after diligence",
+          "label": "NOI, first rerun",
           "value": 25389,
           "kind": "pos",
           "hot": true
@@ -495,7 +495,7 @@
           "kind": "pos"
         },
         {
-          "label": "Base-case cash flow, after",
+          "label": "Base-case cash flow, first rerun",
           "value": 1752,
           "kind": "pos",
           "hot": true
@@ -506,70 +506,167 @@
           "kind": "neg"
         },
         {
-          "label": "Weak-case cash flow, after",
+          "label": "Weak-case cash flow, first rerun",
           "value": -9295,
           "kind": "neg",
           "hot": true
         }
       ],
-      "caption": "Revised NOI: $29,209 - $3,820 = $25,389. Less $23,637 DSCR debt service = $1,752, about $146 a month. Weak case: $18,162 - $3,820 - $23,637 = -$9,295.",
+      "caption": "First rerun NOI: $29,209 - $3,820 = $25,389. Less $23,637 DSCR debt service = $1,752, about $146 a month. Weak case: $18,162 - $3,820 - $23,637 = -$9,295.",
       "ref": "PA.9.8",
-      "notes": "Now rerun Sam's baseline with the $3,820.\n\nThe canonical base case had gross booking revenue of $74,275, operating costs of $45,066, and NOI of $29,209. Take off the $3,820 and NOI becomes $25,389.\n\nThe DSCR debt service is $23,637 a year. So annual cash flow drops from $5,572 to $1,752. That's about $146 a month instead of about $464.\n\nThe weak case gets worse by the same $3,820. Weak-case NOI was $18,162. Subtract the $3,820 and the debt service, and you get minus $9,295 a year, down from minus $5,475.\n\nRevenue didn't change here, because real capacity stayed at 8. If the septic or the permit had capped them at 6, you'd rerun revenue first, before any of this."
+      "notes": "Now rerun Sam's baseline with the $3,820 stacked on top.\n\nThe canonical base case had gross booking revenue of $74,275, operating costs of $45,066, and NOI of $29,209. Take off the $3,820 and NOI becomes $25,389.\n\nThe DSCR debt service is $23,637 a year. So annual cash flow drops from $5,572 to $1,752. That's about $146 a month instead of about $464.\n\nThe weak case gets worse by the same $3,820. Weak-case NOI was $18,162. Subtract the $3,820 and the debt service, and you get minus $9,295 a year, down from minus $5,475.\n\nRevenue didn't change here, because real capacity stayed at 8. If the septic or the permit had capped them at 6, you'd rerun revenue first, before any of this."
+    },
+    {
+      "type": "table",
+      "eyebrow": "Cedar Ridge · the buy-box check",
+      "title": "The first rerun breaks three written buy-box rules, and the rule says renegotiate or walk",
+      "assumption": true,
+      "columns": [
+        "Written rule (PA.1, PA.8)",
+        "Limit",
+        "First rerun",
+        "Pass?"
+      ],
+      "rows": [
+        [
+          "Base-case cash flow (PA.8 Test 1)",
+          "At least $5,000",
+          "$1,752",
+          "**No**"
+        ],
+        [
+          "Weak-case cash flow",
+          "No worse than -$6,000",
+          "-$9,295",
+          "**No**"
+        ],
+        [
+          "Base NOI / annual P&I",
+          "At least 1.20",
+          "1.07",
+          "**No**"
+        ]
+      ],
+      "caption": "PA.1's cash caps still pass: cash to close $110,688, cash to close plus furnishing $142,688, punch list $2,955 against a $4,000 limit.",
+      "box": {
+        "kind": "warn",
+        "label": "Their written rule",
+        "text": "A broken buy box means renegotiate or walk. The box changes only in writing. The seller had already refused a credit or a price cut."
+      },
+      "ref": "PA.9.8",
+      "notes": "Cash isn't the only rule Maya and Chris brought into diligence. PA.1 and PA.8 wrote down three more, and PA.9 has to run them.\n\nBase-case cash flow has to be at least $5,000. The first rerun gives $1,752. Fail.\n\nThe weak case can lose no more than $6,000 a year. The first rerun loses $9,295. Fail.\n\nBase NOI has to be at least 1.20 times annual principal and interest. $25,389 over $23,637 is 1.07. Fail.\n\nThe cash caps from PA.1 still pass. Cash to close is still $110,688, and the $2,955 punch list is under their $4,000 limit.\n\nSo the written rule applies: renegotiate or walk. The box only changes in writing. The seller had already refused a credit or a price cut. Before walking, they reread their own budget."
+    },
+    {
+      "type": "table",
+      "eyebrow": "Cedar Ridge · the final budget",
+      "title": "Funding the roof and routine upkeep from B1's reserve lines brings all three rules back",
+      "assumption": true,
+      "columns": [
+        "Measure",
+        "First rerun",
+        "Final budget",
+        "Their rule"
+      ],
+      "rows": [
+        [
+          "Cost added on top of B1",
+          "$3,820",
+          "$400 (permit)",
+          "n/a"
+        ],
+        [
+          "NOI",
+          "$25,389",
+          "$28,809",
+          "n/a"
+        ],
+        [
+          "Base-case cash flow",
+          "$1,752",
+          "$5,172",
+          "At least $5,000"
+        ],
+        [
+          "Weak-case cash flow",
+          "-$9,295",
+          "-$5,875",
+          "No worse than -$6,000"
+        ],
+        [
+          "Base NOI / annual P&I",
+          "1.07",
+          "1.22",
+          "At least 1.20"
+        ]
+      ],
+      "box": {
+        "kind": "gold",
+        "label": "Each cost counted once",
+        "text": "Roof $2,800 from the 5% capital reserve. Septic $400 and UV lamp $220 from the 5% repairs line. Permit $400 on top. Less cushion for surprises."
+      },
+      "ref": "PA.9.8",
+      "notes": "Here's what they found. B1 already sets aside 5% of gross as a capital reserve, $3,714 in the base case. That line exists for bills like a roof. B1 also has a 5% repairs line for routine upkeep. With the new baffle and filter in place, the septic program and the UV lamp are routine upkeep.\n\nSo the final budget counts each cost once. The $2,800 roof fund comes out of the capital reserve. The septic and UV costs come out of the repairs line. Only the $400 permit renewal is new, so only that goes on top.\n\nFinal NOI is $28,809. Base cash flow is $5,172, about $431 a month. The weak case is minus $5,875. Coverage is 1.22. All three rules pass, none by much. Base cash flow clears $5,000 by $172, and the weak case clears the limit by $125.\n\nHere's the price. In the base case, the capital line has $914 left after the roof. In a weak year it has $66. Any other capital bill, like the 14-year-old HVAC, comes from the $15,342 property reserve."
     },
     {
       "type": "table",
       "eyebrow": "Cedar Ridge · the cash test",
-      "title": "Seller repairs moved the cash test from $1,575 short to $425 inside",
+      "title": "Seller repairs and the final budget turn a $1,575 cash shortfall into $7,265 spare",
       "assumption": true,
       "text": "The seller refused a $7,000 roof credit but agreed to fix the septic ($1,850) and treat the well ($2,000) before closing, and to pay the $3,100 lien.",
       "columns": [
         "Cash test line",
         "First draft",
-        "After renegotiation"
+        "After seller repairs",
+        "Final budget"
       ],
       "rows": [
         [
           "Repairs the buyers pay",
           "$4,955",
+          "$2,955",
           "$2,955"
         ],
         [
           "Extra weak-case shortfall, 2 years",
           "$7,640",
-          "$7,640"
+          "$7,640",
+          "$800"
         ],
         [
           "Total cash needed",
           "$12,595",
-          "$10,595"
+          "$10,595",
+          "$3,755"
         ],
         [
           "Unallocated cash left after PA.8",
+          "$11,020",
           "$11,020",
           "$11,020"
         ],
         [
           "**Margin**",
           "**-$1,575**",
-          "**$425**"
+          "**$425**",
+          "**$7,265**"
         ]
       ],
       "total_last": true,
       "box": {
         "kind": "info",
         "label": "What it did to the deal",
-        "text": "Cash to close stays $110,688. Total cash in rises from $142,688 to $145,643. Base-case cash-on-cash falls from 3.9% to 1.2%."
+        "text": "$7,265 is $2,735 under their $10,000 floor from PA.8.6. Saving $3,500 a month refills it before the 45-day close. Cash-on-cash falls from 3.9% to 3.6%."
       },
       "ref": "PA.9.8",
-      "notes": "Now check the cash. PA.8 left Maya and Chris $11,020 unallocated, after their Test 3 set-asides. Those set-asides included two years of weak-case shortfall.\n\nThe first draft had the buyers paying every repair: $350, $1,650, $2,300, $380, and $275. That's $4,955. The weak-case shortfall also grows by $3,820 a year, or $7,640 over the two years PA.8 funds. Together that's $12,595. They have $11,020. On their own rule, the deal fails by $1,575.\n\nSo they renegotiated inside the 10-day window. They asked for a $7,000 roof credit, and the seller refused. The seller did agree to repair the septic and treat the well before closing, and to pay the lien from their proceeds.\n\nNow the buyers pay only $2,955 after closing. The test becomes $10,595 against $11,020. It passes by $425. Base-case cash-on-cash falls to 1.2%, which is $1,752 over $145,643."
+      "notes": "Now the cash. PA.8 left Maya and Chris $11,020 unallocated, after their Test 3 set-asides. Those set-asides included two years of weak-case shortfall.\n\nThe first draft had the buyers paying every repair: $350, $1,650, $2,300, $380, and $275. That's $4,955. With the $3,820 stacked on top, the weak-case shortfall grows by $7,640 over the two years PA.8 funds. Together that's $12,595 against $11,020. The deal fails by $1,575.\n\nSo they renegotiated inside the 10-day window. The seller refused a $7,000 roof credit, but agreed to repair the septic and treat the well before closing, and to pay the lien. Now the buyers pay only $2,955. That column passes by $425.\n\nOn the final budget, the weak case is only $400 a year worse than planned, so the extra reserve is $800. The total is $3,755, and $7,265 stays unallocated. That's under the $10,000 floor they set in PA.8.6 by $2,735. They still save $3,500 a month, so the 45 days to closing refill it.\n\nBase-case cash-on-cash falls from 3.9% to 3.6%. That's $5,172 over $145,643."
     },
     {
       "type": "statement",
       "eyebrow": "Cedar Ridge · the decision",
       "text": "Proceed and walk can both be right. Write the decision before the deadline, not after.",
-      "support": "Maya and Chris proceeded, with a written rule: if the first 12 months run near the weak case, they revisit the co-host and pricing plan at the OP.10 review.",
+      "support": "Maya and Chris proceeded, with the reserve change in writing. One more rule: if year one runs near the weak case, they revisit co-host and pricing at OP.11's 12-month review.",
       "ref": "PA.9.8",
-      "notes": "So what did they decide?\n\nThe house is sound enough to buy. The business still works in the base case, barely. The weak case got worse by $3,820 a year. The cash test passes by $425, which is thin.\n\nMaya and Chris decided to proceed. They also wrote down a new rule. If the first 12 months run closer to the weak case, they revisit the co-host and pricing plan at the OP.10 review.\n\nA buyer with less cash could read the same file and walk inside the 10-day window. That would also be a sound decision.\n\nWhat makes either answer defensible is timing. Both are written down, with a reason, before the deadline. The bad version is the one where nobody decides and the window just closes.",
+      "notes": "So what did they decide?\n\nThe house is sound enough to buy. The final budget meets all three buy-box rules and the cash test, each with a thin margin.\n\nMaya and Chris decided to proceed. They wrote down why: B1's reserve lines fund the roof and the routine septic and well costs. The permit is the only new cost. They also wrote a new rule. If the first 12 months run closer to the weak case, they revisit the co-host and pricing plan at the 12-month review in OP.11.\n\nA buyer with less cash could read the same file and walk inside the 10-day window. So could a buyer who wants the whole capital reserve kept free for surprises. That would also be a sound decision.\n\nWhat makes either answer defensible is timing. Both are written down, with a reason, before the deadline. The bad version is the one where nobody decides and the window just closes.",
       "title": "Proceed or walk can both be right if written before the deadline"
     },
     {
@@ -591,7 +688,8 @@
           "no": "Rerun revenue before anything else"
         },
         {
-          "q": "Is the revised base case still positive?",
+          "q": "Is the revised base case positive and inside your written buy-box rules?",
+          "sub": "PA.1 limits: weak case, coverage, minimum cash flow.",
           "no": "Renegotiate or walk"
         },
         {
@@ -601,7 +699,7 @@
       ],
       "end": "All five pass: record the decision, the date, and the reason in one sentence.",
       "ref": "PA.9.9",
-      "notes": "These are the decision rules from the exercise. Run them in order, before the window closes.\n\nGate one is legal use. If STR use at this address is prohibited or still unresolved, walk, or get the window extended in writing. Don't close on 'probably.'\n\nGate two is insurance. If no insurer will write a policy at a price your numbers can carry, walk.\n\nGate three is capacity. If the real number is lower than the underwriting assumed, stop and rerun revenue before you touch anything else.\n\nGate four is the revised base case. If it's negative, renegotiate or walk.\n\nGate five is your own cash test from PA.8. If the revised numbers break it, renegotiate or walk.\n\nIf everything passes, write one sentence with the decision, the date, and the reason. Cedar Ridge passed gate five by $425."
+      "notes": "These are the decision rules from the exercise. Run them in order, before the window closes.\n\nGate one is legal use. If STR use at this address is prohibited or still unresolved, walk, or get the window extended in writing. Don't close on 'probably.'\n\nGate two is insurance. If no insurer will write a policy at a price your numbers can carry, walk.\n\nGate three is capacity. If the real number is lower than the underwriting assumed, stop and rerun revenue before you touch anything else.\n\nGate four is the revised base case. If it's negative, or it breaks a written buy-box rule from PA.1, renegotiate or walk. A budget change or a rule change only counts in writing, with the reason.\n\nGate five is your own cash test from PA.8. If the revised numbers break it, renegotiate or walk.\n\nIf everything passes, write one sentence with the decision, the date, and the reason. Cedar Ridge passed gate four on its final budget, and gate five with $7,265 unallocated."
     },
     {
       "type": "worksheet",
@@ -641,6 +739,11 @@
         ],
         [
           "Annual cash flow, weak case",
+          "",
+          ""
+        ],
+        [
+          "Base NOI / annual P&I",
           "",
           ""
         ],

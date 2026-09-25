@@ -312,7 +312,7 @@
         "v": "-$7,798"
       },
       "side": "Option A, vendor set: $29,209 - $23,637 = **$5,572**. Cleaner at $150 per turnover ($9,150), handyman retainer at $150 a month ($1,800). Maya messages; Chris approves and keeps the books.\n\nThe house doesn't carry an 18% co-host at the base case.",
-      "notes": "Here are the Cedar Ridge numbers. The base case is 61 stays a year, 212 booked nights, 3.5-night average stay. Gross booking revenue is $74,275. Annual debt service on the DSCR quote is $23,637.\n\nOption A is the vendor set. A local cleaner at $150 per turnover, which is $9,150 a year. An on-call handyman and inspection retainer at $150 a month, $1,800 a year. Maya handles messaging. Chris handles approvals and bookkeeping. NOI is $29,209, and cash flow is $5,572.\n\nOption B keeps the same cleaner and retainer and adds a full-service local co-host at 18% of gross booking revenue. That's $13,370. NOI drops to $15,839. After debt service, cash flow is negative $7,798.\n\nThat's a $13,370 swing, from positive to negative. The house doesn't carry an 18% co-host at the base case. Co-hosts can still work elsewhere. This fee, on this house and this loan, doesn't fit."
+      "notes": "Here are the Cedar Ridge numbers. The base case is 61 stays a year, 212 booked nights, 3.5-night average stay. Gross booking revenue is $74,275. Annual debt service on the DSCR quote is $23,637.\n\nOne note first. These comparisons use the original underwriting, B1. PA.9's diligence added $400 a year on top, the permit renewal. Take $400 off every cash flow in this section. Option A becomes $5,172, the flat fee $372, and the break-even fee about 7.0%. The ranking doesn't change.\n\nOption A is the vendor set. A local cleaner at $150 per turnover, which is $9,150 a year. An on-call handyman and inspection retainer at $150 a month, $1,800 a year. Maya handles messaging. Chris handles approvals and bookkeeping. NOI is $29,209, and cash flow is $5,572.\n\nOption B keeps the same cleaner and retainer and adds a full-service local co-host at 18% of gross booking revenue. That's $13,370. NOI drops to $15,839. After debt service, cash flow is negative $7,798.\n\nThat's a $13,370 swing, from positive to negative. The house doesn't carry an 18% co-host at the base case. Co-hosts can still work elsewhere. This fee, on this house and this loan, doesn't fit."
     },
     {
       "type": "calc",
@@ -405,12 +405,12 @@
       "type": "calc",
       "ref": "OP.7.7",
       "assumption": true,
-      "title": "Price owner time: a 10% co-host costs about $61 for each hour it replaces",
+      "title": "Price owner time: a 10% co-host costs about $81 for each hour it replaces",
       "lines": [
         {
           "op": "",
-          "label": "Owner time per stay",
-          "v": "2 hours"
+          "label": "Owner time per stay (0.3 estimate)",
+          "v": "1.5 hours"
         },
         {
           "op": "×",
@@ -420,7 +420,7 @@
         {
           "op": "=",
           "label": "Owner hours replaced",
-          "v": "122"
+          "v": "91.5"
         },
         {
           "op": "",
@@ -430,15 +430,15 @@
         {
           "op": "÷",
           "label": "Owner hours replaced",
-          "v": "122"
+          "v": "91.5"
         }
       ],
       "result": {
         "label": "Cost per owner hour, Option C",
-        "v": "about $61"
+        "v": "about $81"
       },
-      "side": "Option B: $13,370 ÷ 122 = **about $110 per hour**.\n\nThe real decision: is an hour of Maya and Chris's time worth $61 or $110, when cash flow goes negative?",
-      "notes": "The cash flow math tells you what the house can carry. It doesn't tell you what your time is worth. So price that too.\n\nSuppose Maya and Chris spend about 2 hours per stay on messaging and coordination. That's an assumption. Across 61 stays, it's 122 hours a year.\n\nOption C, the 10% messaging co-host, costs $7,428. Divided by 122 hours, that's about $61 for each hour of their time it replaces.\n\nOption B, the 18% co-host, costs $13,370. That's about $110 per hour.\n\nSo the real decision is a simple question. Is an hour of their time worth $61, or $110, given that either choice makes cash flow negative?\n\nThere's no right answer on the slide. Two people with full-time jobs two hours away might say yes to $61. Someone who enjoys guest messaging might say no to both. Put your own hours in and see what you're buying."
+      "side": "Option B: $13,370 ÷ 91.5 = **about $146 per hour**.\n\nThe real decision: is an hour of Maya and Chris's time worth $81 or $146, when cash flow goes negative?",
+      "notes": "The cash flow math tells you what the house can carry. It doesn't tell you what your time is worth. So price that too.\n\nUse the estimate from 0.3: about 1.5 hours per stay on messages, scheduling, and turnover checks. That's an assumption. Across 61 stays, it's 91.5 hours a year. Their monthly bookkeeping and pricing hours stay with them either way.\n\nOption C, the 10% messaging co-host, costs $7,428. Divided by 91.5 hours, that's about $81 for each hour of their time it replaces.\n\nOption B, the 18% co-host, costs $13,370. That's about $146 per hour.\n\nSo the real decision is a simple question. Is an hour of their time worth $81, or $146, given that either choice makes cash flow negative?\n\nThere's no right answer on the slide. Two people with full-time jobs two hours away might say yes to $81. Someone who enjoys guest messaging might say no to both. Put your own hours in and see what you're buying."
     },
     {
       "type": "table",

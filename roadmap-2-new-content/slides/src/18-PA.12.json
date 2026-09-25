@@ -137,36 +137,37 @@
     {
       "type": "calc",
       "eyebrow": "Cedar Ridge · the carry",
-      "title": "Forty-five days without guests cost Maya and Chris $4,510.50 in carrying costs",
+      "title": "Forty-five days without guests cost Maya and Chris $4,885.50 in carrying costs",
       "assumption": true,
       "lines": [
         {"op": "", "label": "Monthly PITIA, DSCR loan", "v": "$2,557"},
         {"op": "+", "label": "Utilities, internet, trash", "v": "$450"},
-        {"op": "=", "label": "Monthly carry with no revenue", "v": "$3,007"},
+        {"op": "+", "label": "Software and handyman retainer", "v": "$250"},
+        {"op": "=", "label": "Monthly carry with no revenue (as in 0.3)", "v": "$3,257"},
         {"op": "×", "label": "Months to launch (45 days)", "v": "1.5"}
       ],
-      "result": {"label": "Carry before first guest", "v": "$4,510.50"},
+      "result": {"label": "Carry before first guest", "v": "$4,885.50"},
       "side": "Maya and Chris closed on day 0 and plan to launch on about day 45.",
-      "side_box": {"kind": "warn", "label": "The number to watch", "text": "If the permit takes longer, each extra month costs another $3,007."},
+      "side_box": {"kind": "warn", "label": "The number to watch", "text": "If the permit takes longer, each extra month costs another $3,257."},
       "ref": "PA.12.7",
-      "notes": "Maya and Chris closed on day 0. They plan to launch on about day 45. That's an assumption. Here's what those 45 days cost before a single booking.\n\nCarrying costs keep running with no revenue. Monthly PITIA on the DSCR loan is $2,557. Utilities, internet, and trash are $450 a month. That's $3,007 a month.\n\nFor 45 days, that's $3,007 times 1.5, or $4,510.50.\n\nThe number to watch is the permit. If it takes longer than planned, each extra month costs another $3,007. That's why the permit application goes in on day 2, not after the furniture arrives.\n\n[Recording note: Preston can add a real example here if he has one.]"
+      "notes": "Maya and Chris closed on day 0. They plan to launch on about day 45. That's an assumption. Here's what those 45 days cost before a single booking.\n\nCarrying costs keep running with no revenue. Monthly PITIA on the DSCR loan is $2,557. Utilities, internet, and trash are $450 a month. Software is $100 and the handyman retainer is $150, and both run before the first guest. That's $3,257 a month, the same carrying cost we used in 0.3.\n\nFor 45 days, that's $3,257 times 1.5, or $4,885.50.\n\nThe number to watch is the permit. If it takes longer than planned, each extra month costs another $3,257. That's why the permit application goes in on day 2, not after the furniture arrives.\n\n[Recording note: Preston can add a real example here if he has one.]"
     },
     {
       "type": "table",
       "eyebrow": "Cedar Ridge · post-close cash",
-      "title": "Between closing and the first guest, $39,465.50 leaves Maya and Chris's accounts",
+      "title": "Between closing and the first guest, $39,840.50 leaves Maya and Chris's accounts",
       "assumption": true,
       "columns": ["Post-close cash", "Amount"],
       "rows": [
         ["Furnishing budget (canonical, spent in OP.6)", "$32,000.00"],
         ["PA.9 repairs paid by the buyers", "$2,955.00"],
-        ["45 days of PITIA plus utilities", "$4,510.50"],
-        ["**Cash out between closing and first guest**", "**$39,465.50**"]
+        ["45 days of carrying costs", "$4,885.50"],
+        ["**Cash out between closing and first guest**", "**$39,840.50**"]
       ],
       "total_last": true,
-      "box": {"kind": "info", "label": "What's left", "text": "The $142,688 total cash in already includes the $32,000 furnishing. So: $210,000 - $142,688 - $2,955 - $4,510.50 = $59,846.50 left. The 45-day carry draws on the six-month PITIA reserve set aside in PA.8."},
+      "box": {"kind": "info", "label": "What's left", "text": "$231,000 - $142,688 - $2,955 - $4,885.50 = $80,471.50 left. Set-asides of $15,342 + $51,000 + $11,750 leave $2,379.50, before any saving since the offer."},
       "ref": "PA.12.7",
-      "notes": "Now the one-time costs. The post-close repairs from PA.9 total $2,955. That's the dock railing, the alarms, and the HVAC service. The seller handled the septic and well work before closing.\n\nFurnishing is budgeted at $32,000. OP.6 covers how to spend it.\n\nAdd the $4,510.50 carry, and $39,465.50 goes out between closing and the first guest.\n\nCareful with the savings math. The canonical total cash in of $142,688 already includes the $32,000 furnishing. So from their $210,000 of liquid savings, subtract $142,688, the $2,955, and the $4,510.50. That leaves $59,846.50.\n\nIn PA.8 they set aside six months of PITIA, which is $15,342, plus a $30,000 emergency fund and a weak-case cushion, all from that money. The 45-day carry draws on the PITIA reserve."
+      "notes": "Now the one-time costs. The post-close repairs from PA.9 total $2,955. That's the dock railing, the alarms, and the HVAC service. The seller handled the septic and well work before closing.\n\nFurnishing is budgeted at $32,000. OP.6 covers how to spend it.\n\nAdd the $4,885.50 carry, and $39,840.50 goes out between closing and the first guest.\n\nCareful with the savings math. The canonical total cash in of $142,688 already includes the $32,000 furnishing. They had $231,000 of liquid savings at the offer. Subtract $142,688, the $2,955, and the $4,885.50. That leaves $80,471.50, not counting anything saved since.\n\nThe set-asides come out of that money. Six months of PITIA is $15,342. The emergency fund is $51,000. The weak-year reserve is $11,750, two years of PA.9's minus $5,875 weak case. Together that's $78,092, which leaves $2,379.50 unallocated.\n\nOn paper that's under the $10,000 floor from PA.8. The three months of saving since the offer, about $10,500 at $3,500 a month, put them back above it. And if the permit runs late, each extra month comes out of the property reserve."
     },
     {
       "type": "table",
@@ -276,7 +277,7 @@
         ["**OP.6 Furnishing & Interior Optimization for an Owned Property** (Preston)", "The $32,000 furnishing budget"]
       ],
       "ref": "PA.12.10",
-      "notes": "The house is insured, connected, safe, and documented. Next come Sam's operations demos. I won't re-teach them here. Here's what to bring to each one.\n\nOP.1 and OP.2 show the listing build. Bring your permit number, your real guest capacity, and your safety disclosures.\n\nOP.3 and OP.4 connect the lock, the messaging, and the software. Bring your device list and your access plan from the packet.\n\nOP.5 sets rates. Bring the PA.9 revised baseline, so your pricing targets use the real cost structure. For Cedar Ridge that means the $3,820 of added annual costs, not the original PA.4 lines.\n\nThen I pick up again in OP.6, where the $32,000 furnishing budget turns into a room-by-room plan."
+      "notes": "The house is insured, connected, safe, and documented. Next come Sam's operations demos. I won't re-teach them here. Here's what to bring to each one.\n\nOP.1 and OP.2 show the listing build. Bring your permit number, your real guest capacity, and your safety disclosures.\n\nOP.3 and OP.4 connect the lock, the messaging, and the software. Bring your device list and your access plan from the packet.\n\nOP.5 sets rates. Bring the PA.9 revised baseline, so your pricing targets use the real cost structure. For Cedar Ridge that means the $400 permit renewal on top, plus the roof, septic, and UV costs now earmarked inside the reserve lines.\n\nThen I pick up again in OP.6, where the $32,000 furnishing budget turns into a room-by-room plan."
     },
     {
       "type": "dothis",
@@ -289,7 +290,7 @@
       ],
       "next": "Next: Sam's OP.1 Listing Creation Across Airbnb, VRBO & Booking.com. Bring your permit number, guest capacity, and safety disclosures. I pick up in OP.6 Furnishing & Interior Optimization.",
       "ref": "PA.12.10",
-      "notes": "Four things this week. Each one takes under an hour.\n\nFirst, pull your declarations page and check the nine items against it. Write down anything you need to ask the insurer.\n\nSecond, reset every lock code and remove the seller's accounts from each device.\n\nThird, file the STR permit application. If you can't file yet, find out exactly what's missing and put the date on your calendar. Every extra month of waiting costs Cedar Ridge $3,007.\n\nFourth, start the handoff packet. Date it, fill in the property facts, and write the names exactly as they appear on the deed, the insurance, and the permit.\n\nThat closes Phase 1. Next is Sam's OP.1 Listing Creation. Bring your permit number, guest capacity, and safety disclosures. After Sam's OP.1 to OP.5, I pick up in OP.6 Furnishing & Interior Optimization."
+      "notes": "Four things this week. Each one takes under an hour.\n\nFirst, pull your declarations page and check the nine items against it. Write down anything you need to ask the insurer.\n\nSecond, reset every lock code and remove the seller's accounts from each device.\n\nThird, file the STR permit application. If you can't file yet, find out exactly what's missing and put the date on your calendar. Every extra month of waiting costs Cedar Ridge $3,257.\n\nFourth, start the handoff packet. Date it, fill in the property facts, and write the names exactly as they appear on the deed, the insurance, and the permit.\n\nThat closes Phase 1. Next is Sam's OP.1 Listing Creation. Bring your permit number, guest capacity, and safety disclosures. After Sam's OP.1 to OP.5, I pick up in OP.6 Furnishing & Interior Optimization."
     },
     {
       "type": "sources",

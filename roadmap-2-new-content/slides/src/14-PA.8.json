@@ -37,7 +37,7 @@
       "rows": [
         ["**1. Base-case cash flow**", "At expected revenue, does the house clear a minimum cash flow after the loan?", "At least $5,000 a year"],
         ["**2. Weak-case survival**", "In a weak year, does it break even, or is the shortfall funded in writing?", "Shortfall up to $6,000 a year, two years set aside"],
-        ["**3. Cash**", "Does everything you put in, plus your reserves, fit in the cash you have?", "Inside $210,000, with $30,000 emergency fund and 6 months PITIA"]
+        ["**3. Cash**", "Does everything you put in, plus your reserves, fit in the cash you have?", "Inside $231,000, with $51,000 emergency fund and 6 months PITIA"]
       ],
       "caption": "They underwrite on the DSCR quote (7.25%, 1 point, 25% down) until the conventional approval is in writing. The three rules are theirs to set, so they're assumptions.",
       "ref": "PA.8.2",
@@ -58,7 +58,7 @@
       "result": {"label": "Test 1 price ceiling", "v": "$394,310"},
       "side": "NOI already covers property tax ($3,850) and insurance ($3,200), so cash flow is NOI minus principal and interest.",
       "ref": "PA.8.3",
-      "notes": "Canonical inputs: base-case NOI $29,209, weak-case NOI $18,162. Property tax and insurance are already inside NOI. Maya and Chris have $210,000 in liquid savings.\n\nTest one. Because NOI already covers tax and insurance, cash flow is simply NOI minus principal and interest.\n\nThey want at least $5,000 a year in the base case. So the most principal and interest they can carry is $29,209 minus $5,000. That's $24,209 a year, or $2,017 a month.\n\nAt 7.25% over 30 years, $2,017 a month supports a loan of about $295,732.\n\nWith 25% down, the loan is 75% of the price. Divide by 0.75 and the price ceiling is $394,310.\n\nI ran every step in Python. On your own deal, a lender's calculator or a spreadsheet PV function does the same job. We'll get to that in the worksheet."
+      "notes": "Canonical inputs: base-case NOI $29,209, weak-case NOI $18,162. Property tax and insurance are already inside NOI. Maya and Chris now have $231,000 in liquid savings. That's the $210,000 from 0.3 plus six months of saving at $3,500. So the funding condition from 0.3 is met.\n\nTest one. Because NOI already covers tax and insurance, cash flow is simply NOI minus principal and interest.\n\nThey want at least $5,000 a year in the base case. So the most principal and interest they can carry is $29,209 minus $5,000. That's $24,209 a year, or $2,017 a month.\n\nAt 7.25% over 30 years, $2,017 a month supports a loan of about $295,732.\n\nWith 25% down, the loan is 75% of the price. Divide by 0.75 and the price ceiling is $394,310.\n\nOn your own deal, a lender's calculator or a spreadsheet PV function does this step. We'll get to that in the worksheet."
     },
     {
       "type": "calc",
@@ -72,9 +72,9 @@
       ],
       "result": {"label": "Strict Test 2 ceiling", "v": "$295,818"},
       "side": "That's $103,182 under the $399,000 asking price.",
-      "side_box": {"kind": "warn", "label": "More cash doesn't close the gap", "text": "At $385,000, a breakeven loan means $163,137 down, 42.4% of price. Add closing costs and $32,000 furnishing, and $210,000 is gone."},
+      "side_box": {"kind": "warn", "label": "More cash doesn't close the gap", "text": "At $385,000, a breakeven loan means $163,137 down, 42.4% of price. Add closing costs and $32,000 furnishing: about $208,906, far over the $180,000 left after the emergency fund."},
       "ref": "PA.8.3",
-      "notes": "Test two, strict version. Breakeven in the weak case means principal and interest can't be more than weak-case NOI.\n\nSo the most they can carry is $18,162 a year. That supports a loan of about $221,863. Divide by 0.75 and the price ceiling is $295,818.\n\nThat's $103,182 under the asking price.\n\nCould more cash close the gap instead? Let's check. At $385,000, a breakeven loan of $221,863 means a down payment of $163,137. That's 42.4% of the price. Add closing costs and the $32,000 furnishing budget, and their $210,000 is gone.\n\nSo under the strict rule, Cedar Ridge doesn't work anywhere near the asking price. That's a real answer, and for many buyers it's the right one. Hold on to it. On the next slide, Maya and Chris make a different choice, on purpose, and in writing."
+      "notes": "Test two, strict version. Breakeven in the weak case means principal and interest can't be more than weak-case NOI.\n\nSo the most they can carry is $18,162 a year. That supports a loan of about $221,863. Divide by 0.75 and the price ceiling is $295,818.\n\nThat's $103,182 under the asking price.\n\nCould more cash close the gap instead? Let's check. At $385,000, a breakeven loan of $221,863 means a down payment of $163,137. That's 42.4% of the price. Add closing costs and the $32,000 furnishing budget, and the total is about $208,906. That's far more than the $180,000 they can put into a property once the $51,000 emergency fund is set aside.\n\nSo under the strict rule, Cedar Ridge doesn't work anywhere near the asking price. That's a real answer, and for many buyers it's the right one. Hold on to it. On the next slide, Maya and Chris make a different choice, on purpose, and in writing."
     },
     {
       "type": "bars",
@@ -85,11 +85,11 @@
         {"label": "Test 1: base cash flow of $5,000", "value": 394310, "kind": "pos"},
         {"label": "Test 2 strict: weak-case breakeven", "value": 295818, "kind": "pos"},
         {"label": "Test 2 funded: shortfall up to $6,000", "value": 393544, "kind": "total", "hot": true},
-        {"label": "Test 3: cash fits in $210,000", "value": 409984, "kind": "pos"}
+        {"label": "Test 3: cash fits in $231,000", "value": 409984, "kind": "pos"}
       ],
       "caption": "Funded version: max P&I = $18,162 + $6,000 = $24,162, so the ceiling is $393,544. Round down to $393,000. The strict test applies to buyers who can't fund a weak year.",
       "ref": "PA.8.3",
-      "notes": "Maya and Chris have two W-2 incomes and savings. So they decide, in writing, that they can carry a weak-year shortfall of up to $6,000 a year. And they set aside two years of it.\n\nThat changes Test two. The most principal and interest they'll carry becomes $18,162 plus $6,000, which is $24,162. The price ceiling becomes $393,544.\n\nTest three asks the highest price where all their cash needs stay at or under $210,000. That's 25% down, 3% closing costs, one point, $32,000 furnishing, six months of PITIA, two years of weak-case shortfall, and the $30,000 emergency fund. Python finds it at about $409,984.\n\nNow take the lowest of the three that applies to them: $393,544, just under Test one's $394,310. Round down to $393,000.\n\nThat's a real choice, and they're making it on purpose. A buyer without their income or savings should use the strict test and pass on this house."
+      "notes": "Maya and Chris have two W-2 incomes and savings. So they decide, in writing, that they can carry a weak-year shortfall of up to $6,000 a year. And they set aside two years of it.\n\nThat changes Test two. The most principal and interest they'll carry becomes $18,162 plus $6,000, which is $24,162. The price ceiling becomes $393,544.\n\nTest three asks the highest price where all their cash needs stay at or under $231,000. That's 25% down, 3% closing costs, one point, $32,000 furnishing, six months of PITIA, two years of weak-case shortfall, and the $51,000 emergency fund. It works out to about $409,984.\n\nNow take the lowest of the three that applies to them: $393,544, just under Test one's $394,310. Round down to $393,000.\n\nThat's a real choice, and they're making it on purpose. A buyer without their income or savings should use the strict test and pass on this house."
     },
     {
       "type": "table",
@@ -111,21 +111,21 @@
     {
       "type": "table",
       "eyebrow": "The cash plan",
-      "title": "At $385,000, Maya and Chris commit $198,980 and keep $11,020 unallocated",
+      "title": "At $385,000, Maya and Chris commit $219,980 and keep $11,020 unallocated",
       "assumption": true,
       "columns": ["Use of cash at $385,000", "Amount"],
       "rows": [
         ["Total cash in (cash to close + furnishing)", "$142,688"],
         ["Lender reserves, 6 months PITIA (6 x $2,557)", "$15,342"],
         ["Weak-year reserve, 2 x $5,475", "$10,950"],
-        ["Personal emergency fund", "$30,000"],
-        ["**Total committed**", "**$198,980**"],
-        ["Unallocated from $210,000", "$11,020"]
+        ["Personal emergency fund", "$51,000"],
+        ["**Total committed**", "**$219,980**"],
+        ["Unallocated from $231,000", "$11,020"]
       ],
       "total_last": true,
       "caption": "Every line has a job. The unallocated $11,020 is the only slack in the plan.",
       "ref": "PA.8.3",
-      "notes": "Here's what the cash plan looks like at $385,000.\n\nTotal cash in, which is cash to close plus furnishing, is $142,688. Lender reserves at six months of PITIA are $15,342. The weak-year reserve is two years of the $5,475 weak-case shortfall, so $10,950. And their personal emergency fund stays at $30,000, untouched.\n\nTotal committed: $198,980. Unallocated from their $210,000: $11,020.\n\nI want you to notice what this table does. Every dollar has a job before they sign. The weak-year reserve isn't a hope. It's a line with a number on it.\n\nAnd that $11,020 is the only slack in the whole plan. Keep an eye on it. In a few slides we'll hit a low appraisal and an inspection finding. That's when this number decides whether they proceed, renegotiate, or walk."
+      "notes": "Here's what the cash plan looks like at $385,000.\n\nTotal cash in, which is cash to close plus furnishing, is $142,688. Lender reserves at six months of PITIA are $15,342. The weak-year reserve is two years of the $5,475 weak-case shortfall, so $10,950. And their personal emergency fund stays at $51,000, untouched.\n\nTotal committed: $219,980. Unallocated from their $231,000: $11,020.\n\nI want you to notice what this table does. Every dollar has a job before they sign. The weak-year reserve isn't a hope. It's a line with a number on it.\n\nAnd that $11,020 is the only slack in the whole plan. Keep an eye on it. In a few slides we'll hit a low appraisal and an inspection finding. That's when this number decides whether they proceed, renegotiate, or walk."
     },
     {
       "type": "table",
@@ -164,14 +164,14 @@
       "text": "The lender lends 75% of the lower value: $281,250, which is $7,500 less than planned. Their rule: keep at least $10,000 unallocated.",
       "columns": ["Option", "Price", "Cash to close", "Total committed", "Unallocated", "Rule met?"],
       "rows": [
-        ["Pay the full gap", "$385,000", "$118,112", "$204,870", "$5,130", "No"],
-        ["Split the gap", "$380,000", "$112,962", "$199,720", "$10,280", "Yes"],
-        ["Seller drops to value", "$375,000", "$107,812", "$194,570", "$15,430", "Yes"]
+        ["Pay the full gap", "$385,000", "$118,112", "$225,870", "$5,130", "No"],
+        ["Split the gap", "$380,000", "$112,962", "$220,720", "$10,280", "Yes"],
+        ["Seller drops to value", "$375,000", "$107,812", "$215,570", "$15,430", "Yes"]
       ],
       "caption": "The smaller loan lowers PITIA to $2,506. Base cash flow rises to $6,186 and the weak case to -$4,861 in every option.",
       "box": {"kind": "info", "label": "Decision", "text": "Renegotiate. Ask for $375,000. Accept up to $380,000. If the seller holds at $385,000 with the appraisal contingency open, walk."},
       "ref": "PA.8.6",
-      "notes": "Two practice scenarios, both what-ifs on the accepted $385,000 contract. I've added one more rule for Maya and Chris: keep at least $10,000 of the $210,000 unallocated after every commitment. That's an assumption.\n\nScenario one: the appraisal comes in at $375,000. The lender lends 75% of the lower value, which is $281,250. That's $7,500 less than planned.\n\nIf they pay the full gap at $385,000, unallocated cash drops to $5,130. That breaks their rule. If they split the gap at $380,000, they keep $10,280. If the seller drops to $375,000, they keep $15,430.\n\nThe smaller loan helps cash flow in every option. Base rises to $6,186 and the weak case improves to minus $4,861.\n\nDecision: renegotiate. Ask for $375,000. Accept anything up to $380,000. If the seller holds at $385,000 and the appraisal contingency is still open, walk. They'd be spending their margin on a price the appraiser didn't support."
+      "notes": "Two practice scenarios, both what-ifs on the accepted $385,000 contract. I've added one more rule for Maya and Chris: keep at least $10,000 of the $231,000 unallocated after every commitment. That's an assumption.\n\nScenario one: the appraisal comes in at $375,000. The lender lends 75% of the lower value, which is $281,250. That's $7,500 less than planned.\n\nIf they pay the full gap at $385,000, unallocated cash drops to $5,130. That breaks their rule. If they split the gap at $380,000, they keep $10,280. If the seller drops to $375,000, they keep $15,430.\n\nThe smaller loan helps cash flow in every option. Base rises to $6,186 and the weak case improves to minus $4,861.\n\nDecision: renegotiate. Ask for $375,000. Accept anything up to $380,000. If the seller holds at $385,000 and the appraisal contingency is still open, walk. They'd be spending their margin on a price the appraiser didn't support."
     },
     {
       "type": "calc",
@@ -179,15 +179,15 @@
       "title": "Absorbing $4,500 of repairs would drop unallocated cash to $6,520, so renegotiate",
       "assumption": true,
       "lines": [
-        {"op": "", "label": "Total committed at $385,000", "v": "$198,980"},
+        {"op": "", "label": "Total committed at $385,000", "v": "$219,980"},
         {"op": "+", "label": "Water heater and soft deck boards (assumption)", "v": "$4,500"},
-        {"op": "=", "label": "New total committed", "v": "$203,480"}
+        {"op": "=", "label": "New total committed", "v": "$224,480"}
       ],
-      "result": {"label": "Unallocated from $210,000", "v": "$6,520"},
+      "result": {"label": "Unallocated from $231,000", "v": "$6,520"},
       "side": "That's under their $10,000 rule. Ask the seller to repair before closing or cut the price. Ask the lender first whether a seller credit can cover repairs. Guest safety items get fixed before launch either way (PA.12).",
       "side_box": {"kind": "warn", "label": "A different finding, a different answer", "text": "A septic system sized for fewer guests than planned can break the business plan. Walk unless the fix and the permit both work on paper."},
       "ref": "PA.8.6",
-      "notes": "Scenario two: the inspection finds $4,500 of work. That's an assumption. Say the water heater is at the end of its life and several deck boards are soft.\n\nIf Maya and Chris absorb the cost, total committed rises from $198,980 to $203,480. Unallocated cash falls to $6,520. That's under their $10,000 rule.\n\nDecision: renegotiate. Ask the seller to repair before closing, or to reduce the price. But ask the lender first whether a seller credit can go toward repairs or only toward closing costs. The answer changes what you ask the seller for.\n\nIf the finding is a safety issue for guests, it gets fixed before launch either way. PA.12 covers that sign-off.\n\nNow notice the box. A different finding changes the answer. A failing septic system sized for fewer guests than you planned isn't a price problem. It can break the business plan. That's a walk unless the fix and the permit both work on paper."
+      "notes": "Scenario two: the inspection finds $4,500 of work. That's an assumption. Say the water heater is at the end of its life and several deck boards are soft.\n\nIf Maya and Chris absorb the cost, total committed rises from $219,980 to $224,480. Unallocated cash falls to $6,520. That's under their $10,000 rule.\n\nDecision: renegotiate. Ask the seller to repair before closing, or to reduce the price. But ask the lender first whether a seller credit can go toward repairs or only toward closing costs. The answer changes what you ask the seller for.\n\nIf the finding is a safety issue for guests, it gets fixed before launch either way. PA.12 covers that sign-off.\n\nNow notice the box. A different finding changes the answer. A failing septic system sized for fewer guests than you planned isn't a price problem. It can break the business plan. That's a walk unless the fix and the permit both work on paper."
     },
     {
       "type": "table",

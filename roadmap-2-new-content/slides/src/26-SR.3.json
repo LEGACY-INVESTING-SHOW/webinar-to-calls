@@ -76,7 +76,7 @@
         "text": "**Verified** (document in hand). **CPA to supply.** **Unverified** (estimate or placeholder). **Study** (from the cost-segregation report)."
       },
       "ref": "SR.3.1",
-      "notes": "Build it as a spreadsheet with five tabs. The formulas later in this deck use these tab names and cell addresses, so keep them exactly.\n\nInputs holds every assumption. Calc holds formulas only, and nobody types there. Outputs holds the separated results you bring to your CPA. Scenarios puts low, base, and high cases side by side. And Sources lists every rule the workbook relies on, with a link and a date.\n\nShade the input cells. Those are the only cells anyone types into.\n\nIf you'd like, add a sixth tab called Open items to track unresolved questions separately. Otherwise the Outputs tab pulls them from the status column on Inputs.\n\nThat status column uses four values everywhere. Verified means you have the document in hand. CPA to supply means it's their call. Unverified means it's an estimate or a placeholder. Study means it comes from the cost-segregation report."
+      "notes": "Build it as a spreadsheet with five tabs. The formulas later in this deck use these tab names and cell addresses, so keep them exactly.\n\nInputs holds every assumption. Calc holds formulas only, and nobody types there. Outputs holds the separated results you bring to your CPA. Scenarios puts low, base, and high cases side by side. And Sources lists every rule the workbook relies on, with a link and a date.\n\nShade the input cells. Those are the only cells anyone types into.\n\nIf you'd like, add a sixth tab called Open items to track unresolved questions separately. Otherwise the Outputs tab pulls them from the status column on Inputs.\n\nThat status column uses four values everywhere. Verified means you have the document in hand. CPA to supply means it's their call. Unverified means it's an estimate or a placeholder. Study means it comes from the cost-segregation report. In the Cedar Ridge example you'll also see Example input. That marks a teaching figure a real owner would pull from reports and mark Verified."
     },
     {
       "type": "table",
@@ -223,7 +223,7 @@
           "B23",
           "Days rented at a fair rental price",
           "212",
-          "Verified from reports"
+          "Example input (assumption)"
         ],
         [
           "B24",
@@ -235,7 +235,7 @@
           "B25 / B26",
           "Number of stays / days in all rental periods",
           "61 / 212",
-          "Verified from reports"
+          "Example input (assumption)"
         ],
         [
           "B27 / B28",
@@ -281,7 +281,7 @@
         ]
       ],
       "ref": "SR.3.2",
-      "notes": "Section 4 is use, participation, and loss limits. These are the inputs that decide whether a deduction becomes cash this year.\n\nDays rented, stays, and days in all rental periods come from your platform and PMS reports. For Cedar Ridge that's 212 days and 61 stays. Personal-use days come from your calendar, and your CPA applies the definition. Maya and Chris plan about 10.\n\nB27 and B28 ask for your hours and everyone else's. The cleaner, the co-host, the manager. Keep a contemporaneous log. It's Unverified until someone reviews it.\n\nThen the CPA cells: which participation test applies, professional status, MAGI, the usable share, and the rates. In the base case the usable share is 100% and the state rate is a 0% placeholder.\n\nSection 5 has two switches. B35 picks a full first year, which matches B6, or the mid-month fraction. B36 turns on dividing expenses by rental days. The canonical case uses neither."
+      "notes": "Section 4 is use, participation, and loss limits. These are the inputs that decide whether a deduction becomes cash this year.\n\nDays rented, stays, and days in all rental periods come from your platform and PMS reports. For Cedar Ridge I've used 212 days and 61 stays. Those are example inputs, an assumption, so the status says so. With a real property, you'd pull them from your reports and mark them Verified. Personal-use days come from your calendar, and your CPA applies the definition. Maya and Chris plan about 10.\n\nB27 and B28 ask for your hours and everyone else's. The cleaner, the co-host, the manager. Keep a contemporaneous log. It's Unverified until someone reviews it.\n\nThen the CPA cells: which participation test applies, professional status, MAGI, the usable share, and the rates. In the base case the usable share is 100% and the state rate is a 0% placeholder.\n\nSection 5 has two switches. B35 picks a full first year, which matches B6, or the mid-month fraction. B36 turns on dividing expenses by rental days. The canonical case uses neither."
     },
     {
       "type": "table",
@@ -725,7 +725,7 @@
       "type": "checklist",
       "cols2": true,
       "title": "Ask a study provider for twelve pieces of evidence before you pay",
-      "text": "IRS Pub 5653 says there are no standards for preparing studies. The first four requests come from it; the rest make the study usable here.",
+      "text": "IRS Pub 5653 says there are no standards for preparing studies. The first five requests come from it; the rest make the study usable here.",
       "items": [
         "Preparer's name, credentials, and experience",
         "Every participant and their role",
@@ -741,7 +741,7 @@
         "Fee, delivery date, and support if the IRS asks"
       ],
       "ref": "SR.3.7",
-      "notes": "The IRS publishes a Cost Segregation Audit Techniques Guide for its own examiners. It's Publication 5653, and the current version is dated February 2025.\n\nIt says there are no standards for preparing these studies. It says they vary widely in method, documentation, depth, and preparer expertise. It describes approaches from a detailed engineering approach built on actual cost records, down to survey, letter, and rule-of-thumb approaches.\n\nIts principal elements of a quality study include a preparer with expertise and experience, and a reconciliation of allocated costs to actual costs. Its information requests ask who prepared the study, what role each person played, and where the blueprints came from.\n\nSo use that guide to shape what you ask for before you pay. The first four requests on this list come straight from it. The rest are my recommendations for making the study fit this workbook. The asset schedule fills B17 to B19. The land method ties to B11. The placed-in-service date must match B8."
+      "notes": "The IRS publishes a Cost Segregation Audit Techniques Guide for its own examiners. It's Publication 5653, and the current version is dated February 2025.\n\nIt says there are no standards for preparing these studies. It says they vary widely in method, documentation, depth, and preparer expertise. It describes approaches from a detailed engineering approach built on actual cost records, down to survey, letter, and rule-of-thumb approaches.\n\nIts principal elements of a quality study include a preparer with expertise and experience, and a reconciliation of allocated costs to actual costs. Its information requests ask who prepared the study, what role each person played, and where the blueprints came from.\n\nSo use that guide to shape what you ask for before you pay. The first five requests on this list come straight from it. The rest are my recommendations for making the study fit this workbook. The asset schedule fills B17 to B19. The land method ties to B11. The placed-in-service date must match B8."
     },
     {
       "type": "bullets",
@@ -816,7 +816,7 @@
     {
       "type": "checklist",
       "cols2": true,
-      "title": "For Cedar Ridge, ten groups of inputs are still open, and Outputs lists every one",
+      "title": "For Cedar Ridge, eleven groups of inputs are still open, and Outputs lists every one",
       "items": [
         "Contract, closing, and placed-in-service dates (B6 to B8)",
         "Capitalized acquisition costs of $6,000 (B10)",
@@ -824,13 +824,14 @@
         "Study fee and the 15% / 0% / 7% split (B15, B17 to B19)",
         "Building life, 39 vs 27.5 years (B20)",
         "Bonus eligibility and any election (B21, B22)",
+        "Rental days and stays, example inputs (B23, B25, B26)",
         "Personal days and expense division (B24, B36)",
         "Owner and others' hours; the participation test (B27 to B29)",
         "MAGI, usable share, and tax rates (B31 to B34)",
         "First-year convention (B35)"
       ],
       "ref": "SR.3.10",
-      "notes": "This is the open list. The Outputs tab filters the Inputs tab for every status that isn't Verified. For the Cedar Ridge teaching example, it comes out to these ten groups.\n\nLook at how much is on it. The dates that drive the bonus rate. The capitalized costs. The land share and method. The study fee and the reclass split. The building life. Bonus eligibility. Personal days and whether expenses are divided. Hours and the participation test. MAGI, the usable share, and the rates. And the first-year convention.\n\nThat's almost every input that moves the answer. So the $34,263 on the Outputs tab sits on top of all ten open questions.\n\nThat's the honest state of any estimate before the CPA meeting. The goal of the meeting is to shrink this list. Each item your CPA confirms comes off, and the estimate gets more real."
+      "notes": "This is the open list. The Outputs tab filters the Inputs tab for every status that isn't Verified. For the Cedar Ridge teaching example, it comes out to these eleven groups.\n\nLook at how much is on it. The dates that drive the bonus rate. The capitalized costs. The land share and method. The study fee and the reclass split. The building life. Bonus eligibility. The rental days and stays, which are example inputs until real reports replace them. Personal days and whether expenses are divided. Hours and the participation test. MAGI, the usable share, and the rates. And the first-year convention.\n\nThat's almost every input that moves the answer. So the $34,263 on the Outputs tab sits on top of all eleven open questions.\n\nThat's the honest state of any estimate before the CPA meeting. The goal of the meeting is to shrink this list. Each item your CPA confirms comes off, and the estimate gets more real."
     },
     {
       "type": "table",

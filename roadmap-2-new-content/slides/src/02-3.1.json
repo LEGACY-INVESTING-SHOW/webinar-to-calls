@@ -208,12 +208,12 @@
       "items": [
         "Primary residence only: more than six months a year, and your only home-share",
         "Up to 120 days a year; Extended Home-Sharing adds criteria, like six months registered",
-        "RSO units excluded: most multifamily built before October 1978 (check ZIMAS, Housing tab)",
+        "RSO units excluded: most multifamily built before October 1, 1978 (check ZIMAS, Housing tab)",
         "Renters submit the landlord's written, notarized approval",
         "TOT registration, and the number on every listing",
         "FAQ fees: $89 registration; Extended review $850, or $5,660 if discretionary"
       ],
-      "notes": "Los Angeles runs a Home-Sharing Ordinance. City Planning handles registration and the housing department explains who's eligible.\n\nHome-sharing is limited to your primary residence, where you live more than six months of the year. It must also be the only property where you home-share. The standard limit is 120 days per calendar year. Going beyond that takes an Extended Home-Sharing registration, with extra criteria, including holding a regular registration for at least six months.\n\nUnits under the Rent Stabilization Ordinance aren't eligible. That's most multifamily units built before October 1978. You can check RSO status by address in the city's ZIMAS parcel tool, under the Housing tab.\n\nA renter has to submit the landlord's written, notarized approval. Hosts register for Transient Occupancy Tax and post the number on every listing. The FAQ lists an $89 fee, with extended review at $850 or $5,660. Confirm current fees with City Planning, since FAQ documents can lag.\n\nSo both cities allow some short-term renting. Neither allows our model."
+      "notes": "Los Angeles runs a Home-Sharing Ordinance. City Planning handles registration and the housing department explains who's eligible.\n\nHome-sharing is limited to your primary residence, where you live more than six months of the year. It must also be the only property where you home-share. The standard limit is 120 days per calendar year. Going beyond that takes an Extended Home-Sharing registration, with extra criteria, including holding a regular registration for at least six months.\n\nUnits under the Rent Stabilization Ordinance aren't eligible. That's most multifamily units built before October 1, 1978. You can check RSO status by address in the city's ZIMAS parcel tool, under the Housing tab.\n\nA renter has to submit the landlord's written, notarized approval. Hosts register for Transient Occupancy Tax and post the number on every listing. The FAQ lists an $89 fee, with extended review at $850 or $5,660. Confirm current fees with City Planning, since FAQ documents can lag.\n\nSo both cities allow some short-term renting. Neither allows our model."
     },
     {
       "type": "table",
@@ -347,9 +347,9 @@
       "side_box": {
         "kind": "warn",
         "label": "To break even",
-        "text": "The nightly rate would need to reach about $309, roughly 50% above the $205 base rate. And the student would now live in the unit."
+        "text": "The nightly rate would need to reach about $308, roughly 50% above the $205 base rate. And the student would now live in the unit."
       },
-      "notes": "Suppose someone tried to fix the Los Angeles problem. Move in, make it your primary residence, and host within the standard 120-day cap. Here's what that does to the numbers, keeping every other canonical input the same.\n\nOne hundred twenty nights at $205 is $24,600. Forty stays at $110 cleaning adds $4,400, for $29,000 of gross bookings. The platform fee at 15.5% takes $4,495. Cleaner and supplies for 40 stays take $4,360. Then the fixed costs, $30,590, arrive in full, because rent doesn't care how many nights you hosted.\n\nNet is minus $10,445 a year. About minus $870 a month.\n\nTo break even at 120 nights, the nightly rate would need to reach about $309. That's roughly 50% above the base rate. And the student would now be living in the unit, which changes everything else about the plan. Under a 120-night cap, arbitrage stops working at this rent."
+      "notes": "Suppose someone tried to fix the Los Angeles problem. Move in, make it your primary residence, and host within the standard 120-day cap. Here's what that does to the numbers, keeping every other canonical input the same.\n\nOne hundred twenty nights at $205 is $24,600. Forty stays at $110 cleaning adds $4,400, for $29,000 of gross bookings. The platform fee at 15.5% takes $4,495. Cleaner and supplies for 40 stays take $4,360. Then the fixed costs, $30,590, arrive in full, because rent doesn't care how many nights you hosted.\n\nNet is minus $10,445 a year. About minus $870 a month.\n\nTo break even at 120 nights, the nightly rate would need to reach about $308. That's roughly 50% above the base rate. And the student would now be living in the unit, which changes everything else about the plan. Under a 120-night cap, arbitrage stops working at this rent."
     },
     {
       "type": "flow",
@@ -622,7 +622,7 @@
         {
           "title": "LA Council District 4: Illegal home-sharing",
           "url": "https://cd4.lacity.gov/illegal-homesharing/",
-          "note": "RSO covers most multifamily units built before October 1978; ZIMAS check."
+          "note": "RSO covers most multifamily units built before October 1, 1978; ZIMAS check."
         },
         {
           "title": "Airbnb: Los Angeles, CA (help article 864)",
@@ -630,7 +630,7 @@
           "note": "Permit needed for 1-29 day stays; one-year registration, annual renewal."
         }
       ],
-      "notes": "These are the main sources behind the lesson. All were checked on September 25, 2026. The full list in the lesson also includes the New York registration rules page, the Local Law 18 text, Airbnb's New York page, the Los Angeles landlord affidavit, and the earlier Los Angeles FAQ.\n\nNotice the pattern. Airbnb's regulations overview is the starting point. The rules themselves come from the city: the Office of Special Enforcement in New York, and City Planning and the housing department in Los Angeles.\n\nWhen you work your own address, your sources list should look like this. Official pages, each with the date you checked. If you can only find a blog post or a forum thread, write unresolved and send the licensing office a question.\n\nThe Alder Street figures, including the 120-night scenario and the $309 break-even rate, were computed from the canonical inputs. They're assumptions for teaching."
+      "notes": "These are the main sources behind the lesson. All were checked on September 25, 2026. The full list in the lesson also includes the New York registration rules page, the Local Law 18 text, Airbnb's New York page, the Los Angeles landlord affidavit, and the earlier Los Angeles FAQ.\n\nNotice the pattern. Airbnb's regulations overview is the starting point. The rules themselves come from the city: the Office of Special Enforcement in New York, and City Planning and the housing department in Los Angeles.\n\nWhen you work your own address, your sources list should look like this. Official pages, each with the date you checked. If you can only find a blog post or a forum thread, write unresolved and send the licensing office a question.\n\nThe Alder Street figures, including the 120-night scenario and the $308 break-even rate, were computed from the canonical inputs. They're assumptions for teaching."
     }
   ]
 }

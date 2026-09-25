@@ -242,7 +242,7 @@
     {
       "type": "table",
       "title": "Commercial rows score on fixed thresholds, starting with a 15-point cushion",
-      "keyline": "Score each flag 0, 1, or 2. Use the rules as written.",
+      "keyline": "Score each flag 0, 1, or 2. The bands are teaching defaults (assumption), not industry rules.",
       "compact": true,
       "columns": [
         "Flag",
@@ -301,7 +301,7 @@
         ]
       ],
       "ref": "3.4.6",
-      "notes": "Here are the point rules for the commercial side. The reason they're fixed is simple. If you and a partner score the same address, you should get the same answer. Nobody gets to round up because they like the apartment.\n\nA few of these need a word. C1 is measured in percentage points. If your base case is 70% and break-even is 60%, the cushion is 10 points, which scores a 1. C2 looks at the stress case per month. Anything below zero is a 2.\n\nC3 and C8 have a rule I want you to keep: if you haven't done the work yet, it's a 1, not a 0. Comps not pulled scores 1. Supply not checked scores 1. You score the numbers you have, not the ones you hope for.\n\nC5 is annual rent divided by base-case gross. Under 35% scores zero. Over 45% scores 2.\n\nC7 counts months of rent plus utilities you can cover from cash after setup. Two months or more scores zero."
+      "notes": "Here are the point rules for the commercial side. The bands are my teaching defaults, an assumption, not industry rules. Tighten them if the unit depends on one employer or one event. The reason they're fixed is simple. If you and a partner score the same address, you should get the same answer. Nobody gets to round up because they like the apartment.\n\nA few of these need a word. C1 is measured in percentage points. If your base case is 70% and break-even is 60%, the cushion is 10 points, which scores a 1. C2 looks at the stress case per month. Anything below zero is a 2.\n\nC3 and C8 have a rule I want you to keep: if you haven't done the work yet, it's a 1, not a 0. Comps not pulled scores 1. Supply not checked scores 1. You score the numbers you have, not the ones you hope for.\n\nC5 is annual rent divided by base-case gross. Under 35% scores zero. Over 45% scores 2.\n\nC7 counts months of rent plus utilities you can cover from cash after setup. Two months or more scores zero."
     },
     {
       "type": "scorecard",
@@ -362,7 +362,8 @@
         }
       ],
       "ref": "3.4.6",
-      "notes": "The lease rows use the same 0, 1, 2 scale, with one extra rule. Any lease row scored 2 means the label can't be advance, even if the total is low. A lease that lets the landlord walk away without cause is a problem no revenue number fixes.\n\nNow the labels. Zero to four points with no 2 in a lease row is advance. That sends you to the landlord pitch in lesson 5.7 and full underwriting. Five to nine points, or any lease row at 2, is investigate. Ten or more is reject, even when every hard stop passed.\n\nAnd remember stage one sits above all of this. Any hard stop answered yes is reject before you score a single row. Any hard stop still unknown caps you at investigate.\n\nTreat investigate as a to-do list, not a maybe. Every row scored 1 or 2 gets an owner and a date. That's what we'll build for Alder Street next."
+      "notes": "The lease rows use the same 0, 1, 2 scale, with one extra rule. Any lease row scored 2 means the label can't be advance, even if the total is low. A lease that lets the landlord walk away without cause is a problem no revenue number fixes.\n\nNow the labels. Zero to four points with no 2 in a lease row is advance. That sends you to the landlord pitch in lesson 5.7 and full underwriting. Five to nine points, or any lease row at 2, is investigate. Ten or more is reject, even when every hard stop passed. Those cut-offs are my teaching defaults too, not industry rules.\n\nAnd remember stage one sits above all of this. Any hard stop answered yes is reject before you score a single row. Any hard stop still unknown caps you at investigate.\n\nTreat investigate as a to-do list, not a maybe. Every row scored 1 or 2 gets an owner and a date. That's what we'll build for Alder Street next.",
+      "keyline": "The label cut-offs are my teaching defaults (assumption), not industry rules."
     },
     {
       "type": "calc",
@@ -655,7 +656,7 @@
         ]
       ],
       "ref": "3.4.8",
-      "notes": "Your exercise is to score one address you're actually considering, before you contact the landlord.\n\nStart with this stage-one sheet. For every answer, attach the official source URL and the date you checked it, and note whether you have a written answer saved. Use the regulatory research template in resource SR.1 to keep those sources in one place.\n\nThen fill in the stage-two sheet in the lesson. For each of the thirteen rows, write your figure or finding, the score, what would change it, who can change it, and a due date. Circle the label at the bottom and set a recheck date. Rules and rents change, so I'd recheck any address you haven't signed within 60 days.\n\nTwo rules make this tool work. First, score what you have. If comps aren't pulled, C3 is a 1. Second, when a row scores 2, write the specific fix and the person who can make it. \"Talk to landlord\" is too vague. \"Landlord to replace clause 14 with termination for breach plus a 30-day cure period\" is a to-do someone can act on.",
+      "notes": "Your exercise is to score one address you're actually considering, before you contact the landlord.\n\nStart with this stage-one sheet. For every answer, attach the official source URL and the date you checked it, and note whether you have a written answer saved. Use the regulatory research template in resource SR.1 to keep those sources in one place.\n\nThen fill in the stage-two sheet in the lesson. For each of the thirteen rows, write your figure or finding, the score, what would change it, who can change it, and a due date. Circle the label at the bottom and set a recheck date. Rules and rents change. My default, and it's an assumption, is to recheck any address you haven't signed within 60 days.\n\nTwo rules make this tool work. First, score what you have. If comps aren't pulled, C3 is a 1. Second, when a row scores 2, write the specific fix and the person who can make it. \"Talk to landlord\" is too vague. \"Landlord to replace clause 14 with termination for breach plus a 30-day cure period\" is a to-do someone can act on.",
       "keyline": "Fill it in before you contact the landlord. Score what you have: unknown stays unknown."
     },
     {

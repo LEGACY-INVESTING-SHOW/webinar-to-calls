@@ -451,7 +451,7 @@
     {
       "type": "table",
       "eyebrow": "Comparing two offers",
-      "title": "Lender B's lower maximum loan would leave Maya and Chris about $12,654 short",
+      "title": "Lender B's lower maximum loan would leave Maya and Chris about $12,656 short",
       "assumption": true,
       "compact": true,
       "columns": [
@@ -483,7 +483,7 @@
         [
           "Max loan on Cedar Ridge",
           "$288,750",
-          "about $276,096"
+          "about $276,094"
         ],
         [
           "Prepayment",
@@ -501,9 +501,9 @@
           "yes"
         ]
       ],
-      "caption": "Lender B is invented for this exercise. Its max loan uses the PA.6.5 NOI method: $23,166 a year of P&I at 7.50% over 30 years supports about $276,096.",
+      "caption": "Lender B is invented for this exercise. Its max loan uses the PA.6.5 NOI method: about $23,166 a year of P&I at 7.50% over 30 years supports about $276,094.",
       "ref": "PA.6.10",
-      "notes": "Put the two written answers side by side. Lender A is our canonical DSCR quote. Lender B is invented for this exercise, so every Lender B number is an assumption.\n\nLender B looks cheaper upfront. No points. But it uses the NOI-based definition with a 1.20 minimum. That's the method from a few slides back. It allows at most $23,166 a year of principal and interest. At 7.50% over 30 years, that supports about $276,096.\n\nMaya and Chris need $288,750. So Lender B's loan is about $12,654 short. They'd have to bring that much more cash.\n\nNotice the \"ask\" cells in Lender A's column. That's what a real comparison looks like at first. You don't know yet. Fill every blank before you decide."
+      "notes": "Put the two written answers side by side. Lender A is our canonical DSCR quote. Lender B is invented for this exercise, so every Lender B number is an assumption.\n\nLender B looks cheaper upfront. No points. But it uses the NOI-based definition with a 1.20 minimum. That's the method from a few slides back. It allows at most about $23,166 a year of principal and interest. At 7.50% over 30 years, that supports about $276,094.\n\nMaya and Chris need $288,750. So Lender B's loan is about $12,656 short. They'd have to bring that much more cash.\n\nNotice the \"ask\" cells in Lender A's column. That's what a real comparison looks like at first. You don't know yet. Fill every blank before you decide."
     },
     {
       "type": "flow",
@@ -538,7 +538,7 @@
         "text": "Federal rules treat credit to buy a rental you won't live in as business-purpose credit (Regulation Z, § 1026.3). A DSCR lender may send a term sheet instead. Ask for every fee in writing either way."
       },
       "ref": "PA.6.10",
-      "notes": "Read the comparison table in this order.\n\nFirst, does the lender make the loan you need at the size you need? Lender B fails that step by about $12,654.\n\nSecond, what's the full upfront cost, including points and fees?\n\nThird, what does it cost you to leave early? A lower rate with a 5-year prepayment penalty may cost more than a higher rate if you plan the year-two refinance we'll cover in OP.11.\n\nRate comes last.\n\nThe CFPB's guide to comparing loan offers tells borrowers to request several Loan Estimates and focus on the fees that vary by lender. One catch for DSCR loans. Federal rules treat credit to buy a rental you won't live in as business-purpose credit. So a DSCR lender may give you a term sheet instead of a Loan Estimate. Ask for every fee in writing either way, in the same layout, so you can compare line by line."
+      "notes": "Read the comparison table in this order.\n\nFirst, does the lender make the loan you need at the size you need? Lender B fails that step by about $12,656.\n\nSecond, what's the full upfront cost, including points and fees?\n\nThird, what does it cost you to leave early? A lower rate with a 5-year prepayment penalty may cost more than a higher rate if you plan the year-two refinance we'll cover in OP.11.\n\nRate comes last.\n\nThe CFPB's guide to comparing loan offers tells borrowers to request several Loan Estimates and focus on the fees that vary by lender. One catch for DSCR loans. Federal rules treat credit to buy a rental you won't live in as business-purpose credit. So a DSCR lender may give you a term sheet instead of a Loan Estimate. Ask for every fee in writing either way, in the same layout, so you can compare line by line."
     },
     {
       "type": "worksheet",

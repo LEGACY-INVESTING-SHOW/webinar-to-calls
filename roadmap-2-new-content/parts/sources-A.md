@@ -33,7 +33,7 @@ Checked 2026-09-25. Direct fetches of airbnb.com, nyc.gov, and housing.lacity.go
 | Texas hotel tax exemptions publication exists | https://comptroller.texas.gov/taxes/publications/96-224.php | Search result title/URL | 2026-09-25 | |
 | IRS: Schedule E normally; Schedule C with substantial services | https://www.irs.gov/publications/p527 | Search summary (irs.gov) | 2026-09-25 | |
 | Alder Street canonical figures (A1-A4) | reference/recurring-examples.md ; tools/examples.py | Ran tools/examples.py | 2026-09-25 | Unchanged. |
-| Derived Alder Street figures: contribution per stay $503.63 / $440.25; fixed $30,590; stress + rent $2,150 = -$852, break-even 61.6%; 64% occupancy net $8,693; slow month -$788; 24-month totals; 120-night cap net -$10,445, break-even ADR $309 | computed | python3 using tools/examples.py functions | 2026-09-25 | All marked as assumptions or derived. |
+| Derived Alder Street figures: contribution per stay $503.63 / $440.25; fixed $30,590; stress + rent $2,150 = -$852, break-even 61.6%; 64% occupancy net $8,693; slow month -$788; 24-month totals; 120-night cap net -$10,445, break-even ADR $308 ($308.01) | computed | python3 using tools/examples.py functions | 2026-09-25 | All marked as assumptions or derived. |
 | 3.3 tax worksheet rates (6%, 2%, 5%, $2 per night), collection arrangements, channel mix 64/13/8, Q3 figures | none (hypothetical) | python3 | 2026-09-25 | Clearly labeled hypothetical "Alder City"; no real city rate used. |
 
 ## Unresolved

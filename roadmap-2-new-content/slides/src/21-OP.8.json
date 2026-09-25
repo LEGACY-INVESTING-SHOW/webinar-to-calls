@@ -120,8 +120,8 @@
         ],
         [
           "10. Safety check",
-          "Alarms present and not disabled; extinguishers in place; no indoor device; owner closet locked",
-          "Each alarm location, weekly test logged"
+          "Alarms present, not disabled, status light normal; extinguishers in place; no indoor device; owner closet locked",
+          "Each alarm's status light; check logged"
         ],
         [
           "11. Final walk and lock",
@@ -137,16 +137,16 @@
       "box": {
         "kind": "info",
         "label": "Alarms",
-        "text": "Airbnb says alarms that are present must work and be tested regularly. The turnover checks none were removed. The full button test goes in the monthly inspection."
+        "text": "Airbnb says alarms that are present must work and be tested regularly. Each turnover is a visual check of the status light, logged. The button test is monthly."
       },
-      "notes": "Photos serve two purposes. Maya and Chris live about two hours away, so the photos let them check the work without driving there. And the photos are evidence if a guest later reports a problem. The retained lesson 9.3 Dealing With Damages covers how to use damage photos in a claim.\n\nStep 10 is the safety check. Airbnb's safety requirements say that if smoke and CO alarms are present, hosts must keep them working and test them regularly. So at every turnover, the cleaner checks that no alarm has been removed or disabled.\n\nThe full button test is a separate job. It goes in the monthly inspection, which belongs to the handyman. Set the test schedule using the alarm manufacturer's instructions and your fire marshal's advice.\n\nStep 12 is the report. The checklist is complete, damage and low stock are flagged, and every photo is uploaded. Maya reviews the photos before the check-in message goes out."
+      "notes": "Photos serve two purposes. Maya and Chris live about two hours away, so the photos let them check the work without driving there. And the photos are evidence if a guest later reports a problem. The retained lesson 9.3 Dealing With Damages covers how to use damage photos in a claim.\n\nStep 10 is the safety check. Airbnb's safety requirements say that if smoke and CO alarms are present, hosts must keep them working and test them regularly. So at every turnover, the cleaner looks at each alarm. It must be in place, not disabled, and showing a normal status light. The cleaner logs that visual check.\n\nThe full button test is a separate job. It goes in the monthly inspection, which belongs to the handyman. Set the test schedule using the alarm manufacturer's instructions and your fire marshal's advice.\n\nStep 12 is the report. The checklist is complete, damage and low stock are flagged, and every photo is uploaded. Maya reviews the photos before the check-in message goes out."
     },
     {
       "type": "table",
       "ref": "OP.8.3",
       "compact": true,
       "title": "Keep four stays of supplies on site and reorder when the shelf drops to two",
-      "text": "Consumables run about $25 per stay, $1,525 a year across 61 stays. Four stays on hand is about $100 of stock (assumption). Linens follow the OP.6 cycle: 18 sheet sets, 24 towel sets.",
+      "text": "Consumables run about $25 per stay, $1,525 a year across 61 stays. Par and reorder points are assumptions. Four stays on hand is about $100 of stock. Linens follow the OP.6 cycle: 18 sheet sets, 24 towel sets.",
       "columns": [
         "Item",
         "Par (stays)",
@@ -199,20 +199,20 @@
         ],
         [
           "Sheet sets on shelf",
-          "1 per bed",
-          "1 per bed",
+          "6 (1 per bed)",
+          "5",
           "Cleaner",
           "Maya"
         ],
         [
           "Towel sets on shelf",
           "8",
-          "8",
+          "6",
           "Cleaner",
           "Maya"
         ]
       ],
-      "notes": "Par level means the amount you keep on hand. The reorder point is when someone orders more. Write both numbers on the shelf label, so nobody has to guess.\n\nAt Cedar Ridge, consumables run about $25 per stay. That's $1,525 a year across 61 stays. Keeping stock for four stays on site is about $100 worth. Reorder at two. That leaves room for a back-to-back weekend without a supply run.\n\nLinens follow the OP.6 cycle. There are 18 sheet sets, three per bed for six beds. There are 24 towel sets, three per guest for eight guests. One set is on each bed, one is in the laundry, and one is on the shelf. The cleaner counts the shelf at every turnover. If any bed has fewer than one clean set on the shelf after the beds are made, the cleaner flags it.\n\nReplacements follow the approval limits from OP.6 and OP.7. A broken glass comes from the spares shelf and gets noted. Anything over $200 needs owner approval first."
+      "notes": "Par level means the amount you keep on hand. The reorder point is when someone orders more. Write both numbers on the shelf label, so nobody has to guess.\n\nAt Cedar Ridge, consumables run about $25 per stay. That's $1,525 a year across 61 stays. Keeping stock for four stays on site is about $100 worth. Reorder at two. That leaves room for a back-to-back weekend without a supply run.\n\nLinens follow the OP.6 cycle. There are 18 sheet sets, three per bed for six beds. There are 24 towel sets, three per guest for eight guests. One set is on each bed, one is in the laundry, and one is on the shelf. The cleaner counts the shelf at every turnover. So shelf par is six sheet sets, one per bed, and eight towel sets. If any bed has fewer than one clean set on the shelf after the beds are made, the cleaner flags it.\n\nA count below par is a flag, not an order. A set may still be in the dryer or pulled for a stain. The reorder point sits lower, at five sheet sets and six towel sets. That's an assumption. At that count, sets are wearing out or going missing faster than laundry refills the shelf. Maya then orders replacements.\n\nReplacements follow the approval limits from OP.6 and OP.7. A broken glass comes from the spares shelf and gets noted. Anything over $200 needs owner approval first."
     },
     {
       "type": "table",

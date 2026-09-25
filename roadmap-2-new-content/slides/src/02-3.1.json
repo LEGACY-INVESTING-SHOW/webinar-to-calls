@@ -25,15 +25,15 @@
           "Education only. Not legal advice. Rules change, so check official pages."
         ]
       ],
-      "notes": "This lesson is Gate 1 from lesson 1.3: address-level permission. It's the gate most students skip, and it's the one that can end a deal outright.\n\nBy the end you'll be able to list every layer of permission that applies to one exact address, from the state down to your lease. You'll know how to read a city's rules for the model you plan. Hosted or unhosted. Primary residence or not. How many nights a year, and how long each stay. You'll also know which answers have to come in writing, and from whom.\n\nWhat you walk away with is a permission ladder for one address, with a result: permitted, prohibited, or unresolved.\n\nWe'll use Alder Street again, and we'll drop it into two real rulebooks, New York City and Los Angeles. Rules change often, so treat everything here as education, not legal advice, and check the official pages on the day you research."
+      "notes": "Before any numbers matter, you need permission to run a short-term rental at one exact address. It's the check most students skip, and it's the one that can end a deal outright.\n\nTwo terms first. A short-term rental, or STR, is a furnished stay of less than about a month, the kind booked on Airbnb or Vrbo. Rental arbitrage means you lease a unit from a landlord, you don't live in it, and you rent it to short-stay guests. Most of this lesson asks whether that model is allowed at one address.\n\nBy the end you'll be able to list every layer of permission for that address, from the state down to your lease. You'll know which answers have to come in writing, and from whom. What you walk away with is a permission ladder with a result: permitted, prohibited, or unresolved.\n\nWe'll use a hypothetical unit called Alder Street, and we'll drop it into two real rulebooks, New York City and Los Angeles. Rules change often, so treat this as education, not legal advice, and check the official pages on the day you research."
     },
     {
       "type": "statement",
       "ref": "3.1.1",
       "eyebrow": "The wrong question: \"Is Airbnb legal in this city?\"",
-      "text": "Every rung of the ladder can say no, and you need a yes on every rung for your exact use.",
+      "text": "Think of permission as a ladder. Every rung can say no, and you need a yes on every rung for your exact use.",
       "support": "A city may allow short stays in general while the building, the zoning, the permit category, or your lease blocks the unit you want.",
-      "notes": "Students often ask me whether a city is Airbnb-friendly. That label doesn't help you. Permission attaches to an address, a use, and a person.\n\nPicture a ladder. Each rung is a separate authority that can say no. The state. The zoning. The permit program. The building. The HOA. Your lease. You need a yes on every rung, for your exact use. One no anywhere ends the deal, even when every other rung says yes.\n\nAirbnb's own regulations overview says many cities require you to register, get a permit, or get a license before you list or take guests. It also flags zoning and taxes. That page is a fine starting point. It isn't the final word for any address. The final word is the official ordinance, the city office that runs it, and the documents that bind your building and your lease."
+      "notes": "Students often ask me whether a city is Airbnb-friendly. That label doesn't help you. Permission attaches to an address, a use, and a person.\n\nPicture a ladder. Each rung is a separate question that can end the deal. Some rungs come from an authority: the state, the zoning, the permit program, the building, the HOA, your lease. Others come from the details of the permit rules. You need a yes on every rung, for your exact use. One no anywhere ends the deal, even when every other rung says yes.\n\nAirbnb's own regulations overview says many cities require you to register, get a permit, or get a license before you list or take guests. It also flags zoning and taxes. That page is a fine starting point. It isn't the final word for any address. The final word is the official ordinance, the city office that runs it, and the documents that bind your building and your lease."
     },
     {
       "type": "table",
@@ -52,7 +52,7 @@
         ],
         [
           "Zoning",
-          "Whether short stays are allowed in this district, or only as an accessory use",
+          "Whether short stays are allowed in this district, or only as a side use of someone's home (accessory use)",
           "Zoning map and zoning code"
         ],
         [
@@ -67,17 +67,17 @@
         ],
         [
           "HOA, condo, co-op",
-          "Private bans recorded against the property",
+          "Private bans filed in the property records",
           "Declaration, bylaws, house rules, minutes"
         ],
         [
           "Lease and landlord",
-          "Whether the owner allows the use, in writing",
-          "Lease clause or signed addendum"
+          "Whether the owner allows the use, in writing, and signs any permit consent",
+          "Lease clause or signed addendum; any city consent form"
         ]
       ],
       "caption": "Also check: your insurer covers guests here, and the platform accepts your number (lesson 3.3).",
-      "notes": "Work from the widest authority down to the narrowest. Each layer has its own document.\n\nThe state may set rules that apply everywhere, like lodging tax registration or limits on what cities can regulate. Many states leave most of this to local governments, but check before you assume.\n\nZoning decides what uses a parcel may have. Some residential zones treat short stays as commercial lodging and ban them. Others allow them only as an accessory use to someone's home.\n\nMany cities then run a separate permit program on top of zoning. That's where the category, eligibility, caps, fees, and your display number live.\n\nBuilding and fire codes can set occupancy limits and alarm rules, and some programs exclude certain building types.\n\nHOA, condo, or co-op rules can ban short rentals even where the city allows them.\n\nAnd for arbitrage, the lease is the rung you control least. Lesson 3.5 and the updated 5.3 addendum lesson cover it."
+      "notes": "Work from the widest authority down to the narrowest. Each layer has its own document. Later, the ladder breaks these six layers into 15 specific questions.\n\nThe state may set rules that apply everywhere, like lodging tax registration or limits on what cities can regulate. Many states leave most of this to local governments, but check before you assume.\n\nZoning decides what uses a parcel may have. Some residential zones treat short stays as commercial lodging and ban them. Others allow them only as an accessory use, meaning a side use of someone's home.\n\nMany cities then run a separate permit program on top of zoning. That's where the category, eligibility, caps, fees, and your display number live.\n\nBuilding and fire codes can set occupancy limits and alarm rules, and some programs exclude certain building types.\n\nA homeowners association, condo, or co-op can have rules filed in the property records that ban short rentals, even where the city allows them.\n\nAnd for arbitrage, the lease is the layer you control least. Some cities also want the landlord's signed consent on the permit application. Lessons 3.5 and 5.3 cover those documents."
     },
     {
       "type": "two",
@@ -99,7 +99,7 @@
         "items": [
           "Guests have the whole unit",
           "Nobody lives there",
-          "This is the arbitrage model",
+          "This is the arbitrage model: you lease it and live elsewhere",
           "Looks like a hotel room taken from housing supply"
         ]
       },
@@ -116,7 +116,7 @@
       "title": "A primary-residence rule is usually a hard stop for arbitrage",
       "items": [
         "You may host only in the home where you actually live",
-        "Cities usually define it by time, such as more than half the year",
+        "Cities usually define it by time, such as more than half the year (Los Angeles: more than six months)",
         "Some also require it to be the only property where you host",
         "Cities may ask for proof: driver's license, voter registration, or tax records at that address",
         "Signing a lease on a unit while you live elsewhere doesn't make it your primary residence"
@@ -152,18 +152,18 @@
       "box": {
         "kind": "warn",
         "label": "This fails if",
-        "text": "The city lets you host only part of the year. Your rent is still due every month. Later in this lesson, a 120-night cap turns Alder Street into a $10,445 annual loss."
+        "text": "The city lets you host only part of the year. Your rent is still due every month. Later in this lesson, a 120-night cap turns our example unit into a $10,445 annual loss."
       },
-      "notes": "Caps come in three forms.\n\nA night cap limits how many nights a year you may host. Some cities cap only unhosted nights and leave hosted nights alone.\n\nA permit cap limits how many permits the city hands out, sometimes by neighborhood or zoning district. If the cap is full, new applicants may go on a waitlist.\n\nA unit cap limits how many permits one person or one building can hold.\n\nOf the three, the night cap hurts arbitrage the most. Your rent is due twelve months a year. If the city lets you host only part of the year, the math has to work on those nights alone, and the rest of the year is pure cost. In the worked example you'll see how fast that fails. At a 120-night cap, Alder Street loses $10,445 a year."
+      "notes": "Caps come in three forms.\n\nA night cap limits how many nights a year you may host. Some cities cap only unhosted nights and leave hosted nights alone.\n\nA permit cap limits how many permits the city hands out, sometimes by neighborhood or zoning district. If the cap is full, new applicants may go on a waitlist.\n\nA unit cap limits how many permits one person or one building can hold.\n\nOf the three, the night cap hurts arbitrage the most. Your rent is due twelve months a year. If the city lets you host only part of the year, the math has to work on those nights alone. The rest of the year is pure cost. In the worked example you'll see how fast that fails. At a 120-night cap, our example unit loses $10,445 a year."
     },
     {
       "type": "bullets",
       "ref": "3.1.6",
-      "title": "In New York City a 29-night stay is short-term and a 30-night stay is not",
+      "title": "Many cities draw the short-term line at 30 nights, so count the way they do",
       "items": [
         "Many cities define a short-term rental by stay length, often under 30 nights",
-        "Stays at or above the line count as ordinary residential tenancies",
-        "Count carefully: in New York City, the check-in date is day zero under state law",
+        "Stays at or above the line often count as ordinary residential tenancies",
+        "Count the way your city counts: New York City's FAQ says 29 nights is short-term and 30 is not",
         "Read your city's own definition before you set a minimum stay"
       ],
       "box": {
@@ -171,7 +171,7 @@
         "label": "Longer stays are not a loophole",
         "text": "Past the threshold, tenant protections can apply, including eviction procedures and rent rules, depending on the state and city. Treat month-plus furnished rentals as a separate business and have an attorney review it."
       },
-      "notes": "Many cities define a short-term rental by how long the guest stays, often under 30 nights. At or above that line, the stay is treated as an ordinary residential tenancy, with different rules.\n\nCount carefully. New York City explains that under state law the check-in date is day zero. So a 29-night stay is a short-term rental, and a 30-night stay is permanent occupancy. Your city may count differently, so read its own definition.\n\nNow, I know what some of you are thinking. Just take 30-night bookings and skip the rules. That isn't a loophole. Once a guest stays past the threshold, tenant protections can apply. Depending on the state and city, that can mean eviction procedures and rent rules if a guest won't leave.\n\nSo treat month-plus furnished rentals as a separate business, with its own rules. Have an attorney review it before you try it."
+      "notes": "Many cities define a short-term rental by how long the guest stays, often under 30 nights. At or above that line, the stay is often treated as an ordinary residential tenancy, depending on the state and city. Those follow different rules.\n\nCheck how your city counts the length of a stay. New York City's FAQ spells out its rule. It treats the check-in date as day zero, under state law. By its count, a 29-night stay is short-term and a 30-night stay is not. Your city may count differently, so read its own definition.\n\nNow, I know what some of you are thinking. Just take 30-night bookings and skip the rules. That isn't a loophole. Once a guest stays past the threshold, tenant protections can apply. That can mean eviction procedures and rent rules if a guest won't leave.\n\nSo treat month-plus furnished rentals as a separate business, with its own rules. Have an attorney review it before you try it."
     },
     {
       "type": "bullets",
@@ -181,44 +181,57 @@
       "items": [
         "You take over a unit that \"already has a permit.\" If it belongs to the previous host, it may not cover you.",
         "The landlord sells the building. A permit issued to the owner may end with the sale.",
-        "You add a partner or form an LLC. Some programs require a natural person, so an entity may not qualify."
+        "You add a partner or form an LLC. Some programs require a natural person (an individual, not a company), so an entity may not qualify."
       ],
-      "notes": "Here's a question students rarely ask: who does the permit belong to? Some cities issue it to the property owner. Some issue it to the host, meaning the person who lives there or runs the rental. Some tie it to both.\n\nThat matters in three situations.\n\nFirst, a landlord tells you the unit already has a permit. If that permit belongs to the previous host, it may not cover you at all.\n\nSecond, the landlord sells the building. If the permit was issued to the owner, it may end with the sale, and you're left with a lease and no permission.\n\nThird, you bring in a partner or set up an LLC. Some programs require the host to be a natural person. An entity may not qualify.\n\nSo never assume a permit transfers. Ask the licensing office in writing, and keep the reply in your deal folder."
+      "notes": "Here's a question students rarely ask: who does the permit belong to? Some cities issue it to the property owner. Some issue it to the host, meaning the person who lives there or runs the rental. Some tie it to both.\n\nThat matters in three situations.\n\nFirst, a landlord tells you the unit already has a permit. If that permit belongs to the previous host, it may not cover you at all.\n\nSecond, the landlord sells the building. If the permit was issued to the owner, it may end with the sale, and you're left with a lease and no permission.\n\nThird, you bring in a partner or set up an LLC. Some programs require the host to be a natural person, meaning an individual, not a company. An LLC may not qualify.\n\nSo never assume a permit transfers. Ask the licensing office in writing, and keep the reply in your deal folder."
     },
     {
       "type": "bullets",
       "ref": "3.1.8",
       "eyebrow": "New York City · Local Law 18 registration",
-      "title": "New York City requires the host to live there, be present, and take two guests",
+      "title": "New York City: the host must live there, stay home, and host two guests at most",
       "items": [
-        "Hosts must register with the city. The application fee is $145, non-refundable.",
-        "The host must be a natural person and the permanent occupant, and certify the lease allows STRs",
+        "Hosts must register with the city, or the rental is illegal",
+        "The host must be a natural person who lives there, and certify the lease allows short-term rentals",
         "The host stays in the unit with guests. No more than two paying guests at a time.",
         "No entire apartment or home for less than 30 days, in any permanent residential building",
         "Platforms must verify the registration number, legal name, and address before collecting a fee",
-        "Owners can put a building on the Prohibited Buildings List; OSE must then deny registration there"
+        "Owners can put a building on the Prohibited Buildings List; the city's enforcement office (OSE) must then deny registration"
       ],
-      "notes": "Let's look at two big cities with very different rules. I'm using them to show how much the answer changes with the address. Check the official pages on the day you research, because rules change.\n\nNew York City's program is Local Law 18, run by the Office of Special Enforcement. Hosts must register, or the rental is illegal. The fee is $145 and it isn't refundable. The host has to be a natural person and the permanent occupant, and must certify that the lease doesn't prohibit short-term rentals.\n\nThe host has to stay in the unit with the guests. No more than two paying guests at once, sharing a common household. You cannot rent an entire apartment for less than 30 days.\n\nThe registration number goes in every ad. Booking platforms can't collect a fee unless they've checked the city's verification system. And building owners can put a building on the Prohibited Buildings List, which means OSE must deny registration there. Airbnb's New York page says hosts awaiting approval can set a 30-night minimum."
+      "notes": "Let's look at two big cities with very different rules. I'm using them to show how much the answer changes with the address. Rules change, so check the official pages on the day you research.\n\nNew York City's program is Local Law 18, run by the Office of Special Enforcement, or OSE. Hosts must register, or the rental is illegal. The host has to be a natural person who lives there, and must certify that the lease doesn't prohibit short-term rentals.\n\nThe host has to stay in the unit with the guests. No more than two paying guests. Guests share the home with the host, and they must be able to use the whole unit. You cannot rent an entire apartment for less than 30 days.\n\nThe registration number goes in every ad. Booking platforms can't collect a fee unless they've checked the city's verification system. And building owners can list a building on the Prohibited Buildings List, which means OSE must deny registration there.\n\nAlso on the city's pages: the fee is $145, non-refundable. Airbnb says hosts awaiting approval can set a 30-night minimum. That's a holding pattern while you wait. It doesn't get you around the rules."
     },
     {
       "type": "bullets",
       "ref": "3.1.8",
       "eyebrow": "Los Angeles · Home-Sharing Ordinance",
-      "title": "Los Angeles allows home-sharing only in your own primary residence, 120 days a year",
+      "title": "Los Angeles: primary residence only, with a 120-day yearly cap unless Extended",
       "items": [
         "Primary residence only: more than six months a year, and your only home-share",
         "Up to 120 days a year; Extended Home-Sharing adds criteria, like six months registered",
-        "RSO units excluded: most multifamily built before October 1, 1978 (check ZIMAS, Housing tab)",
+        "Rent-stabilized (RSO) units excluded: most multifamily built before Oct 1, 1978; check the city's ZIMAS parcel tool, Housing tab",
         "Renters submit the landlord's written, notarized approval",
-        "TOT registration, and the number on every listing",
-        "FAQ fees: $89 registration; Extended review $850, or $5,660 if discretionary"
+        "Register for the city's hotel tax (Transient Occupancy Tax, TOT) and show the number on every listing"
       ],
-      "notes": "Los Angeles runs a Home-Sharing Ordinance. City Planning handles registration and the housing department explains who's eligible.\n\nHome-sharing is limited to your primary residence, where you live more than six months of the year. It must also be the only property where you home-share. The standard limit is 120 days per calendar year. Going beyond that takes an Extended Home-Sharing registration, with extra criteria, including holding a regular registration for at least six months.\n\nUnits under the Rent Stabilization Ordinance aren't eligible. That's most multifamily units built before October 1, 1978. You can check RSO status by address in the city's ZIMAS parcel tool, under the Housing tab.\n\nA renter has to submit the landlord's written, notarized approval. Hosts register for Transient Occupancy Tax and post the number on every listing. The FAQ lists an $89 fee, with extended review at $850 or $5,660. Confirm current fees with City Planning, since FAQ documents can lag.\n\nSo both cities allow some short-term renting. Neither allows our model."
+      "notes": "Los Angeles runs a Home-Sharing Ordinance. City Planning handles registration and the housing department explains who's eligible.\n\nHome-sharing is limited to your primary residence, where you live more than six months of the year. It must also be the only property where you home-share. The standard limit is 120 days per calendar year. Going beyond that takes an Extended Home-Sharing registration, with extra criteria, including holding a regular registration for at least six months.\n\nUnits under the Rent Stabilization Ordinance aren't eligible. That's most multifamily units built before October 1, 1978. You can check RSO status by address in the city's ZIMAS parcel tool, under the Housing tab.\n\nA renter has to submit the landlord's written, notarized approval. Hosts register for the city's hotel tax, the Transient Occupancy Tax, and post the number on every listing.\n\nAlso on the city's pages: the FAQ lists an $89 fee, with extended review at $850, or $5,660 when a case-by-case review is required. Confirm current fees with City Planning, since FAQ documents can lag.\n\nSo both cities allow some short-term renting. Neither allows the arbitrage model we'll test next."
+    },
+    {
+      "type": "bullets",
+      "ref": "3.1.9",
+      "eyebrow": "Worked example",
+      "title": "Alder Street: one hypothetical unit, dropped into two real rulebooks",
+      "items": [
+        "Unit 4B, 218 Alder Street: two bedrooms, sleeps 5, in a four-unit building",
+        "The student leases it and lives somewhere else",
+        "Plan: unhosted, whole-unit stays averaging 3 nights",
+        "70% occupancy = 255 nights a year",
+        "All figures are teaching assumptions; the real city is unnamed on purpose"
+      ],
+      "notes": "Now the worked example. Alder Street is the course's running example, the same unit other lessons use. It's Unit 4B at 218 Alder Street, a hypothetical two-bedroom that sleeps five, in a four-unit building.\n\nThe student leases it from the landlord and lives somewhere else. That's the arbitrage model. The plan is unhosted, whole-unit stays averaging three nights, at 70% occupancy. That works out to 255 nights a year.\n\nEvery number here is an assumption for teaching. The real city is left unnamed on purpose, because rules attach to an exact address. So instead we'll drop the same unit into two real rulebooks, New York City and Los Angeles, and watch how the answer changes."
     },
     {
       "type": "table",
       "ref": "3.1.9",
-      "assumption": true,
+      "assumption": false,
       "eyebrow": "Worked example · Alder Street in New York City",
       "title": "In New York City, Alder Street fails five of six rules, and any one of them ends it",
       "columns": [
@@ -230,22 +243,22 @@
         [
           "Host is a natural person and permanent occupant",
           "Operator lives elsewhere",
-          "Fails"
+          "**Fails**"
         ],
         [
           "Host present in the unit during the stay",
           "Unhosted",
-          "Fails"
+          "**Fails**"
         ],
         [
           "No more than two paying guests",
           "Sleeps 5",
-          "Fails"
+          "**Fails**"
         ],
         [
           "No entire unit for less than 30 days",
           "Whole unit, 3-night stays",
-          "Fails"
+          "**Fails**"
         ],
         [
           "Building not on the Prohibited Buildings List",
@@ -255,16 +268,17 @@
         [
           "Registration number on every ad; platform verifies it",
           "Operator can't register",
-          "Fails"
+          "**Fails**"
         ]
       ],
-      "caption": "Result: **prohibited** as planned. A 30-night-plus furnished rental is a different business under tenant law. A hosted room with the host present isn't arbitrage.",
-      "notes": "Now the worked example. Alder Street is Unit 4B at 218 Alder Street, a hypothetical two-bedroom that sleeps five, in a four-unit building. The student leases it and lives elsewhere. The plan is unhosted, whole-unit stays averaging three nights, at 70% occupancy, which is 255 nights a year. The real city is unnamed on purpose. So we'll drop the same unit into two real rulebooks.\n\nFirst, New York City. The host has to be the permanent occupant. Fails. The host has to be present. Fails. Two paying guests at most, and it sleeps five. Fails. No entire unit under 30 days. Fails. Without meeting those, the operator can't register, so there's no number for the platform to verify. Fails. The Prohibited Buildings List is the only row we'd still have to check, and it doesn't matter.\n\nResult: prohibited. The entire-unit rule alone ends it. Switching to 30-night stays makes it a different business under tenant law, and a hosted room isn't arbitrage."
+      "caption": "Result: **prohibited** as planned. The entire-unit rule alone ends it. Switching to 30-night stays or a hosted room makes it a different business.",
+      "notes": "First, New York City. The host has to be the permanent occupant, the person who lives there. Alder Street's operator lives elsewhere. Fails. The host has to be present. It's unhosted. Fails. Two paying guests at most, and it sleeps five. Fails. No entire unit under 30 days, and the plan is three-night stays. Fails.\n\nWithout meeting those, the operator can't register, so there's no number for the platform to verify. Fails. The Prohibited Buildings List is the only row we'd still have to check, and at this point it doesn't matter.\n\nResult: prohibited. The entire-unit rule alone ends it. Switching to 30-night stays makes it a different business under tenant law, which we covered earlier. And a hosted room with the host present isn't arbitrage anymore. Either way, the plan we started with doesn't survive New York.",
+      "keyline": "Alder Street is hypothetical (its figures are assumptions); the rules come from each city's official pages."
     },
     {
       "type": "table",
       "ref": "3.1.9",
-      "assumption": true,
+      "assumption": false,
       "eyebrow": "Worked example · Alder Street in Los Angeles",
       "title": "In Los Angeles, the primary-residence rule alone ends Alder Street",
       "columns": [
@@ -274,14 +288,14 @@
       ],
       "rows": [
         [
-          "Primary residence: host lives there more than 6 months a year",
+          "Primary residence (more than 6 months a year)",
           "Operator lives elsewhere",
-          "Fails"
+          "**Fails**"
         ],
         [
           "Only property where the host home-shares",
           "Would be a second property",
-          "Fails"
+          "**Fails**"
         ],
         [
           "Not an RSO unit",
@@ -291,7 +305,7 @@
         [
           "Up to 120 days a year unless Extended",
           "Plan is 255 nights",
-          "Fails"
+          "**Fails**"
         ],
         [
           "Notarized written landlord approval",
@@ -304,14 +318,15 @@
           "Open"
         ]
       ],
-      "caption": "Result: **prohibited** as planned. NYC blocks the host-absent, whole-unit plan. LA blocks the second home and the nights. Neither allows the Alder Street model.",
-      "notes": "Now drop the same unit into Los Angeles.\n\nPrimary residence, meaning the host lives there more than six months a year. The operator lives elsewhere, so it fails. It must be the only property where the host home-shares. This would be a second property, so it fails. RSO status depends on when the building was built and other facts, so that's a ZIMAS check. The plan is 255 nights, and the standard cap is 120, so it fails. The notarized landlord approval and the tax registration are still open.\n\nResult: prohibited. The primary-residence rule ends it on its own.\n\nNotice what happened across these two slides. The same unit, the same lease, and the same math got two different no answers for two different reasons. In New York, it's the host-present and whole-unit rules. In Los Angeles, it's primary residence and the night cap. That's why \"is this city Airbnb-friendly\" doesn't help you."
+      "caption": "Result: **prohibited** as planned. In LA: primary residence and the night cap. In NYC (previous slide): the host-present and whole-unit rules.",
+      "notes": "Now drop the same unit into Los Angeles.\n\nPrimary residence, meaning the host lives there more than six months a year. The operator lives elsewhere, so it fails. It must be the only property where the host home-shares. This would be a second property, so it fails. RSO status depends on when the building was built and other facts, so that's a ZIMAS check. The plan is 255 nights, and the standard cap is 120 days, so it fails. The notarized landlord approval and the tax registration are still open.\n\nResult: prohibited. The primary-residence rule ends it on its own, and the night cap would end it too.\n\nNotice what happened across these two slides. The same unit, the same lease, and the same math got two different no answers for two different reasons. That's why \"is this city Airbnb-friendly\" doesn't help you.",
+      "keyline": "Alder Street is hypothetical (its figures are assumptions); the rules come from each city's official pages."
     },
     {
       "type": "calc",
       "ref": "3.1.9",
       "assumption": true,
-      "title": "Hosting only 120 nights at Alder Street's rent loses $10,445 a year",
+      "title": "As a business, 120 nights can't carry Alder Street's $23,400 rent: -$10,445 a year",
       "lines": [
         {
           "op": "",
@@ -320,12 +335,17 @@
         },
         {
           "op": "+",
-          "label": "40 stays x $110 cleaning",
+          "label": "40 stays (120 ÷ 3 nights) x $110 cleaning",
           "v": "$4,400"
         },
         {
+          "op": "=",
+          "label": "Gross booking revenue",
+          "v": "$29,000"
+        },
+        {
           "op": "-",
-          "label": "Platform fee: 15.5% x $29,000",
+          "label": "Airbnb host-only fee: 15.5% x $29,000",
           "v": "$4,495"
         },
         {
@@ -335,7 +355,7 @@
         },
         {
           "op": "-",
-          "label": "Fixed costs (rent, utilities, insurance, software, repairs, permit)",
+          "label": "Fixed costs, including $23,400 rent",
           "v": "$30,590"
         }
       ],
@@ -343,13 +363,13 @@
         "label": "Net per year",
         "v": "-$10,445"
       },
-      "side": "About -$870 a month. Every other canonical input stays the same.",
+      "side": "About -$870 a month. Every other assumption stays the same. Compare: +$12,218 a year at the planned 255 nights.",
       "side_box": {
         "kind": "warn",
         "label": "To break even",
-        "text": "The nightly rate would need to reach about $308, roughly 50% above the $205 base rate. And the student would now live in the unit."
+        "text": "The nightly rate would need to reach about $308, roughly 50% above the $205 base rate. If the student really lived there, part of the rent would be their own housing: a different plan."
       },
-      "notes": "Suppose someone tried to fix the Los Angeles problem. Move in, make it your primary residence, and host within the standard 120-day cap. Here's what that does to the numbers, keeping every other canonical input the same.\n\nOne hundred twenty nights at $205 is $24,600. Forty stays at $110 cleaning adds $4,400, for $29,000 of gross bookings. The platform fee at 15.5% takes $4,495. Cleaner and supplies for 40 stays take $4,360. Then the fixed costs, $30,590, arrive in full, because rent doesn't care how many nights you hosted.\n\nNet is minus $10,445 a year. About minus $870 a month.\n\nTo break even at 120 nights, the nightly rate would need to reach about $308. That's roughly 50% above the base rate. And the student would now be living in the unit, which changes everything else about the plan. Under a 120-night cap, arbitrage stops working at this rent."
+      "notes": "Suppose someone tried to fix the Los Angeles problem. Move in, make it your primary residence, and host within the 120-day cap. I'll treat that as 120 booked nights and run it as a business test, keeping every other assumption the same.\n\nOne hundred twenty nights at $205 is $24,600. At three nights a stay, that's 40 stays, and $110 cleaning each adds $4,400. That's $29,000 of gross bookings. Airbnb's host-only fee, 15.5% of nightly plus cleaning, takes $4,495. Cleaner and supplies for 40 stays take $4,360. Then the fixed costs arrive in full: $23,400 of rent, plus utilities, insurance, software, repairs, and the permit, for $30,590.\n\nNet is minus $10,445 a year, about minus $870 a month. At the planned 255 nights it was plus $12,218.\n\nTo break even, the nightly rate would need to reach about $308, roughly 50% above the base rate. This counts the full rent as a business cost. If the student really lives there, part of that rent is their own housing, and that's home-sharing, a different plan. As an arbitrage business, a 120-night cap doesn't work at this rent."
     },
     {
       "type": "flow",
@@ -362,19 +382,19 @@
           "d": "Address, parcel, hosted or not, guests, stay length, nights. Confirm the real jurisdiction."
         },
         {
-          "k": "Step 3 · stop exit",
+          "k": "Step 3 · stop",
           "h": "Read the ordinance",
           "d": "The official code and program page. Stop if it bans your model.",
           "kind": "stop"
         },
         {
-          "k": "Steps 4-5 · stop exit",
+          "k": "Steps 4-5 · stop",
           "h": "Parcel and private rules",
           "d": "Zoning, building type, listed buildings, HOA, lease.",
           "kind": "stop"
         },
         {
-          "k": "Step 6 · stop exit",
+          "k": "Step 6 · stop",
           "h": "Permit mechanics",
           "d": "Category, eligibility, caps, fees, renewal, transfer, number display.",
           "kind": "stop"
@@ -388,10 +408,10 @@
       ],
       "box": {
         "kind": "gold",
-        "label": "Unresolved means no lease yet",
+        "label": "Official sources only",
         "text": "A blog post, a Facebook group, or another host's opinion is not a source. Sam's 3.2 runs this flow live on a real address."
       },
-      "notes": "Here's the flow I want you to follow for every address. Nine steps, grouped into five boxes.\n\nWrite down the exact plan first: address, unit, parcel number, hosted or unhosted, maximum guests, stay length, nights per year. Then confirm which jurisdictions apply. Many students check the wrong city because of a mailing address. Use the parcel lookup.\n\nFind the official ordinance and the program's own page. Airbnb's city pages can point you there. A blog or a Facebook group is not a source. If the ordinance bans your model, stop.\n\nCheck the parcel and building: zoning, building type, rent-regulation status, any list like New York's. Then private rules: HOA and the lease. Then permit mechanics. Each has a stop exit.\n\nIf anything is unclear, ask the licensing office a specific yes-or-no question in writing. Save a dated PDF of every page and reply, and put them in the deal folder with the SR.1 checklist. Record permitted, prohibited, or unresolved. Unresolved means you don't sign yet."
+      "notes": "Here's the flow I want you to follow for every address. Nine steps, grouped into five boxes.\n\nWrite down the exact plan first: address, unit, parcel number, hosted or unhosted, maximum guests, stay length, nights per year. Then confirm which jurisdictions apply. Many students check the wrong city because of a mailing address. Use the city or county parcel lookup to get the parcel number, the ID the county gives each lot.\n\nFind the official ordinance and the program's own page. Airbnb's city pages can point you there. A blog or a Facebook group is not a source. If the ordinance bans your model, stop.\n\nCheck the parcel and building: zoning, building type, rent-regulation status, any list like New York's. Then private rules: HOA and the lease. Then permit mechanics. Each has a stop exit.\n\nIf anything is unclear, ask the licensing office a specific yes-or-no question in writing. Save a dated PDF of every page and reply. Put them in the deal folder with SR.1, the regulatory compliance checklist in the course resources. Record permitted, prohibited, or unresolved. Unresolved means you don't sign yet."
     },
     {
       "type": "worksheet",
@@ -408,21 +428,21 @@
       "rows": [
         [
           "State",
-          "Does a state law restrict or register STRs here?",
+          "Do state rules allow this plan here (or leave it to the city)?",
           "",
           "",
           ""
         ],
         [
           "Zoning",
-          "Does this district allow the planned use?",
+          "Does this zoning district allow the planned use?",
           "",
           "",
           ""
         ],
         [
           "Permit category",
-          "Is there a category my plan fits?",
+          "Is there a permit category my plan fits?",
           "",
           "",
           ""
@@ -436,33 +456,33 @@
         ],
         [
           "Primary residence",
-          "Is a primary-residence test required? Can I meet it?",
+          "Can I meet any primary-residence test (or is there none)?",
           "",
           "",
           ""
         ],
         [
           "Night cap",
-          "Is there a cap? Does my plan fit under it?",
+          "Do my planned nights per year fit under any night cap?",
           "",
           "",
           ""
         ],
         [
           "Permit cap / waitlist",
-          "Are permits available now?",
+          "Can I get a permit now, without a waitlist?",
           "",
           "",
           ""
         ]
       ],
-      "caption": "Rungs 1 to 7 of 14. Fill in the plan facts first: address and unit, parcel, jurisdiction, hosted or unhosted, guests, stay length, nights per year, named host.",
-      "notes": "This is the exercise, the permission ladder. Fill it in for one real address. If you want the full version, use the SR.1 regulatory compliance checklist.\n\nBefore the ladder, write the plan facts. Full address and unit, parcel number, jurisdiction, hosted or unhosted, maximum guests, typical stay length, nights per year, and who will be the named host or permit holder. Every answer below depends on those facts.\n\nThen work the rungs. These first seven come mostly from public rules: state, zoning, the permit category, hosted or unhosted, primary residence, the night cap, and whether permits are available.\n\nEvery yes needs an official source link and the date you checked it. If the ordinance is unclear, write unclear, send the licensing office a question, and mark whether you've saved a written answer.\n\nThe rule is strict on purpose. One no on any rung means prohibited for this plan. One unclear means unresolved."
+      "caption": "Rungs 1 to 7 of 15. Every question is written so Yes is good. Write the plan facts first: address, parcel, jurisdiction, hosted or not, guests, stay length, nights, named host.",
+      "notes": "This is the exercise, the permission ladder. Fill it in for one real address. No address yet? Use a rental listing you'd realistically consider in your target city. If you want the full version, use SR.1, the regulatory compliance checklist in the course resources.\n\nBefore the ladder, write the plan facts. Full address and unit, parcel number, jurisdiction, hosted or unhosted, maximum guests, typical stay length, and nights per year. Add who will be the named host or permit holder. Every answer below depends on those facts.\n\nEvery question is written so that Yes is the good answer. For an arbitrage plan, do the hosted, primary-residence, and night-cap rungs first. Any one of them can end the plan quickly.\n\nEvery answer, yes or no, needs an official source link and the date you checked it. If the ordinance is unclear, write unclear and send the licensing office a question.\n\nThe rule is strict on purpose. One no on any rung means prohibited for this plan. One unclear means unresolved."
     },
     {
       "type": "worksheet",
       "ref": "3.1.11",
-      "title": "The last seven rungs cover stay length, building, private rules, and permit holder",
+      "title": "The last eight rungs test the building, private rules, insurance, and the permit",
       "compact": true,
       "columns": [
         "Rung",
@@ -474,56 +494,63 @@
       "rows": [
         [
           "Minimum stay",
-          "What counts as short-term? How is check-in day counted?",
+          "Is my typical stay allowed, counted the city's way?",
           "",
           "",
           ""
         ],
         [
           "Building type",
-          "Excluded as rent-regulated, affordable, or listed?",
+          "Is the building eligible (not rent-regulated, affordable, or listed)?",
           "",
           "",
           ""
         ],
         [
           "Safety / inspection",
-          "Which inspections or equipment are required?",
+          "Can I meet the required inspections and equipment?",
           "",
           "",
           ""
         ],
         [
           "HOA / condo / co-op",
-          "Do recorded rules allow it?",
+          "Do recorded rules allow it, or is there none?",
           "",
           "",
           ""
         ],
         [
           "Lease",
-          "Does the lease or addendum allow it? Landlord consent needed?",
+          "Does the lease allow it, with any required consent?",
+          "",
+          "",
+          ""
+        ],
+        [
+          "Insurance",
+          "Will an insurer cover guests under my permit?",
           "",
           "",
           ""
         ],
         [
           "Transferability",
-          "Who holds the permit? Does it survive a sale?",
+          "Will the permit be in my name and survive a sale?",
           "",
           "",
           ""
         ],
         [
           "Number display",
-          "Where must the number appear? Is it verified?",
+          "Can I show the number and pass platform checks?",
           "",
           "",
           ""
         ]
       ],
-      "caption": "Decision: Permitted / Prohibited / Unresolved, with a recheck date and reviewer. No lease on an unresolved address.",
-      "notes": "The last seven rungs are where the private documents and the permit's fine print come in.\n\nMinimum stay: what length counts as short-term, and how the city counts the check-in day. Building type: whether the building is excluded because it's rent-regulated, affordable, or on a list. Safety and inspection: what the city requires before it issues a permit.\n\nThen the private layers. Do the HOA, condo, or co-op documents allow it? Does the lease or a signed addendum allow it, and does the city require the landlord's consent on the application, the way Los Angeles does?\n\nTransferability: who holds the permit, and does it survive a sale or a change of operator? And number display: where the number has to appear, and whether the platform checks it.\n\nAt the bottom, write your decision, a recheck date, and who reviewed it. Permitted, prohibited, or unresolved. I'll say it once more because it's the whole point of this lesson: don't sign a lease on an unresolved address."
+      "caption": "Decision: Permitted / Prohibited / Unresolved, with a recheck date and reviewer. No lease if unresolved.",
+      "notes": "The last eight rungs are where the private documents and the permit's fine print come in. Same rule: Yes is always the good answer.\n\nMinimum stay: is your typical stay allowed, counted the way the city counts? Building type: is the building eligible, meaning not rent-regulated, affordable, or on a prohibited list? Safety and inspection: can you meet what the city requires before it issues a permit?\n\nThen the private layers. Do the HOA, condo, or co-op documents allow it? Does the lease or a signed addendum allow it, and can you get any landlord consent the city requires, the way Los Angeles does?\n\nInsurance: will an insurer cover short-term guests at this address, under your permit category? Transferability: will the permit be in your name, and survive a sale or a change of operator? And number display: can you show the number where required and pass the platform's check?\n\nAt the bottom, write your decision, a recheck date, and who reviewed it. Don't sign a lease on an unresolved address."
     },
     {
       "type": "table",
@@ -548,23 +575,23 @@
         ],
         [
           "HOA, condo, or co-op board",
-          "In writing, that recorded rules allow short-term rentals"
+          "That recorded rules allow short-term rentals"
         ],
         [
           "Landlord",
-          "A signed document letting you use the address on a permit application (LA requires a notarized affidavit)"
+          "A signed consent to use the address on a permit application, separate from the lease (LA: notarized affidavit)"
         ],
         [
           "Insurer",
           "That the policy covers short-term guests at this address under your permit category"
         ]
       ],
-      "notes": "Here's who confirms what.\n\nThe city or county licensing office confirms, in writing, whether your exact plan fits a permit category at this address, and who the permit holder has to be.\n\nThe zoning or planning department confirms the parcel's district allows the use.\n\nAn attorney licensed in your state confirms that the lease and any addendum allow the use. They also tell you whether stays of 30 nights or more would create a tenancy.\n\nIf there's an HOA, condo, or co-op board, get their answer in writing too.\n\nThe landlord signs a document that lets you use the address on a permit application. Some cities require a specific form. Los Angeles, for example, uses a notarized affidavit.\n\nAnd your insurer confirms the policy covers short-term guests at this address, under the permit category you'll actually hold. Save every one of these in the deal folder."
+      "notes": "Here's who confirms what.\n\nThe city or county licensing office confirms, in writing, whether your exact plan fits a permit category at this address. It also confirms who the permit holder has to be.\n\nThe zoning or planning department confirms the parcel's district allows the use.\n\nAn attorney licensed in your state confirms that the lease and any addendum allow the use. They also tell you whether stays of 30 nights or more would create a tenancy.\n\nIf there's an HOA, condo, or co-op board, get their answer in writing too.\n\nThe landlord signs a document that lets you use the address on a permit application. That's separate from the lease or addendum that allows short stays. Some cities require a specific form. Los Angeles, for example, uses a notarized affidavit.\n\nAnd your insurer confirms the policy covers short-term guests at this address, under the permit category you'll actually hold. Save every one of these in the deal folder."
     },
     {
       "type": "dothis",
       "ref": "3.1.13",
-      "title": "One address worked down the ladder this week tells you whether to keep going",
+      "title": "Work one real address down the ladder this week, before you sign anything",
       "items": [
         "Write the plan facts for one real address, including the parcel number from the city or county lookup.",
         "Find the official ordinance and permit program page, and save dated PDFs of both.",
@@ -572,12 +599,12 @@
         "Send the licensing office one specific yes-or-no question about your plan, in writing."
       ],
       "next": "Next: Sam's 3.2, How to Research Regulations Before You Sign Anything. Then 3.3, Occupancy Taxes & Platform-Verified Registration.",
-      "notes": "Four things to do this week, each under an hour.\n\nWrite the plan facts for one real address. Get the parcel number from the city or county parcel lookup, and confirm which jurisdiction it's actually in.\n\nFind the official ordinance and the permit program's own page. Save dated PDFs of both.\n\nSearch the ordinance for three clauses: whether the host must be present, whether there's a primary-residence test, and whether there's a night cap. Mark those rungs on your ladder.\n\nThen send the licensing office one specific yes-or-no question about your plan, in writing.\n\nNext is Sam's 3.2, How to Research Regulations Before You Sign Anything. He runs this flow live on a real address. Watch how he finds the official source and where he stops trusting summaries. Bring back three things: the official ordinance link, the permit category that fits your plan, and any question you still need to send. Then come back for 3.3, where we cover tax registration and how your permit number gets verified on the listing."
+      "notes": "Four things to do this week, each under an hour.\n\nWrite the plan facts for one real address. Get the parcel number from the city or county parcel lookup, and confirm which jurisdiction it's actually in.\n\nFind the official ordinance and the permit program's own page. Save dated PDFs of both.\n\nSearch the ordinance for three clauses: whether the host must be present, whether there's a primary-residence test, and whether there's a night cap. Mark those rungs on your ladder.\n\nThen send the licensing office one specific yes-or-no question about your plan, in writing.\n\nNext is Sam's 3.2, How to Research Regulations Before You Sign Anything. He runs this flow live on a real address. Watch how he finds the official source and where he stops trusting summaries. Bring these same four tasks back from 3.2, finished. Then come back for 3.3, where we cover tax registration and how your permit number gets verified on the listing."
     },
     {
       "type": "sources",
       "ref": "3.1 sources",
-      "title": "Every rule in this lesson comes from the city's or platform's own page",
+      "title": "The New York and Los Angeles rules come from each city's own pages",
       "items": [
         {
           "title": "Airbnb: Learn about hosting regulations",
@@ -625,12 +652,12 @@
           "note": "RSO covers most multifamily units built before October 1, 1978; ZIMAS check."
         },
         {
-          "title": "Airbnb: Los Angeles, CA (help article 864)",
+          "title": "Airbnb: Los Angeles, CA",
           "url": "https://www.airbnb.com/help/article/864",
           "note": "Permit needed for 1-29 day stays; one-year registration, annual renewal."
         }
       ],
-      "notes": "These are the main sources behind the lesson. All were checked on September 25, 2026. The full list in the lesson also includes the New York registration rules page, the Local Law 18 text, Airbnb's New York page, the Los Angeles landlord affidavit, and the earlier Los Angeles FAQ.\n\nNotice the pattern. Airbnb's regulations overview is the starting point. The rules themselves come from the city: the Office of Special Enforcement in New York, and City Planning and the housing department in Los Angeles.\n\nWhen you work your own address, your sources list should look like this. Official pages, each with the date you checked. If you can only find a blog post or a forum thread, write unresolved and send the licensing office a question.\n\nThe Alder Street figures, including the 120-night scenario and the $308 break-even rate, were computed from the canonical inputs. They're assumptions for teaching."
+      "notes": "These are the main sources behind the lesson. All were checked on September 25, 2026. The full list in the lesson has a few more. It adds the New York registration rules page, the Local Law 18 text, and Airbnb's New York page. It also adds the Los Angeles landlord affidavit and the earlier Los Angeles FAQ.\n\nNotice the pattern. Airbnb's regulations overview is the starting point. The rules themselves come from the city: the Office of Special Enforcement in New York, and City Planning and the housing department in Los Angeles.\n\nWhen you work your own address, your sources list should look like this. Official pages, each with the date you checked. If you can only find a blog post or a forum thread, write unresolved and send the licensing office a question.\n\nThe Alder Street figures, including the 120-night scenario and the $308 break-even rate, were computed from the canonical inputs. They're assumptions for teaching."
     }
   ]
 }
